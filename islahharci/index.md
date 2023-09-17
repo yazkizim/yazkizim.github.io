@@ -34,6 +34,7 @@ layout: gokhan
     </div>
     <div class="card-body d-flex align-items-center justify-content-center h-100">
         <label id="hesapsonuc" name="hesapsonuc" class="text-justify mh-25"><h1 class="m-0"></h1></label>
+        {: .prompt-info }
      </div>
             
 </div>

@@ -5,10 +5,10 @@ order: 5
 ---
 
 <div class="row">
-  <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4 pb-5">
+  <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4 pb-5 w-100">
     <div id="post-list" class="flex-grow-1 pe-xl-2">
       <article class="card-wrapper">
-        <a href="/posts/getting-started/" class="card post-preview flex-md-row-reverse">
+        <a href="/islahharci" class="card post-preview flex-md-row-reverse">
           <div class="card-body d-flex flex-column">
             <h1 class="card-title my-2 mt-md-0">Getting Started</h1>
             <div class="card-text content mt-0 mb-2">
