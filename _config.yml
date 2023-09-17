@@ -20,10 +20,10 @@ timezone: Europe/Istanbul
 
 title: Adliyeci.com.tr # the main title
 
-tagline: Adliye Personelinin günlük el kitabı niteliğinde, gündelik hesaplamalar. # it will display as the sub-title
+tagline: Adliye Personelinin gündelik hesaplamaları. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
- Küçük, hızlı, güncel, adliye personelinin gündelik rehberi.
+ Küçük, hızlı, güncel, adliye personelinin gündelik rehberi, katip maaşı, harç hesabı, adliye personeli, adalet bakanlığı
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://adliye.github.io"
