@@ -1,9 +1,10 @@
 ---
-title: Cezaevi Katipleri
+title: Cezaevi Katibi Maaşı
 author: gokhantasci
 date: 2023-09-08 14:10:00 +0800
-categories: [İlanlar, Adalet Bakanlığı]
-tags: [test, vs]
+categories: [Maaşlar, 2023, Cezaevi Katibi]
+tags: [Adalet Bakanlığı, Maaşlar, 2023, Cezaevi Katibi]
+keywords: Cezaevi Katibi Maaşı 2023, Adalet Bakanlığı, Cezaevi Katibi Maaşı, en düşük Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, Yargıtay, Cezaevi Katibi Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Cezaevi Katibi ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023
 render_with_liquid: false
 ---
 
@@ -11,6 +12,7 @@ Adalet Bakanlığı Personel Genel Müdürlüğü tüm ülke genelinde zaman zam
 Bu ilanlarda Cezaevi Katipliği için genel ve özel şartlar yer almaktadır.
 
 Bu özel şartlar yayınlanan ilanlara göre değişiklik gösterebilmektedir. 
+Adalet Bakanlığı bünyesinde yapılan alımlar için son yayınlanan [**İlan**](https://cte.adalet.gov.tr/Home/SayfaDetay/9512-sozlesmeli-pozisyon-icin-personel-alim-sinav-ilani19042023032043)a bakabilirsiniz.
 
 ## Özel Şartlar
 <b>Özel Şartlar</b>
