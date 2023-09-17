@@ -1,0 +1,281 @@
+---
+title: Yargılama Gideri Dökümü
+keywords: Mahkeme masrafları, mahkeme giderleri, yargılama giderleri, posta masrafları, bilirkişi masrafları, adliye masrafları, adliye cezası, mahkeme cezası
+permalink: /yargilamagideridokumu/
+layout: gokhan
+---
+
+<div class="card-header">
+    <h3 class="card-title">Yargılama Gideri Dökümü Hesaplama</h3>
+</div>
+<form id="yargilamagideriform" data-gtm-form-interact-id="0">
+    <div class="card-body">
+        <h5>Tebligatlar</h5>    
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/08/2023-halen</label>
+                <input type="hidden" id="uteb18" value="87">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="gteb18" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/02/2023-31/07/2023</label>
+                <input type="hidden" id="uteb17" value="58">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="gteb17" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">15/08/2022-31/01/2023</label>
+                <input type="hidden" id="uteb16" value="42">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="gteb16" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">07/02/2022-14/08/2022</label>
+                <input type="hidden" id="uteb15" value="31">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="gteb15" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/10/2021-06/02/2022</label>
+                <input type="hidden" id="uteb14" value="26">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="gteb14" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12 text-center"> 
+            <a class="btn btn-ligth collapsed align-center" data-toggle="collapse" href="#eskitebligatlar" role="button" aria-expanded="false" aria-controls="collapseExample"> Daha eski yıllar </a> 
+        </div>           
+        <div class="collapse" id="eskitebligatlar">
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">01/11/2019-30/09/2021</label>
+                    <input type="hidden" id="uteb13" value="19">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb13" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">20/05/2019-31/10/2019</label>
+                    <input type="hidden" id="uteb12" value="16.2">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb12" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">02/01/2018-19/05/2019</label>
+                    <input type="hidden" id="uteb11" value="14">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb11" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">01/08/2017-01/01/2018</label>
+                    <input type="hidden" id="uteb10" value="12.5">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb10" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">11/07/2016-31/07/2017</label>
+                    <input type="hidden" id="uteb9" value="11">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb9" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">02/02/2016-10/07/2016</label>
+                    <input type="hidden" id="uteb8" value="10">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb8" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">02/02/2015-01/05/2016</label>
+                    <input type="hidden" id="uteb7" value="9">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb7" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">05/05/2014-01/02/2015</label>
+                    <input type="hidden" id="uteb6" value="9">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb6" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">2013 yılı</label>
+                    <input type="hidden" id="uteb5" value="8">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb5" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">2012 yılı</label>
+                    <input type="hidden" id="uteb4" value="7">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb4" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">2011 yılı</label>
+                    <input type="hidden" id="uteb3" value="6">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb3" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">10/01/2009-31/12/2010</label>
+                    <input type="hidden" id="uteb2" value="5">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb2" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="form-group row">
+                    <label for="yargilamagideri" class="col-sm-4 col-form-label">10/01/2008-10/08/2009</label>
+                    <input type="hidden" id="uteb1" value="4.5">
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="gteb1" value="0" placeholder="0">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h5>Elektronik Tebligatlar</h5>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/02/2023-halen</label>
+                <input type="hidden" id="ueteb4" value="10">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="geteb4" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">15/08/2022-31/01/2023</label>
+                <input type="hidden" id="ueteb3" value="9">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="geteb3" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">14/02/2022-14/08/2022</label>
+                <input type="hidden" id="ueteb2" value="6.5">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="geteb2" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">....-13/02/2022</label>
+                <input type="hidden" id="ueteb1" value="5.5">
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="geteb1" value="0" placeholder="0">
+                </div>
+            </div>
+        </div>
+        <h5>Diğer Giderler</h5>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">Posta Gideri</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="postagideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">ATK Gideri</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="atkgideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">Keşif Gideri</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="kesifgideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">Uzlaştırmacı Gideri</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="uzlasmagideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">Bilirkişi Ücreti</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="bilirkisigideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="card-footer">
+        <button type="button float-left" class="btn btn-outline-danger" id="gidertemizle">Temizle</button>
+        <button type="button float-right" class="btn btn-outline-primary" id="giderhesapla">Hesapla</button>
+    </div>
+    
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="col-lg-12">
+                <div class="card border-primary mb-3">
+                    <div class="card-header text-center font-weight-bold text-danger"> SONUÇ </div>
+                    <div class="card-body">
+                        <p class="card-text text-justify font-weight-bold">YARGILAMA GİDERİ DÖKÜMÜ<br>==========================</p>
+                        <p class="card-text text-justify" id="yargilamadokum"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+      
+   
+                    
