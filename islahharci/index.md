@@ -2,6 +2,7 @@
 title: Islah Harcı Hesaplama
 keywords: ıslah, cismani zarar ıslah harcı hesaplama, ıslah harcı, ıslah harcı nasıl hesaplanır, islah harci hesaplama, ıslah harcı nedir, cismani zarar harç hesaplama, ıslah harcı oranı
 permalink: /islahharci/
+layout: page
 ---
 
 <div class="card-header">
@@ -33,7 +34,6 @@ permalink: /islahharci/
     </div>
     <div class="card-body d-flex align-items-center justify-content-center h-100">
         <label id="hesapsonuc" name="hesapsonuc" class="text-justify mh-25"><h1 class="m-0"></h1></label>
-        {: .prompt-info }
      </div>
             
 </div>
