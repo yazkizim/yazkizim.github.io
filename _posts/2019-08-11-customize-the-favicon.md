@@ -16,7 +16,7 @@ In the next step, the webpage will show all usage scenarios. You can keep the de
 
 ## Download & Replace
 
-Download the generated package, unzip and delete the following two from the extracted files:
+Download the generated package, unzip and delete the following two from the extracted files: 
 
 - `browserconfig.xml`{: .filepath}
 - `site.webmanifest`{: .filepath}
