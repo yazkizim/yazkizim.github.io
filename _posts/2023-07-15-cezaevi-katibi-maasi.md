@@ -2,7 +2,7 @@
 title:  "2023 Cezaevi Katibi Maaşları"
 author: gokhantasci
 date: '2023-07-15 09:01:24 +0530'
-categories: [İlan]
+categories: İlan
 tags: [Cezaevi Katibi Maaşı 2023, Adalet Bakanlığı, Cezaevi Katibi Maaşı, en düşük Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, Yargıtay, Cezaevi Katibi Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Cezaevi Katibi ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023]
 permalink: /blog/cezaevi-katip-maasi-2023
 usemathjax: true
@@ -17,6 +17,7 @@ Bu ilanlarda Cezaevi Katipliği için genel ve özel şartlar yer almaktadır.
 Bu özel şartlar yayınlanan ilanlara göre değişiklik gösterebilmektedir. 
 Adalet Bakanlığı bünyesinde yapılan alımlar için son yayınlanan <a href="https://cte.adalet.gov.tr/Home/SayfaDetay/9512-sozlesmeli-pozisyon-icin-personel-alim-sinav-ilani19042023032043">Son ilana</a> bakabilirsiniz.
 
+## Özel Şartlar
 <b>Özel Şartlar</b>
 <blockquote>
 <span ><strong><span ><span ><span >A- Sözleşmeli zabıt kâtibi pozisyonunda istihdam edilebilmek için;</span></span></span></strong></span><br>
@@ -30,6 +31,7 @@ olarak sıralanabilir.
 
 Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Cezaevi Katibi maaşları 2023 yılı için şu şekilde oluşmaktadır.
 
+## Maaş 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
@@ -81,10 +83,6 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Cezaevi Katibi m
 </table>
 
 <span><br>
-Size uyan şartlardaki maaş hesabı için aşağıdaki bağlantıyı,
-<br>
-[Maaş Robotu için Tıklayınız]({{ site.url }}{% link maas/index.html%})
 
-<br>
-Toplu Sözleşme ve Yeni Zamlı maaşlar için aşağıdaki bağlantıyı ziyaret edebilirsiniz.
-[Maaş Robotu için Tıklayınız]({{ site.url }}{% link maas/index.html%})
+## Bağlantılar
+Size uyan şartlardaki maaş hesabı için aşağıdaki bağlantıyı,
