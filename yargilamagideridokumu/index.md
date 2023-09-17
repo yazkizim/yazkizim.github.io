@@ -260,13 +260,14 @@ layout: gokhan
     <div class="card-footer">
         <button type="button float-left" class="btn btn-outline-danger" id="gidertemizle">Temizle</button>
         <button type="button float-right" class="btn btn-outline-primary" id="giderhesapla">Hesapla</button>
-    </div>
-
-    ```
-    YARGILAMA GİDERİ DÖKÜMÜ<br>==========================
-    ```   
+    </div>   
    
 </form>
+
+```
+    YARGILAMA GİDERİ DÖKÜMÜ<br>==========================
+```   
       
+
    
                     
