@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
  Küçük, hızlı, güncel, adliye personelinin gündelik rehberi.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://adliye.github.io"
 
 github:
   username: adliye # change to your github username
