@@ -23,7 +23,7 @@ Download the generated package, unzip and delete the following two from the extr
 
 And then copy the remaining image files (`.PNG`{: .filepath} and `.ICO`{: .filepath}) to cover the original files in the directory `assets/img/favicons/`{: .filepath} of your Jekyll site. If your Jekyll site doesn't have this directory yet, just create one.
 
-The following table will help you understand the changes to the favicon files:
+The following table will help you understand the changes to the favicon files: 
 
 | File(s)             | From Online Tool                  | From Chirpy |
 |---------------------|:---------------------------------:|:-----------:|
