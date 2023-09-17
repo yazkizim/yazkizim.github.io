@@ -1,0 +1,187 @@
+---
+title: Yargılama Gideri Dökümü
+keywords: Mahkeme masrafları, mahkeme giderleri, yargılama giderleri, posta masrafları, bilirkişi masrafları, adliye masrafları, adliye cezası, mahkeme cezası
+permalink: /yargilamagideridokumu/
+layout: gokhan
+---
+
+<div class="card-header">
+    <h3 class="card-title">Yargılama Giderleri Hesaplama</h3>
+</div>
+<form id="paylasimform" data-gtm-form-interact-id="0">
+    <div class="card-body">
+        <h3>Paylaştırılacak kalemler</h3>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yargilamagideri" class="col-sm-3 col-form-label">Yargılama Giderleri</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="yargilamagideri" value="0.00" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="vekaletucreti" class="col-sm-3 col-form-label">Vekalet Ücretleri</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="vekaletucreti" value="0.00" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="harclar" class="col-sm-3 col-form-label">Harçlar</label>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="harclar" value="0.00" step=".01">
+                </div>
+            </div>
+        </div>
+        <h3>Kimler arasında paylaştırılacak</h3>
+        <div class="col-12">
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="sirket1" value="Şirket - 1 Ltd.Şti." step=".01">
+                </div>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="sirket1miktar" value="1000" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="sirket2" value="Şirket - 2 Ltd.Şti." step=".01">
+                </div>
+                <div class="col-sm-6">
+                    <input type="number" class="form-control" id="sirket2miktar" value="1000" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12 text-center"> 
+            <a class="btn btn-ligth collapsed align-center" data-toggle="collapse" href="#fazlasirket" role="button" aria-expanded="false" aria-controls="collapseExample" id="paylasimhesabi"> Daha fazla davalı </a> 
+        </div>           
+        <div class="collapse" id="fazlasirket">
+            <div class="col-12">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket3" value="Şirket - 3 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket3miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket4div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket4" value="Şirket - 4 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket4miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket5div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket5" value="Şirket - 5 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket5miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket6div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket6" value="Şirket - 6 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket6miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket7div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket7" value="Şirket - 7 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket7miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket8div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket8" value="Şirket - 8 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket8miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket9div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket9" value="Şirket - 9 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket9miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket10div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket10" value="Şirket - 10 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket10miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket11div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket11" value="Şirket - 11 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket11miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+            <div class="col-12" id="sirket12div">
+                <div class="form-group row">
+                    <div class="col-sm-6">
+                        <input type="text" class="form-control" id="sirket12" value="Şirket - 12 Ltd.Şti." step=".01">
+                    </div>
+                    <div class="col-sm-6">
+                        <input type="number" class="form-control" id="sirket12miktar" value="0.00" step=".01">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-footer">
+        <button type="button float-left" class="btn btn-outline-danger" id="paylasimtemizle">Temizle</button>
+        <button type="button float-right" class="btn btn-outline-primary" id="paylasimhesapla">Hesapla</button>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="col-lg-12">
+                <div class="card border-primary mb-3">
+                    <div class="card-header text-center font-weight-bold text-success"> SONUÇ </div>
+                    <div class="card-body">
+                        <p class="card-text text-justify font-weight-bold">HÜKÜM: Gerekçesi yukarıda açıklandığı üzere;</p>
+                        <p class="card-text text-justify" id="paylasimdokum"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>    
+      
+   
+                    

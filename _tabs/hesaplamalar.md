@@ -47,4 +47,24 @@ color: green
       </div>
     </a>
   </article>
+  <article class="card-wrapper"> 
+    <a href="/paylasimhesabi/?" class="card post-preview flex-md-row-reverse">
+      <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">Paylaşım Hesabı
+        </h1>
+        <div class="card-text content mt-0 mb-2">
+          <p> Hukuk mahkemelerinde verilen karar sonrası hesabın pay edilmesi
+          </p>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto"> 
+            <i class="far fa-calendar fa-fw me-1">
+            </i> 
+            <time>18/09/2023
+            </time>             
+          </div>          
+        </div>
+      </div>
+    </a>
+  </article>
 </div>
