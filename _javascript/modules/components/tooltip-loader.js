@@ -10,3 +10,4 @@ export function loadTooptip() {
     (tooltipTriggerEl) => new bootstrap.Tooltip(tooltipTriggerEl)
   );
 }
+
