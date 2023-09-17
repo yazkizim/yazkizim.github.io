@@ -1,5 +1,5 @@
 ---
-title:  2023 Cezaevi Katibi Maaşları
+title: 2023 Cezaevi Katibi Maaşları
 author: gokhantasci
 date: 2023-07-15 09:01:24 +0530
 categories: [İlan, Adalet Bakanlığı]
