@@ -88,12 +88,12 @@ color: green
     </a>
   </article>
   <article class="card-wrapper"> 
-    <a href="/İSTİNAFHARCİ/" class="card post-preview flex-md-row-reverse">
+    <a href="/istinafharci/" class="card post-preview flex-md-row-reverse">
       <div class="card-body d-flex flex-column">
-        <h1 class="card-title my-2 mt-md-0">Vekalet Ücreti Hesaplama İşlemleri
+        <h1 class="card-title my-2 mt-md-0">Nisbi (Nispi) İstinaf/Temyiz Harcı Hesaplama İşlemleri
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Nispi vekalet hesaplama işlemleri
+          <p> İstinaf ve Temyiz Harcı Hesaplama Makinesi
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
