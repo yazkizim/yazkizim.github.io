@@ -57,7 +57,7 @@ layout: gokhan
             </div>
         </div>
         <div class="col-12 text-center"> 
-            <a class="btn btn-ligth collapsed align-center" data-toggle="collapse" href="#eskitebligatlar" role="button" aria-expanded="false" aria-controls="collapseExample"> Daha eski yıllar </a> 
+            <a class="btn btn-primary" data-toggle="collapse" href="#eskitebligatlar" role="button" aria-expanded="false" aria-controls="multiCollapseExample1" id="dahaeskiler">Daha eski yıllar</a>            
         </div>           
         <div class="collapse" id="eskitebligatlar">
             <div class="col-12">
