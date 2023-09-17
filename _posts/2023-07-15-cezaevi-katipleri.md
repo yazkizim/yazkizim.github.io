@@ -11,7 +11,6 @@ Adalet Bakanlığı Personel Genel Müdürlüğü tüm ülke genelinde zaman zam
 Bu ilanlarda Cezaevi Katipliği için genel ve özel şartlar yer almaktadır.
 
 Bu özel şartlar yayınlanan ilanlara göre değişiklik gösterebilmektedir. 
-Adalet Bakanlığı bünyesinde yapılan alımlar için son yayınlanan <a href="https://cte.adalet.gov.tr/Home/SayfaDetay/9512-sozlesmeli-pozisyon-icin-personel-alim-sinav-ilani19042023032043">Son ilana</a> bakabilirsiniz.
 
 ## Özel Şartlar
 <b>Özel Şartlar</b>
