@@ -1,8 +1,8 @@
 ---
-title:  "2023 Cezaevi Katibi Maaşları"
+title:  2023 Cezaevi Katibi Maaşları
 author: gokhantasci
-date: '2023-07-15 09:01:24 +0530'
-categories: İlan
+date: 2023-07-15 09:01:24 +0530
+categories: [İlan, Adalet Bakanlığı]
 tags: [Cezaevi Katibi Maaşı 2023, Adalet Bakanlığı, Cezaevi Katibi Maaşı, en düşük Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, Yargıtay, Cezaevi Katibi Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Cezaevi Katibi ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023]
 permalink: /blog/cezaevi-katip-maasi-2023
 usemathjax: true
