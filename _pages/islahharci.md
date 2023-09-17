@@ -1,0 +1,39 @@
+---
+title: Islah Harcı Hesaplama
+keywords: ıslah, cismani zarar ıslah harcı hesaplama, ıslah harcı, ıslah harcı nasıl hesaplanır, islah harci hesaplama, ıslah harcı nedir, cismani zarar harç hesaplama, ıslah harcı oranı
+---
+
+<div class="card-header">
+  <h3 class="card-title">Islah Harcı Hesaplama İşlemleri</h3>
+</div>
+<div class="card-body">
+  <div class="mb-3">
+      <label class="form-label required">Islah Edilen Toplam Değer</label>
+      <div>
+        <input type="number" class="form-control" data-type="currency" placeholder="Islah edilen değeri giriniz" name="islahmiktar" value="0">
+        <small class="form-hint">Harçlar Kanunu gereği alınması gereken maktu harçtan az olması halinde, maktu harç miktarına tamamlanacaktır.</small>
+      </div>
+  </div>
+  <div class="mb-3">
+      <label class="form-label required">Harcı ödenmiş dava miktarı</label>
+      <div>
+        <input type="number" class="form-control" data-type="currency" placeholder="Islah edilen değeri giriniz" name="davamiktar" value="0">
+        <small class="form-hint"></small>
+      </div>
+  </div>			
+    <div class="mb-3">
+      <label class="form-label"></label>
+      <div>
+        <label class="form-check">
+          <input class="form-check-input" type="checkbox" name="olumcismanii">
+          <span class="form-check-label required">Ölüm veya Cismani Zarar Nedeniyle Açılan Dava</span>
+        </label>									  
+      </div>
+    </div>
+            
+</div>
+      <div class="card-body d-flex align-items-center justify-content-center h-100">
+        <label id="hesapsonuc" name="hesapsonuc" class="text-justify mh-25"><h1 class="m-0"></h1></label>
+     </div>
+   
+                    
