@@ -260,14 +260,23 @@ layout: gokhan
     <div class="card-footer">
         <button type="button float-left" class="btn btn-outline-danger" id="gidertemizle">Temizle</button>
         <button type="button float-right" class="btn btn-outline-primary" id="giderhesapla">Hesapla</button>
-    </div>   
-   
+    </div>
+
+    
+    <div class="row justify-content-center">
+        <div class="col-lg-12">
+            <div class="col-lg-12">
+                <div class="card border-primary mb-3">
+                    <div class="card-header text-center font-weight-bold text-danger"> SONUÇ </div>
+                    <div class="card-body">
+                        <p class="card-text text-justify font-weight-bold">YARGILAMA GİDERİ DÖKÜMÜ<br>==========================</p>
+                        <p class="card-text text-justify" id="yargilamadokum"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </form>
-
-```
-    YARGILAMA GİDERİ DÖKÜMÜ<br>==========================
-```   
       
-
    
                     
