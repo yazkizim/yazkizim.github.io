@@ -61,6 +61,8 @@
     {% assign js = page.layout %}
   {% when 'archives', 'category', 'tag' %}
     {% assign js = 'misc' %}
+  {% when 'gokhan' %}
+    {% assign js = 'gokhan' %}  
   {% else %}
     {% assign js = 'commons' %}
 {% endcase %}

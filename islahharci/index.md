@@ -2,7 +2,7 @@
 title: Islah Harcı Hesaplama
 keywords: ıslah, cismani zarar ıslah harcı hesaplama, ıslah harcı, ıslah harcı nasıl hesaplanır, islah harci hesaplama, ıslah harcı nedir, cismani zarar harç hesaplama, ıslah harcı oranı
 permalink: /islahharci
-layout: page
+layout: gokhan
 ---
 
 <div class="card-header">
