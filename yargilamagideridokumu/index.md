@@ -264,44 +264,41 @@ layout: gokhan
 
    
     
-    <div class="row justify-content-center">
-        <div class="col-lg-12">
-            <div class="col-lg-12">
-                <div class="card border-primary mb-3">
-                    <div class="language-plaintext highlighter-rouge">
-                    <div class="code-header"> 
-                        <span data-label-text="SONUÇ">
-                        <i class="fas fa-code fa-fw small">
-                        </i>
-                        </span> 
-                        <button aria-label="copy" data-title-succeed="">
-                        <i class="far fa-clipboard">
-                        </i>
-                        </button>
-                    </div>
-                    <div class="highlight">
-                        <code>
-                        <table class="rouge-table">
-                            <tbody>
-                            <tr>
-                                <td class="rouge-gutter gl">
-                                <pre class="lineno">1
-                    </pre>
-                                </td>
-                                <td class="rouge-code" İD="yargilamadokum">
-                                
-                    </pre>
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
-                        </code>
-                    </div>
-                    </div>
-                </div>
-            </div>
+<div class="row justify-content-center">
+  <div class="col-lg-12">
+    <div class="col-lg-12">
+      <div class="language-plaintext highlighter-rouge">
+        <div class="code-header"> 
+          <span data-label-text="SONUÇ">
+            <i class="fas fa-code fa-fw small">
+            </i>
+          </span> 
+          <button aria-label="copy" data-title-succeed="">
+            <i class="far fa-clipboard">
+            </i>
+          </button>
         </div>
+        <div class="highlight">
+          <code>
+            <table class="rouge-table">
+              <tbody>
+                <tr>
+                  <td class="rouge-gutter gl">
+                    <pre class="lineno">1
+</pre>
+                  </td>
+                  <td class="rouge-code" id="yargilamadokum">
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </code>
+        </div>
+      </div>
     </div>
+  </div>
+</div>
+
 </form>
       
    
