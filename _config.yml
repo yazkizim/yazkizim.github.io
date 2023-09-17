@@ -162,7 +162,7 @@ defaults:
     values:
       swcache: true
   - scope:
-      path: "" # An empty string here means all files in the project
+      path: "_pages" # An empty string here means all files in the project
       type: pages
     values:
       layout: page
