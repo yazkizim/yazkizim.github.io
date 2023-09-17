@@ -48,7 +48,7 @@ color: green
     </a>
   </article>
   <article class="card-wrapper"> 
-    <a href="/paylasimhesabi/?" class="card post-preview flex-md-row-reverse">
+    <a href="/paylasimhesabi/?#fazlasirket" class="card post-preview flex-md-row-reverse">
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Paylaşım Hesabı
         </h1>
