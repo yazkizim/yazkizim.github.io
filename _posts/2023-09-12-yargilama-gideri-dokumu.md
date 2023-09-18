@@ -3,7 +3,7 @@ title: Mahkeme Masraf Dökümü Güncellemesi
 author: gokhantasci
 date: 2023-07-05 14:10:00 +0800
 categories: [Hesaplamalar, Mahkeme Masraf Dökümü Güncellemesi]
-tags: [mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, 2023, adliyeci]
+tags: [mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, adliyeci]
 keywords: mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, 2023, adliyeci
 render_with_liquid: false
 pin: true
