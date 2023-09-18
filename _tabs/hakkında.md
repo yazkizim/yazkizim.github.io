@@ -41,7 +41,7 @@ Hayır bu web sitesi herhangi bir sitenin kopyası olmayı hedeflememektedir. An
 ### Halen çalışan muadil siteler mevcut iken neden bu siteye ihtiyaç duyuldu?
 Bu web sitesi kendi çabalarımla öğrendiğim bilgisayar dillerini geliştirmek şahsi bir araç, yapılan uygulamaların ise sair sevgili adli personelin kullanımında kolaylık sağlaması amacıyla yayınlanmaktadır. 
 Aynı zamanda saatlerce yapılan kodlamalar sonucunda kendimden başkaca birinin bir ihtiyacına, bir merakına derman olabilmektir.
-Aynı zamanda internet üzerinde yayınlanan aynı hesapları yapan hemen hemen tüm web sitelerinin kaynak kodları gizlenmekte yahut gizlenmesi için uzun çabalar sarf edilmektedir. 
+Yine internet üzerinde yayınlanan aynı hesapları yapan hemen hemen tüm web sitelerinin kaynak kodları gizlenmekte yahut gizlenmesi için uzun çabalar sarf edilmektedir. 
 Biraz bilgisayar okur-yazarlığı olan herhangi biri, çalışmanın temel gayesi olan ücretin nasıl hesaplandığı hakkında fikir sahibi olabilir, gündelik harç hesaplamalarındaki faydalı kestirmelerin keyfine varabilmesi amaçlanmaktadır. 
 
 ## Bu Web sitesi temel olarak hangi hizmetleri sunmaktadır?
