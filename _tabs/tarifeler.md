@@ -88,8 +88,7 @@ color: red
             </time>             
           </div>          
         </div>
-      </div>
-      div>            
+      </div>         
     </a>    
   </article>  
 </div>
