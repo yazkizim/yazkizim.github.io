@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "adi": "Mülakat",
+        "hidden": false,
+        "disabled": false,
+        "subs" : [
+            {
+            "id": 3,
+            "adi": "Mülakat Soruları",
+            "hidden": false,
+            "disabled": false,
+            "subs" :[
+                ]            
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "adi": "Görevde Yükselme Sınavı",
+        "hidden": false,
+        "disabled": false,
+        "subs" : [
+                    {
+                    "id": 4,
+                    "adi": "Yazı İşleri Müdürlüğü",
+                    "hidden": false,
+                    "disabled": false,
+                    "subs" :[
+                                {
+                                "id": 5,
+                                "adi": "Alan Konuları",
+                                "hidden": false,
+                                "disabled": false,
+                                "subs" :[
+                                        {
+                                            "id": 6,
+                                            "adi": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+                                            "hidden": false,
+                                            "disabled": true,
+                                            "subs" :[]
+
+                                        },
+                                        {
+                                            "id": 7,
+                                            "adi": "Bakanlık Genelgeleri",
+                                            "hidden": false,
+                                            "disabled": true,
+                                            "subs" :[]
+
+                                        },
+                                        {
+                                            "id": 18,
+                                            "adi": "Etik",
+                                            "hidden": false,
+                                            "disabled": true,
+                                            "subs" :[]
+
+                                        }
+                                ]                
+                                },
+                                {
+                                "id": 8,
+                                "adi": "Genel Konular",
+                                "hidden": false,
+                                "disabled": false,
+                                "subs" :[
+                                            {
+                                                "id": 9,
+                                                "adi": "Tarih",
+                                                "hidden": false,
+                                                "disabled": true,
+                                                "subs" :[]
+                                            },
+                                            {
+                                                "id": 10,
+                                                "adi": "Türkçe",
+                                                "hidden": false,
+                                                "disabled": true,
+                                                "subs" :[]
+                                            }  
+                                        ]                   
+                                }
+                            ]
+                    },
+                    {
+                    "id": 11,
+                    "adi": "İdari İşler Müdürlüğü",
+                    "hidden": false,
+                    "disabled": false,
+                    "subs" :[
+                                {
+                                "id": 12,
+                                "adi": "Alan Konuları",
+                                "hidden": false,
+                                "disabled": false,
+                                "subs" :[
+                                        {
+                                            "id": 13,
+                                            "adi": "1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+                                            "hidden": false,
+                                            "disabled": true,
+                                            "subs" :[]
+
+                                        },
+                                        {
+                                            "id": 14,
+                                            "adi": "Bakanlık Genelgeleri",
+                                            "hidden": false,
+                                            "disabled": true,
+                                            "subs" :[]
+
+                                        }
+                                ]                
+                                },
+                                {
+                                "id": 15,
+                                "adi": "Genel Konular",
+                                "hidden": false,
+                                "disabled": false,
+                                "subs" :[
+                                            {
+                                                "id": 16,
+                                                "adi": "Tarih",
+                                                "hidden": false,
+                                                "disabled": true,
+                                                "subs" :[]
+                                            },
+                                            {
+                                                "id": 17,
+                                                "adi": "Türkçe",
+                                                "hidden": false,
+                                                "disabled": true,
+                                                "subs" :[]
+                                            }  
+                                        ]                   
+                                }
+                            ]
+                    }
+                ]
+    }
+]
