@@ -38,6 +38,12 @@ Bakanlık sicilim 139329'dur şahsıma Haberci üzerinden ulaşabilir yahut kuru
 ### Bu web sitesi başka bir sitenin kopyası mahiyetinde midir?
 Hayır bu web sitesi herhangi bir sitenin kopyası olmayı hedeflememektedir. Ancak sitenin temel aldığı bazı metinler, hedefleme yöntemleri ve fikirlerin büyük bir kısmında bu işi yıllardır gönüllü olarak yürüten sevgili meslektaşım S.Yeşilkaya'nın çalışmalarından ilham alınmıştır. Kendisinin kıymetli çalışmaları için teşekkür ederim. 
 
+### Halen çalışan muadil siteler mevcut iken neden bu siteye ihtiyaç duyuldu?
+Bu web sitesi kendi çabalarımla öğrendiğim bilgisayar dillerini geliştirmek şahsi bir araç, yapılan uygulamaların ise sair sevgili adli personelin kullanımında kolaylık sağlaması amacıyla yayınlanmaktadır. 
+Aynı zamanda saatlerce yapılan kodlamalar sonucunda kendimden başkaca birinin bir ihtiyacına, bir merakına derman olabilmektir.
+Aynı zamanda internet üzerinde yayınlanan aynı hesapları yapan hemen hemen tüm web sitelerinin kaynak kodları gizlenmekte yahut gizlenmesi için uzun çabalar sarf edilmektedir. 
+Biraz bilgisayar okur-yazarlığı olan herhangi biri, çalışmanın temel gayesi olan ücretin nasıl hesaplandığı hakkında fikir sahibi olabilir, gündelik harç hesaplamalarındaki faydalı kestirmelerin keyfine varabilmesi amaçlanmaktadır. 
+
 ## Bu Web sitesi temel olarak hangi hizmetleri sunmaktadır?
 - [**Maaş Hesaplamaları**](https://yazkizim.github.io/maaş/)
   + [Enflasyon farkı ekli maaş Hesabı](https://yazkizim.github.io/maasyeni/)
@@ -82,9 +88,16 @@ Hayır bu web sitesi herhangi bir sitenin kopyası olmayı hedeflememektedir. An
   + [ ] Sair Gündelik hesaplamalar
 
 
-
 ## İletişim Bilgileriniz nedir?
 Şahsıma kurum sicilim olan 139329 üzerinden Haberci ve kurum e-postası üzerinden ulaşabilirsiniz. 
 
+## Teşekkür kısmı:
+Bu web sitesinin oluşumunda fikirlerini çekinmeden ileten biricik eşim ve Sakarya 11.Asliye Ceza Mahkemesindeki sevgili çalışma arkadaşlarım, instagram üzerinden dönüşlerde bulunan kıymetli Adalet Bakanlığı personeline teşekkür ederim.
+
+## Özel Teşekkür kısmı:
 > Bu web sitesinin oluşumunda, kullandığı yöntemlerde, büyük bir kısım metinlerinde çalışmalarından ziyadesiyle ilham alınan sevgili meslektaşım S.YEŞİLKAYA'ya teşekkür ederim.
 {: .prompt-tip }
+
+
+Gökhan TAŞÇI
+- Yazı İşleri Müdürü - 139329
