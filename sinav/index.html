@@ -1,0 +1,145 @@
+---
+title: Adalet Bakanlığı Sınavları - Mülakat
+keywords: Mülakat, Görevde Yükselme, Ünvan Değişikli, GYS, UDS, adalet bakanlığı görevde yükselme mülakat, adalet bakanlığı ünvan değişikliği mülakat, katip mülakat, mübaşir mülakat, müdür mülakat
+permalink: /sinav/
+layout: gokhan
+---
+
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="sweet-alert.css">
+<link rel="stylesheet" href="quiz.css">
+    <div class="card-header">
+      <h3 class="card-title">Sınav</h3>
+      <label id="sinavid" hidden></label>
+    </div>
+    <div class="containesr-fluid">
+      <!-- Treeview-->
+      <div class="just-padding" id="treeview">
+        <div class="w-100 list-group list-group-root well">          
+          {% for root in site.data.sinavkategori %} <!-- Ana Kategoriler -->
+              <a href="#{{ root.id }}" class="list-group-item" data-toggle="collapse">
+                <i class="glyphicon glyphicon-chevron-right"></i>{{ root.adi }}
+                {% assign altkategorivarmi = root.subs.size %}
+                <span class="badge badge bg-info badge-pill">{{ altkategorivarmi }}</span>
+              </a>              
+              <div class="w-100 list-group collapse" id="{{ root.id }}">
+                {% for sub1 in root.subs %} <!-- 1. Derece Alt Kategoriler Kategoriler -->
+                    {% assign altkategorivarmi = sub1.subs.size %}
+                    <!-- Eğer ikinci alt kategori varsa -->
+                    {% if altkategorivarmi > 0 %}
+                    <a href="#{{ sub1.id }}" class="list-group-item" data-toggle="collapse">
+                      <i class="glyphicon glyphicon-chevron-right"></i>{{ sub1.adi }}
+                      <span class="badge badge bg-info badge-pill">{{ altkategorivarmi }}</span>
+                    </a>
+                    <div class="w-100 list-group collapse" id="{{ sub1.id }}">
+                      {% for sub2 in sub1.subs %}
+                        {% assign altkategorivarmi = sub2.subs.size %}
+                        <!-- Eğer üçüncü alt kategori varsa -->
+                        {% if altkategorivarmi > 0 %}
+                          <a href="#{{ sub2.id }}" class="list-group-item" data-toggle="collapse">
+                            <i class="glyphicon glyphicon-chevron-right"></i>{{ sub2.adi }}
+                            <span class="badge badge bg-info badge-pill">{{ altkategorivarmi }}</span>
+                          </a>
+                          <div class="w-100 list-group collapse" id="{{ sub2.id }}">
+                            {% for sub3 in sub2.subs %}
+                              {% if sub3.disabled == true %}
+                              <button href="#" class="list-group-item w-100 text-left disabled" id="{{ sub3.id }}" disabled>{{ sub3.adi }}</button> 
+                              {% else %} 
+                              <button href="#" class="list-group-item w-100 text-left text-primary" id="{{ sub3.id }}" onclick="return testOlustur('{{ sub3.id }}.json');">{{ sub3.adi }}
+                                <span class="badge badge bg-success badge-pill">*</span>
+                              </button> 
+                              {% endif %} 
+                            {% endfor %}
+                          </div>
+                        {% else %}
+                        <!-- Eğer üçüncü alt kategori yoksa  -->
+                          {% if sub2.disabled == true %}
+                          <button href="#" class="list-group-item w-100 text-left disabled" id="{{ sub2.id }}" disabled>{{ sub2.adi }}</button> 
+                          {% else %} 
+                          <button href="#" class="list-group-item w-100 text-left text-primary" id="{{ sub2.id }}" onclick="return testOlustur('{{ sub2.id }}.json');">{{ sub2.adi }}
+                            <span class="badge badge bg-success badge-pill">*</span>
+                          </button> 
+                          {% endif %}                    
+                        {% endif %} 
+                      {% endfor %}
+                    </div>
+                    {% else %}
+                    <!-- Eğer ikinci alt kategori yoksa  -->
+                      {% if sub1.disabled == true %}
+                      <button href="#" class="list-group-item w-100 text-left disabled" id="{{ sub1.id }}" disabled>{{ sub1.adi }}</button> 
+                      {% else %} 
+                      <button href="#" class="list-group-item w-100 text-left text-primary" id="{{ sub1.id }}" onclick="return testOlustur('{{ sub1.id }}.json');">{{ sub1.adi }}
+                        <span class="badge badge bg-success badge-pill">1418 Soru</span>
+                      </button> 
+                      {% endif %}                 
+                    {% endif %}                  
+                {% endfor %}
+                  </div>               
+          {% endfor %}      
+        </div>
+      </div>
+      <div class="text-left" id="eklenti">
+        <div class="row">
+          <div class="col-4">
+            <button type="button float-left" class="btn btn-primary">Menüyü Göster</button>
+          </div>            
+        </div>                    
+      </div>
+
+      <div class="text-center" id="dogrucevap" style="display: none;">
+        <div class="row"> 
+          <div class="col-12 w-100">
+            <div class="card border-success mb-12">
+              <div class="card-body text-success">
+                <h3 class="card-title">Doğru cevap!</h3>
+                <p class="card-text text-success" id="correcttext"></p>
+              </div>
+              <div class="card-footer bg-transparent">
+                <a href="#" class="btn btn-primary float-right text-white" id="nextcq">Sıradaki soru</a>
+              </div>
+            </div>
+          </div>
+        </div>              
+      </div>
+      <div class="text-center" id="yanliscevap" style="display: none;">
+        <div class="row"> 
+          <div class="col-12 w-100">
+            <div class="card border-danger mb-12">
+              <div class="card-body text-danger">
+                <h3 class="card-title">Yanlış cevap!</h3>
+                <h4><p class="card-text text-success" id="wrongtext"></p></h4>
+              </div>
+              <div class="card-footer bg-transparent">
+                <a href="#" class="btn btn-primary float-right text-white" id="nextwq">Sıradaki soru</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>              
+      </div>
+        <div id="quiz" style ="height: 1200px; display: block"></div>
+      </div>  
+      
+    </div>
+
+
+
+<script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="sweet-alert.js"></script>
+<script src="quiz.js"></script>
+<script>
+  document.getElementById("progress-bar").style.display='none';
+  function testOlustur(isim) {
+    $(function() {
+      const myNode = document.getElementById("quiz");
+      myNode.textContent = '';
+      $('#dogrucevap').hide();
+      $('#yanliscevap').hide();
+      $('#quiz').quiz(isim);      
+    });
+  }
+  
+</script>
