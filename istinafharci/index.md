@@ -6,7 +6,7 @@ layout: gokhan
 ---
 
 
-<div class="card">
+<div>
   <div class="card-header">
     <h3 class="card-title">Nisbi (Nispi) İstinaf/Temyiz Harcı Hesaplama İşlemleri
     </h3>
