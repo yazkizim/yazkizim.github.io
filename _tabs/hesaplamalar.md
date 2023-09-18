@@ -8,8 +8,10 @@ color: green
 
 <div id="post-list" class="flex-grow-1 pe-xl-2 w-100">
   <article class="card-wrapper"> 
-   <a href="/islahharci/" class="card post-preview flex-md-row-reverse">
-        <div class="preview-img"><img src="https://adliye.github.io/assets//posts/para.jpg" data-src="https://adliye.github.io/assets//posts/para.jpg" width="17" height="10" alt="Cezaevi Katipleri" class=" lazyloaded" data-proofer-ignore=""></div>
+    <a href="/islahharci/" class="card post-preview flex-md-row-reverse">
+        <div class="preview-img">
+          <img src="https://adliye.github.io/assets//posts/para.jpg" data-src="https://adliye.github.io/assets//posts/para.jpg" alt="Cezaevi Katipleri" class=" lazyloaded" data-proofer-ignore="">
+        </div>
         <div class="card-body d-flex flex-column">
                 <h1 class="card-title my-2 mt-md-0">Islah Harcı</h1>
                 <div class="card-text content mt-0 mb-2">
@@ -20,7 +22,7 @@ color: green
                         </div>
                 </div>
         </div>
-  </a>
+    </a>
   </article>
     <article class="card-wrapper"> 
     <a href="/yargilamagideridokumu/?#eskitebligatlar" class="card post-preview flex-md-row-reverse">
