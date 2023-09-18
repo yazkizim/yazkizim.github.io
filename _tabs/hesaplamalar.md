@@ -20,7 +20,7 @@ color: green
                         </div>
                 </div>
         </div>
-  </a>    
+  </a>
   </article>
     <article class="card-wrapper"> 
     <a href="/yargilamagideridokumu/?#eskitebligatlar" class="card post-preview flex-md-row-reverse">
