@@ -3,7 +3,7 @@ title: 7.Dönem Toplu Sözleşmesi Adliye Personelini nasıl etkiler ?
 author: gokhantasci
 date: 2023-07-05 14:10:00 +0800
 categories: [Toplu Sözleşme, 7.Dönem Toplu Sözleşmesi Adliye Personelini nasıl etkiler ?]
-tags: [En düşük Katip Maaşı, En düşük Katip Mübaşir, En düşük Yazı İşleri Müdürü Maaşı, Katip Maaşı, Mübaşir Maaşı, Yazı İşleri Müdürü Maaşı, '2023', adliyeci]
+tags: [En düşük Katip Maaşı, En düşük Mübaşir Maaşı]
 keywords: En düşük Katip Maaşı, En düşük Katip Mübaşir, En düşük Yazı İşleri Müdürü Maaşı, Katip Maaşı, Mübaşir Maaşı, Yazı İşleri Müdürü Maaşı
 render_with_liquid: false
 pin: false
