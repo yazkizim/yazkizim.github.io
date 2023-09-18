@@ -1,0 +1,28 @@
+---
+title: Parasal Sınırlar
+keywords: temyiz sınırı, istinaf sınırı, istinaf parasal sınır, temyiz parasal sınır, senetle ispat sınırı, istinaf masrafı, temyiz masrafı, dava harç hesapla, tanıkla ispat sınırı
+permalink: /parasalsinirlar/
+layout: gokhan
+---
+
+
+<div class="card-header">
+    <h3 class="card-title">Parasal Sınırlar</h3>
+    </div>
+  
+  <div id="table-default" class="table-responsive">
+      <table class="table" id="parasalsinirlar" name="parasalsinirlar">
+        <thead>
+          <tr>
+            <th><button class="table-sort" data-sort="sort-yil">Yıl</button></th>
+                      <th><button class="table-sort" data-sort="sort-mahkeme">Mahkeme / Dava</button></th>
+                      <th><button class="table-sort" data-sort="sort-miktar">Miktar</button></th>									
+          </tr>
+        </thead>
+        <tbody class="table-tbody">
+        {% for satir in site.data.parasalsinirlar %}
+        <tr><td class="sort-yil">{{ satir.yil }}<td class="sort-mahkeme">{{ satir.mahkeme }}<td class="sort-miktar">{{ satir.miktar }}</td></tr>
+        {% endfor %}         										
+        </tbody>
+      </table>
+    </div>
