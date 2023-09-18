@@ -8,7 +8,7 @@ keywords: Cezaevi Katibi Maaşı 2023, Adalet Bakanlığı, Cezaevi Katibi Maaş
 render_with_liquid: false
 pin: true
 image:
-  path: /img/bilirkisi.jpg
+  path: /posts/bilirkisi.jpg
   alt: Cezaevi Katipleri
 ---
 
