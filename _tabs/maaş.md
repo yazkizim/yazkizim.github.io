@@ -2,9 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-wallet
 order: 1
-color: blue
+color: cyan
 ---
-
 
 <div id="post-list" class="flex-grow-1 pe-xl-2 w-100">
   <article class="card-wrapper"> 

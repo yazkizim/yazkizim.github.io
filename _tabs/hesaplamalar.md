@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-calculator
-order: 1
+order: 2
 color: green
 ---
 
