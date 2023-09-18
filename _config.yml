@@ -47,13 +47,13 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: ZVJs9usokYw0fHj361bfslt2WY8EXt6_jpL-ym4XPoc # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-RB44Z5TB6Q # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
