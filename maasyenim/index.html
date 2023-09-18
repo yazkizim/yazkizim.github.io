@@ -1,0 +1,433 @@
+---
+title: Maaş Hesaplama * Enflasyon beklentisi ve Toplu Sözleşme Ekli
+keywords: adliyede müdür maaşları, maaş, memur maaş, adliye memur maaşları, Merkez Bankası %67,22, enflasyon farkı, 2024 maaş hesaplama, katip maaş hesaplama, mübaşir maaş hesapla, gardiyan maaş, sendika kesintisi, adliyede müdür maaşları, adliye memur maaşları
+permalink: /maasyeni/
+layout: gokhan
+---
+
+<div class="bd-callout bd-callout-info">
+    <p>BİLGİ:</p>
+    <p><code class="highlighter-rouge">15/09/2023 tarihinde</code> Merkez Bankası tarafından açıklanan 2023 yılı sonu için <code class="highlighter-rouge">%67,22'lık</code> enflasyon tahminine göre, 6 aylık enflasyonun <code class="highlighter-rouge">%39,61</code> seviyesinde olmasını bekliyor. Bu rakamdan Temmuz 2023'de uygulanan <code class="highlighter-rouge">%6'lık</code> toplu sözleşme zammı çıkarıldığında memur enflasyon farkı yüzde <code class="highlighter-rouge">%31,72</code> olarak gerçekleşecektir.</p>
+    <p>Tüm bu beklentiler neticesinde; Maaş Hesaplama Robotuna 2023 yılında oluşması beklenen <code class="highlighter-rouge">%31,72'lık</code> enflasyon farkı ve <code class="highlighter-rouge">2024/Ocak</code> ayında yapılacak <code class="highlighter-rouge">%15'lik</code> zam dahil edilmiştir. Bu haliyle 2024/Ocak ayında alınan net maaşın 2023/Temmuz ayında alınan net maaşa oranla kümülatif olarak <code class="highlighter-rouge">%51,48</code> fazla olacağı değerlendirilmektedir.</p>
+    <p>Net Maaş olarak gösterilen rakam <code class="highlighter-rouge">%31,72'lık enflasyon farkı beklentisi</code> ve <code class="highlighter-rouge">%15</code> olarak belirlenen 2024/Ocak zammı dahil edilmiş rakamdır.</p>
+    <p>Aşağıdaki hesaplamaya Ocak ayında oluşacak 14 günlük maaş farkı <code class="highlighter-rouge">Hesaplama yöntemi değiştirilerek hesaplanabilir.</code>. </p>
+    </div>
+  
+    <div class="page-body">
+    <div class="container-l">      
+      <div class="row row-deck row-cards">
+          <div class="col-12">
+              <div class="row row-deck row-cards">
+                  <div class="col-lg-12">
+                      <div class="card">
+                        <div class="card-header">
+                          <h3 class="card-title">Maaş Hesaplama İşlemleri</h3>
+                        </div>
+                        <div class="card-body">
+                          <div class="mb-3">
+                            <label class="form-label required">Maaş Şablonları</label>
+                            <div>
+                              <select type="text" class="form-select" placeholder="Seçiniz" id="maaslarsablon" value="">
+                                  <option value="0" selected>Seçiniz</option>	
+                                  <option value="1y">En düşük Zabıt Katibi maaşı</option>                                
+                                  <option value="4y">En düşük Mübaşir maaşı</option>
+                                  <option value="8y">En düşük İnfaz ve Koruma Memuru maaşı</option>
+                                  <option value="9y">En düşük Koruma ve Güvenlik (Silahsız) Memuru maaşı</option>                                
+                                  <option value="2y">En düşük İcra Katibi maaşı</option>
+                                  <option value="3y">En düşük Cezaevi Katibi maaşı</option>
+                                  <option value="5y">En düşük Yazı İşleri Müdürü maaşı</option>
+                                  <option value="12y">En düşük İdari İşler Müdürü maaşı</option>
+                                  <option value="6y">En düşük İcra Müdürü maaşı</option>
+                                  <option value="7y">En düşük İcra Müdür Yardımcısı maaşı</option> 
+                                  <option value="11y">En düşük Cezaevi Müdürü maaşı</option>
+                                  <option value="101y">En yüksek Zabıt Katibi maaşı</option>                                
+                                  <option value="104y">En yüksek Mübaşir maaşı</option>
+                                  <option value="108y">En yüksek İnfaz ve Koruma Memuru maaşı</option>                                
+                                  <option value="109y">En yüksek Koruma ve Güvenlik (Silahsız) Memuru maaşı</option> 
+                                  <option value="102y">En yüksek İcra Katibi maaşı</option>
+                                  <option value="103y">En yüksek Cezaevi Katibi maaşı</option>
+                                  <option value="105y">En yüksek Yazı İşleri Müdürü maaşı</option>                                
+                                  <option value="112y">En yüksek İdari İşler Müdürü maaşı</option>
+                                  <option value="106y">En yüksek İcra Müdürü maaşı</option>
+                                  <option value="107y">En yüksek İcra Müdür Yardımcısı maaşı</option>                                
+                                  <option value="111y">En yüksek Cezaevi Müdürü maaşı</option>
+                              </select>
+                            </div>
+                            <small class="form-hint">* Ünvanlara göre en düşük ve en yüksek maaş alabileceği verileri getirmek için seçiniz</a></small>
+                          <div class="mb-3">
+                            <label class="form-label required">Hesaplama</label>
+                            <div>
+                              <select type="text" class="form-select" placeholder="Seçiniz" id="hesaplama" value="">
+                                  <option value="0" selected>Maaş</option>	
+                                  <option value="1">14 Günlük Maaş Farkı</option>                                 
+                              </select>
+                            </div>
+                            <small class="form-hint">* Maaş farkı için seçiniz</a></small>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Ünvanınız</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="unvan" value="">
+                                    <option value="0" disabled>Seçiniz</option>	
+                                    <option value="2">Zabıt Katibi</option>
+                                    <option value="3">Mübaşir</option>
+                                    <option value="1" selected>Yazı İşleri Müdürü</option>
+                                    <option value="12">İdari İşler Müdürü</option>
+                                    <option value="6">İcra Katibi</option>
+                                    <option value="4">İcra Müdürü</option>
+                                    <option value="5">İcra Müdür Yardımcısı</option>   
+                                    <option value="7">Cezaevi Katibi</option>
+                                    <option value="8">Koruma ve Güvenlik (Silahsız)</option>                                   
+                                    <option value="9">Koruma ve Güvenlik (Silahlı)</option>
+                                    <option value="10">Cezaevi Müdürü</option>
+                                    <option value="11">Cezaevi Müdürü (Özel +13 P)</option>
+                                    <option value="13">İnfaz ve Koruma Memuru</option>
+                                    <option value="14">İnfaz ve Koruma Memuru (Özel +13 P)</option>
+                                    <option value="15">İnfaz ve Koruma Başmemuru</option>
+                                    <option value="16">İnfaz ve Koruma Başmemuru (Özel +13 P)</option>
+                                </select>
+                              </div>
+                              <small class="form-hint"></a></small>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Tabi olduğu Kanun</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="tabikanun" value="">
+                                    <option value="0" disabled>Seçiniz</option>	
+                                    <option value="1" selected>5510 - (SGK Girişi : 01/10/2008 sonrası) </option>
+                                    <option value="2">5434 - (SGK Girişi : 01/10/2008 öncesi)i</option>
+                                     
+                                </select>
+                              </div>
+                              <small class="form-hint">				</a></small>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Mezuniyet</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="mezuniyet" value="">
+                                    <option value="0" disabled>Seçiniz</option>	
+                                    <option value="1" selected>Önlisans veya Lisans</option>
+                                    <option value="2">Lise ve diğerleri</option>
+                                     
+                                </select>
+                              </div>
+                              <small class="form-hint">				</a></small>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Derece / Kademe</label>
+                              <div>									  
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="kadroderece" value="">
+                                    <option value="1/1">1/1</option>
+                                    <option value="1/2">1/2</option>
+                                    <option value="1/3">1/3</option>
+                                    <option value="1/4">1/4</option>
+                                    <option value="2/1">2/1</option>
+                                    <option value="2/2">2/2</option>
+                                    <option value="2/3">2/3</option>
+                                    <option value="2/4">2/4</option>
+                                    <option value="2/5">2/5</option>
+                                    <option value="2/6">2/6</option>
+                                    <option value="3/1">3/1</option>
+                                    <option value="3/2">3/2</option>
+                                    <option value="3/3">3/3</option>
+                                    <option value="3/4">3/4</option>
+                                    <option value="3/5">3/5</option>
+                                    <option value="3/6">3/6</option>		
+                                    <option value="3/7">3/7</option>
+                                    <option value="3/8">3/8</option>		
+                                    <option value="4/1" selected="">4/1</option>
+                                    <option value="4/2">4/2</option>
+                                    <option value="4/3">4/3</option>
+                                    <option value="4/4">4/4</option>
+                                    <option value="4/5">4/5</option>
+                                    <option value="4/6">4/6</option>		
+                                    <option value="4/7">4/7</option>
+                                    <option value="4/8">4/8</option>		
+                                    <option value="4/9">4/9</option>	
+                                    <option value="5/1">5/1</option>
+                                    <option value="5/2">5/2</option>
+                                    <option value="5/3">5/3</option>
+                                    <option value="5/4">5/4</option>
+                                    <option value="5/5">5/5</option>
+                                    <option value="5/6">5/6</option>		
+                                    <option value="5/7">5/7</option>
+                                    <option value="5/8">5/8</option>		
+                                    <option value="5/9">5/9</option>
+                                    <option value="6/1">6/1</option>
+                                    <option value="6/2">6/2</option>
+                                    <option value="6/3">6/3</option>
+                                    <option value="6/4">6/4</option>
+                                    <option value="6/5">6/5</option>
+                                    <option value="6/6">6/6</option>		
+                                    <option value="6/7">6/7</option>
+                                    <option value="6/8">6/8</option>		
+                                    <option value="6/9">6/9</option>
+                                    <option value="7/1">7/1</option>
+                                    <option value="7/2">7/2</option>
+                                    <option value="7/3">7/3</option>
+                                    <option value="7/4">7/4</option>
+                                    <option value="7/5">7/5</option>
+                                    <option value="7/6">7/6</option>		
+                                    <option value="7/7">7/7</option>
+                                    <option value="7/8">7/8</option>		
+                                    <option value="7/9">7/9</option>
+                                    <option value="8/1">8/1</option>
+                                    <option value="8/2">8/2</option>
+                                    <option value="8/3">8/3</option>
+                                    <option value="8/4">8/4</option>
+                                    <option value="8/5">8/5</option>
+                                    <option value="8/6">8/6</option>		
+                                    <option value="8/7">8/7</option>
+                                    <option value="8/8">8/8</option>		
+                                    <option value="8/9">8/9</option>
+                                    <option value="9/1">9/1</option>
+                                    <option value="9/2">9/2</option>
+                                    <option value="9/3">9/3</option>
+                                    <option value="9/4">9/4</option>
+                                    <option value="9/5">9/5</option>
+                                    <option value="9/6">9/6</option>		
+                                    <option value="9/7">9/7</option>
+                                    <option value="9/8">9/8</option>		
+                                    <option value="9/9">9/9</option>
+                                    <option value="10/1">10/1</option>
+                                    <option value="10/2">10/2</option>
+                                    <option value="10/3">10/3</option>
+                                    <option value="10/4">10/4</option>
+                                    <option value="10/5">10/5</option>
+                                    <option value="10/6">10/6</option>		
+                                    <option value="10/7">10/7</option>
+                                    <option value="10/8">10/8</option>		
+                                    <option value="10/9">10/9</option>
+                                    <option value="11/1">11/1</option>
+                                    <option value="11/2">11/2</option>
+                                    <option value="11/3">12/3</option>
+                                    <option value="11/4">13/4</option>
+                                    <option value="11/5">11/5</option>
+                                    <option value="11/6">11/6</option>		
+                                    <option value="11/7">11/7</option>
+                                    <option value="11/8">11/8</option>		
+                                    <option value="11/9">11/9</option>
+                                    <option value="12/1">12/1</option>
+                                    <option value="12/2">12/2</option>
+                                    <option value="12/3">12/3</option>
+                                    <option value="12/4">13/4</option>
+                                    <option value="12/5">12/5</option>
+                                    <option value="12/6">12/6</option>		
+                                    <option value="12/7">12/7</option>
+                                    <option value="12/8">12/8</option>		
+                                    <option value="12/9">12/9</option>
+                                    <option value="13/1">13/1</option>
+                                    <option value="13/2">13/2</option>
+                                    <option value="13/3">13/3</option>
+                                    <option value="13/4">13/4</option>
+                                    <option value="13/5">13/5</option>
+                                    <option value="13/6">13/6</option>		
+                                    <option value="13/7">13/7</option>
+                                    <option value="13/8">13/8</option>		
+                                    <option value="13/9">13/9</option>
+                                    <option value="14/1">14/1</option>
+                                    <option value="14/2">14/2</option>
+                                    <option value="14/3">14/3</option>
+                                    <option value="14/4">14/4</option>
+                                    <option value="14/5">14/5</option>
+                                    <option value="14/6">14/6</option>		
+                                    <option value="14/7">14/7</option>
+                                    <option value="14/8">14/8</option>		
+                                    <option value="14/9">14/9</option>
+                                    <option value="15/1">15/1</option>
+                                    <option value="15/2">15/2</option>
+                                    <option value="15/3">15/3</option>
+                                    <option value="15/4">15/4</option>
+                                    <option value="15/5">15/5</option>
+                                    <option value="15/6">15/6</option>		
+                                    <option value="15/7">15/7</option>
+                                    <option value="15/8">15/8</option>		
+                                    <option value="15/9">15/9</option>										  
+                                </select>
+                              </div>
+                          </div>								
+                          <div class="mb-3">
+                              <label class="form-label required">Hizmet Yılı</label>
+                              <div>
+                                <input type="number" class="form-control" data-type="currency" placeholder="Kabul edilen değeri giriniz" name="hizmetyili" id="hizmetyili" value="13">
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Medeni Durum</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="medenidurum" value="">
+                                    <option value="0">Bekar</option>
+                                    <option value="0">Evli (Çalışan)</option>
+                                     <option selected="" value="2273">Evli (Eşi çalışmıyor)</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">72 aydan küçük çocuk sayısı</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="cocuk72aydankucuk" value="">
+                                    <option selected="" value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">72 aydan büyük çocuk sayısı</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="cocuk72aydanbuyuk" value="">
+                                    <option value="0">0</option>
+                                    <option selected="" value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">72 aydan küçük engelli çocuk sayısı</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="engellicocuk72aydankucuk" value="">
+                                    <option selected="" value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">72 aydan büyük engelli çocuk sayısı</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="engellicocuk72aydanbuyuk" value="">
+                                    <option selected="" value="0">0</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Sendika üyesi misiniz</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="sendikauye" value="">
+                                    <option selected="" value="2119">Evet</option>
+                                    <option value="0">Hayır</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                            <label class="form-label required">Taşınır Kayıt Kontrol Yetkilisi?</label>
+                            <div>
+                              <select type="text" class="form-select" placeholder="Seçiniz" id="tasiniryetkili" value="">
+                                  <option value="575">Evet</option>
+                                  <option selected="" value="0">Hayır</option>
+                                </select>  
+                              <small class="form-hint">
+                            </a></small>
+                            </div>
+                        </div>
+                          <div class="mb-3">
+                              <label class="form-label required">BES (%3) Kesintiniz Var mı? </label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="beskesintisi" value="">
+                                    <option value="1">Evet</option>
+                                    <option selected="" value="0">Hayır</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Görev yeriniz</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="gorevyeri" value="">
+                                    <option value="15">İstanbul / Ankara / İzmir</option>
+                                    <option selected="" value="10">Büyükşehirler</option>
+                                    <option value="5">Diğer İller</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Yabancı Dil Seviyeniz</label>
+                              <div>
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="yabancidil" value="">
+                                    <option selected="" value="0">Yok</option>
+                                    <option value="750">A Düzeyi</option>
+                                    <option value="750">B Düzeyi</option>
+                                    <option value="500">C Düzeyi</option>
+                                    <option value="250">D Düzeyi</option>
+                                  </select>  
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>
+                          <div class="mb-3">
+                              <label class="form-label required">Haciz / Nafaka</label>
+                              <div>
+                               <input type="text" class="form-control" value="0" name="haciz" id="haciz" placeholder="Maaş haczi varsa miktarı">
+                                <small class="form-hint">
+                              </a></small>
+                              </div>
+                          </div>								
+                          <div class="mb-3">
+                              <div class="col-6 col-sm-4 col-md-2 col-xl py-3">
+                                  <a type="submit" class="btn btn-primary w-100 text-white" id ="yenimaashesapla" name="yenimaashesapla">
+                                    Hesapla
+                                  </a>
+                              </div>
+                              <small class="form-hint"></small>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+              </div>
+              
+          </div>
+          <div class="col-12">
+              <div class="row row-deck row-cards">
+                  <div class="col-lg-12">
+                      <div class="card">
+                        <div class="card-stamp">
+                          <div class="card-stamp-icon bg-youtube">
+                           <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-cash-banknote" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                             <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                             <circle cx="12" cy="12" r="3"></circle>
+                             <rect x="3" y="6" width="18" height="12" rx="2"></rect>
+                             <line x1="18" y1="12" x2="18.01" y2="12"></line>
+                             <line x1="6" y1="12" x2="6.01" y2="12"></line>
+                          </svg>
+                          </div>
+                        </div>
+                        
+                          <div class="d-flex align-items-center justify-content-center h-100" id="hesapsonuchtml" name="hesapsonuchtml"> 
+                          
+                          
+                          </div>
+                      </div>
+                    </div>
+              </div>
+              
+          </div>
+      </div>
+    </div>
+  </div>
