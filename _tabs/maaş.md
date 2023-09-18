@@ -129,8 +129,7 @@ color: cyan
             </time>             
           </div>          
         </div>
-      </div>
-      div>            
+      </div>      
     </a>    
   </article>  
 </div>
