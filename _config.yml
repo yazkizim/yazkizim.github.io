@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
  Küçük, hızlı, güncel, adliye personelinin gündelik rehberi, katip maaşı, harç hesabı, adliye personeli, adalet bakanlığı
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://adliye.github.io"
+url: "https://www.adliyeci.com.tr"
 
 github:
   username: adliye # change to your github username
@@ -41,8 +41,8 @@ social:
   email: ab139329@adalet.gov.tr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # https://twitter.com/username # change to your twitter homepage
+    # https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://adliye.github.io/assets/"
+img_cdn: "https://www.adliyeci.com.tr/assets/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://adliye.github.io/assets/img/logo.png"
+avatar: "https://www.adliyeci.com.tr/assets/img/logo.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
