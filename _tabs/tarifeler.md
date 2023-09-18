@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-comments-dolar
+icon: fas fa-cash-register
 order: 1
 color: red
 ---
