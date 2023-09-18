@@ -1,7 +1,7 @@
 ---
 title: Maaş Robotu Güncellendi
 author: gokhantasci
-date: 2023-07-05 14:10:00 +0800
+date: 2023-09-08 14:10:00 +0800
 categories: [Hesaplamalar, Maaş Robotu Güncellendi]
 tags: [enflasyon, enflasyon farkı, Ağustos, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Ağustos, maaş, 2023, adliyeci

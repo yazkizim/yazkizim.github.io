@@ -1,7 +1,7 @@
 ---
 title: 2023 Katip (İcra) Maaşları
 author: gokhantasci
-date: 2023-07-05 14:10:00 +0800
+date: 2023-07-15 14:10:00 +0800
 categories: [Maaşlar, 2023 Katip (İcra) Maaşları]
 tags: [Adalet Bakanlığı, Maaşlar, 2023 Cezaevi Katibi Maaşı]
 keywords: Katip (İcra) Maaşı 2023, Adalet Bakanlığı, Zabıt Katibi Maaşı, en düşük Zabıt Katibi Maaşı, sözleşmeli Katip (İcra) maaşı, sözleşmeli Zabıt Katibi Maaşı, Yargıtay, Zabıt Katibi Alımı Ne Zaman, Katip (İcra) nedir?, Katip (İcra) nasıl olunur, Katip (İcra)lik şartları, Zabıt Katibi ne iş yapar?

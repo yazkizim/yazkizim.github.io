@@ -1,7 +1,7 @@
 ---
 title: Avukatlık Asgari Ücret Tarifesi
 author: gokhantasci
-date: 2023-07-05 14:10:00 +0800
+date: 2023-09-01 14:10:00 +0800
 categories: [Tarifeler, 2023 Avukatlık Asgari Ücret Tarifesi]
 tags: [Adalet Bakanlığı, AAÜT, Avukatlık Asgari Ücret Tarifesi, adliyeci]
 keywords: Avukatlık Asgari Ücret Tarifesi, Avukat Tarifesi, Avukat Ücreti

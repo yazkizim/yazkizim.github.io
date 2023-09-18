@@ -1,7 +1,7 @@
 ---
 title: 2023 İnfaz ve Koruma Memuru Maaşları
 author: gokhantasci
-date: 2023-07-05 14:10:00 +0800
+date: 2023-07-15 14:10:00 +0800
 categories: [Maaşlar, 2023 İnfaz ve Koruma Memuru Maaşları]
 tags: [Adalet Bakanlığı, 2023 İnfaz ve Koruma Memuru Maaşları]
 keywords: İnfaz ve Koruma Memuru Maaşı 2023, Adalet Bakanlığı, İnfaz ve Koruma Memuru Maaşı, en düşük İnfaz ve Koruma Memuru Maaşı, sözleşmeli İnfaz ve Koruma Memuru Maaşı, sözleşmeli İnfaz ve Koruma Memuru Maaşı, Yargıtay, İnfaz ve Koruma Memuru Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, İnfaz ve Koruma Memuru ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023
