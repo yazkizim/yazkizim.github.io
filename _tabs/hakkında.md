@@ -92,7 +92,7 @@ Biraz bilgisayar okur-yazarlığı olan herhangi biri, çalışmanın temel gaye
 Şahsıma kurum sicilim olan 139329 üzerinden Haberci ve kurum e-postası üzerinden ulaşabilirsiniz. 
 
 ## Teşekkür kısmı:
-Bu web sitesinin oluşumunda fikirlerini çekinmeden ileten biricik eşim ve Sakarya 11.Asliye Ceza Mahkemesindeki sevgili çalışma arkadaşlarım, instagram üzerinden dönüşlerde bulunan kıymetli Adalet Bakanlığı personeline teşekkür ederim.
+Bu web sitesinin oluşumunda fikirlerini çekinmeden ileten biricik eşim ve Sakarya 11.Asliye Ceza Mahkemesindeki kıymetli çalışma arkadaşlarım, instagram üzerinden dönüşlerde bulunan kıymetli Adalet Bakanlığı personeline teşekkür ederim.
 
 ## Özel Teşekkür kısmı:
 > Bu web sitesinin oluşumunda, kullandığı yöntemlerde, büyük bir kısım metinlerinde çalışmalarından ziyadesiyle ilham alınan sevgili meslektaşım S.YEŞİLKAYA'ya teşekkür ederim.
@@ -101,3 +101,4 @@ Bu web sitesinin oluşumunda fikirlerini çekinmeden ileten biricik eşim ve Sak
 
 Gökhan TAŞÇI
 - Yazı İşleri Müdürü - 139329
+19/09/2023
