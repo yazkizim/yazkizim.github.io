@@ -64,6 +64,8 @@
   {% else %}
     {% assign js = 'commons' %}
     {% assign js = 'gokhan' %}
+    <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-1.13.6/b-2.4.2/datatables.min.css" rel="stylesheet">
+    <script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-1.13.6/b-2.4.2/datatables.min.js"></script>
 {% endcase %}
 
 {% capture script %}/assets/js/dist/{{ js }}.min.js{% endcapture %}
