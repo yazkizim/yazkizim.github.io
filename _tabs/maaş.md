@@ -8,7 +8,7 @@ color: cyan
 <div id="post-list" class="flex-grow-1 pe-xl-2 w-100">
   <article class="card-wrapper"> 
     <a href="/maasyeni/" class="card post-preview flex-md-row-reverse">   
-    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-coins fa-fw me-1 fa-3x align-middle text-success"> </i></div> 
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-money-bill fa-fw me-1 fa-3x align-middle text-success"> </i></div> 
     <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Maaş Hesaplama * Enflasyon farkı ve Toplu Sözleşme Ekli
         </h1>
@@ -29,7 +29,7 @@ color: cyan
   </article>
   <article class="card-wrapper"> 
     <a href="/maas/" class="card post-preview flex-md-row-reverse"> 
-    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-money-bill fa-fw me-1 fa-3x align-middle text-danger"> </i></div>       
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-coins fa-fw me-1 fa-3x align-middle text-danger"> </i></div>       
     <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Maaş Hesaplama
         </h1>
