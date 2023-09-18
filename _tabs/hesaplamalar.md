@@ -9,7 +9,7 @@ color: green
 <div id="post-list" class="flex-grow-1 pe-xl-2 w-100">
   <article class="card-wrapper"> 
     <a href="/islahharci/" class="card post-preview flex-md-row-reverse"> 
-    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa-thin fa-calculator fa-fw me-1 fa-6x align-middle text-primary"> </i></div>    
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-calculator fa-fw me-1 fa-3x align-middle text-primary"> </i></div>    
     <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Islah Harcı
         </h1>
@@ -47,11 +47,12 @@ color: green
           </div>          
         </div>
       </div>
-      <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa-thin fa-envelope-open-dollar fa-fw me-1 fa-6x align-middle text-success"> </i></div>    
+      <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-envelope fa-fw me-1 fa-3x align-middle text-success"> </i></div>    
     </a>
   </article>
   <article class="card-wrapper"> 
     <a href="/paylasimhesabi/?#fazlasirket" class="card post-preview flex-md-row-reverse">
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-share-nodes fa-fw me-1 fa-3x align-middle text-warning"> </i></div> 
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Paylaşım Hesabı
         </h1>
@@ -71,7 +72,7 @@ color: green
     </a>
   </article>
   <article class="card-wrapper"> 
-    <a href="/nispivekalet/" class="card post-preview flex-md-row-reverse">
+    <a href="/nispivekalet/" class="card post-preview flex-md-row-reverse">    
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Vekalet Ücreti Hesaplama İşlemleri
         </h1>
@@ -88,10 +89,12 @@ color: green
           </div>          
         </div>
       </div>
+      <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-globe fa-fw me-1 fa-3x align-middle text-secondary"> </i></div> 
     </a>
   </article>
   <article class="card-wrapper"> 
-    <a href="/istinafharci/" class="card post-preview flex-md-row-reverse">
+    <a href="/istinafharci/" class="card post-preview flex-md-row-reverse">  
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-gavel fa-fw me-1 fa-3x align-middle text-info"> </i></div>   
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Nisbi (Nispi) İstinaf/Temyiz Harcı Hesaplama İşlemleri
         </h1>
@@ -108,6 +111,6 @@ color: green
           </div>          
         </div>
       </div>
-    </a>
+    </a>    
   </article>
 </div>
