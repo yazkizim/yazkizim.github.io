@@ -9,6 +9,7 @@ render_with_liquid: false
 pin: true
 ---
 
+## Başlangıç
 Adalet Bakanlığı Personel Genel Müdürlüğü tüm ülke genelinde zaman zaman alım için ilana çıkmaktadır.
 Bu ilanlarda Cezaevi Katipliği için genel ve özel şartlar yer almaktadır.
 
@@ -85,4 +86,5 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Cezaevi Katibi m
 ## Bağlantılar
 Size uyan şartlardaki maaş hesabı için aşağıdaki bağlantıyı,
 
+## Son
 Buraya bağlantılar gelecek
