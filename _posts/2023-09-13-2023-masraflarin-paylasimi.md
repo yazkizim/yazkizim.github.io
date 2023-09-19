@@ -6,7 +6,7 @@ categories: [Hesaplamalar, Yargılama sonrası masrafların paylaşımı]
 tags: [mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, adliyeci]
 keywords: mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, 2023, adliyeci
 render_with_liquid: false
-pin: true
+pin: false
 image:
   path: /posts/guncelleme.jpg
   alt: Yargılama sonrası masrafların paylaşımı
