@@ -2,7 +2,7 @@
 title: 2023 yılı en yüksek ve en düşük Zabıt Katibi, Mübaşir ve Yazı İşleri Müdürü maaşları
 author: gokhantasci
 date: 2023-07-15 14:10:00 +0800
-categories: [Maaşlar, 2023 Cezaevi Müdürü Maaşı]
+categories: [Maaşlar, Alt Üst Sınırlar]
 tags: [Adalet Bakanlığı, Maaşlar, 2023 En düşük Maaşlar]
 keywords: En düşük Katip Maaşı, En düşük Katip Mübaşir, En düşük Yazı İşleri Müdürü Maaşı, Katip Maaşı, Mübaşir Maaşı, Yazı İşleri Müdürü Maaşı, enflasyon farkı, 14 günlük maaş, Toplu Sözleşme
 render_with_liquid: false

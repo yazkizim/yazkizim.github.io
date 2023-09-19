@@ -2,7 +2,7 @@
 title: 2023 Yılı Mahkemelerde Uygulanacak Parasal Sınırlar
 author: gokhantasci
 date: 2023-09-02 14:10:00 +0800
-categories: [Hesaplamalar, 2023 Yılı Mahkemelerde Uygulanacak Parasal Sınırlar]
+categories: [Hesaplamalar, Mahkemelerde Uygulanacak Parasal Sınırlar]
 tags: [Adalet Bakanlığı, mahkeme, parasal sınırlar, temyiz sınırı, istinaf sınırı, tek hakim sınırı, ticaret mahkemesi, adliyeci]
 keywords: Adalet Bakanlığı, mahkeme, parasal sınırlar, temyiz sınırı, istinaf sınırı, tek hakim sınırı, ticaret mahkemesi, 2023, adliyeci
 render_with_liquid: false

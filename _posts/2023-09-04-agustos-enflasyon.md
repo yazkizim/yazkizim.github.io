@@ -2,7 +2,7 @@
 title: 2023 Ağustos Ayı Enflasyonu Açıklanmıştır
 author: gokhantasci
 date: 2023-09-04 14:10:00 +0800
-categories: [Enflasyon, 2023 Ağustos Ayı Enflasyonu]
+categories: [Enflasyon, 2023 yılı]
 tags: [enflasyon, enflasyon farkı, Ağustos, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Ağustos, maaş, 2023, adliyeci
 render_with_liquid: false
