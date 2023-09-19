@@ -1,0 +1,42 @@
+---
+title: Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi
+keywords: adliyede bilirkişi ücretleri, bilirkişi, bilirkişi ücretleri, bilirkişi gideri, istinaf bilirkişi, temyiz bilirkişi, mahkeme bilirkişi, uyap bilirkişi, tüketici hakem heyeti
+permalink: /thhbilirkisiucret/
+layout: gokhan
+---
+
+
+<div class="card-header">
+    <h3 class="card-title">Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi</h3>
+    </div>
+  
+  <div id="table-default" class="table-responsive">
+      <table class="table" id="thhbilirkisiucret" name="thhbilirkisiucret">
+        <thead>
+          <tr>
+            <th><button class="table-sort" data-sort="sort-urun">Ürün</button></th>
+            <th><button class="table-sort" data-sort="sort-katsayi">Katsayı</button></th>
+            <th><button class="table-sort" data-sort="sort-brut">Brut</button></th>									
+            <th><button class="table-sort" data-sort="sort-damga">Damga V.</button></th>
+            <th><button class="table-sort" data-sort="sort-gelir">Gelir V. (%15)</button></th>
+            <th><button class="table-sort" data-sort="sort-net">Net Ödenecek</button></th>
+          </tr>
+        </thead>
+        <tbody class="table-tbody">
+        {% for satir in site.data.thhbilirkisi %}
+        <tr>
+            <td class="sort-urun">{{ satir.urun }}
+            <td class="sort-katsayi">{{ satir.katsayi }}
+            <td class="sort-brut">{% assign brut = satir.katsayi | times: site.assets.katsayilar.[1].[aylik_katsayi] %}
+              {{ brut | append: " TL"}}
+            <td class="sort-damga">{% assign damga = brut | times: 0.00948] %}
+              {{ damga | append: " TL" }}
+            <td class="sort-gelir">{% assign gelir = brut | times: 0.15] %}
+              {{ gelir | append: " TL" }}
+            <td class="sort-net">{{ brut | minus: damga | minus: gelir }} TL  
+        </td>
+        </tr>
+        {% endfor %}         										
+        </tbody>
+      </table>
+    </div>
