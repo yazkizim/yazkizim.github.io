@@ -128,6 +128,10 @@ h1 + .post-meta {
         @include btn-sharing-color(black);
       }
 
+      .fa-whatsapp {
+        @include btn-sharing-color(rgb(37, 211, 102));
+      }
+
       .fa-facebook-square {
         @include btn-sharing-color(rgb(66, 95, 156));
       }
