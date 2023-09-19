@@ -11,6 +11,7 @@ html, body {
   margin-top: 30px;
   font-size: 32px;
   margin-bottom: 20px;
+  font-family: monospace;
 }
 
 .quiz-answers {
@@ -19,6 +20,7 @@ html, body {
   margin: 0 auto;
   display: block;
   padding-bottom: 5px;
+  font-family: monospace;
 }
 .quiz-answers .btn{
   float: left;
