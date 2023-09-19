@@ -78,7 +78,7 @@ Biraz bilgisayar okur-yazarlığı olan herhangi biri, çalışmanın temel gaye
   + [x] Bilirkişi Ücret Tarifesi
   + [x] Uzlaştırmacı Ücret Tarifesi
   + [x] Parasal Sınırlar
-  + [ ] Tanıklık Ücret Tarifesi
+  + [x] Tanıklık Ücret Tarifesi
 - [ ] Mahkeme Hesaplamaları
   + [x] Hukuk Mahkemeleri Yargılama Gideri Dökümü
   + [x] Ceza Mahkemeleri Yargılama Gideri Dökümü
