@@ -16,7 +16,7 @@ layout: gokhan
         <div class="w-100 list-group list-group-root well">          
           {% for root in site.data.sinavkategori %} <!-- Ana Kategoriler -->
               <a href="#{{ root.id }}" class="list-group-item" data-toggle="collapse">
-                <i class="fas fa-arrow-right"></i>{{ root.adi }}
+                <i class="fas fa-plus"></i>{{ root.adi }}
                 {% assign altkategorivarmi = root.subs.size %}
                 <span class="badge badge bg-info badge-pill">{{ altkategorivarmi }}</span>
               </a>              
@@ -26,7 +26,7 @@ layout: gokhan
                     <!-- Eğer ikinci alt kategori varsa -->
                     {% if altkategorivarmi > 0 %}
                     <a href="#{{ sub1.id }}" class="list-group-item" data-toggle="collapse">
-                      <i class="fas fa-arrow-right"></i>{{ sub1.adi }}
+                      <i class="fas fa-plus"></i>{{ sub1.adi }}
                       <span class="badge badge bg-info badge-pill">{{ altkategorivarmi }}</span>
                     </a>
                     <div class="w-100 list-group collapse" id="{{ sub1.id }}">
@@ -35,7 +35,7 @@ layout: gokhan
                         <!-- Eğer üçüncü alt kategori varsa -->
                         {% if altkategorivarmi > 0 %}
                           <a href="#{{ sub2.id }}" class="list-group-item" data-toggle="collapse">
-                            <i class="fas fa-arrow-right"></i>{{ sub2.adi }}
+                            <i class="fas fa-plus"></i>{{ sub2.adi }}
                             <span class="badge badge bg-info badge-pill">{{ altkategorivarmi }}</span>
                           </a>
                           <div class="w-100 list-group collapse" id="{{ sub2.id }}">
