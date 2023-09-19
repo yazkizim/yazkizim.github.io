@@ -33,6 +33,13 @@
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
+      <!-- Sınav-->
+      <li class="nav-item{% if page.url == '/sinav/' %}{{ " active" }}{% endif %}">
+        <a href="/sinav/" class="nav-link">
+          <i class="fa-fw fas fa-question" style="color: pink"></i>
+          <span>SINAV</span>
+        </a>
+      </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
