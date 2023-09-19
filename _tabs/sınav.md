@@ -6,4 +6,4 @@ color: pink
 ---
 
 
-{% include sinav/index.html %}
+{% include_relative sinav/index.html %}
