@@ -3,7 +3,7 @@
 
 platforms:
   - type: WhatsApp
-    icon: "fa-brands fa-whatsapp"
+    icon: "fa-brands fa-whatsapp-square"
     link: "whatsapp://send?text=URL - TITLE" 
 
   - type: Twitter
