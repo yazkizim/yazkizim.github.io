@@ -43,8 +43,11 @@ layout: compress
             <div class="access">
               {% include_cached update-list.html lang=lang %}
               {% include_cached trending-tags.html lang=lang %}
+              <h2 class="panel-heading">Adalet Bakanlığından</h2>
+              <div class="d-flex flex-wrap mt-3 mb-1 me-3">
+                {% ![Desktop View](https://chirpy-img.netlify.app/posts/20190808/mockup.png) %}
+              </div>
             </div>
-
             {% for _include in layout.panel_includes %}
               {% assign _include_path = _include | append: '.html' %}
               {% include {{ _include_path }} lang=lang %}
