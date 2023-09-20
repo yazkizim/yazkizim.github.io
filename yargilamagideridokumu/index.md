@@ -13,7 +13,7 @@ layout: gokhan
         <h5>Tebligatlar</h5>    
         <div class="col-12">
             <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ site.data.veriler.asliye.maktu }}</label>
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ site.data.authors.cotes.name }}</label>
                 <input type="hidden" id="{{ site.assets.veriler[0].tebligatlar.teb18.adi }}" value="{{ site.veriler.asliye.maktu }}">
                 <div class="col-sm-6">
                     <input type="number" class="form-control" id="{{ site.assets.veriler[0].tebligatlar.teb18.adet }}" value="0" placeholder="0">
