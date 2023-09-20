@@ -1,5 +1,170 @@
 [
     {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Savcılık",
+        "ucret": "5300"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Sulh Ceza Hakimliği",
+        "ucret": "8000"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İnfaz Hakimliği",
+        "ucret": "8000"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Asliye Ceza Mahkemesi",
+        "ucret": "17900"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Çocuk Mahkemesi",
+        "ucret": "17000"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İcra Ceza Mahkemeleri",
+        "ucret": "5600"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Ağır Ceza Mahkemesi",
+        "ucret": "29800"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Çocuk Ağır Ceza Mahkemesi",
+        "ucret": "29800"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Sulh Hukuk",
+        "ucret": "10700"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Tüketici Mahkemesi",
+        "ucret": "9000"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İcra Mahkemeleri - Takip edilen İşler",
+        "ucret": "5600"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İcra Mahkemeleri - Dava ve Duruşmalar",
+        "ucret": "5300"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Asliye Hukuk Mahkemesi",
+        "ucret": "17900"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Fikri ve Sınai Haklar Hukuk Mahkemesi",
+        "ucret": "25500"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Bölge Adliye ve Bölge İdare Mahkemeleri - İlk Derece",
+        "ucret": "16500"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Bölge Adliye ve Bölge İdare Mahkemeleri - 1 Duruşma",
+        "ucret": "10200"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Bölge Adliye ve Bölge İdare Mahkemeleri - 1'den fazla duruşma",
+        "ucret": "20400"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İcra Dairelerinde yapılan takipler",
+        "ucret": "3600"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İcra Daireleri - Tahliyeye İlişkin Takipler ",
+        "ucret": "7400"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Askerlik Kanunları Uyarınca Disiplin Kurullarında takip edilen davalar",
+        "ucret": "11700"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İdare ve Vergi Mahkemeleri - Duruşmasız",
+        "ucret": "10500"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "İdare ve Vergi Mahkemeleri - Duruşmalı",
+        "ucret": "20900"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Yargıtay - İlk Derece",
+        "ucret": "32000"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Danıştay - İlk Derece - Duruşmasız",
+        "ucret": "17100"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Danıştay - İlk Derece - Duruşmalı",
+        "ucret": "34200"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Yargıtay - Temyiz Duruşmalı",
+        "ucret": "17100"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Danıştay - Temyiz Duruşmalı",
+        "ucret": "17100"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Sayıştay - Temyiz Duruşmalı",
+        "ucret": "17100"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "Uyuşmazlık Mahkemesi",
+        "ucret": "19800"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "AYM - Yüce Divan",
+        "ucret": "67700"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "AYM - Bireysel - Duruşmasız",
+        "ucret": "18800"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "AYM - Bireysel - Duruşmalı",
+        "ucret": "37600"
+    },
+    {
+        "yil": "2023 - 21 Eylül Sonrası",
+        "birim": "AYM - Diğer dava ve İşleri",
+        "ucret": "38800"
+    },
+    {
         "yil": "2022 - 3 Eylül Sonrası",
         "birim": "Savcılık",
         "ucret": "2800"
