@@ -10,52 +10,18 @@ layout: gokhan
 </div>
 <form id="yargilamagideriform" data-gtm-form-interact-id="0">
     <div class="card-body">
-        <h5>Tebligatlar</h5>    
+        <h5>Tebligatlar</h5>
+        {% for tablo in  site.data.tebligatlar.tebligat  %}    
         <div class="col-12">
             <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ site.data.tebligatlar.tebligat.teb18.label }}</label>
-                <input type="hidden" id= "{{ site.data.tebligatlar.tebligat.teb18.adi }}" value="{{ site.data.tebligatlar.tebligat.teb18.gider }}">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
+                <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id= "{{ site.data.tebligatlar.tebligat.teb18.adet }}" value="0" placeholder="0">
+                    <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
                 </div>
             </div>
         </div>
-        <div class="col-12">
-            <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/02/2023-31/07/2023</label>
-                <input type="hidden" id="uteb17" value="58">
-                <div class="col-sm-6">
-                    <input type="number" class="form-control" id="gteb17" value="0" placeholder="0">
-                </div>
-            </div>
-        </div>
-        <div class="col-12">
-            <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">15/08/2022-31/01/2023</label>
-                <input type="hidden" id="uteb16" value="42">
-                <div class="col-sm-6">
-                    <input type="number" class="form-control" id="gteb16" value="0" placeholder="0">
-                </div>
-            </div>
-        </div>
-        <div class="col-12">
-            <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">07/02/2022-14/08/2022</label>
-                <input type="hidden" id="uteb15" value="31">
-                <div class="col-sm-6">
-                    <input type="number" class="form-control" id="gteb15" value="0" placeholder="0">
-                </div>
-            </div>
-        </div>
-        <div class="col-12">
-            <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/10/2021-06/02/2022</label>
-                <input type="hidden" id="uteb14" value="26">
-                <div class="col-sm-6">
-                    <input type="number" class="form-control" id="gteb14" value="0" placeholder="0">
-                </div>
-            </div>
-        </div>
+        {% endfor %}
         <div class="col-12 text-center"> 
             <a class="btn btn-primary" data-toggle="collapse" href="#eskitebligatlar" role="button" aria-expanded="false" aria-controls="multiCollapseExample1" id="dahaeskiler">Daha eski yıllar</a>            
         </div>           

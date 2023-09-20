@@ -1,7 +1,116 @@
 ---
 tebligat:
-  teb18:
-    adi: uteb18
-    adet: gteb18
-    label: 01/08/2023-halen
-    gider: 87
+  - teb18:
+      adi: uteb18
+      adet: gteb18
+      label: 01/08/2023-halen
+      gider: 87
+  - teb17:
+      adi: uteb17
+      adet: gteb17
+      label: 01/02/2023-31/07/2023
+      gider: 58
+  - teb16:
+      adi: uteb16
+      adet: gteb16
+      label: 15/08/2022-31/01/2023
+      gider: 42
+  - teb15:
+      adi: uteb15
+      adet: gteb15
+      label: 07/02/2022-14/08/2022
+      gider: 31
+  - teb14:
+      adi: uteb14
+      adet: gteb14
+      label: 01/10/2021-06/02/2022
+      gider: 26
+
+eskitebligat:
+  - teb13:
+      adi: uteb13
+      adet: gteb13
+      label: 01/11/2019-30/09/2021
+      gider: 19
+  - teb12:
+      adi: uteb12
+      adet: gteb12
+      label: 20/05/2019-31/10/2019
+      gider: 16.2
+  - teb11:
+      adi: uteb11
+      adet: gteb11
+      label: 02/01/2018-19/05/2019
+      gider: 14
+  - teb10:
+      adi: uteb10
+      adet: gteb10
+      label: 01/08/2017-01/01/2018
+      gider: 12.5
+  - teb9:
+      adi: uteb9
+      adet: gteb9
+      label: 11/07/2016-31/07/2017
+      gider: 11
+  - teb8:
+      adi: uteb8
+      adet: gteb8
+      label: 02/02/2016-10/07/2016
+      gider: 10
+  - teb7:
+      adi: uteb7
+      adet: gteb7
+      label: 02/02/2015-01/05/2016
+      gider:9
+  - teb6:
+      adi: uteb6
+      adet: gteb6
+      label: 05/05/2014-01/02/2015
+      gider: 9
+  - teb5:
+      adi: uteb5
+      adet: gteb5
+      label: 2013 yılı
+      gider: 8
+  - teb4:
+      adi: uteb4
+      adet: gteb4
+      label: 2012 yılı
+      gider: 7
+  - teb3:
+      adi: uteb3
+      adet: gteb3
+      label: 2011 yılı
+      gider: 6
+  - teb2:
+      adi: uteb2
+      adet: gteb2
+      label: 10/01/2009-31/12/2010
+      gider: 5
+  - teb1:
+      adi: uteb1
+      adet: gteb1
+      label: 10/01/2008-10/08/2009
+      gider: 4.5
+
+elektronikteb:
+  - eteb4:
+      adi: ueteb4
+      adet: geteb4
+      label: 01/02/2023-halen
+      gider: 10
+  - eteb3:
+      adi: ueteb3
+      adet: geteb3
+      label: 15/08/2022-31/01/2023
+      gider: 9
+  - eteb2:
+      adi: ueteb2
+      adet: geteb2
+      label: 14/02/2022-14/08/2022
+      gider: 6.5
+  - eteb1:
+      adi: ueteb1
+      adet: geteb1
+      label: ....-13/02/2022
+      gider: 5.5    
