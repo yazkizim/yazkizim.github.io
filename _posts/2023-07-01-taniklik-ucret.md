@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, adliye, tanık, tanıklık, tanık ücreti, tanıkl�
 keywords: Adalet Bakanlığı, adliye, tanık, tanıklık, tanık ücreti, tanıklık ücret, tanık ucret, tanık ucreti, tanıklık ucretleri, adliyeci
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/harc.jpg
   alt: Avukatlık Asgari Ücret Tarifesi

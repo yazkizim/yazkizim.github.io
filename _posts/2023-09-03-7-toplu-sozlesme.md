@@ -7,6 +7,7 @@ tags: [7. Dönem Toplu Sözleşme, Memur Zammı, Toplu Sözleşme, Katip Maaşı
 keywords: 7. Dönem Toplu Sözleşme, Memur Zammı, Toplu Sözleşme, Katip Maaşı, Adliye Maaşları
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/mahkeme.jpg
   alt: 7. Dönem Toplu sözleşmesi Resmi Gazetede yayınlanmıştır

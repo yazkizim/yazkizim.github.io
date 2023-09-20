@@ -103,14 +103,6 @@
                 "yuzde": 0.11,
                 "fark": 500000
             }
-        },
-        "tebligatlar":{
-            "teb18":{
-                "adi":"uteb18",
-                "adet":"gteb18",
-                "label":"01/08/2023-halen",
-                "gider":87                
-            }
         }
     }
 ]

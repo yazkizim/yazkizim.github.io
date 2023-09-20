@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, Maaşlar, 2023 En düşük Maaşlar]
 keywords: En düşük Katip Maaşı, En düşük Katip Mübaşir, En düşük Yazı İşleri Müdürü Maaşı, Katip Maaşı, Mübaşir Maaşı, Yazı İşleri Müdürü Maaşı, enflasyon farkı, 14 günlük maaş, Toplu Sözleşme
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/maas.jpg
   alt: 2023 yılı en yüksek ve en düşük Zabıt Katibi, Mübaşir ve Yazı İşleri Müdürü maaşları

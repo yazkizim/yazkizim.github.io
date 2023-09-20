@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, mahkeme, ıslah, ıslah harcı, yenileme harcı, adl
 keywords: Adalet Bakanlığı, mahkeme, ıslah, ıslah harcı, yenileme harcı, 2023, adliyeci
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/bilirkisi.jpg
   alt: 2023 Yılı Bilirkişi Asgari Ücret Tarifesi

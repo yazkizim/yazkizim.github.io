@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, mahkeme, parasal sınırlar, temyiz sınırı, istin
 keywords: Adalet Bakanlığı, mahkeme, parasal sınırlar, temyiz sınırı, istinaf sınırı, tek hakim sınırı, ticaret mahkemesi, 2023, adliyeci
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/mahkeme.jpg
   alt: 2023 Yılı Bilirkişi Asgari Ücret Tarifesi

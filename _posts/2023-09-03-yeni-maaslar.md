@@ -7,6 +7,7 @@ tags: [En düşük Katip Maaşı, En düşük Katip Mübaşir, En düşük Yazı
 keywords: En düşük Katip Maaşı, En düşük Katip Mübaşir, En düşük Yazı İşleri Müdürü Maaşı, Katip Maaşı, Mübaşir Maaşı, Yazı İşleri Müdürü Maaşı
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/maas.jpg
   alt: Maaş Hesaplama Robotu Güncellenmiştir

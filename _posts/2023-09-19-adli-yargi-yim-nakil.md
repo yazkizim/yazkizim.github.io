@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, Yazı İşleri Müdürü, İl içi atama, nakil, yö
 keywords: Adalet Bakanlığı, Yazı İşleri Müdürü, İl içi atama, nakil, yönetmelik, havuz tayin, adliyeci
 render_with_liquid: false
 pin: true
+comments: false
 image:
   path: /posts/bakanlik.jpg
   alt: Adalet Bakanlığı

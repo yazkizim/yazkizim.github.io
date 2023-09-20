@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, Maaşlar, 2023 Cezaevi Katibi Maaşı]
 keywords: Koruma ve Güvenlik Memuru Maaşı 2023, Adalet Bakanlığı, Koruma ve Güvenlik Memuru Maaşı, en düşük Koruma ve Güvenlik Memuru Maaşı, sözleşmeli Koruma ve Güvenlik Memuru Maaşı, sözleşmeli Koruma ve Güvenlik Memuru Maaşı, Yargıtay, Koruma ve Güvenlik Memuru Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Koruma ve Güvenlik Memuru ne iş yapar?
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/maas.jpg
   alt: 2023 Koruma ve Güvenlik Memuru Maaşları

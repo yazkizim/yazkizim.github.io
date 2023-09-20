@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, uzlaştırmacı, uzlaşma, uzlaşma masraf, uzlaşt�
 keywords: uzlaştırmacı, uzlastirmaci, uzlaştırmacı ücret, ücret tarifesi
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/bilirkisi.jpg
   alt: 2023 Yılı Uzlaştırmacı Ücret Tarifesi

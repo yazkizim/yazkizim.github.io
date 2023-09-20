@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, Maaşlar, 2023 Cezaevi Katibi Maaşı]
 keywords: Katip (İcra) Maaşı 2023, Adalet Bakanlığı, Zabıt Katibi Maaşı, en düşük Zabıt Katibi Maaşı, sözleşmeli Katip (İcra) maaşı, sözleşmeli Zabıt Katibi Maaşı, Yargıtay, Zabıt Katibi Alımı Ne Zaman, Katip (İcra) nedir?, Katip (İcra) nasıl olunur, Katip (İcra)lik şartları, Zabıt Katibi ne iş yapar?
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/maas.jpg
   alt: 2023 Katip (İcra) Maaşları

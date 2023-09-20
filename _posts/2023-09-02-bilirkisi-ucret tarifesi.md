@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, bilirkişi, bilirkişilik, bilirkişi masrafı, bili
 keywords: bilirkişi, bilirkişi ücret, mahkeme ücret, keşif ücret, bilirkişi ücreti, asgari ücret tarifesi, bilirkişi nedir
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/bilirkisi.jpg
   alt: 2023 Yılı Bilirkişi Asgari Ücret Tarifesi

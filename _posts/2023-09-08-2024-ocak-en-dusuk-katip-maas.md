@@ -7,6 +7,7 @@ tags: [enflasyon, enflasyon farkı, Ağustos, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Ağustos, maaş, 2023, adliyeci
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/maasrobotu.jpg
   alt: Maaş Hesaplama Robotu Güncellenmiştir

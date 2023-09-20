@@ -7,6 +7,7 @@ tags: [Adalet Bakanlığı, AAÜT, Avukatlık Asgari Ücret Tarifesi, adliyeci]
 keywords: Avukatlık Asgari Ücret Tarifesi, Avukat Tarifesi, Avukat Ücreti
 render_with_liquid: false
 pin: false
+comments: false
 image:
   path: /posts/harc.jpg
   alt: Avukatlık Asgari Ücret Tarifesi
