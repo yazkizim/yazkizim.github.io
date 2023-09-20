@@ -4,76 +4,76 @@
             "asliye":{
                 "maktu": 269.85,
                 "nispi": 0.06831,
-                "asgarivekalet": 9200.00
+                "asgarivekalet": 17900.00
             },
             "aile":{
                 "maktu": 269.85,
                 "nispi": 0.01138,
-                "asgarivekalet": 9200.00
+                "asgarivekalet": 17900.00
             },
             "sulhceza":{
                 "maktu": 4000,
                 "nispi": 0,
-                "asgarivekalet": 4000
+                "asgarivekalet": 8000
             },
             "agirceza":{
                 "maktu": 17400,
                 "nispi": 0,
-                "asgarivekalet": 17400
+                "asgarivekalet": 29800
             }
         },
         "nispivekalet":{
             "basamak1":{
                 "altlimit": 0,
-                "ustlimit": 100000,
+                "ustlimit": 200000,
                 "yuzde": 0.16,
-                "fark": 100000
+                "fark": 200000
             },
             "basamak2":{
-                "altlimit": 100000,
-                "ustlimit": 200000,
+                "altlimit": 200000,
+                "ustlimit": 400000,
                 "yuzde": 0.15,
-                "fark": 100000
+                "fark": 200000
             },
             "basamak3":{
-                "altlimit": 200000,
-                "ustlimit": 500000,
+                "altlimit": 400000,
+                "ustlimit": 800000,
                 "yuzde": 0.14,
-                "fark": 300000
+                "fark": 400000
             },
             "basamak4":{
-                "altlimit": 500000,
-                "ustlimit": 1000000,
+                "altlimit": 800000,
+                "ustlimit": 1400000,
                 "yuzde": 0.11,
-                "fark": 500000
+                "fark": 600000
             },
             "basamak5":{
-                "altlimit": 1000000,
-                "ustlimit": 1700000,
+                "altlimit": 1400000,
+                "ustlimit": 2200000,
                 "yuzde": 0.08,
-                "fark": 700000
+                "fark": 800000
             },
             "basamak6":{
-                "altlimit": 1700000,
-                "ustlimit": 2600000,
+                "altlimit": 2200000,
+                "ustlimit": 3200000,
                 "yuzde": 0.05,
-                "fark": 900000
+                "fark": 1000000
             },
             "basamak7":{
-                "altlimit": 2600000,
-                "ustlimit": 3700000,
+                "altlimit": 3200000,
+                "ustlimit": 4400000,
                 "yuzde": 0.03,
-                "fark": 1100000
+                "fark": 1200000
             },
             "basamak8":{
-                "altlimit": 3700000,
-                "ustlimit": 5000000,
+                "altlimit": 4400000,
+                "ustlimit": 5800000,
                 "yuzde": 0.02,
-                "fark": 3700000 
+                "fark": 1400000 
             },
             "basamak9":{
-                "altlimit": 5000000,
-                "ustlimit": 5000000,
+                "altlimit": 5600000,
+                "ustlimit": 5600000,
                 "yuzde": 0.01,
                 "fark": 0
             }
@@ -81,27 +81,27 @@
         "agirnispivekalet":{
             "basamak1":{
                 "altlimit": 0,
-                "ustlimit": 100000,
+                "ustlimit": 200000,
                 "yuzde": 0.16,
-                "fark": 100000
+                "fark": 200000
             },
             "basamak2":{
-                "altlimit": 100000,
-                "ustlimit": 200000,
+                "altlimit": 200000,
+                "ustlimit": 400000,
                 "yuzde": 0.15,
-                "fark": 100000
+                "fark": 200000
             },
             "basamak3":{
-                "altlimit": 200000,
-                "ustlimit": 500000,
+                "altlimit": 400000,
+                "ustlimit": 800000,
                 "yuzde": 0.14,
-                "fark": 300000
+                "fark": 400000
             },
             "basamak4":{
-                "altlimit": 500000,
-                "ustlimit": 1000000,
+                "altlimit": 800000,
+                "ustlimit": 1400000,
                 "yuzde": 0.11,
-                "fark": 500000
+                "fark": 600000
             }
         }
     }
