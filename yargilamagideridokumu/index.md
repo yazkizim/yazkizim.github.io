@@ -14,7 +14,7 @@ layout: gokhan
         <div class="col-12">
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ site.assets.veriler.tebligatlar.teb18.label }}</label>
-                <input type="hidden" id="{{ site.assets.veriler[0].tebligatlar.teb18.adi }}" value="{{ site.assets.veriler[0].tebligatlar.teb18.gider }}">
+                <input type="hidden" id="{{ site.assets.veriler[0].tebligatlar.teb18.adi }}" value="{{ site.data[0].yil }}">
                 <div class="col-sm-6">
                     <input type="number" class="form-control" id="{{ site.assets.veriler[0].tebligatlar.teb18.adet }}" value="0" placeholder="0">
                 </div>
