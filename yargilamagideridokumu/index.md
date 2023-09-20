@@ -13,10 +13,10 @@ layout: gokhan
         <h5>Tebligatlar</h5>    
         <div class="col-12">
             <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">01/08/2023-halen</label>
-                <input type="hidden" id="uteb18" value="87">
+                <label for="yargilamagideri" class="col-sm-4 col-form-label">{{site.assets.veriler.tebligatlar.teb18.label}}</label>
+                <input type="hidden" id="{{site.assets.veriler.tebligatlar.teb18.adi}}" value="{{site.assets.veriler.tebligatlar.teb18.gider}}">
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id="gteb18" value="0" placeholder="0">
+                    <input type="number" class="form-control" id="{{site.assets.veriler.tebligatlar.teb18.adet}}" value="0" placeholder="0">
                 </div>
             </div>
         </div>
