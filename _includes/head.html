@@ -94,17 +94,5 @@
     {% include mode-toggle.html %}
   {% endunless %}
 
-  {% include metadata-hook.html %}
-  <script src="https://sdki.truepush.com/sdk/v2.0.4/app.js" ></script>
-  <script>
-  var truepush = window.truepush || [];
-  truepush.push(function(){
-      truepush.Init({
-          
-          id: "650cd061eb55ea55e735a44e"
-      }, function(error){
-              if(error) console.error(error);
-      })
-  })
-  </script>
+  {% include metadata-hook.html %}  
 </head>
