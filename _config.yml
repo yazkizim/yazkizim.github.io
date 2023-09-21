@@ -160,7 +160,7 @@ defaults:
   - scope:
       path: assets/js/dist
     values:
-      swcache: true
+      swcache: false
   - scope:
       path: "_pages" # An empty string here means all files in the project
       type: pages
