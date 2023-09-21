@@ -10,18 +10,7 @@
     name="viewport"
     content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
-  <script                              src="https://sdki.truepush.com/sdk/v2.0.4/app.js" ></script>
-                                <script>
-                                var truepush = window.truepush || [];
-                                truepush.push(function(){
-                                    truepush.Init({
-                                        
-                                        id: "650cd061eb55ea55e735a44e"
-                                    }, function(error){
-                                            if(error) console.error(error);
-                                    })
-                                })
-                                </script>
+
 
   {% capture seo_tags %}
     {% seo title=false %}
@@ -106,4 +95,16 @@
   {% endunless %}
 
   {% include metadata-hook.html %}
+  <script src="https://sdki.truepush.com/sdk/v2.0.4/app.js" ></script>
+  <script>
+  var truepush = window.truepush || [];
+  truepush.push(function(){
+      truepush.Init({
+          
+          id: "650cd061eb55ea55e735a44e"
+      }, function(error){
+              if(error) console.error(error);
+      })
+  })
+  </script>
 </head>
