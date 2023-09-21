@@ -10,6 +10,15 @@
     name="viewport"
     content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
+  <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+  <script>
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    OneSignalDeferred.push(function(OneSignal) {
+      OneSignal.init({
+        appId: "9f4dbfe2-ba64-43a9-b124-49b180baa7b8",
+      });
+    });
+  </script>
 
   {% capture seo_tags %}
     {% seo title=false %}
