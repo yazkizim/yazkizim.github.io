@@ -6,7 +6,7 @@ categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, görevde yükselme, ünvan değişikliği, mülakat, müdür, adliye, adliyeci]
 keywords: Adalet Bakanlığı, görevde yükselme, ünvan değişikliği, mülakat, müdür, adliye, adliyeci
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/gys.jpg
