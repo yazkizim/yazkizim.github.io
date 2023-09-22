@@ -1,6 +1,6 @@
 ---
 title: Yargılama Giderleri (Harç ve Gider Avansı)
-keywords: Mahkeme masrafları, dava açma masrafı, Sulh Hukuk, Aile, Boşanma, İş, Tahliye, İzale, Ortaklığın Giderilmesi, Kadastro, Tüketici, Ticaret, mahkemesi, adliye, adliyeci
+keywords: Mahkeme masrafları, dava açma masrafı, Sulh Hukuk, Aile, Boşanma, İş, Tahliye, İzale, Ortaklığın Giderilmesi, Kadastro, Tüketici, Ticaret, mahkemesi, adliye, iş davası masrafı, boşanma davası masrafı, tahliye davası masrafı, mahkeme masrafı 2023, adliyeci
 permalink: /harcvegideravansi/
 layout: gokhan
 ---
