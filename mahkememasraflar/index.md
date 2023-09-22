@@ -37,7 +37,6 @@ layout: gokhan
         <div class="mb-3">
             <label class="form-label required">Taraf Sayısı</label>
             <select type="text" class="form-select w-100" placeholder="Seçiniz" id="tarafsayisi" value="">
-                <option value="0">0</option>
                 <option value="1">1</option>
                 <option value="2" selected>2</option>
                 <option value="3">3</option>
