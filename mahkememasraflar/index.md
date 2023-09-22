@@ -11,7 +11,8 @@ layout: gokhan
 <form id="harcvegider" data-gtm-form-interact-id="0">
     <div class="card-body">
         <div class="mb-3">
-            <select type="text" class="form-select w-100" placeholder="Seçiniz" id="mahkeme" value="">
+            <label class="form-label required"></label>
+            <select type="text" class="form-select w-100" placeholder="Mahkeme Seçiniz" id="mahkeme" value="">
                     <option value="0" disabled selected>Seçiniz</option>
                     <option value="asliye">Asliye Hukuk Mahkemesi</option>
                     <option value="sulh">Sulh Hukuk Mahkemesi</option>
@@ -24,16 +25,16 @@ layout: gokhan
                     <option value="ticaret">Ticaret Mahkemesi</option>
             </select>
         </div>
-        <div class="mb-3">
-            <input class="form-check-input" type="checkbox" id="davapara">
-            <label class="form-check-label" for="flexSwitchCheckChecked">Para ile Ölçülebilen Bir Dava mı?</label>
-        </div>
         <div class="mb-3" id="davadegeri">
             <label class="form-label required">Dava edilen miktar</label>
+            <small class="form-hint">* Eğer para ile ölçülebilen bir dava değilse 0 olarak bırakınız.</a></small>
             <div>
                 <input type="number" class="form-control" data-type="currency" placeholder="Kabul edilen değeri giriniz" value="0.00" name="davamiktar" id="davamiktar">
-                </small>
             </div>
+        </div>
+        <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="kesif" name="kesif" checked>
+            <label class="form-check-label" for="kesif">Keşif Talep Edildi mi ?</label>
         </div>
         <div class="mb-3">
             <label class="form-label required">Taraf Sayısı</label>
@@ -67,7 +68,7 @@ layout: gokhan
                 <option value="9">9</option>
                 <option value="10">10</option>
             </select>
-            <small class="form-hint">* Tarafların toplam avukat sayısı</a></small>
+            <small class="form-hint">* Tarafların toplam avukat sayısı</small>
         </div> 
         <div class="mb-3">
             <label class="form-label required">Tanık Sayısı</label>
@@ -84,7 +85,7 @@ layout: gokhan
                 <option value="9">9</option>
                 <option value="10">10</option>
             </select>
-            <small class="form-hint">* Dava dilekçesinde dayanılan tanık sayısı</a></small>
+            <small class="form-hint">* Dava dilekçesinde dayanılan tanık sayısı</small>
         </div>
         <div class="mb-3">
             <label class="form-label required">Bilirkişi Sayısı</label>
@@ -101,12 +102,12 @@ layout: gokhan
                 <option value="9">9</option>
                 <option value="10">10</option>
             </select>
-            <small class="form-hint">* Dava dilekçesinde bilirkişi deliline dayanılmamış ise 0 seçiniz</a></small>
+            <small class="form-hint">* Dava dilekçesinde bilirkişi deliline dayanılmamış ise 0 seçiniz</small>
         </div>       
     </div>
     <div class="card-footer">
-        <button type="button float-left" class="btn btn-outline-danger" id="gidertemizle">Temizle</button>
-        <button type="button float-right" class="btn btn-outline-primary" id="giderhesapla">Hesapla</button>
+        <button type="button float-left" class="btn btn-outline-danger" id="avanstemizle">Temizle</button>
+        <button type="button float-right" class="btn btn-outline-primary" id="avanshesapla">Hesapla</button>
     </div>    
     <div class="row justify-content-center">
         <div class="col-lg-12">
@@ -114,7 +115,7 @@ layout: gokhan
                 <div class="card border-primary mb-3">
                     <div class="card-header text-center font-weight-bold text-danger"> SONUÇ </div>
                     <div class="card-body">
-                        <p class="card-text text-justify font-weight-bold">YARGILAMA GİDERİ DÖKÜMÜ<br>==========================</p>
+                        <p class="card-text text-justify font-weight-bold">AYRINTILI HESAP DÖKÜMÜ<br>==========================</p>
                         <p class="card-text text-justify" id="yargilamadokum"></p>
                     </div>
                 </div>
