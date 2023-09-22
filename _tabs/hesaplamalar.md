@@ -67,7 +67,7 @@ color: green
           </div>          
         </div>
       </div>
-      <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-envelope fa-fw me-1 fa-3x align-middle" style = "color: #d500f9"> </i></div>    
+      <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-layer-group fa-fw me-1 fa-3x align-middle" style = "color: #d500f9"> </i></div>    
     </a>
   </article>
   <article class="card-wrapper"> 
