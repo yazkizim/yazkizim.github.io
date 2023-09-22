@@ -13,8 +13,8 @@ layout: gokhan
         <div class="mb-3">
             <label class="form-label required"></label>
             <select type="text" class="form-select w-100" placeholder="Mahkeme Seçiniz" id="mahkeme" value="">
-                    <option value="0" disabled selected>Seçiniz</option>
-                    <option value="asliye">Asliye Hukuk Mahkemesi</option>
+                    <option value="0" disabled>Seçiniz</option>
+                    <option value="asliye" selected>Asliye Hukuk Mahkemesi</option>
                     <option value="sulh">Sulh Hukuk Mahkemesi</option>
                     <option value="icramah">İcra Mahkemeleri</option>
                     <option value="aile">Aile Mahkemesi</option>
