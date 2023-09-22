@@ -104,8 +104,8 @@ layout: gokhan
         </div>       
     </div>
     <div class="card-footer">
-        <button type="button float-left" class="btn btn-outline-danger" id="avanstemizle">Temizle</button>
-        <button type="button float-right" class="btn btn-outline-primary" id="avanshesapla">Hesapla</button>
+        <a type="submit" class="btn btn-outline-danger w-100" id="avanstemizle" name="avanstemizle">Temizle</a>
+        <a type="submit" class="btn btn-outline-primary w-100" id="avanshesapla" name="avanshesapla">Hesapla</a>
     </div>    
     <div class="row justify-content-center">
         <div class="col-lg-12">
