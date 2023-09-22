@@ -26,11 +26,9 @@ layout: gokhan
             </select>
         </div>
         <div class="mb-3" id="davadegeri">
-            <label class="form-label required">Dava edilen miktar</label>
-            <small class="form-hint">* Eğer para ile ölçülebilen bir dava değilse 0 olarak bırakınız.</a></small>
-            <div>
+            <label class="form-label required">Dava edilen miktar</label>  
                 <input type="number" class="form-control" data-type="currency" placeholder="Kabul edilen değeri giriniz" value="0.00" name="davamiktar" id="davamiktar">
-            </div>
+                <small class="form-hint">* Eğer para ile ölçülebilen bir dava değilse 0 olarak bırakınız.</small>
         </div>
         <div class="form-check form-switch">
             <input class="form-check-input" type="checkbox" id="kesif" name="kesif" checked>
