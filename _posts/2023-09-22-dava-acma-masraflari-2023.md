@@ -1,5 +1,5 @@
 ---
-title: 2023 Yılı Dava Açma Masrafları
+title: Dava Açma Masrafları 2023 Yılı 
 author: gokhantasci
 date: 2023-09-22 22:00:00 +0300
 categories: [Güncelleme, '2023']
