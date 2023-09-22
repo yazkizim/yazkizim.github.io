@@ -9,7 +9,7 @@ const resource = [
 
   /* --- PWA --- */
   '{{ "/app.js" | relative_url }}',
-  '{{ "/sws.js" | relative_url }}',
+  '{{ "/sw.js" | relative_url }}',
 
   /* --- HTML --- */
   '{{ "/index.html" | relative_url }}',
