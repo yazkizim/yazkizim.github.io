@@ -19,14 +19,14 @@ swcache: true
   {% endfor %}
 
   {% for sozluk in site.assets.sozluk %}
-  
+
   {
     "title": {{ sozluk.kelime | jsonify }},
     "url": {{ "/sozluk/?kelime=" | append: sozluk.kelime }},
     "categories": "",
     "tags": "",
     "date": "{{ now }}",
-    {% include no-linenos.html content=post.content %}
+    {% include no-linenos.html content= sozluk.anlami %}
     {% assign _content = content | strip_html | strip_newlines %}
     "snippet": {{ sozluk.anlami | truncate: 200 | jsonify }},
     "content": {{ sozluk.anlami | jsonify }}
