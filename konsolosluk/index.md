@@ -1,7 +1,7 @@
 ---
 title: Yurt Dışı Konsolosluklar Bilgileri
 keywords: konsolosluklar, adalet bakanlığı, adliye, adliyeci
-permalink: /konsolosluk/
+permalink: /konsolosluklar/
 layout: gokhan
 swcache: true
 ---
@@ -24,4 +24,3 @@ swcache: true
       </tbody>
     </table>
   </div>
-  
