@@ -22,7 +22,7 @@ swcache: true
 
   {
     "title": {{ sozluk.kelime | jsonify }},
-    "url": {{ "/sozluk/?kelime=" | append: sozluk.kelime }},
+    "url": "{{ '/sozluk/?kelime=' | append: sozluk.kelime }}",
     "categories": "",
     "tags": "",
     "date": "{{ now }}",
