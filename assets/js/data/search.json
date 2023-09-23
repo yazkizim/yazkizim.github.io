@@ -17,4 +17,19 @@ swcache: true
     "content": {{ _content | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
+
+  {% for sozluk in site.assets.sozluk %}
+  
+  {
+    "title": {{ sozluk.kelime | jsonify }},
+    "url": {{ "/sozluk/?kelime=" | append: sozluk.kelime }},
+    "categories": "",
+    "tags": "",
+    "date": "{{ now }}",
+    {% include no-linenos.html content=post.content %}
+    {% assign _content = content | strip_html | strip_newlines %}
+    "snippet": {{ sozluk.anlami | truncate: 200 | jsonify }},
+    "content": {{ sozluk.anlami | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
 ]
