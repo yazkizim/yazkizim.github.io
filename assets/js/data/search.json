@@ -18,7 +18,7 @@ swcache: true
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 
-  {% for sozluk in site.assets.sozluk %}
+  {% for sozluk in site.data.sozluk %}
 
   {
     "title": {{ sozluk.kelime | jsonify }},
