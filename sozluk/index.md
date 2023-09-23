@@ -8,26 +8,10 @@ layout: gokhan
 </div>
 <div class="card-body" id="kelimeid">
     <div class="col-md-8 offset-md-2 offset-md-right">
-            <h1 id="kelime" name="kelime"> {{ page.kelime }} - - {{ page.anlami }}    </h1>                
+            <h1 id="kelime" name="kelime"> {{ page.kelime }}</h1> 
+            <p class="text-justify" id="anlami">{{ page.anlami }}</p>               
     </div>
               
 </div>
 
         
-        
-<script>
-        let queryString = window.location.search;
-        let urlParams = new URLSearchParams(queryString);
-        queryString = urlParams.get('kelime');
-        let kelime = urlParams.get('kelime');
-        document.title = kelime + " ne demek ? - www.Adliyeci.com.tr";
-
-        $.getJSON("../dist/sozluk.json", function(data) {
-                $.each(data, function(k, obj) {
-                if(obj['kelime'].toLowerCase() == kelime.toLowerCase()) {
-                        $('#kelime').html('<br>' + kelime + " : " + obj['anlami'] + '<br>Anlamına gelmektedir.');     
-                }
-                });
-        }); 
-
-</script>

@@ -64,7 +64,7 @@ permalink: /feed.xml
             <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
           </item>
         {% endif %}
-         {% endfor %}
+{% endfor %}
 </feed>
 {% endcapture %}
 {{ source | replace: '&', '&amp;' }}
