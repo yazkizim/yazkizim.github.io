@@ -41,6 +41,19 @@ layout: default
 
 {% capture content %}
   {% for post in posts %}
+    {% if post.index == 2 %}
+      <article class="card-wrapper"> 
+        <a href="#" class="card post-preview flex-md-row-reverse border border-warning" id="sozlukid">
+          <div class="card-body d-flex flex-column">
+            <h1 class="card-title my-2 mt-md-0" id="kelime"></h1>
+            <div class="card-text content mt-0 mb-2">
+              <p id="anlami"></p>
+            </div>
+          </div>
+          <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-spell-check fa-fw me-1 fa-3x align-middle" style = "color: #d500f9"> </i></div>    
+        </a>
+      </article>
+    {% endif %}
     <article class="card-wrapper">
       <a href="{{ post.url | relative_url }}" class="card post-preview flex-md-row-reverse">
         {% if post.image %}
@@ -55,7 +68,7 @@ layout: default
 
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
 
-          <img src="{{ src }}" w="17" h="10" alt="Cezaevi Katipleri" {{ lqip }}>
+          <img src="{{ src }}" w="17" h="10" alt="Adliyeci.com.tr" {{ lqip }}>
         {% endif %}
 
         <div class="card-body d-flex flex-column">
