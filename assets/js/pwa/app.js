@@ -93,12 +93,12 @@ $.ajax({
 
 		if (data['BTC']['d_oran'] > 0) { 
 			$('#btc').attr('class', 'text-success');
-			$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' ₺');
+			$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' $');
 		} else if (data['BTC']['d_oran'] < 0){
 			$('#btc').attr('class', 'text-danger');
-			$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' ₺');
+			$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' $');
 		} else {
-            $('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' ₺');
+            $('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' $');
         }
 	},
 	error: function(){
