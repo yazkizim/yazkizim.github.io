@@ -67,7 +67,8 @@ layout: gokhan
                       <button href="#" class="list-group-item w-100 text-left disabled" id="{{ sub1.id }}" disabled>{{ sub1.adi }}</button> 
                       {% else %} 
                       <button href="#" class="list-group-item w-100 text-left text-primary" id="{{ sub1.id }}" onclick="return testOlustur('{{ sub1.id }}.json');">{{ sub1.adi }}
-                        <span class="badge badge bg-success badge-pill">1418 Soru</span>
+                        <span class="badge badge bg-success badge-pill">1472 Soru</span>
+                        <script>console.log(Object.keys({{ sub1.id }}.json).length);</script>
                       </button> 
                       {% endif %}                 
                     {% endif %}                  
