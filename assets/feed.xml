@@ -65,6 +65,14 @@ permalink: /feed.xml
           </item>
         {% endif %}
 {% endfor %}
+{% for sozluk in site.data.sozluk %}
+          <item>
+            <title>{{ sozluk.kelime | xml_escape }} ne demek?</title>
+            <description>{{ sozluk.anlami | xml_escape }}</description>
+            <link>"{{ '/sozluk/?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}"</link>
+          </item>
+{% endfor %}
+
 </feed>
 {% endcapture %}
 {{ source | replace: '&', '&amp;' }}
