@@ -1,0 +1,33 @@
+---
+title: Hukuk Sözlük
+layout: gokhan
+---
+
+<div class="card-header">
+    <h3 class="card-title"></h3>
+</div>
+<div class="card-body">
+    <div class="col-md-8 offset-md-2 offset-md-right">
+            <h1 id="kelime" name="kelime"> {{ page.kelime }} - - {{ page.anlami }}    </h1>                
+    </div>
+              
+</div>
+
+        
+        
+<script>
+        let queryString = window.location.search;
+        let urlParams = new URLSearchParams(queryString);
+        queryString = urlParams.get('kelime');
+        let kelime = urlParams.get('kelime');
+        document.title = kelime + " ne demek ? - www.Adliyeci.com.tr";
+
+        $.getJSON("../dist/sozluk.json", function(data) {
+                $.each(data, function(k, obj) {
+                if(obj['kelime'].toLowerCase() == kelime.toLowerCase()) {
+                        $('#kelime').html('<br>' + kelime + " : " + obj['anlami'] + '<br>Anlamına gelmektedir.');     
+                }
+                });
+        }); 
+
+</script>

@@ -132,6 +132,10 @@ collections:
   tabs:
     output: true
     sort_by: order
+  sozluk:
+    output: true
+    custom_permalink_placeholders: ["kelime"]
+    permalink: sozluk/:kelime  
 
 defaults:
   - scope:
@@ -171,7 +175,15 @@ defaults:
       toc: true # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
-      permalink: /sayfa/:title/    
+      permalink: /sayfa/:title/ 
+  - scope:
+      path: ""
+      type: sozluk
+    values:
+      layout: sozluk
+      kelime: "kelime"
+      anlami: "anlami"
+      permalink: /sozluk/:slug       
       
 
 sass:
