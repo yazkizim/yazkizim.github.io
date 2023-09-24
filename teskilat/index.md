@@ -23,6 +23,7 @@ swcache: true
             <th><button class="table-sort" data-sort="sort-durum">Durumu</button></th>											
             <th><button class="table-sort" data-sort="sort-bagliad">Bağlı Olduğu Adliye</button></th>
             <th><button class="table-sort" data-sort="sort-bagliacm">Bağlı Ağır Ceza</button></th>
+            <th><button class="table-sort" data-sort="sort-bagliacm">Bağlı bam</button></th>
             </tr>
         </thead>
         <tbody class="table-tbody">       								
