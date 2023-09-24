@@ -23,7 +23,7 @@ swcache: true
           </tr>
         </thead>
         <tbody class="table-tbody">
-        {% for satir in site.data.konsolosluk %}
+        {% for satir in site.data.konsolosluk limit: 10 %}
         <tr>
         <td class="sort-ulke">{{ satir.ulke }}</td>
         <td class="sort-temsilcilik">{{ satir.temsilcilik }}</td>
