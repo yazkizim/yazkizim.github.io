@@ -17,5 +17,5 @@ HSK'nın 2022 ve 2023 kararlarında Keşan Ağır Ceza, Soma Ağır Ceza, Tatvan
 HSK tarafından yayınlanan Teşkilat Yapısında bu adliyelerin bilgilerinin henüz güncellenmediği görülmüştür. 
 Web sitemize eklediğimiz Teşkilat Şeması ile bu güncellemeler yapılmıştır.
 
-Bağlı bulunan adliyeleri sorgulamak için [**tıklayınız**](https://adliyeci.com.tr/harcvegideravansi/)
+Bağlı bulunan adliyeleri sorgulamak için [**tıklayınız**](https://adliyeci.com.tr/teskilat/)
 
