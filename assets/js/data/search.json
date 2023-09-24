@@ -4,6 +4,21 @@ swcache: true
 ---
 
 [
+  {% for teskilat in site.data.teskilat %}
+
+  {
+    "title": "{{ teskilat.mahal | jsonify }} Adliyesi Nereye Bağlı?",
+    "url": "{{ '/adliye/?adliye=' | append: teskilat.mahal }}",
+    "categories": "Adli Teşkilat",
+    "tags": "Adli Teşkilat",
+    "date": "{{ now }}",
+    {% include no-linenos.html content= sozluk.anlami %}
+    {% assign _content = content | strip_html | strip_newlines %}
+    "snippet": "Detaylar için tıklayınız",
+    "content": "Detaylar için tıklayınız"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %},
+
   {% for post in site.posts %}
   {
     "title": {{ post.title | jsonify }},
@@ -16,8 +31,7 @@ swcache: true
     "snippet": {{ _content | truncate: 200 | jsonify }},
     "content": {{ _content | jsonify }}
   }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
+  {% endfor %},
 
   {% for sozluk in site.data.sozluk %}
 
