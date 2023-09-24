@@ -1,6 +1,6 @@
 ---
-title: Avukatlık Asgari Ücret Tarifesi
-keywords: avukatlık asgari ücret tarifesi, baro, avukat ücreti, aaüt
+title: Konsolosluk ve Dış Temsilcilikler
+keywords: Konsolosluklar, Başkonsolosluklar, Elçilikler, Dış Temsilcilikler
 permalink: /konsolosluklar/
 layout: gokhan
 swcache: true
@@ -23,7 +23,7 @@ swcache: true
           </tr>
         </thead>
         <tbody class="table-tbody">
-        {% for satir in site.data.konsolosluk limit: 10 %}
+        {% for satir in site.data.konsolosluk limit: 1 %}
         <tr>
         <td class="sort-ulke">{{ satir.ulke }}</td>
         <td class="sort-temsilcilik">{{ satir.temsilcilik }}</td>
