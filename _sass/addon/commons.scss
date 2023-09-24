@@ -815,7 +815,7 @@ $btn-mb: 0.5rem;
       &.active {
         .nav-link {
           color: var(--sidebar-active-color);
-          background-color: var(--sidebar-hover-bg);
+          background-color: var(--sidebar-hover-bg-act);
 
           span {
             opacity: 1;
