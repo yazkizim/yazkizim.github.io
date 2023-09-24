@@ -274,4 +274,9 @@
       @include btn-sharing-color(rgb(171, 171, 171));
     }
   } 
+
+  .table {
+    --bs-table-color: var(--main-bg);
+    --bs-table-bg: var(--text-color);
+  }
 } /* dark-scheme */
