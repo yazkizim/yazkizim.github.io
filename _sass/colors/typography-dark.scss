@@ -206,4 +206,10 @@
     background-color: var(--sidebar-hover-bg-act);    
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
+
+  .form-control {
+    color: var(--sidebar-active-color);    
+    background-color: var(--sidebar-hover-bg-act);    
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
 } /* dark-scheme */
