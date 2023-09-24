@@ -152,15 +152,18 @@
   .list-group.list-group-root {
     padding: 0;
     overflow: hidden;
+    color: var(--sidebar-active-color);  
   }
 
   .list-group.list-group-root .list-group {
       margin-bottom: 0;
+      color: var(--sidebar-active-color);  
   }
 
   .list-group.list-group-root .list-group-item {
       border-radius: 0;
       border-width: 1px 0 0 0;
+      color: var(--sidebar-active-color);  
   }
 
   .list-group.list-group-root > .list-group-item:first-child {
