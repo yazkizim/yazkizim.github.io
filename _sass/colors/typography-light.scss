@@ -143,11 +143,9 @@
 
   .list-group-item .fas {
       margin-right: 5px;
-      background-color: #fff2df !important;
   }
 
   .list-group-item.active {
-      background-color: #fff2df !important;
   }
 
   .share-wrapper {
@@ -213,7 +211,7 @@
   } 
 
   .table {
-    --bs-table-color: var(--main-bg);
-    --bs-table-bg: var(--text-color);
+    bs-table-color: var(--main-bg);
+    bs-table-bg: var(--text-color);
   }
 } /* light-scheme */
