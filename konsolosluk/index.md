@@ -24,12 +24,13 @@ swcache: true
         </thead>
         <tbody class="table-tbody">
         {% for satir in site.data.konsolosluk %}
-        <tr><td class="sort-ulke">{{ satir.ulke }}
-        <td class="sort-temsilcilik">{{ satir.temsilcilik }}
-        <td class="sort-eyalet">{{ satir.eyalet }}
-        <td class="sort-sehir">{{ satir.sehir }}
-        <td class="sort-pk">{{ satir.pk }}
-        </td></tr>
+        <tr>
+        <td class="sort-ulke">{{ satir.ulke }}</td>
+        <td class="sort-temsilcilik">{{ satir.temsilcilik }}</td>
+        <td class="sort-eyalet">{{ satir.eyalet }}</td>
+        <td class="sort-sehir">{{ satir.sehir }}</td>
+        <td class="sort-pk">{{ satir.pk }}</td>
+        </tr>
         {% endfor %}         										
         </tbody>        
       </table>
