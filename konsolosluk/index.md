@@ -9,6 +9,7 @@ swcache: true
 
 <div class="card-header">
     <h3 class="card-title">Avukatlık Asgari Ücret Tarifesi</h3>
+    <br>
     </div>
   
   <div id="table-default" class="table-responsive">

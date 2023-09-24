@@ -9,6 +9,7 @@ swcache: true
 
 <div class="card-header">
     <h3 class="card-title">Teşkilat Şeması</h3>
+    <br>
     </div>
   
   <div id="table-default" class="table-responsive">
