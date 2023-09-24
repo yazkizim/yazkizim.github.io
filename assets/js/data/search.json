@@ -7,15 +7,15 @@ swcache: true
   {% for teskilat in site.data.teskilat %}
 
   {
-    "title": {{ teskilat.mahal | jsonify }} " Adliyesi Nereye Bağlı?",
+    "title": {{ teskilat.mahal | jsonify | append: Adliyesi Nereye Bağlı?}},
     "url": "{{ '/adliye/?adliye=' | append: teskilat.mahal }}",
     "categories": "Adli Teşkilat",
     "tags": "Adli Teşkilat",
     "date": "{{ now }}",
     {% include no-linenos.html content= sozluk.anlami %}
     {% assign _content = content | strip_html | strip_newlines %}
-    "snippet": "Detaylar için tıklayınız",
-    "content": "Detaylar için tıklayınız"
+    "snippet": "Detaylar için tıklayın",
+    "content": "Detaylar için tıklayın"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %},
 
