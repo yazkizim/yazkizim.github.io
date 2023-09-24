@@ -72,6 +72,7 @@ color: green
   </article>
   <article class="card-wrapper"> 
     <a href="/konsolosluklar/" class="card post-preview flex-md-row-reverse">
+    <span class="badge badge-secondary bg-white text-danger">Yeni *</span>
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Konsolosluklar ve Dış Temsilcilikler
         </h1>
@@ -93,6 +94,7 @@ color: green
   </article>
   <article class="card-wrapper"> 
     <a href="/teskilat/" class="card post-preview flex-md-row-reverse">
+    <span class="badge badge-secondary bg-white text-danger">Yeni *</span>
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Teşkilat Şeması
         </h1>
