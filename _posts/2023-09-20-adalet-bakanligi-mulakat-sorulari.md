@@ -1,5 +1,5 @@
 ---
-title: Mülakat Soruları Yeniden Sisteme Eklenmiştir
+title: Adalet Bakanlığı Mülakat Soruları Yeniden Sisteme Eklenmiştir
 author: gokhantasci
 date: 2023-09-20 01:00:00 +0300
 categories: [Güncelleme, '2023']
