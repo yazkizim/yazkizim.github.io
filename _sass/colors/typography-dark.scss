@@ -212,4 +212,66 @@
     background-color: var(--sidebar-hover-bg-act);    
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
+
+  .share-wrapper {
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+
+    .share-icons {
+      font-size: 1.2rem;
+
+      > * {
+        margin-left: 0.25rem;
+
+        &:hover {
+          i {
+            @extend %btn-share-hovor;
+          }
+        }
+      }
+
+      button {
+        position: relative;
+        bottom: 2px;
+        padding: 0;
+
+        @extend %cursor-pointer;
+      }
+
+      a :hover {
+        text-decoration: none;
+      }
+
+      .fa-square-x-twitter {
+        @include btn-sharing-color(black);
+      }
+
+      .fa-whatsapp-square {
+        @include btn-sharing-color(rgb(37, 211, 102));
+      }
+
+      .fa-facebook-square {
+        @include btn-sharing-color(rgb(66, 95, 156));
+      }
+
+      .fa-telegram {
+        @include btn-sharing-color(rgb(39, 159, 217));
+      }
+
+      .fa-linkedin {
+        @include btn-sharing-color(rgb(0, 119, 181));
+      }
+
+      .fa-weibo {
+        @include btn-sharing-color(rgb(229, 20, 43));
+      }
+    } /* .share-icons */
+
+    .fas.fa-link {
+      @include btn-sharing-color(rgb(171, 171, 171));
+    }
+  } 
 } /* dark-scheme */
