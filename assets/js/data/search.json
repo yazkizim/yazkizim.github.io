@@ -7,7 +7,7 @@ swcache: true
   {% for teskilat in site.data.teskilat %}
 
   {
-    "title": {% assign mahalli = teskilat.mahal | jsonify %} {{ mahalli | append: "Adliyesi Nereye Bağlı?"}},
+    "title": {{ teskilat.mahal | append: "Adliyesi Nereye Bağlı?" | jsonify}},
     "url": "{{ '/adliye/?adliye=' | append: teskilat.mahal }}",
     "categories": "Adli Teşkilat",
     "tags": "Adli Teşkilat",
