@@ -3,6 +3,7 @@ title: Avukatlık Asgari Ücret Tarifesi
 keywords: avukatlık asgari ücret tarifesi, baro, avukat ücreti, aaüt
 permalink: /konsolosluklar/
 layout: gokhan
+swcache: true
 ---
 
 
@@ -20,7 +21,12 @@ layout: gokhan
             <th><button class="table-sort" data-sort="sort-sehir">Şehir</button></th>										
             <th><button class="table-sort" data-sort="sort-pk">Posta Kodu</button></th>										
           </tr>
-        </thead>        
+        </thead>
+        <tbody class="table-tbody">
+        {% for satir in site.data.konsolosluk limit:10 %}
+            <tr><td class="sort-ulke">{{ satir.ulke }}<td class="sort-temsilcilik">{{ satir.temsilcilik }}<td class="sort-eyalet">{{ satir.eyalet }}</td><td class="sort-sehir">{{ satir.sehir }}</td><td class="sort-pk">{{ satir.pk }}</td></tr>
+        {% endfor %}         										
+        </tbody>        
       </table>
     </div>
 
