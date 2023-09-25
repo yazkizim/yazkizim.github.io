@@ -108,57 +108,55 @@ $.ajax({
 	}
 });*/
 
-$.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function (data) {
-	if (data['USD']['d_oran'] > 0) { 
-		$('#dolar').attr('class', 'text-success');
-		$('#dolar').html(parseFloat(data['USD']['satis']).toFixed(2) + ' ₺');
-	} else if (data['USD']['d_oran'] < 0) {
-		$('#dolar').attr('class', 'text-danger');
-		$('#dolar').html(parseFloat(data['USD']['satis']).toFixed(2) + ' ₺');
-	} else {
-		$('#dolar').html(parseFloat(data['USD']['satis']).toFixed(2) + ' ₺');
-	}
-
-	if (data['EUR']['d_oran'] > 0) { 
-		$('#euro').attr('class', 'text-success');
-		$('#euro').html(parseFloat(data['EUR']['satis']).toFixed(2) + ' ₺');
-	} else if (data['EUR']['d_oran'] < 0){
-		$('#euro').attr('class', 'text-danger');
-		$('#euro').html(parseFloat(data['EUR']['satis']).toFixed(2) + ' ₺');
-	} else {
-		$('#euro').html(parseFloat(data['EUR']['satis']).toFixed(2) + ' ₺');
-	}
-
-	if (data['GA']['d_oran'] > 0) { 
-		$('#altin').attr('class', 'text-success');
-		$('#altin').html(parseFloat(data['GA']['satis']).toFixed(2) + ' ₺');
-	} else if (data['GA']['d_oran'] < 0) {
-		$('#altin').attr('class', 'text-danger');
-		$('#altin').html(parseFloat(data['GA']['satis']).toFixed(2) + ' ₺');
-	} else {
-		$('#altin').html(parseFloat(data['GA']['satis']).toFixed(2) + ' ₺');
-	}
-
-	if (data['XU100']['degisim'] > 0) { 
-		$('#bist').attr('class', 'text-success');
-		$('#bist').html(parseFloat(data['XU100']['satis']).toFixed(2) + ' ₺');
-	} else if (data['XU100']['degisim'] < 0) {
-		$('#bist').attr('class', 'text-danger');
-		$('#bist').html(parseFloat(data['XU100']['satis']).toFixed(2) + ' ₺');
-	} else {
-		$('#bist').html(parseFloat(data['XU100']['satis']).toFixed(2) + ' ₺');
-	}
-
-	if (data['BTC']['d_oran'] > 0) { 
-		$('#btc').attr('class', 'text-success');
-		$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' $');
-	} else if (data['BTC']['d_oran'] < 0){
-		$('#btc').attr('class', 'text-danger');
-		$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' $');
-	} else {
-		$('#btc').html(parseFloat(data['BTC']['satis']).toFixed(2) + ' $');
-	}
-}).fail(function() { 
-	$('#dovizbar').hide();
+$.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function(data) {
+	var veri = data.contents;
+	
+    if (veri.USD.d_oran > 0) {
+        $('#dolar').attr('class', 'text-success');
+        $('#dolar').html(parseFloat(veri.USD.satis).toFixed(2) + ' ₺');
+    } else if (veri.USD.d_oran < 0) {
+        $('#dolar').attr('class', 'text-danger');
+        $('#dolar').html(parseFloat(veri.USD.satis).toFixed(2) + ' ₺');
+    } else {
+        $('#dolar').html(parseFloat(veri.USD.satis).toFixed(2) + ' ₺');
+    }
+    if (veri.EUR.d_oran > 0) {
+        $('#euro').attr('class', 'text-success');
+        $('#euro').html(parseFloat(veri.EUR.satis).toFixed(2) + ' ₺');
+    } else if (veri.EUR.d_oran < 0) {
+        $('#euro').attr('class', 'text-danger');
+        $('#euro').html(parseFloat(veri.EUR.satis).toFixed(2) + ' ₺');
+    } else {
+        $('#euro').html(parseFloat(veri.EUR.satis).toFixed(2) + ' ₺');
+    }
+    if (veri.GA.d_oran  > 0) {
+        $('#altin').attr('class', 'text-success');
+        $('#altin').html(parseFloat(veri.GA.satis).toFixed(2) + ' ₺');
+    } else if (veri.GA.d_oran < 0) {
+        $('#altin').attr('class', 'text-danger');
+        $('#altin').html(parseFloat((veri.GA.satis).toFixed(2) + ' ₺');
+    } else {
+        $('#altin').html(parseFloat((veri.GA.satis).toFixed(2) + ' ₺');
+    }
+    if (veri.XU100.degisim > 0) {
+        $('#bist').attr('class', 'text-success');
+        $('#bist').html(parseFloat(veri.XU100.satis).toFixed(2) + ' ₺');
+    } else if (veri.XU100.degisim < 0) {
+        $('#bist').attr('class', 'text-danger');
+        $('#bist').html(parseFloat(veri.XU100.satis).toFixed(2) + ' ₺');
+    } else {
+        $('#bist').html(parseFloat(veri.XU100.satis).toFixed(2) + ' ₺');
+    }
+    if (veri.BTC.d_oran > 0) {
+        $('#btc').attr('class', 'text-success');
+        $('#btc').html(parseFloat(veri.BTC.satis).toFixed(2) + ' $');
+    } else if (veri.BTC.d_oran< 0) {
+        $('#btc').attr('class', 'text-danger');
+        $('#btc').html(parseFloat(veri.BTC.satis).toFixed(2) + ' $');
+    } else {
+        $('#btc').html(parseFloat(veri.BTC.satis).toFixed(2) + ' $');
+    }
+}).fail(function() {
+    $('#dovizbar').hide();
 });
                   
