@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 6
+titleabout: Web sitesi hakkında
 ---
 
 ## Bu sitenin amacı nedir ?

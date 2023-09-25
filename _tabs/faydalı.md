@@ -3,6 +3,7 @@
 icon: fas fa-screwdriver-wrench
 order: 2
 color: orange
+titleabout: Bakanlık personelini için faydalı sair uygulamalar
 ---
 
 

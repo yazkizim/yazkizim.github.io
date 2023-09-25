@@ -3,6 +3,7 @@
 icon: fas fa-cash-register
 order: 1
 color: red
+titleabout: Adalet Bakanlığı Tarifeleri
 ---
 
 

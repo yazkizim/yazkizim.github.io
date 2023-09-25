@@ -3,6 +3,7 @@
 icon: fas fa-calculator
 order: 2
 color: green
+titleabout: Memur ve Adliye Personelin çeşitli hesaplamaları
 ---
 
 
