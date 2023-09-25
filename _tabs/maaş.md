@@ -3,7 +3,7 @@
 icon: fas fa-wallet
 order: 1
 color: cyan
-title: Memur ve Adliye Personeli Maaş ve yolluk Hesaplama işlemleri
+titleabout: Memur ve Adliye Personeli Maaş ve yolluk Hesaplama işlemleri
 ---
 
 <div id="post-list" class="flex-grow-1 pe-xl-2 w-100">
