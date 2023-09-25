@@ -68,10 +68,6 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Cezaevi Müdür�
 </table>
 
 <span><br>
-Size uyan şartlardaki maaş hesabı için aşağıdaki bağlantıyı,
-<br>
-[Maaş Robotu için Tıklayınız]({{ site.url }}{% link maas/index.html%})
 
-<br>
-Toplu Sözleşme ve Yeni Zamlı maaşlar için aşağıdaki bağlantıyı ziyaret edebilirsiniz.
-[Maaş Robotu için Tıklayınız]({{ site.url }}{% link maas/index.html%})
+
+[**Maaş Robotu İçin Tıklayınız**](https://adliyeci.com.tr/maasyeni/)

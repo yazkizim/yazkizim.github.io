@@ -16,8 +16,8 @@ image:
 Mahkemelerde yapılan harçlar  sisteme eklenmiştir.
 
 
-[Islah Harcı için tıklayınız]({{ site.url }}{% link islahharci/index.html%})
+[**Islah Harcı için tıklayınız**](https://adliyeci.com.tr/islahharci/)
 
-[Vekalet Harcı için tıklayınız]({{ site.url }}{% link nispivekalet/index.html%})
+[**Vekalet Harcı için tıklayınız**](https://adliyeci.com.tr/nispivekalet/)
 
-[İstinaf Harcı için tıklayınız]({{ site.url }}{% link istinafharci/index.html%})
+[**İstinaf Harcı için tıklayınız**](https://adliyeci.com.tr/istinafharci/)

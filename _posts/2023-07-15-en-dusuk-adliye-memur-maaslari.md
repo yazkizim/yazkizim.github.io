@@ -19,4 +19,4 @@ Altıncı Toplu sözleşme neticesinde uygulanan zamları içerir ve günümüz 
 Eğer siz de 2023 yılı Temmuz ayı itibariyle en düşük katip maaşı, en düşük mübaşir maaşı, en düşük Yazı İşleri Müdürü maaşı yada bunların en yüksek maaşlarını merak ediyorsanız, aşağıdaki robottan faydalanabilirsiniz.
 
 
-[Maaş Robotu için Tıklayınız]({{ site.url }}{% link maas/index.html%})
+[**Maaş Robotu İçin Tıklayınız**](https://adliyeci.com.tr/maasyeni/)

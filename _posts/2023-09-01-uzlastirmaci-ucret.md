@@ -16,4 +16,4 @@ image:
 2023 Yılı Uzlaştırmacı asgari ücret tarifesi sisteme eklenmiştir. 
 
 
-[Uzlaştırmacı Asgari Ücret Tarifesi için tıklayınız]({{ site.url }}{% link uzlastirmaciucret/index.html%})
+[**Uzlaştırmacı Asgari Ücret Tarifesi için tıklayınız**](https://adliyeci.com.tr/uzlastirmaciucret/)

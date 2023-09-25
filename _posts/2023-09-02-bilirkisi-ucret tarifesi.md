@@ -16,4 +16,4 @@ image:
 2023 Yılı Bilirkişi ücret tarifesi sisteme eklenmiştir. 
 
 
-[Bilirkişi Ücret Tarifesi için tıklayınız]({{ site.url }}{% link bilirkisiucret/index.html%})
+[**Bilirkişi Ücret Tarifesi için tıklayınız**](https://adliyeci.com.tr/bilirkisiucret/)

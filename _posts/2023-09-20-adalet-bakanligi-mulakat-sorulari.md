@@ -6,7 +6,7 @@ categories: [Güncelleme, '2023']
 tags: [Adalet Bakanlığı, adliye, Görevde Yükselme Sınavı, Ünvan Değişikliği Sınavı, mülakat, mülakat soruları, yazı işleri mülakat soruları, idari işler mülakat soruları, adliyeci]
 keywords: Adalet Bakanlığı, adliye, Görevde Yükselme Sınavı, Ünvan Değişikliği Sınavı, mülakat, mülakat soruları, yazı işleri mülakat soruları, idari işler mülakat soruları, adliyeci
 render_with_liquid: false
-pin: true
+pin: false
 comments: false
 image:
   path: /posts/test.jpg
