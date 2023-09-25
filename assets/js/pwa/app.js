@@ -45,7 +45,7 @@ if ('serviceWorker' in navigator) {
     });
 }
 
-var url = 'https://corsproxy.io/?' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json');
+var url = 'http://api.allorigins.win/get?' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json');
 $.ajax({
 	url: url,
 	dataType: 'json',
