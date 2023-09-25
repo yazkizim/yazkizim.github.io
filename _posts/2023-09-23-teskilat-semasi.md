@@ -1,7 +1,7 @@
 ---
 title: Teşkilat Şeması Güncellendi
 author: gokhantasci
-date: 2023-09-22 22:00:00 +0300
+date: 2023-09-23 22:00:00 +0300
 categories: [Güncelleme, Teşkilat Şeması]
 tags: [Keşan Ağır Ceza, Soma Ağır Ceza, Tatvan Ağır Ceza, Küçükçekmece Ağır Ceza, Develi Ağır Ceza Mahkemeleri]
 keywords: Keşan Ağır Ceza, Soma Ağır Ceza, Tatvan Ağır Ceza, Küçükçekmece Ağır Ceza, Develi Ağır Ceza Mahkemeleri, adliyeci, adliye
