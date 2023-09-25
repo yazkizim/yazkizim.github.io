@@ -18,4 +18,3 @@ HSK tarafından yayınlanan Teşkilat Yapısında bu adliyelerin bilgilerinin he
 Web sitemize eklediğimiz Teşkilat Şeması ile bu güncellemeler yapılmıştır.
 
 Bağlı bulunan adliyeleri sorgulamak için [**tıklayınız**](https://adliyeci.com.tr/teskilat/)
-
