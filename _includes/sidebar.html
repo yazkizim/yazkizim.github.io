@@ -2,7 +2,7 @@
 
 <aside aria-label="Sidebar" id="sidebar" class="d-flex flex-column align-items-end">
   <header class="profile-wrapper">
-    <a href="{{ '/' | relative_url }}" id="avatar" class="rounded-circle">
+    <a href="{{ '/' | relative_url }}" id="avatar" title='Site Logo' class="rounded-circle">
       {% if site.avatar != empty and site.avatar %}
         {% capture avatar_url %}
             {% if site.avatar contains '://' %}
@@ -18,7 +18,7 @@
     </a>
 
     <h1 class="site-title">
-      <a href="{{ '/' | relative_url }}">{{ site.navbartitle }}</a>
+      <a href="{{ '/' | relative_url }}" title='{{ site.navbartitle }}'>{{ site.navbartitle }}</a>
     </h1>
     <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
   </header>
@@ -28,14 +28,14 @@
     <ul class="nav">
       <!-- home -->
       <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-        <a href="{{ '/' | relative_url }}" class="nav-link">
+        <a href="{{ '/' | relative_url }}" title='Ana Sayfa' class="nav-link">
           <i class="fa-fw fas fa-home"></i>
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
       <!-- Sınav-->
       <li class="nav-item{% if page.url == '/sinav/' %}{{ " active" }}{% endif %}">
-        <a href="/sinav/" class="nav-link">
+        <a href="/sinav/" title='Adalet Bakanlığı Sınavları' class="nav-link">
           <i class="fa-fw fas fa-question" style="color: pink"></i>
           <span>SINAV</span>
         </a>

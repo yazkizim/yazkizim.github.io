@@ -43,9 +43,9 @@ layout: default
   {% for post in posts %}
     {% if forloop.index == 2 %}
       <article class="card-wrapper"> 
-        <a href="#" class="card post-preview flex-md-row-reverse border border-warning" id="sozlukid">
+        <a href="#" title='Hukuk Sözlüğü' class="card post-preview flex-md-row-reverse border border-warning" id="sozlukid">
           <div class="card-body d-flex flex-column">
-            <h1 class="card-title my-2 mt-md-0" id="kelime">Sözlük</h1>
+            <h2 class="card-title my-2 mt-md-0" id="kelime">Sözlük</h2>
             <div class="card-text content mt-0 mb-2">
               <p id="anlami"></p>
             </div>
@@ -60,7 +60,7 @@ layout: default
       </article>
     {% endif %}
     <article class="card-wrapper">
-      <a href="{{ post.url | relative_url }}" class="card post-preview flex-md-row-reverse">
+      <a href="{{ post.url | relative_url }}" title='{{ post.title }}' class="card post-preview flex-md-row-reverse">
         {% if post.image %}
           {% if post.image.lqip %}
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}

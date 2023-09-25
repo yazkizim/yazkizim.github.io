@@ -10,7 +10,7 @@
     {% endif %}
 
     <li class="page-item {% unless paginator.previous_page %}disabled{% endunless %}">
-      <a class="page-link" href="{{ prev_url }}" aria-label="previous-page">
+      <a class="page-link" href="{{ prev_url }}" title='Önceki Sayfa'  aria-label="previous-page">
         <i class="fas fa-angle-left"></i>
       </a>
     </li>
@@ -46,7 +46,7 @@
         <!-- show number -->
         <li class="page-item {% if i == paginator.page %} active{% endif %}">
           <a
-            class="page-link"
+            class="page-link" title='{{ paginator.page }}'
             href="{% if i > 1 %}{{ site.paginate_path | replace: ':num', i | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}"
           >
             {{- i -}}
@@ -82,7 +82,7 @@
     {% endif %}
 
     <li class="page-item {% unless paginator.next_page_path %}disabled{% endunless %}">
-      <a class="page-link" href="{{ next_url }}" aria-label="next-page">
+      <a class="page-link" href="{{ next_url }}" title='Sonraki' aria-label="next-page">
         <i class="fas fa-angle-right"></i>
       </a>
     </li>
