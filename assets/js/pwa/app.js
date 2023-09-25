@@ -109,7 +109,7 @@ $.ajax({
 });*/
 
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function(data) {
-	var veri = data.contents;
+	var veri = JSON.parse(data.contents);	
 	
     if (veri.USD.d_oran > 0) {
         $('#dolar').attr('class', 'text-success');
