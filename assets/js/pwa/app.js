@@ -134,9 +134,9 @@ $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://ap
         $('#altin').html(parseFloat(veri.GA.satis).toFixed(2) + ' ₺');
     } else if (veri.GA.d_oran < 0) {
         $('#altin').attr('class', 'text-danger');
-        $('#altin').html(parseFloat((veri.GA.satis).toFixed(2) + ' ₺');
+        $('#altin').html(parseFloat(veri.GA.satis).toFixed(2) + ' ₺');
     } else {
-        $('#altin').html(parseFloat((veri.GA.satis).toFixed(2) + ' ₺');
+        $('#altin').html(parseFloat(veri.GA.satis).toFixed(2) + ' ₺');
     }
     if (veri.XU100.degisim > 0) {
         $('#bist').attr('class', 'text-success');
