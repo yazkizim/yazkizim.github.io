@@ -10,7 +10,7 @@ pin: false
 comments: true
 image:
   path: /posts/bakantunc.jpg
-  alt: Mahkeme
+  alt: Adalet Bakanı
 ---
 
 Sayın Adalet Bakanı Yılmaz Tunç'un televizyonlara verdiği röportajında;
