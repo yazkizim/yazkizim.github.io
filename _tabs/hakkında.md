@@ -100,6 +100,6 @@ Bu web sitesinin oluşumunda fikirlerini çekinmeden ileten biricik eşim ve Sak
 {: .prompt-tip }
 
 
-Gökhan TAŞÇI
-- Yazı İşleri Müdürü - 139329
-19/09/2023
+<br>Gökhan TAŞÇI
+<br>Yazı İşleri Müdürü - 139329
+<br>19/09/2023

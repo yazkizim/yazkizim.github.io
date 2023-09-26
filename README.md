@@ -1,95 +1,112 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  ## Bu sitenin amacı nedir ?
+Bu web sitesinin amacı hukuk ve ceza mahkemelerinde çalışan meslektaşlarımızın, iş yerinde kullandıkları gündelik hesaplamalara bir kısım kolaylıklar getirmektir. 
 
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+## WEB Sitesi ile ilgili :
+### Hangi dilde yazılmıştır ?
+Bu web sitesi temeli Ruby dilinde yazılan bir statik web sayfası oluşturucusu olan Jekyll (v.4.3.2) üzerine tassarlanmış olan Chrirpy teması kullanılarak oluşturulmuştur. 
 
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
-  [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)][license]&nbsp;
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+Alt yapısında Html ve Javascript ile desteklenmektedir. 
 
-  [**Live Demo →**][demo]
+### Web sitesinden herhangi bir gelir beklenmekte midir?
+Hayır bu web sitesinden herhangi bir gelir beklenmemektedir. Web sitesinin tamamı Github Pages üzerinden açık kaynak kodlu olarak yayınlanmaktadır. 
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+Dileyen, dilediği gibi, kopyalamaya, geliştirmeye, yenisini yapmaya özgürdür. 
+
+> Lütfen hesaplamaları herhangi bir yerde kullanmadan önce şahsi olarak kontrolünü sağlayınız.
+{: .prompt-warning }
+
+### Buradaki hesaplamalar ve bilgilerde ki eksikliğin sorumluluğu kime aittir?
+Bu web sitesi tamamen kişisel çabalarla oluşturulmuş bir web sitesidir. Gösterdiği sonuçlar kesinlik arz etmemekte olup, doğruya en yakını bulmayı hedeflemektedir. Bu nedenle sitenin yapmış olduğu tüm hesaplamaların bilgilendirme mahiyetinde olduğunu gözardı etmeyiniz. 
+
+## Web sitesi herhangi bir şekilde reklam barındaracak mı?
+> Hayır bu web sitesinden herhangi bir gelir hedeflenmemektedir.
+{: .prompt-info }
+
+### Hesaplamalarda yanlış buldum nasıl bildiririm?
+Bakanlık sicilim 139329'dur şahsıma Haberci üzerinden ulaşabilir yahut kurum e-postasına detayları ile bildirirseniz en kısa sürede teyidini yapıp güncelleme gerçekleştirebilirim.
+
+> Daha fazla kişinin daha doğru sonuçlara ulaşabilmesi için lütfen bildirimde bulunmaktan çekinmeyiniz.
+{: .prompt-danger }
+
+
+### Bu web sitesi başka bir sitenin kopyası mahiyetinde midir?
+Hayır bu web sitesi herhangi bir sitenin kopyası olmayı hedeflememektedir. Ancak sitenin temel aldığı bazı metinler, hedefleme yöntemleri ve fikirlerin büyük bir kısmında bu işi yıllardır gönüllü olarak yürüten sevgili meslektaşım S.Yeşilkaya'nın çalışmalarından ilham alınmıştır. Kendisinin kıymetli çalışmaları için teşekkür ederim. 
+
+### Halen çalışan muadil siteler mevcut iken neden bu siteye ihtiyaç duyuldu?
+Bu web sitesi kendi çabalarımla öğrendiğim bilgisayar dillerini geliştirmek şahsi bir araç, yapılan uygulamaların ise sair sevgili adli personelin kullanımında kolaylık sağlaması amacıyla yayınlanmaktadır. 
+Aynı zamanda saatlerce yapılan kodlamalar sonucunda kendimden başkaca birinin bir ihtiyacına, bir merakına derman olabilmektir.
+Yine internet üzerinde yayınlanan aynı hesapları yapan hemen hemen tüm web sitelerinin kaynak kodları gizlenmekte yahut gizlenmesi için uzun çabalar sarf edilmektedir. 
+Biraz bilgisayar okur-yazarlığı olan herhangi biri, çalışmanın temel gayesi olan ücretin nasıl hesaplandığı hakkında fikir sahibi olabilir, gündelik harç hesaplamalarındaki faydalı kestirmelerin keyfine varabilmesi amaçlanmaktadır. 
+
+## Bu Web sitesi temel olarak hangi hizmetleri sunmaktadır?
+- [**Maaş Hesaplamaları**](https://yazkizim.github.io/maaş/)
+  + [Enflasyon farkı ekli maaş Hesabı](https://yazkizim.github.io/maasyeni/)
+  + [Maaş Hesabı](https://yazkizim.github.io/maasyeni/)
+  + [Sözleşmeli Maaş Hesabı](https://yazkizim.github.io/sozlesmelimaas/)
+  + [Emekli Maaş Hesabı](https://yazkizim.github.io/emeklimaas/)
+  + [Enflasyon Farkı Hesaplama](https://yazkizim.github.io/enflasyonfarki/?)
+  + [Sürekli Görev Yolluğu Hesaplama](https://yazkizim.github.io/surekligorev/)
+- [**Tarife Hesaplamaları**](https://yazkizim.github.io/tarifeler/)  
+  + [Avukatlık Asgari Ücret Tarifesi](https://yazkizim.github.io/avukatlikasgari/) 
+  + [Bilirkişi Ücret Tarifesi](https://yazkizim.github.io/bilirkisiucret/) 
+  + [Uzlaştırmacı Ücret Tarifesi](https://yazkizim.github.io/uzlastirmaciucret/) 
+  + [Parasal Sınırlar](https://yazkizim.github.io/parasalsinirlar/) 
+- [**Mahkeme Hesaplamaları**](https://yazkizim.github.io/hesaplamalar/)    
+  + [Hukuk Mahkemeleri Yargılama Gideri Dökümü](https://yazkizim.github.io/yargilama/) 
+  + [Ceza Mahkemeleri Yargılama Gideri Dökümü](https://yazkizim.github.io/yargilamagideridokumu/?#eskitebligatlar) 
+  + [Yargılama Gideri Paylaşım Hesaplama](https://yazkizim.github.io/paylasimhesabi/?#fazlasirket) 
+  + [Vekalet Ücreti Hesaplama](https://yazkizim.github.io/nispivekalet/)
+  + [Nisbi (Nispi) İstinaf/Temyiz Harcı Hesaplama İşlemleri](https://yazkizim.github.io/istinafharci/)
+
+## Yapılacaklar Listesi
+- [ ] Maaş Hesaplamaları
+  + [x] Enflasyon farkı ekli maaş Hesabı
+  + [x] Maaş Hesabı
+  + [x] Sözleşmeli Maaş Hesabı
+  + [x] Emekli Maaş Hesabı
+  + [x] Enflasyon Farkı Hesaplama
+  + [x] Sürekli Görev Yolluğu Hesaplama
+  + [ ] Geçici Görev Yolluğu Hesaplama
+- [ ] Tarife Hesaplamaları
+  + [x] Avukatlık Asgari Ücret Tarifesi 
+  + [x] Bilirkişi Ücret Tarifesi
+  + [x] Uzlaştırmacı Ücret Tarifesi
+  + [x] Parasal Sınırlar
+  + [x] Tanıklık Ücret Tarifesi
+- [ ] Mahkeme Hesaplamaları
+  + [x] Hukuk Mahkemeleri Yargılama Gideri Dökümü
+  + [x] Ceza Mahkemeleri Yargılama Gideri Dökümü
+  + [x] Yargılama Gideri Paylaşım Hesaplama
+  + [x] Vekalet Ücreti Hesaplama
+  + [x] Nisbi (Nispi) İstinaf/Temyiz Harcı Hesaplama İşlemleri
+  + [ ] Sair Gündelik hesaplamalar
+
+
+## İletişim Bilgileriniz nedir?
+Şahsıma kurum sicilim olan 139329 üzerinden Haberci ve kurum e-postası üzerinden ulaşabilirsiniz. 
+
+## Teşekkür kısmı:
+Bu web sitesinin oluşumunda fikirlerini çekinmeden ileten biricik eşim ve Sakarya 11.Asliye Ceza Mahkemesindeki kıymetli çalışma arkadaşlarım, instagram üzerinden dönüşlerde bulunan kıymetli Adalet Bakanlığı personeline teşekkür ederim.
+
+## Özel Teşekkür kısmı:
+> Bu web sitesinin oluşumunda, kullandığı yöntemlerde, büyük bir kısım metinlerinde çalışmalarından ziyadesiyle ilham alınan sevgili meslektaşım S.YEŞİLKAYA'ya teşekkür ederim.
+{: .prompt-tip }
+
+## Lisans ve kütüphaneler
+
+Bu çalışmada aşağıdaki kaynaklardan faydalanılmıştır.
+
+- [gem] https://rubygems.org/gems/jekyll-theme-chirpy
+- [ci] https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
+- [codacy] https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
+- [license] https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+- [jekyllrb] https://jekyllrb.com/
+- [bootstrap] https://getbootstrap.com/
+- [icons] https://fontawesome.com/
 
 </div>
-
-## Features
-
-<details>
-  <summary>
-    <i>Click to view features</i>
-  </summary>
-  <p>
-
-  - Dark / Light Theme Mode
-  - Localized UI language
-  - Pinned Posts on Home Page
-  - Hierarchical Categories
-  - Trending Tags
-  - Table of Contents
-  - Last Modified Date
-  - Syntax Highlighting
-  - Mathematical Expressions
-  - Mermaid Diagrams & Flowcharts
-  - Dark / Light Mode Images
-  - Embed Videos
-  - Disqus / Utterances / Giscus Comments
-  - Built-in Search
-  - Atom Feeds
-  - PWA
-  - Google Analytics
-  - SEO & Performance Optimization
-
-  </p>
-</details>
-
-## Documentation
-
-To explore usage, development, and upgrade guide of the project, please refer to the [**Wiki**][wiki].
-
-## Contributing
-
-Contributions (Issues/PRs/Discussions) are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. For details, see the "[Contributing Guidelines][contribute-guide]".
-
-## Credits
-
-This theme is mainly built with [Jekyll][jekyllrb] ecosystem,
-[Bootstrap][bootstrap], [Font Awesome][icons] and some other [wonderful tools][lib].
-The avatar and favicon design come from [Clipart Max][image].
-
-Many thanks to the [contributors][contributors] who participated in the development
-and to the folks who reported bugs or shared ideas.
-
-Last but not least, thanks to [JetBrains][jetbrains] for providing the _Open Source License_.
-
-## Sponsoring
-
-If you'd like to sponsor this project, the following options are available.
-
-[![Ko-fi](https://img.shields.io/badge/Support_Me_on_Ko--fi-ff5e5b?logo=ko-fi&logoColor=white)][ko-fi]&nbsp;
-[![Wechat Pay](https://img.shields.io/badge/Tip_Me_on_WeChat-brightgreen?logo=wechat&logoColor=white)][donation]&nbsp;
-[![Alipay](https://img.shields.io/badge/Tip_Me_on_Alipay-blue?logo=alipay&logoColor=white)][donation]
-
-## License
-
-This work is published under [MIT License][license].
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[jekyllrb]: https://jekyllrb.com/
-[bootstrap]: https://getbootstrap.com/
-[icons]: https://fontawesome.com/
-[image]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
-[ko-fi]: https://ko-fi.com/coteschung/
-[donation]: https://sponsor.cotes.page/
+<br>Gökhan TAŞÇI
+<br>Yazı İşleri Müdürü - 139329
+<br>Sakarya - 26/09/2023
