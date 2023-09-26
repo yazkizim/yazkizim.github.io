@@ -1,0 +1,235 @@
+---
+title: Asgari Ücret Hesabı ile Gelir ve Damga Vergisi İstisna Hesaplama
+keywords: memur enflasyon farkı, toplu sözleşme, enflasyon nasıl hesaplanır, 6 aylık fark nasıl hesaplanır, enflasyon farkı nasıl, asgari ücret nasıl hesaplanır, asgari ücret istisnası
+permalink: /asgariucret/
+layout: gokhan
+---
+<div class="card-header">
+    <h3 class="card-title">Asgari Ücret Hesabı ile Gelir ve Damga Vergisi İstisna Hesaplama Yöntemi</h3>
+  </div>
+  <div class="card-body">     
+    <form id="asgariucretform" data-gtm-form-interact-id="0">
+        <div class="form-group row">           
+            <div class="col-sm-6">               
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">%15 Basamağı</label>
+            <div class="col-sm-3">
+                <input type="number" id="yuzde15" class="form-control" value="70000" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">           
+            <div class="col-sm-6">               
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">%20 Basamağı</label>
+            <div class="col-sm-3">
+                <input type="number" id="yuzde20" class="form-control" value="150000" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">           
+            <div class="col-sm-6">               
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">%20 Basamağı</label>
+            <div class="col-sm-3">
+                <input type="number" id="yuzde27" class="form-control" value="550000" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">           
+            <div class="col-sm-6">               
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Yıl Başı Brüt Asgari Ücret</label>
+            <div class="col-sm-3">
+                <input type="number" id="ilkasgaribrut" class="form-control" value="10008.00" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ara Zam varsa Seçiniz</label>
+            <div class="col-sm-3">
+                <select type="text" class="form-select" placeholder="Seçiniz" id="arazamay" value="">
+                    <option value="0" selected>Seçiniz</option>	
+                    <option value="1">Ocak</option>                                
+                    <option value="2">Şubat</option>
+                    <option value="3">Mart</option>
+                    <option value="4">Nisan</option>                                
+                    <option value="5">Mayıs</option>
+                    <option value="6">Haziran</option>
+                    <option value="7">Temmuz</option>
+                    <option value="8">Ağustos</option>
+                    <option value="9">Eylül</option>
+                    <option value="10">Ekim</option>
+                    <option value="11">Kasım</option>
+                    <option value="12">Aralık</option>
+                  </select>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ara Zam Brüt Asgari Ücret</label>
+            <div class="col-sm-3">
+                <input type="number" id="ikinciasgariucret" class="form-control" value="13414.50" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Yıl Başı Net Asgari Ücret</label>
+            <div class="col-sm-3">
+                <input type="number" id="ilkasgarinet" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ara Zam Net Asgari Ücret</label>
+            <div class="col-sm-3">
+                <input type="number" id="ikinciasgarinet" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ay</label>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Vergi Dilimi</label>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Gelir Vergisi İstisna</label>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Damga Vergisi İstisna</label>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ocak</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd1" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv1" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv1" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Şubat</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd2" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv2" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv2" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Mart</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd3" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv3" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv3" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Nisan</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd4" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv4" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv4" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Mayıs</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd5" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv5" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv5" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Haziran</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd6" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv6" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv6" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Temmuz</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd7" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv7" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv7" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ağustos</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd8" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv8" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv8" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Eylül</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd9" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv9" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv9" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ekim</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd10" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv10" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv10" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Kasım</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd11" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv11" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv11" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">                       
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Aralık</label>
+            <div class="col-sm-3">
+                <input type="number" id="vd12" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="gv12" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <div class="col-sm-3">
+                <input type="number" id="dv12" class="form-control" value="0" step=".01" disabled>
+            </div>
+        </div>        
+  </div> 
+  <div class="card-footer">
+    <a type="submit" class="btn btn-outline-danger w-100" id ="asgaritemizle" name="asgaritemizle">Temizle
+    </a>
+    <a type="submit" class="btn btn-outline-primary w-100" id ="asgarihesapla" name="asgarihesapla">Hesapla
+    </a>
+  </div>  
+  </form>
