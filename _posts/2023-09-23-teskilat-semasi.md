@@ -9,7 +9,7 @@ render_with_liquid: false
 pin: false
 comments: true
 image:
-  path: /posts/mahkeme.jpg
+  path: /posts/bamharita.jpg
   alt: Mahkeme
 ---
 
