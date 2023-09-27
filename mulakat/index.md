@@ -10,8 +10,7 @@ layout: gokhan
 </div>
 <div class="card-body">
   <div class="mb-3">
-    > Bu PDF de mevcut sorular ve cevapları 2018-2021 yılında Adalet Bakanlığı'nda yapılan Görevde Yükselme Sınavı (GYS) ve Ünvan Değişikliği Sınavı (ÜDS) sınavlarında mülakata girenlerin kendilerine sorulduğunu bildirdikleri sorulan sorulardan ibarettir. Lütfen cevaplardan şüphe duyduğunuzda kendi araştırmanızı yapınız.
-  {: .prompt-warning }
+    > Bu PDF de mevcut sorular ve cevapları 2018-2021 yılında Adalet Bakanlığı'nda yapılan Görevde Yükselme Sınavı (GYS) ve Ünvan Değişikliği Sınavı (ÜDS) sınavlarında mülakata girenlerin kendilerine sorulduğunu bildirdikleri sorulan sorulardan ibarettir. Lütfen cevaplardan şüphe duyduğunuzda kendi araştırmanızı yapınız.  
     <embed src="https://www.adliyeci.xyz/2018-2021-adalet-bakanligi-mulakat.pdf" style="min-height: 1000px;" class="w-100"
  type="application/pdf">
   </div>
