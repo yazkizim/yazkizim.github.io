@@ -196,20 +196,20 @@
   }
 
   .form-select {
-    color: var(--sidebar-active-color);    
-    background-color: var(--sidebar-hover-bg-act);    
+    color: var(#dee2e6);    
+    background-color: var(#212529);    
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
 
   .form-input {
-    color: var(--sidebar-active-color);    
-    background-color: var(--sidebar-hover-bg-act);    
+    color: var(#dee2e6);    
+    background-color: var(#212529);    
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
 
   .form-control {
-    color: var(--sidebar-active-color);    
-    background-color: var(--sidebar-hover-bg-act);    
+    color: var(#dee2e6);    
+    background-color: var(#212529);    
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
 
@@ -217,4 +217,10 @@
     bs-table-color: var(--main-bg);
     bs-table-bg: var(--text-color);
   }
+
+  .form-control:disabled {
+    background-color: var(#343a40);
+    opacity: 1;
+}
+
 } /* dark-scheme */
