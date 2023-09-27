@@ -196,20 +196,20 @@
   }
 
   .form-select {
-    color: var(#dee2e6);    
-    background-color: var(#212529);    
+    color: #dee2e6;    
+    background-color: #212529;    
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
 
   .form-input {
-    color: var(#dee2e6);    
-    background-color: var(#212529);    
+    color: #dee2e6;    
+    background-color: #212529;     
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
 
   .form-control {
-    color: var(#dee2e6);    
-    background-color: var(#212529);    
+    color: #dee2e6;    
+    background-color: #212529;      
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
   }
 
@@ -219,7 +219,7 @@
   }
 
   .form-control:disabled {
-    background-color: var(#343a40);
+    background-color: #343a40;
     opacity: 1;
 }
 
