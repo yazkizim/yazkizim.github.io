@@ -114,7 +114,7 @@ titleabout: Memur ve Adliye Personeli Maaş ve yolluk Hesaplama işlemleri
   </article>  
    <article class="card-wrapper"> 
     <a href="/asgariucret/?" class="card post-preview flex-md-row-reverse">  
-    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-chart-line fa-fw me-1 fa-3x align-middle" style="color : #795548"> </i></div>      
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-hand-holding-dollar fa-fw me-1 fa-3x align-middle" style="color : #795548"> </i></div>      
     <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Brütten Net Asgari Ücret Hesaplama, Gelir ve Damga Vergisi İstisnası
         </h1>
