@@ -541,7 +541,7 @@
 	enablePostCommentButton();
 	{%- else -%}
 	disablePostCommentButton();
-	$('#yorumekle').html(<strong>'YORUM YAPMAYA KAPALIDIR'</strong>);
+	$('#yorumekle').html(<strong> + 'YORUM YAPMAYA KAPALIDIR' +</strong>);
 	$('#yorumekle2').hide();
 	{%- endif -%}
 	{%- if site.google_forms_comments.google_app_script -%}
@@ -692,7 +692,6 @@
 .comment-item {
 	position: relative;
 	padding: 0.5em 2.5em;
-	background: white;
 	width: 95%;
 	margin: 1em auto;
 	box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.1);
@@ -877,7 +876,6 @@
 	padding: 10px;
 	border: 0;
 	border-radius: 8px;
-	background: #f7f7f7;
 }
 
 #comment-name::-webkit-input-placeholder,
@@ -902,7 +900,6 @@
 
 #comment-name:focus,
 #comment-comment:focus {
-	background: #fff;
 }
 
 #comment-comment {
