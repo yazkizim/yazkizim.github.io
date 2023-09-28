@@ -10,7 +10,7 @@ layout: gokhan
 </div>
 <div class="card-body">
   <div class="mb-3">    
-    <embed src="https://www.adliyeci.xyz/2018-2021-adalet-bakanligi-mulakat.pdf" style="min-height: 1000px;" class="w-100"
+    <embed src="/2018-2021-adalet-bakanligi-mulakat.pdf" style="min-height: 1000px;" class="w-100"
  type="application/pdf">
   </div>
 </div>
