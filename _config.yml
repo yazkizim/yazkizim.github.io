@@ -59,7 +59,7 @@ google_analytics:
 
 comment-post: https://docs.google.com/forms/d/e/1FAIpQLSeEa2kfZ4szG5jHHarBLoFc_Jb-5ATKUV1DASDUuaxyP9vrLg
 comment-read: https://docs.google.com/spreadsheets/d/1HTCe4D_E2jgJD1nRsEVCzlUrXbzD1fHNozKrkvobowc
-comment-post-fields: [ entry.1787651185, entry.1803725495, entry.1716119294]
+comment-post-fields: [ entry.1787651185, entry.1803725495, entry.1716119294, entry.362366447]
 
 google_forms_comments:
   comment_replies_enabled: true
@@ -93,7 +93,7 @@ avatar: "https://www.adliyeci.com.tr/assets/img/logo.png"
 toc: true
 
 comments:
-  active:  disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active:  # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: gokhantasci # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname

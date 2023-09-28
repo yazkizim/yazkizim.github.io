@@ -537,6 +537,11 @@
 	{%- comment -%}
 	/* Posts a comment */
 	{%- endcomment -%}
+	{%- if page.comments -%}
+	enablePostCommentButton();
+	{%- else -%}
+	disablePostCommentButton();
+	{%- endif -%}
 	{%- if site.google_forms_comments.google_app_script -%}
 	function postComment(recaptchaToken) {
 		disablePostCommentButton();
@@ -584,6 +589,11 @@
 		disablePostCommentButton();
 		var username = getValue("comment-name");
 		var comment = getCommentContent();
+		var ip = '';
+		
+		fetch('https://api.ipify.org?format=json')
+			.then(response => response.json())
+			.then(data => ip);
 
 		fetch(`{{ site.comment-post }}/formResponse`, {
 		  method: 'POST',
@@ -594,7 +604,9 @@
 		  body: encodeFormData({
 		  	"{{ site.comment-post-fields[0] }}" : thisPageUrl?.toString(),
 		  	"{{ site.comment-post-fields[1] }}" : username?.toString(),
-		  	"{{ site.comment-post-fields[2] }}" : comment?.toString()
+		  	"{{ site.comment-post-fields[2] }}" : comment?.toString(),
+			"{{ site.comment-post-fields[3] }}" : ip?.toString()
+
 		  })
 		}).then(response => {
 			setValue("comment-name", '');

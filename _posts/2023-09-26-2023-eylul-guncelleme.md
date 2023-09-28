@@ -7,7 +7,7 @@ tags: [Adalet, Adalet Bakanlığı, adliye, adliyeci, hukuk sözlüğü, hangi a
 keywords: Adalet, Adalet Bakanlığı, adliye, adliyeci, hukuk sözlüğü, hangi adliye nereye bağlı, adliye var mı, kapatılan adliyeler, birleştirilen adliyeler
 render_with_liquid: false
 pin: true
-comments: true
+comments: false
 image:
   path: /posts/update.jpg
   alt: Web Sitesi Güncellemesi
