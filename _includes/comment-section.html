@@ -534,11 +534,13 @@
 		return comment;
 	};
 
+	var gokkip;
+
 	function getIP() {				
 		$.getJSON('https://jsonip.com/', function(response) {
-			gokk = response.ip;
+			gokkip = response.ip;
 		});		
-		return gokk;
+		return gokkip;
 
 	}
 
