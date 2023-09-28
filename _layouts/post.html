@@ -70,7 +70,8 @@ tail_includes:
           {% endif %}
         </em>
       </span>
-
+      <!-- okuyan sayısı -->
+      <span data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="Okuyan Sayısı"> <span><i class="fa-solid fa-users text-success"></i>&nbsp; </span> <em id="okuyan">1 Kişi okudu</em></span>
       <!-- read time -->
       {% include read-time.html content=content prompt=true lang=lang %}
     </div>

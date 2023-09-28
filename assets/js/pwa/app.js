@@ -3,6 +3,7 @@ layout: compress
 permalink: '/app.js'
 ---
 
+var sayfasayac;
 const $notification = $('#notification');
 const $btnRefresh = $('#notification .toast-body>button');
 
@@ -103,9 +104,10 @@ $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://ap
 });
 
 var siteadres = "https://counterapi.com/api/adliyeci.com.tr";
-var adres = window.location.pathname;
+var adres = encodeURIComponent(window.location.pathname);
 
 $.getJSON(siteadres + "/view" + adres, function(response) {
-    console.log(response.value);
+    sayfasayac = response.value;
+    $('#okuyan').html(response.value);
 });
                   
