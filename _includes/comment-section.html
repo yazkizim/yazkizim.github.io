@@ -103,7 +103,7 @@
 	function enablePostCommentButton() {
 		var postCommentButton = document.getElementById("comment-submit");
 		postCommentButton.disabled = false;
-		setText("comment-submit", "Post");
+		setText("comment-submit", "Yorum Yap");
 	};
 
 
@@ -539,10 +539,11 @@
 	{%- endcomment -%}
 	{%- if page.comments -%}
 	enablePostCommentButton();
+	document.getElementById("yorumekle2").style.display = "block";
 	{%- else -%}
 	disablePostCommentButton();
-	$('#yorumekle').html(<strong> + 'YORUM YAPMAYA KAPALIDIR' +</strong>);
-	$('#yorumekle2').hide();
+	document.getElementById("yorumekle").innerHTML = '<center><p style="color: red;"<strong> YORUM YAPMAYA KAPALIDIR </strong></p></center>'
+	document.getElementById("yorumekle2").style.display = "none";
 	{%- endif -%}
 	{%- if site.google_forms_comments.google_app_script -%}
 	function postComment(recaptchaToken) {
