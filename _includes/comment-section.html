@@ -541,6 +541,8 @@
 	enablePostCommentButton();
 	{%- else -%}
 	disablePostCommentButton();
+	$('#yorumekle').html(<strong>'YORUM YAPMAYA KAPALIDIR'</strong>);
+	$('#yorumekle2').hide();
 	{%- endif -%}
 	{%- if site.google_forms_comments.google_app_script -%}
 	function postComment(recaptchaToken) {
@@ -593,7 +595,7 @@
 		
 		fetch('https://api.ipify.org?format=json')
 			.then(response => response.json())
-			.then(data => ip);
+			.then(data => ip = data.ip);
 
 		fetch(`{{ site.comment-post }}/formResponse`, {
 		  method: 'POST',
@@ -645,8 +647,8 @@
 		</div>
 		<div id="comment-container"></div>
 	</div>
-	<h4 class="post-subtitle">Yorum Ekle</h4>
-	<div class="comments">
+	<h4 class="post-subtitle" id="yorumekle">Yorum Ekle</h4>
+	<div class="comments" id="yorumekle2">
 		<div class="comment-info-text">
 			<p>Lütfen nezaket kurallarına uygun davranalım, herhangi bir mesajı gerekçe göstermeksizin silebilirim.</p>
 			{%- if site.google_forms_comments.google_app_script -%}
