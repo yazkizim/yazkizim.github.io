@@ -60,6 +60,12 @@ google_analytics:
 comment-post: https://docs.google.com/forms/d/e/1FAIpQLSeEa2kfZ4szG5jHHarBLoFc_Jb-5ATKUV1DASDUuaxyP9vrLg
 comment-read: https://docs.google.com/spreadsheets/d/1HTCe4D_E2jgJD1nRsEVCzlUrXbzD1fHNozKrkvobowc
 comment-post-fields: [ entry.1787651185, entry.1803725495, entry.1716119294]
+
+google_forms_comments:
+  comment_replies_enabled: true
+  lazy_load_comments: false
+  recaptcha_site_key: 6LcOEF8oAAAAAKNYgP4UNIk6jfBUhPd88prNd2KX
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,

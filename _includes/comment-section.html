@@ -311,7 +311,7 @@
 			netNewComments = []
 		}
 
-		setText("num-comments-displayed", `Showing ${visibleComments.length} of ${visibleComments.length + hiddenComments.length} comments`);
+		setText("num-comments-displayed", `${visibleComments.length} / ${visibleComments.length + hiddenComments.length} yorum gösteriliyor`);
 
 		if (hiddenComments.length == 0) {
 			hide("load-more-comments");
@@ -620,7 +620,7 @@
 	HTML for displaying the actual comment section.
 	It has a state for oth when the article has comments and when it does not. -->
 {%- endcomment -%}
-<h4 class="post-subtitle">Comments</h4>
+<h4 class="post-subtitle">Yorumlar</h4>
 <div id="load-comments" class="comments">
 	<button id="load-comment-button" class="comment-button" onclick="initialCommentLoad()">Load Comments</button>
 </div>
@@ -629,14 +629,14 @@
 		<p id="num-comments-displayed"></p>
 		<button id="load-more-comments" class="comment-button" onclick="loadMoreComments(true)" type="button">Load Older Comments</button>
 		<div id="no-comments" class="comment-info-text">
-			<p>There are currently no comments on this article, be the first to add one below</p>
+			<p>Şuanda hiç yorum yok, ilk yorum yapan siz olun.</p>
 		</div>
 		<div id="comment-container"></div>
 	</div>
-	<h4 class="post-subtitle">Add a Comment</h4>
+	<h4 class="post-subtitle">Yorum Ekle</h4>
 	<div class="comments">
 		<div class="comment-info-text">
-			<p>Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically.</p>
+			<p>Lütfen nezaket kurallarına uygun davranalım, herhangi bir mesajı gerekçe göstermeksizin silebilirim.</p>
 			{%- if site.google_forms_comments.google_app_script -%}
 			<p id="comment-submit-error"></p>
 			{%- endif -%}
@@ -655,12 +655,12 @@
 						{%- endif -%}
 					</li>
 					<li><textarea id="comment-comment" name="comment" placeholder="Comment" required=""></textarea></li>
-					<li><button id="comment-submit" type="submit" class="comment-button">Post</button></li>
+					<li><button id="comment-submit" type="submit" class="comment-button">Yorum Yap</button></li>
 				</ul>
 				{%- if recaptcha_enabled -%}
-				<p id="comment-recaptcha-disclaimer">This site is protected by reCAPTCHA and the Google
-				    <a href="https://policies.google.com/privacy">Privacy Policy</a> and
-				    <a href="https://policies.google.com/terms">Terms of Service</a> apply.
+				<p id="comment-recaptcha-disclaimer">Bu site reCAPTCHA tarafından Korunmaktadır.
+				    <a href="https://policies.google.com/privacy">Güvenlik Politikası</a> and
+				    <a href="https://policies.google.com/terms">Kullanım koşulları</a>.
 				 {%- endif -%}
 				<p>
 			</form>
