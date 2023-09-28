@@ -3,6 +3,8 @@ title: Yargılama Gideri Dökümü
 keywords: Mahkeme masrafları, mahkeme giderleri, yargılama giderleri, posta masrafları, bilirkişi masrafları, adliye masrafları, adliye cezası, mahkeme cezası
 permalink: /yargilamagideridokumu/
 layout: gokhan
+comments: true
+addcoments: true
 ---
 
 <div class="card-header">
