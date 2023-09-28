@@ -603,7 +603,7 @@
 		disablePostCommentButton();
 		var username = getValue("comment-name");
 		var comment = getCommentContent();
-		var ip = '';
+		var ip = getIP();
 		
 		fetch('https://api.ipify.org?format=json')
 			.then(response => response.json())
