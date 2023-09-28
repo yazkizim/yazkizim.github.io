@@ -46,6 +46,6 @@ layout: default
     
       {% include post-sharing.html lang=lang %}
   </div>
-  {% if page.comments %}
+  {% if page.addcoments == true %}
     {% include comment-section.html url=page.url %}
   {% endif %}  
