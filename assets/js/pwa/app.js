@@ -48,9 +48,14 @@ if ('serviceWorker' in navigator) {
 var siteadres = "https://api.countapi.xyz/hit/adliyeci.com.tr";
 var adres = window.location.pathname;
 
-
+/*
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent(siteadres + adres), function(data) {
     console.log(data);
+});
+*/
+
+$.getJSON(siteadres + adres, function(response) {
+    console.log(response.value);
 });
 
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function(data) {
