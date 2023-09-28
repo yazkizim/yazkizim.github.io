@@ -6,7 +6,10 @@ layout: gokhan
 swcache: true
 ---
 
-
+<div class="alert alert-warning" role="alert">
+          Bu sayfadaki bilgilere doğrudan sağ üst köşedeki <code class="highlighter-rouge">Arama Menüsünden</code> ulaşabilirsiniz.
+          <br><br>Örnek Arama : <code class="highlighter-rouge">Cizre Adliyesi Nereye Bağlı?</code> şeklinde aratabilirsiniz.
+      </div>
 <div class="card-header">
     <h3 class="card-title">Teşkilat Şeması</h3>
     <br>
