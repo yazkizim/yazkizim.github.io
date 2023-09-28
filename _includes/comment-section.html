@@ -397,7 +397,7 @@
 		{%- endcomment -%}
 		var verifiedAuthorTag = "";
 		if (jsonElement.isAuthor == true || jsonElement.isAuthor === "TRUE") {
-			verifiedAuthorTag = "&nbsp;<strong>(Author)</strong>";
+			verifiedAuthorTag = "&nbsp;<strong>(Yönetici)</strong>";
 		}
 		{%- comment -%}
 		/* Create the new item using HTML and append it to the user-visible comment section */
@@ -413,7 +413,7 @@
 		if (replyId != null && replyId != "" && commentIds.has(replyId)) {
 			replyToHtml = `<p class="comemnt-reply-id" onclick="jumpToComment('${replyId}')"><<< ${replyId}</p>`;
 		}
-		var currentCommentReplyButton = `<span class="comment-reply-button" onclick="replyToComment(${commentReplyId})"><img></img>Reply</span>`;
+		var currentCommentReplyButton = `<span class="comment-reply-button" onclick="replyToComment(${commentReplyId})"><img></img>Yanıtla</span>`;
 		{%- endif -%}
 
 		newItem.innerHTML = `
@@ -649,12 +649,12 @@
 			{%- endif -%}
 				<ul>
 					<li>
-						<input id="comment-name" name="username" type="text" placeholder="Name" required="" value="">
+						<input id="comment-name" name="username" type="text" placeholder="İsim" required="" value="">
 						{%- if comment_replies_enabled -%}
 						<p id="comment-reply-info"></p>
 						{%- endif -%}
 					</li>
-					<li><textarea id="comment-comment" name="comment" placeholder="Comment" required=""></textarea></li>
+					<li><textarea id="comment-comment" name="comment" placeholder="Yorumunuz" required=""></textarea></li>
 					<li><button id="comment-submit" type="submit" class="comment-button">Yorum Yap</button></li>
 				</ul>
 				{%- if recaptcha_enabled -%}
