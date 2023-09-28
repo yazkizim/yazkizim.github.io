@@ -52,14 +52,15 @@ $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent(siteadres +
     console.log(data);
 });
 */
-var siteadres = "https://api.countapi.xyz/hit/adliyeci.com.tr";
+var siteadres = "https://counterapi.com/api/adliyeci.com.tr";
 var adres = window.location.pathname;
 var aga;
 
-$.getJSON(siteadres + adres, function(response) {
+$.getJSON(siteadres + "/view" + adres, function(response) {
     console.log(response.value);
-    aga = reponse.value;
 });
+
+
 
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function(data) {
 	var veri = JSON.parse(data.contents);	
