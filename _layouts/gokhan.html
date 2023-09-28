@@ -43,5 +43,9 @@ layout: default
       {% endif %}
     </div>
 
-    {% include post-sharing.html lang=lang %}
+    {% if page.comments %}
+      {% include post-sharing.html lang=lang %}
+    {% endif %}  
+    
+    {% include comment-section.html url=page.url %}
   </div>
