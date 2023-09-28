@@ -84,6 +84,8 @@ tail_includes:
   {{ content }}
 </div>
 
+{% include comment-section.html url=page.url %}
+
 <div class="post-tail-wrapper text-muted">
   <!-- categories -->
   {% if page.categories.size > 0 %}
