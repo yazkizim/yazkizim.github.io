@@ -45,7 +45,7 @@ if ('serviceWorker' in navigator) {
     });
 }
 
-var siteadres = "https://api.countapi.xyz/hit/adliyeci.com.tr"
+var siteadres = "https://api.countapi.xyz/hit/adliyeci.com.tr";
 var adres = window.location.pathname;
 
 
