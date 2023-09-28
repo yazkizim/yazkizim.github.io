@@ -45,21 +45,9 @@ if ('serviceWorker' in navigator) {
     });
 }
 
-
-
 /*
-$.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent(siteadres + adres), function(data) {
-    console.log(data);
-});
+
 */
-var siteadres = "https://counterapi.com/api/adliyeci.com.tr";
-var adres = window.location.pathname;
-var aga;
-
-$.getJSON(siteadres + "/view" + adres, function(response) {
-    console.log(response.value);
-});
-
 
 
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function(data) {
@@ -112,5 +100,12 @@ $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://ap
     }
 }).fail(function() {
     $('#dovizbar').hide();
+});
+
+var siteadres = "https://counterapi.com/api/adliyeci.com.tr";
+var adres = window.location.pathname;
+
+$.getJSON(siteadres + "/view" + adres, function(response) {
+    console.log(response.value);
 });
                   
