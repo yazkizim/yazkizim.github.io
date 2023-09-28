@@ -56,7 +56,7 @@ titleabout: Bakanlık personelini için faydalı sair uygulamalar
     <a href="/mulakat" class="card post-preview flex-md-row-reverse">
     <span class="badge badge-secondary bg-transparent text-danger">Yeni *</span>
       <div class="card-body d-flex flex-column">
-        <h1 class="card-title my-2 mt-md-0">2018-2021 Adalet GYS / ÜDS Çıkmış Soruları 
+        <h1 class="card-title my-2 mt-md-0">2018-2021 Adalet GYS / ÜDS Çıkmış Mülakat Soruları 
         </h1>
         <div class="card-text content mt-0 mb-2">
           <p> PDF hainde incelemek ve indirmek için tıklayınız
