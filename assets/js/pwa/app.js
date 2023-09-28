@@ -45,17 +45,20 @@ if ('serviceWorker' in navigator) {
     });
 }
 
-var siteadres = "https://api.countapi.xyz/hit/adliyeci.com.tr";
-var adres = window.location.pathname;
+
 
 /*
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent(siteadres + adres), function(data) {
     console.log(data);
 });
 */
+var siteadres = "https://api.countapi.xyz/hit/adliyeci.com.tr";
+var adres = window.location.pathname;
+var aga;
 
 $.getJSON(siteadres + adres, function(response) {
     console.log(response.value);
+    aga = reponse.value;
 });
 
 $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://api.genelpara.com/embed/para-birimleri.json'), function(data) {
