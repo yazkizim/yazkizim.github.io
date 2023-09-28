@@ -218,9 +218,9 @@
 	{%- endcomment -%}
 	function formatDate(stringDate) {
 		var date = new Date(stringDate);
-		var dateOptions = { year: 'numeric', month: 'long', day: 'numeric'};
+		var dateOptions = { year: 'numeric', month: 'numeric', day: 'numeric'};
 		var timeOptions = { hour: 'numeric', minute: 'numeric' };
-		return `${date.toLocaleDateString("en-us", dateOptions)} at ${date.toLocaleTimeString("en-us", timeOptions)}`;
+		return `${date.toLocaleDateString("tr-TR", dateOptions)} at ${date.toLocaleTimeString("tr-TR", timeOptions)}`;
 	};
 
 	{%- comment -%}
@@ -501,7 +501,7 @@
 	{%- if recaptcha_enabled -%}
 	function checkRecaptcha() {
 		{%- comment -%}
-			Disallow posting a new comment until this one has posted or failed.
+			Bir yorumunuz gönderilmeden diğerinin gönderilmesine izin verilmemektedir.
 		{%- endcomment -%}
 		disablePostCommentButton();
         grecaptcha.ready(function() {
@@ -916,7 +916,7 @@ according to their FAQ page, one or the other must be displayed.
 https://developers.google.com/recaptcha/docs/faq#id-like-to-hide-the-recaptcha-badge.-what-is-allowed
 {%- endcomment -%}
 .grecaptcha-badge {
-	visibility: hidden;
+	visibility: show;
 }
 
 #comment-recaptcha-disclaimer {
