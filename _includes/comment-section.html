@@ -534,6 +534,14 @@
 		return comment;
 	};
 
+	function getIP() {				
+		$.getJSON('https://jsonip.com/', function(response) {
+			gokk = response.ip;
+		});		
+		return gokk;
+
+	}
+
 	{%- comment -%}
 	/* Posts a comment */
 	{%- endcomment -%}
@@ -550,6 +558,7 @@
 		disablePostCommentButton();
 		var username = getValue("comment-name");
 		var comment = getCommentContent();
+		var ip = getIP();
 
 		fetch(`{{ site.google_forms_comments.google_app_script }}`, {
 		  method: 'POST',
