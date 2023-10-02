@@ -145,11 +145,11 @@ collections:
   sozluk:
     output: true
     custom_permalink_placeholders: ["kelime"]
-    permalink: sozluk/:kelime  
+    permalink: /sozluk/:kelime/  
   sozluk:
     output: true
     custom_permalink_placeholders: ["adliye"]
-    permalink: adliye/:adliye  
+    permalink: /adliye/:adliye  
 
 defaults:
   - scope:
@@ -197,7 +197,7 @@ defaults:
       layout: sozluk
       kelime: "kelime"
       anlami: "anlami"
-      permalink: /:path/:title/
+      permalink: /sozluk/:kelime/
   - scope:
       path: ""
       type: adliye
