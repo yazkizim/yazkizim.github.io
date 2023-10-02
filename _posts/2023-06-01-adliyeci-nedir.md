@@ -1,5 +1,5 @@
 ---
-title: Adliyeci Nedir adliyeci ne iş yapar?
+title: Adliyeci Nedir
 author: gokhantasci
 date: 2023-06-01 09:11:00 +0300
 categories: [Haber, Adliyeci]
