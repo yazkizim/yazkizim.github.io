@@ -197,7 +197,7 @@ defaults:
       layout: sozluk
       kelime: "kelime"
       anlami: "anlami"
-      permalink: /:path/:basename:output_ext 
+      permalink: /:path/:kelime
   - scope:
       path: ""
       type: adliye
