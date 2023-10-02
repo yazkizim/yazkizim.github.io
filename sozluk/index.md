@@ -1,6 +1,7 @@
 ---
 title: Hukuk Sözlük
 layout: gokhan
+kelime: {{ page.kelime }}
 ---
 
 <div class="card-header">
