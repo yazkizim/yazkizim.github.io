@@ -197,7 +197,7 @@ defaults:
       layout: sozluk
       kelime: "kelime"
       anlami: "anlami"
-      permalink: /:path/:kelime/
+      permalink: /:path/:title/
   - scope:
       path: ""
       type: adliye
@@ -236,6 +236,8 @@ jekyll-archives:
   layouts:
     category: category
     tag: tag
+    sozluk: gokhan
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+    sozluk: /sozluk/:kelime/
