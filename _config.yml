@@ -191,13 +191,13 @@ defaults:
       # to update the code of all other post links in this project.
       permalink: /sayfa/:title/ 
   - scope:
-      path: ""
+      path: "sozluk"
       type: sozluk
     values:
       layout: sozluk
       kelime: "kelime"
       anlami: "anlami"
-      permalink: /sozluk/:slug 
+      permalink: /:path/:basename:output_ext 
   - scope:
       path: ""
       type: adliye
