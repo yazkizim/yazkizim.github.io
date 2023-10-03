@@ -3,6 +3,9 @@ title: 2023 Yılı Tanıklık Ücret Tarifesi
 keywords: tanıklık ücret tarifesi, CMK, harçlar kanunu, tanık ücreti, tanıklık ücreti
 permalink: /taniklikucret/
 layout: gokhan
+subcat: tarifeler
+comments: true
+addcoments: true
 ---
 
 

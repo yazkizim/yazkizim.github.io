@@ -3,6 +3,9 @@ title: Uzlaştırmacı Ücret Tarifesi
 keywords: uzlaştırmacı ücret tarifesi, 2023 uzlaştırmacı, 2023 uzlastirmaci, 2023 uzlaştırma ücretleri
 permalink: /uzlastirmaciucret/
 layout: gokhan
+subcat: tarifeler
+comments: true
+addcoments: true
 ---
 
 

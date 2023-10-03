@@ -4,6 +4,9 @@ keywords: Ağır Ceza Mahkemesi, Asliye Ceza Mahkemesi, Adliyeler, İlçe Adliye
 permalink: /teskilat/
 layout: gokhan
 swcache: true
+subcat: faydalı
+comments: true
+addcoments: true
 ---
 
 <div class="alert alert-warning" role="alert">
