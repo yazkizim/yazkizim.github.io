@@ -407,11 +407,12 @@
 		{%- if comment_replies_enabled -%}
 		newItem.classList.add("reply-item");
 		var commentReplyId = "" + Date.parse(jsonElement.timestamp);
+		var commentReply = jsonElement.comment.toString();
 		newItem.classList.add(commentReplyId);
 		var replyToHtml = null;
 		var replyId = comment?.extraCommentInfo?.replyToCommentId;
 		if (replyId != null && replyId != "" && commentIds.has(replyId)) {
-			replyToHtml = `<p class="comemnt-reply-id" onclick="jumpToComment('${replyId}')"><<< ${replyId}</p>`;
+			replyToHtml = `<p class="comemnt-reply-id" onclick="jumpToComment('${replyId}')"><<< ${commentReply}</p>`;
 		}
 		var currentCommentReplyButton = `<span class="comment-reply-button" onclick="replyToComment(${commentReplyId})"><img></img>Yanıtla</span>`;
 		{%- endif -%}
