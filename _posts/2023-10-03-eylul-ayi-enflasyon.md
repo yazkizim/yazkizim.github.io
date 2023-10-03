@@ -21,7 +21,7 @@ image:
 Açıklandı,  böylece 3 ayda toplam açıklanan enflasyon %23,27 olmuştur.
 
 
-2023 yılı Temmuz ayında memur maaşlarına Toplu Sözleşmeden kaynaklanan %6 oranında zam yapılmıştı, böylece Temmuz, Ağustos ve Eylül aylarında açıklanan enflasyon oranına göre <code class="highlighter-rouge">%12,68</code> oranında enflasyon farkı oluşmuştur.
+2023 yılı Temmuz ayında memur maaşlarına Toplu Sözleşmeden kaynaklanan %6 oranında zam yapılmıştı, böylece Temmuz, Ağustos ve Eylül aylarında açıklanan enflasyon oranına göre <code class="highlighter-rouge">%18.03</code> oranında enflasyon farkı oluşmuştur.
 
 <br>Yıl sonunda oluşması beklenen enflasyon farkı dahil maaş robotu için [**tıklayınız**](https://adliyeci.com.tr/maasyeni/) 
 <br>Her ünvanın güncel maaş robotu için [**tıklayınız**](https://adliyeci.com.tr/maas/) 
