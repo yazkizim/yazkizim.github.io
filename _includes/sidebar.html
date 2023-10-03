@@ -43,7 +43,7 @@
       <!-- the real tabs -->
       {% for tab in site.tabs %}
         {% capture derman %}{{ tab.url | split: '/' }}{% endcapture %}
-        <li class="nav-item{% if tab.url == page.url or page.subcat == derman %}{{ " active" }}{% endif %}">
+        <li class="nav-item{% if tab.url == page.url or page.subcat == tab.title %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" title='{{ tab.titleabout }}' class="nav-link">
             <i class="fa-fw {{ tab.icon }}" style="color: {{ tab.color }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
