@@ -19,20 +19,20 @@
               <a href="{{ '/' | relative_url }}">
                 {{ site.data.locales[include.lang].tabs.home | capitalize }}
               </a>
-            </span>
-          {% elsif page.subcat %}
-            <span>
-              <a href="{{ '/' page.subcat '/' | relative_url }}">
-                {{ page.subcat | capitalize }}
-              </a>
-           </span>
-           <span>{{ page.title }}</span>  
+            </span>          
 
           {% elsif forloop.last %}
             {% if page.collection == 'tabs' %}
               <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
             {% else %}
-              <span>{{ page.title }}</span>
+              {% if page.subcat %}
+                <span>
+                  <a href="{{ '/' page.subcat '/' }}">
+                    {{ page.subcat | capitalize }}
+                  </a>
+                </span>
+              {% endif %}  
+                <span>{{ page.title }}</span>  
             {% endif %}
 
           {% elsif page.layout == 'category' or page.layout == 'tag' %}
