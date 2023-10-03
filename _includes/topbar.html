@@ -20,6 +20,12 @@
                 {{ site.data.locales[include.lang].tabs.home | capitalize }}
               </a>
             </span>
+          {% elsif page.subcat %}
+            <span>
+              <a href="{{ '/' page.subcat '/' | relative_url }}">
+                {{ page.subcat | capitalize }}
+              </a>
+            </span>  
 
           {% elsif forloop.last %}
             {% if page.collection == 'tabs' %}
