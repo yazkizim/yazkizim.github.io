@@ -6,7 +6,7 @@ categories: [Güncelleme, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, Zabıt Katibi, Mübaşir, İnfaz Koruma Memuru]
 keywords: Adalet Bakanlığı, adliye, adliyeci, Zabıt Katibi, Mübaşir, İnfaz Koruma Memuru
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/hello.jpg
