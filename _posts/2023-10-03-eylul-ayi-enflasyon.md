@@ -7,7 +7,7 @@ tags: [enflasyon, enflasyon farkı, Eylül, maaş, adliyeci, Adalet Bakanlığı
 keywords: enflasyon, enflasyon farkı, Eylül, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
 pin: true
-comments: false
+comments: true
 image:
   path: /posts/enflasyon.jpg
   alt: 2023 Eylül Enflasyon
