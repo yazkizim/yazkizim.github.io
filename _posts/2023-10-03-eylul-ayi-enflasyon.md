@@ -16,7 +16,7 @@ image:
 2023 yılı;
 <br>Temmuz ayında enflasyon yüzde 9,43, 
 <br>Ağustos ayında enflasyon yüzde 9,09,
-<br>Eylül ayında ise yüzde 
+<br>Eylül ayında ise yüzde 4,75
 
 Açıklandı,  böylece 3 ayda toplam açıklanan enflasyon %23,27 olmuştur.
 
