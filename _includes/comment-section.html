@@ -395,7 +395,7 @@
 		{%- comment -%}
 		/* If the author was the one who commented back, add this 'verified' logic */
 		{%- endcomment -%}
-		var verifiedAuthorTag = jsonElement.isAuthor.toString();
+		var verifiedAuthorTag = jsonElement.isAuthor;
 		if (jsonElement.isAuthor == true || jsonElement.isAuthor.toString() == "TRUE") {
 			verifiedAuthorTag = "&nbsp;<strong>(Yönetici)</strong>";
 		}
