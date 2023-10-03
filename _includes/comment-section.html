@@ -552,7 +552,7 @@
 	document.getElementById("yorumekle2").style.display = "block";
 	{%- else -%}
 	disablePostCommentButton();
-	document.getElementById("yorumekle").innerHTML = '<center><p style="color: red;"<strong> YORUM YAPMAYA KAPALIDIR </strong></p></center>';
+	document.getElementById("yorumekle").innerHTML = '<center><p style="color: red;"<strong> BU BAŞLIK YORUMLARA KAPATILMIŞTIR </strong></p></center>';
 	document.getElementById("yorumekle2").style.display = "none";
 	{%- endif -%}
 	{%- if site.google_forms_comments.google_app_script -%}
