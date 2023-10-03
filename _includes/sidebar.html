@@ -42,7 +42,8 @@
       </li>
       <!-- the real tabs -->
       {% for tab in site.tabs %}
-        <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% elsif page.subcat == tab.title %}{{ " active" }}{% endif %}">
+        {% capture tab_names %}{{ tab.url | split: '/' }}{% endcapture %}
+        <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% elsif page.subcat == tab_names %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" title='{{ tab.titleabout }}' class="nav-link">
             <i class="fa-fw {{ tab.icon }}" style="color: {{ tab.color }}"></i>
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
