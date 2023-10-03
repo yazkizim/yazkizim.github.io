@@ -262,7 +262,7 @@
 		{%- comment -%}
 		/* Add headers so json objects are named properly */
 		{%- endcomment -%}
-		comments = `timestamp,name,comment,isAuthor\n${comments}`		
+		comments = `timestamp,name,comment,isAuthor\n${comments}`;
 		var newHiddenComments = $.csv.toObjects(comments)
 			{%- if comment_replies_enabled -%}
 			.map(item => {
@@ -395,8 +395,8 @@
 		{%- comment -%}
 		/* If the author was the one who commented back, add this 'verified' logic */
 		{%- endcomment -%}
-		var verifiedAuthorTag = jsonElement.isAuthor.toString();
-		if (jsonElement.isAuthor == true || jsonElement.isAuthor.toString() === "evet") {
+		var verifiedAuthorTag = "";
+		if (jsonElement.isAuthor == true || jsonElement.isAuthor.toString() === "TRUE") {
 			verifiedAuthorTag = "&nbsp;<strong>(Yönetici)</strong>";
 		}
 		{%- comment -%}
