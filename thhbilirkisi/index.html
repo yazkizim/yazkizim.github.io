@@ -21,20 +21,6 @@ layout: gokhan
             <th><button class="table-sort" data-sort="sort-gelir">Gelir V. (%15)</button></th>
             <th><button class="table-sort" data-sort="sort-net">Net Ödenecek</button></th>
           </tr>
-        </thead>
-        <tbody class="table-tbody">
-        {% for satir in site.data.thhbilirkisi %}
-        <tr>
-            <td class="sort-urun">{{ satir.urun }}
-            <td class="sort-katsayi">{{ satir.katsayi }}
-            <td class="sort-brut">{% assign brut = satir.katsayi | times: site.assets.katsayilar[1].aylik_katsayi %}
-              {{ brut | append: " TL"}} {{site.assets.katsayilar[1].aylik_katsayi}}
-            <td class="sort-damga">{{ damga | append: " TL" }}
-            <td class="sort-gelir">{{ gelir | append: " TL" }}
-            <td class="sort-net">TL  
-        </td>
-        </tr>
-        {% endfor %}         										
-        </tbody>
+        </thead>        
       </table>
     </div>
