@@ -112,5 +112,26 @@ titleabout: Adalet Bakanlığı Tarifeleri
         </div>
       </div>         
     </a>    
-  </article>  
+  </article>
+  <article class="card-wrapper">     
+    <a href="/thhbilirkisiucret/" class="card post-preview flex-md-row-reverse">      
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-user-secret fa-fw me-1 fa-3x align-middle" style="color: orange;"> </i></div>
+    <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi
+        </h1>
+        <div class="card-text content mt-0 mb-2">
+          <p> Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi 2023 
+          </p>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto"> 
+            <i class="far fa-calendar fa-fw me-1">
+            </i> 
+            <time>04/10/2023
+            </time>             
+          </div>          
+        </div>
+      </div>         
+    </a>    
+  </article>    
 </div>
