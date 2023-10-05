@@ -10,7 +10,7 @@ pin: true
 comments: true
 image:
   path: /posts/tayin.jpg
-  alt: Bilirkişi Ücret Tarifesi
+  alt: Sürekli Görev Yolluğu
 ---
 
 Sürekli görev yolluğu memur ve hizmetlilere eski memuriyet mahallinden yeni görev mahallerine kadar kendilerine ve aynı zamanda aile fertlerine ait ev eşyalarının fiilen taşıtılması ve diğer zorunlu giderlerine karşılık olarak verilmektedir.
