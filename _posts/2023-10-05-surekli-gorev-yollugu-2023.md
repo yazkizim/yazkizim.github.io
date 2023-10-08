@@ -3,7 +3,7 @@ title: Tayin/Görev Yeri Değişikliği Durumunda Alınacak Sürekli Görev Yoll
 author: gokhantasci
 date: 2023-10-05 16:24:00 +0300
 categories: [Hesaplamalar, Sürekli Görev Yolluğu]
-tags: [Adalet Bakanlığı, adliye, adliyeci, tayin, yolluk, havuz tayin, sürekli görev yolluğu, tayin parası, tayin yol parası]
+tags: [adliyeci, tayin, yolluk, havuz tayin]
 keywords: Adalet Bakanlığı, adliye, adliyeci, tayin, yolluk, havuz tayin, sürekli görev yolluğu, tayin parası, tayin yol parası
 render_with_liquid: false
 pin: true

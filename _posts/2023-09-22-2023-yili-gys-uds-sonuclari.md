@@ -3,7 +3,7 @@ title: 2023 Yılı Görevde Yükselme ve Ünvan Değişikliği Sınavı Sonuçla
 author: gokhantasci
 date: 2023-09-22 17:15:00 +0300
 categories: [Sınav, '2023']
-tags: [Adalet Bakanlığı, görevde yükselme, ünvan değişikliği, mülakat, müdür, adliye, adliyeci]
+tags: [Adalet Bakanlığı, görevde yükselme, ünvan değişikliği, adliye, adliyeci]
 keywords: Adalet Bakanlığı, görevde yükselme, ünvan değişikliği, mülakat, müdür, adliye, adliyeci
 render_with_liquid: false
 pin: false

@@ -3,7 +3,7 @@ title: 3 Aylık Enflasyon Farkı Belli Oldu
 author: gokhantasci
 date: 2023-10-03 10:01:00 +0300
 categories: [Enflasyon, 2023 yılı]
-tags: [enflasyon, enflasyon farkı, Eylül, maaş, adliyeci, Adalet Bakanlığı]
+tags: [enflasyon farkı, Eylül, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Eylül, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
 pin: false

@@ -3,7 +3,7 @@ title: Tanıklık Ücret Tarifesi
 author: gokhantasci
 date: 2023-07-01 14:10:00 +0800
 categories: [Tarifeler, Tanıklık Ücret Tarifesi]
-tags: [Adalet Bakanlığı, adliye, tanık, tanıklık, tanık ücreti, tanıklık ücret, tanık ucret, tanık ucreti, tanıklık ucretleri, adliyeci]
+tags: [Adalet Bakanlığı, tanık, adliyeci]
 keywords: Adalet Bakanlığı, adliye, tanık, tanıklık, tanık ücreti, tanıklık ücret, tanık ucret, tanık ucreti, tanıklık ucretleri, adliyeci
 render_with_liquid: false
 pin: false

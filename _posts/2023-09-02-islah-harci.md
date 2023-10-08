@@ -3,7 +3,7 @@ title: 2023 Islah Harcı Hesaplama
 author: gokhantasci
 date: 2023-09-02 14:10:00 +0800
 categories: [Hesaplamalar, Islah Harcı Hesaplama]
-tags: [Adalet Bakanlığı, mahkeme, ıslah, ıslah harcı, yenileme harcı, adliyeci]
+tags: [Adalet Bakanlığı, ıslah harcı, adliyeci]
 keywords: Adalet Bakanlığı, mahkeme, ıslah, ıslah harcı, yenileme harcı, 2023, adliyeci
 render_with_liquid: false
 pin: false

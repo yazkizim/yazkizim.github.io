@@ -3,7 +3,7 @@ title: 7. Dönem Toplu sözleşmesi Resmi Gazetede yayınlanmıştır
 author: gokhantasci
 date: 2023-09-03 14:10:00 +0800
 categories: [Toplu Sözleşme, 7. Dönem Toplu sözleşmesi]
-tags: [7. Dönem Toplu Sözleşme, Memur Zammı, Toplu Sözleşme, Katip Maaşı, Adliye Maaşları, adliyeci]
+tags: [Memur Zammı, Adliye Maaşları, adliyeci]
 keywords: 7. Dönem Toplu Sözleşme, Memur Zammı, Toplu Sözleşme, Katip Maaşı, Adliye Maaşları
 render_with_liquid: false
 pin: false

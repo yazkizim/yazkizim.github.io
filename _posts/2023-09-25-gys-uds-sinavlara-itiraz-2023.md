@@ -3,7 +3,7 @@ title: Görevde Yükselme ve Ünvan Değişikliği Sınav Sonuçlarına İtiraz
 author: gokhantasci
 date: 2023-09-25 10:00:00 +0300
 categories: [Sınav, '2023']
-tags: [Adalet, Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü]
+tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
 render_with_liquid: false
 pin: false

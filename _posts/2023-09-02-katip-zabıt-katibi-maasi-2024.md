@@ -3,7 +3,7 @@ title: Ocak 2024 Katip Maaşları
 author: gokhantasci
 date: 2023-07-15 14:10:00 +0800
 categories: [Maaşlar, Zabt Katibi Maaşları]
-tags: [Adalet Bakanlığı, 2024 Katip Maaşları]
+tags: [Adalet Bakanlığı, adliyeci, 2024 Katip Maaşları]
 keywords: Katip Maaşı 2024, Adalet Bakanlığı, Zabıt Katibi Maaşı, en düşük Zabıt Katibi Maaşı, sözleşmeli katip maaşı, sözleşmeli Zabıt Katibi Maaşı, Yargıtay, Zabıt Katibi Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Zabıt Katibi ne iş yapar?
 render_with_liquid: false
 pin: false

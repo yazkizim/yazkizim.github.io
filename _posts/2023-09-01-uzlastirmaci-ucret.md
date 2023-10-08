@@ -3,7 +3,7 @@ title: 2023 Yılı Uzlaştırmacı Ücret Tarifesi
 author: gokhantasci
 date: 2023-09-01 14:10:00 +0800
 categories: [Tarifeler, Uzlaştırmacı Ücret Tarifesi]
-tags: [Adalet Bakanlığı, uzlaştırmacı, uzlaşma, uzlaşma masraf, uzlaştırma masraf, uzlaştırmacı ücreti, adliyeci]
+tags: [Adalet Bakanlığı, uzlaştırmacı, adliyeci]
 keywords: uzlaştırmacı, uzlastirmaci, uzlaştırmacı ücret, ücret tarifesi
 render_with_liquid: false
 pin: false

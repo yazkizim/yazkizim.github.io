@@ -3,7 +3,7 @@ title: Güncelleme; Arama butonundan Adliye ve Hukuk Sözlüğü Araması
 author: gokhantasci
 date: 2023-09-26 09:15:00 +0300
 categories: [Güncelleme, '2023']
-tags: [Adalet, Adalet Bakanlığı, adliye, adliyeci, hukuk sözlüğü, hangi adliye nereye bağlı, adliye var mı, kapatılan adliyeler, birleştirilen adliyeler]
+tags: [Adalet, adliyeci, hukuk sözlüğü, hangi adliye nereye bağlı]
 keywords: Adalet, Adalet Bakanlığı, adliye, adliyeci, hukuk sözlüğü, hangi adliye nereye bağlı, adliye var mı, kapatılan adliyeler, birleştirilen adliyeler
 render_with_liquid: false
 pin: true

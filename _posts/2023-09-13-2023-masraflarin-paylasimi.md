@@ -3,7 +3,7 @@ title: Yargılama sonrası masrafların paylaşımı
 author: gokhantasci
 date: 2023-09-13 14:10:00 +0800
 categories: [Hesaplamalar, Yargılama sonrası masrafların paylaşımı]
-tags: [mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, adliyeci]
+tags: [mahkeme masrafları, robot, adliyeci]
 keywords: mahkeme masrafları, robot, mahkeme giderleri, mahkeme parası, 2023, adliyeci
 render_with_liquid: false
 pin: false

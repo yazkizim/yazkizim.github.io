@@ -3,7 +3,7 @@ title: 2023 yılı Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi
 author: gokhantasci
 date: 2023-10-04 10:31:00 +0300
 categories: [Tarifeler, THH Bilirkişi Ücret Tarifesi]
-tags: [Adalet Bakanlığı, adliye, adliyeci, thh, tüketici hakem heyeti, bilirkişi, bilirkişi ücret, thh ücret tarifesi, thh bilirkişi tarifesi]
+tags: [adliyeci, thh, tüketici hakem heyeti, bilirkişi]
 keywords: Adalet Bakanlığı, adliye, adliyeci, thh, tüketici hakem heyeti, bilirkişi, bilirkişi ücret, thh ücret tarifesi, thh bilirkişi tarifesi
 render_with_liquid: false
 pin: false

@@ -3,7 +3,7 @@ title: Web sitemizi masaüstü uygulaması olarak yüklenilmesi
 author: gokhantasci
 date: 2023-09-22 09:00:00 +0300
 categories: [Güncelleme, '2023']
-tags: [Adalet Bakanlığı, adliye, adliyeci, Zabıt Katibi, Mübaşir, İnfaz Koruma Memuru]
+tags: [Adalet Bakanlığı, adliye, adliyeci]
 keywords: Adalet Bakanlığı, adliye, adliyeci, Zabıt Katibi, Mübaşir, İnfaz Koruma Memuru
 render_with_liquid: false
 pin: false

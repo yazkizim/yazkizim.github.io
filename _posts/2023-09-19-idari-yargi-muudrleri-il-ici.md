@@ -3,7 +3,7 @@ title: İdari Yargı Yazı İşleri Müdürlerinin Komisyon İçi İsteğe Bağl
 author: gokhantasci
 date: 2023-09-19 08:00:00 +0300
 categories: [Tayin, '2023']
-tags: [Adalet Bakanlığı, Yazı İşleri Müdürü, İl içi atama, nakil, yönetmelik, havuz tayin, adliyeci]
+tags: [Adalet Bakanlığı, Yazı İşleri Müdürü, yönetmelik, adliyeci]
 keywords: Adalet Bakanlığı, Yazı İşleri Müdürü, İl içi atama, nakil, yönetmelik, havuz tayin, adliyeci
 render_with_liquid: false
 pin: false

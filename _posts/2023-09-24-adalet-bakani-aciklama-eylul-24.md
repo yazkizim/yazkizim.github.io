@@ -3,7 +3,7 @@ title: Sayın Adalet Bakanı Yılmaz Tunç'dan yeni atanacak personel için aç�
 author: gokhantasci
 date: 2023-09-24 22:00:00 +0300
 categories: [Haber, '2023']
-tags: [Adalet, Adalet Bakanı, Yılmaz Tunç, Katip Alımı, Mübaşir Alımı, Gardiyan Alımı, İnfaz Koruma Alımı, Şoför Alımı]
+tags: [Adalet Bakanı, Yılmaz Tunç]
 keywords: Adalet, Adalet Bakanı, Yılmaz Tunç, Katip Alımı, Mübaşir Alımı, Gardiyan Alımı, İnfaz Koruma Alımı, Şoför Alımı, adliyeci, adliye
 render_with_liquid: false
 pin: false

@@ -3,7 +3,7 @@ title: Asgari Ücret Gelir ve Damga Vergisi İstisna Hesaplamaları
 author: gokhantasci
 date: 2023-09-27 09:15:00 +0300
 categories: [Güncelleme, '2023']
-tags: [Adalet, Adalet Bakanlığı, adliye, adliyeci, asgari ücret, brüt asgari ücret, net asgari ücret, gelir vergisi istisna, damga vergisi istisna]
+tags: [Adalet, adliyeci, asgari ücret]
 keywords: Adalet, Adalet Bakanlığı, adliye, adliyeci, asgari ücret, brüt asgari ücret, net asgari ücret, gelir vergisi istisna, damga vergisi istisna
 render_with_liquid: false
 pin: false
