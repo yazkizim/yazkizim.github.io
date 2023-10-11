@@ -4,8 +4,8 @@ keywords: 2018 Mülakat Sorular, 2021 Mülakat Soruları, Yazı İşleri Mülaka
 permalink: /hatirlatmakartlari/
 layout: gokhan
 subcat: faydalı
-comments: true
-addcoments: true
+comments: false
+addcoments: false
 ---
 
 <div class="card-header">
