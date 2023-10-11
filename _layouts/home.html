@@ -61,6 +61,10 @@ layout: default
     {% endif %}
     <article class="card-wrapper">
       <a href="{{ post.url | relative_url }}" title='{{ post.title }}' class="card post-preview flex-md-row-reverse">
+        {% if post.date > site.time - 7 %}
+        <span class="position-absolute top-0 start-0 translate-middle badge rounded-pill bg-danger">Yeni</span>
+        {% endif %}
+        
         {% if post.image %}
           {% if post.image.lqip %}
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
