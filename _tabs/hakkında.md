@@ -26,7 +26,7 @@ Dileyen, dilediği gibi, kopyalamaya, geliştirmeye, yenisini yapmaya özgürdü
 Bu web sitesi tamamen kişisel çabalarla oluşturulmuş bir web sitesidir. Gösterdiği sonuçlar kesinlik arz etmemekte olup, doğruya en yakını bulmayı hedeflemektedir. Bu nedenle sitenin yapmış olduğu tüm hesaplamaların bilgilendirme mahiyetinde olduğunu gözardı etmeyiniz. 
 
 ## Web sitesi herhangi bir şekilde reklam barındaracak mı?
-> Hayır bu web sitesinden herhangi bir gelir hedeflenmemektedir.
+> Sitenin sabit gelirlerini karşılamak üzere her sayfada 1 taneyi aşmamak üzere reklam barındıracaktır.
 {: .prompt-info }
 
 ### Hesaplamalarda yanlış buldum nasıl bildiririm?
