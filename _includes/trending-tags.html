@@ -41,6 +41,9 @@
         {% assign url = tag_name | slugify | url_encode | prepend: '/tags/' | append: '/' %}
         <a class="post-tag btn btn-outline-primary" title='{{ tag_name }}' href="{{ url | relative_url }}">{{ tag_name }}</a>
       {% endfor %}
-    </div>    
+    </div>
+    <div class="my-2 my-md-0 flex-grow-1 flex-md-grow-0 order-first order-md-last">
+      <img src="https://pgm.adalet.gov.tr/Assets/front/images/bayrak.png" style="max-width: 75%" alt="Atatürk Resmi">
+     </div>    
   </section>
 {% endif %}
