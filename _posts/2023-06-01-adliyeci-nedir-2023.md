@@ -3,8 +3,8 @@ title: Adliyeci Nedir
 author: gokhantasci
 date: 2023-06-01 09:11:00 +0300
 categories: [Haber, Adliyeci]
-tags: [Adalet, Adalet Bakanlığı, adliye, adliyeci, adliyeci nedir?, Katip ne iş yapar]
-keywords: Adalet, Adalet Bakanlığı, adliyeci, adliyeci nedir?, Katip ne iş yapar, mübaşir ne iş yapar, hizmetli ne iş yapar
+tags: [Adalet, Adalet Bakanlığı, adliye, adliyeci, adliyeci nedir, Katip ne iş yapar]
+keywords: Adalet, Adalet Bakanlığı, adliyeci, adliyeci nedir, Katip ne iş yapar, mübaşir ne iş yapar, hizmetli ne iş yapar
 render_with_liquid: false
 pin: false
 comments: true

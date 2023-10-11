@@ -6,7 +6,7 @@ categories: [Güncelleme, '2023']
 tags: [Adalet, adliyeci, hukuk sözlüğü, hangi adliye nereye bağlı]
 keywords: Adalet, Adalet Bakanlığı, adliye, adliyeci, hukuk sözlüğü, hangi adliye nereye bağlı, adliye var mı, kapatılan adliyeler, birleştirilen adliyeler
 render_with_liquid: false
-pin: true
+pin: false
 comments: false
 image:
   path: /posts/update.jpg

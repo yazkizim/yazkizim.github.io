@@ -6,7 +6,7 @@ categories: [Hesaplamalar, Sürekli Görev Yolluğu]
 tags: [adliyeci, tayin, yolluk, havuz tayin]
 keywords: Adalet Bakanlığı, adliye, adliyeci, tayin, yolluk, havuz tayin, sürekli görev yolluğu, tayin parası, tayin yol parası
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/tayin.jpg
