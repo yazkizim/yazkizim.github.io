@@ -197,7 +197,7 @@ defaults:
       layout: sozluk
       kelime: "kelime"
       anlami: "anlami"
-      permalink: /sozluk/:kelime/
+      permalink: /sozluk:kelime/
   - scope:
       path: ""
       type: adliye
@@ -240,4 +240,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-    sozluk: /sozluk/:kelime/
+    sozluk: /sozluk:kelime/
