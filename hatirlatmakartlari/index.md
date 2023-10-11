@@ -8,9 +8,7 @@ comments: false
 addcoments: false
 ---
 
-<div class="card-header">
-  <h3 class="card-title">Adalet Bakanlığı Mülakat Çalışma Kartları</h3>
-</div>
+
 <div class="card-body">
   <div class="mb-3">    
     <div id="hatirlatmacarousel" class="carousel slide" data-ride="carousel">
