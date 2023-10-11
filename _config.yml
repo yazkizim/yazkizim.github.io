@@ -205,7 +205,7 @@ defaults:
       layout: sozluk
       adliye: "adliye"
       icerik: "icerik"
-      permalink: /adliye/:slug           
+      permalink: /adliye:slug           
       
 
 sass:

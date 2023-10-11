@@ -69,7 +69,7 @@ permalink: /feed.xml
           <item>
             <title>{{ sozluk.kelime | xml_escape }} ne demek?</title>
             <description>{{ sozluk.anlami | xml_escape }}</description>
-            <link>"{{ '/sozluk/?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}"</link>
+            <link>"{{ '/sozluk?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}"</link>
           </item>
 {% endfor %}
 

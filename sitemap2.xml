@@ -5,12 +5,12 @@ layout: null
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for sozluk in site.data.sozluk %}
         <url>
-            <loc>{{ '/sozluk/?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}</loc>
+            <loc>{{ '/sozluk?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}</loc>
         </url>
     {% endfor %}    
     {% for teskilat in site.data.teskilat %}
         <url>
-            <loc>{{ '/adliye/?adliye=' | append: teskilat.mahal | prepend: site.baseurl | prepend: site.url }}</loc>
+            <loc>{{ '/adliye?adliye=' | append: teskilat.mahal | prepend: site.baseurl | prepend: site.url }}</loc>
         </url>
     {% endfor %}   
 </urlset>

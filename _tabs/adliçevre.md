@@ -12,7 +12,7 @@ titleabout: Adli Çevre
     {% for teskilat in site.data.teskilat %}        
         <li>
         <span class="date day"></span> <span class="date month small text-muted ms-1"></span>      
-        <a href="{{ '/adliye/?adliye=' | append: teskilat.mahal | prepend: site.baseurl | prepend: site.url }}">{{ teskilat.mahal }} yargı çevresi</a>
+        <a href="{{ '/adliye?adliye=' | append: teskilat.mahal | prepend: site.baseurl | prepend: site.url }}">{{ teskilat.mahal }} yargı çevresi</a>
         </li>    
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}

@@ -12,7 +12,7 @@ titleabout: Sözlük Arşivi
     {% for sozluk in site.data.sozluk %}        
         <li>
         <span class="date day"></span> <span class="date month small text-muted ms-1"></span>      
-        <a href="{{ '/sozluk/?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}">{{ sozluk.kelime }} ne demek?</a>
+        <a href="{{ '/sozluk?kelime=' | append: sozluk.kelime | prepend: site.baseurl | prepend: site.url }}">{{ sozluk.kelime }} ne demek?</a>
         </li>    
     {% if forloop.last %}</ul>{% endif %}
   {% endfor %}

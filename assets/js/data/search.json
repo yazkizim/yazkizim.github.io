@@ -8,7 +8,7 @@ swcache: true
 
   {
     "title": {{ teskilat.mahal | append: " Adliyesi Nereye Bağlı?" | jsonify}},
-    "url": "{{ '/adliye/?adliye=' | append: teskilat.mahal }}",
+    "url": "{{ '/adliye?adliye=' | append: teskilat.mahal }}",
     "categories": "Adli Teşkilat",
     "tags": "Adli Teşkilat",
     "date": "{{ now }}",
@@ -37,7 +37,7 @@ swcache: true
 
   {
     "title": {{ sozluk.kelime | jsonify }},
-    "url": "{{ '/sozluk/?kelime=' | append: sozluk.kelime }}",
+    "url": "{{ '/sozluk?kelime=' | append: sozluk.kelime }}",
     "categories": "Sözlük",
     "tags": "Sözlük",
     "date": "{{ now }}",

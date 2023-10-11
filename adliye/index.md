@@ -1,6 +1,7 @@
 ---
 title: Hangi Adliye Nereye Bağlı
 layout: gokhan
+permalink: /adliye
 ---
 
 <div class="card-header">
