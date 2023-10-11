@@ -14,7 +14,7 @@ addcoments: true
 <div class="card-body">
   <div class="mb-3">    
     <div id="hatirlatmacarousel" class="carousel slide" data-ride="carousel">
-    <div class="carousel-inner">
+    <div class="carousel-inner" id="hatirlatmac">
         <div class="carousel-item active">
             <h1 class="text-center">PULITZER ÖDÜLÜ NEREDE VERİLMEKTEDİR?</h1>
             <span class="text-justify">Pulitzer Ödülü New York şehrinde, Columbia
@@ -45,8 +45,8 @@ addcoments: true
     </div>
     </div>
     <div class="text-center">
-        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="prev" data-target="#hatirlatmacarousel">‹</button>
-        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="next" data-target="#hatirlatmacarousel">›</button>
+        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="prev" data-target="#hatirlatmacarousel" id="crgeri">‹</button>
+        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="next" data-target="#hatirlatmacarousel" id="crileri">›</button>
     </div>
   </div>
 </div>
