@@ -19,8 +19,11 @@ addcoments: true
     </div>
     <div class="d-flex align-items-center justify-content-between mt-3">
         <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="prev" data-target="#hatirlatmacarousel" id="crgeri">‹</button>
-        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="next" data-target="#hatirlatmacarousel" id="cryenile">Yenile</button>
+        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="next" data-target="#hatirlatmacarousel" id="cryenile">Yenilerini Getir</button>
         <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="next" data-target="#hatirlatmacarousel" id="crileri">›</button>
     </div>
   </div>
 </div>
+
+> Henüz soruların 630 adeti eklenmiştir, kalan kısım hızlıca eklenecektir. Her defasında 10 tane soru getirmektedir.
+{: .prompt-info }
