@@ -44,5 +44,9 @@ addcoments: true
         </div>
     </div>
     </div>
+    <div class="text-center">
+        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="prev" data-target="#hatirlatmacarousel">‹</button>
+        <button class="btn btn-outline-secondary py-0 font-weight-bold" data-slide="next" data-target="#hatirlatmacarousel">›</button>
+    </div>
   </div>
 </div>
