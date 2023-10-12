@@ -1,3 +1,12 @@
+---
+title: ADS Test
+keywords: ADS Test
+permalink: /ads/
+layout: gokhan
+subcat: faydalı
+comments: false
+addcoments: false
+---
 <!--- Reklam --->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2142653859194978"
      crossorigin="anonymous"></script>
