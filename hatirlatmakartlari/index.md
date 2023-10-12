@@ -23,5 +23,5 @@ addcoments: false
   </div>
 </div>
 
-> Henüz soruların 630 adeti eklenmiştir, kalan kısım hızlıca eklenecektir. Her defasında 10 tane soru getirmektedir.
+> Henüz soruların 1107 adeti eklenmiştir, kalan kısım hızlıca eklenecektir. Her defasında 10 tane soru getirmektedir.
 {: .prompt-info }
