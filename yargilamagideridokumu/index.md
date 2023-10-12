@@ -19,7 +19,7 @@ addcoments: true
                 <label for="y{{ tablo.adi }}" id="y{{ tablo.adi }}" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
                 <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
+                    <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0" onfocus="myFocusFunction(y{{ tablo.adi }})" onblur="myBlurFunction(y{{ tablo.adi }})">
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@ addcoments: true
                     <label for="y{{ tablo.adi }}" id="y{{ tablo.adi }}" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
                     <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                     <div class="col-sm-6">
-                        <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
+                        <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0" onfocus="myFocusFunction(y{{ tablo.adi }})" onblur="myBlurFunction(y{{ tablo.adi }})">
                     </div>
                 </div>
             </div>
@@ -47,7 +47,7 @@ addcoments: true
                     <label for="y{{ tablo.adi }}" id="y{{ tablo.adi }}" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
                     <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                     <div class="col-sm-6">
-                        <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
+                        <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0" onfocus="myFocusFunction(y{{ tablo.adi }})" onblur="myBlurFunction(y{{ tablo.adi }})">
                     </div>
                 </div>
             </div>
