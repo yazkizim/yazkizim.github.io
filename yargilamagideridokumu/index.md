@@ -16,7 +16,7 @@ addcoments: true
         {% for tablo in  site.data.tebligatlar.tebligat  %}    
         <div class="col-12">
             <div class="form-group row">
-                <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
+                <label for="y{{ tablo.adi }}" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
                 <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                 <div class="col-sm-6">
                     <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
@@ -31,7 +31,7 @@ addcoments: true
             {% for tablo in  site.data.tebligatlar.eskitebligat  %}    
             <div class="col-12">
                 <div class="form-group row">
-                    <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
+                    <label for="y{{ tablo.adi }}" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
                     <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                     <div class="col-sm-6">
                         <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
@@ -44,7 +44,7 @@ addcoments: true
         {% for tablo in  site.data.tebligatlar.elektronikteb  %}    
             <div class="col-12">
                 <div class="form-group row">
-                    <label for="yargilamagideri" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
+                    <label for="y{{ tablo.adi }}" class="col-sm-4 col-form-label">{{ tablo.label }}</label>
                     <input type="hidden" id= "{{ tablo.adi }}" value="{{ tablo.gider }}">
                     <div class="col-sm-6">
                         <input type="number" class="form-control" id= "{{ tablo.adet }}" value="0" placeholder="0">
