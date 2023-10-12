@@ -53,11 +53,15 @@ addcoments: true
             </div>
         {% endfor %}
         <h5>Diğer Giderler</h5>
+        <div class="alert alert-success" role="alert">
+        <p>Bu kısımda birden fazla olan harcamaları yazarken sisteme toplama yaptırabilirsiniz.</p>
+        <p>Örnek : 5.11 + 6.22 <code class="highlighter-rouge">yazdıktan sonra <b>ENTER</b> tuşuna bastığınızda toplamı getirecektir</code></p>
+        </div>
         <div class="col-12">
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">Posta Gideri</label>
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id="postagideri" value="0" placeholder="0" step=".01">
+                    <input type="text" class="form-control" id="postagideri" value="0" placeholder="0" step=".01">
                 </div>
             </div>
         </div>
@@ -65,7 +69,7 @@ addcoments: true
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">ATK Gideri</label>
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id="atkgideri" value="0" placeholder="0" step=".01">
+                    <input type="text" class="form-control" id="atkgideri" value="0" placeholder="0" step=".01">
                 </div>
             </div>
         </div>
@@ -73,7 +77,7 @@ addcoments: true
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">Keşif Gideri</label>
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id="kesifgideri" value="0" placeholder="0" step=".01">
+                    <input type="text" class="form-control" id="kesifgideri" value="0" placeholder="0" step=".01">
                 </div>
             </div>
         </div>
@@ -81,7 +85,7 @@ addcoments: true
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">Uzlaştırmacı Gideri</label>
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id="uzlasmagideri" value="0" placeholder="0" step=".01">
+                    <input type="text" class="form-control" id="uzlasmagideri" value="0" placeholder="0" step=".01">
                 </div>
             </div>
         </div>
@@ -89,7 +93,7 @@ addcoments: true
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">Bilirkişi Ücreti</label>
                 <div class="col-sm-6">
-                    <input type="number" class="form-control" id="bilirkisigideri" value="0" placeholder="0" step=".01">
+                    <input type="text" class="form-control" id="bilirkisigideri" value="0" placeholder="0" step=".01">
                 </div>
             </div>
         </div>
