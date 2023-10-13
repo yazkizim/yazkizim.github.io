@@ -8,3 +8,5 @@ User-agent: *
 Disallow: /norobots/
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: {{ '/feed.xml' | absolute_url }}
+Sitemap: {{ '/sozlukmap.xml' | absolute_url }}
