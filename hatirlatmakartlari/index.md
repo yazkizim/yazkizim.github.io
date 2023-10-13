@@ -10,7 +10,7 @@ addcoments: false
 
 <div class="card-body">
   <div class="mb-3">    
-    <div id="hatirlatmacarousel" class="carousel slide" data-ride="carousel">
+    <div id="hatirlatmacarousel" class="carousel slide border border-primary rounded" data-ride="carousel">
     <div class="carousel-inner" id="hatirlatmac">       
     </div>
     </div>
@@ -22,5 +22,5 @@ addcoments: false
   </div>
 </div>
 
-> Henüz soruların 1107 adeti eklenmiştir, kalan kısım hızlıca eklenecektir. Her defasında 10 tane soru getirmektedir.
-{: .prompt-info }
+> Tüm çıkmış mülakat soruları sisteme eklenmiştir. Her defasında 10 tane soru getirmektedir. Başarılar dilerim.
+{: .prompt-tip }
