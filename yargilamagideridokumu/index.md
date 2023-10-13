@@ -56,7 +56,7 @@ addcoments: true
         <div class="alert alert-success" role="alert">
         <p>Bu kısımda birden fazla olan harcamaları yazarken sisteme toplama yaptırabilirsiniz.</p>
         <p>Örnek : 5.11 + 6.22 <code class="highlighter-rouge">yazdıktan sonra <b>ENTER</b> tuşuna bastığınızda toplamı getirecektir</code></p>
-        <p>Çalışmaması halinde bir kez CTRL + F5 tuşlayınız.</p>
+        <small class="form-hint">* Çalışmaması halinde bir kez CTRL + F5 tuşlayınız.</small>
         </div>
         <div class="col-12">
             <div class="form-group row">
