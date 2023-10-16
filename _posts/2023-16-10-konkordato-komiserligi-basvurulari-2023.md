@@ -79,7 +79,7 @@ Bu itibarla, anılan Kanun ve Yönetmelik hükümleri gereğince, Kamu Gözetimi
   
 Kamuoyuna ilanen duyurulur.  
   
-**[Ek- 1 Başvuru Kılavuzu](https://bilirkisilik.adalet.gov.tr/Resimler/SayfaDokuman/1792020142604Komiserlik%20Ba%C5%9Fvuru%20K%C4%B1lavuzu.pdf)  
+[Ek- 1 Başvuru Kılavuzu](https://bilirkisilik.adalet.gov.tr/Resimler/SayfaDokuman/1792020142604Komiserlik%20Ba%C5%9Fvuru%20K%C4%B1lavuzu.pdf)  
   
-[Ek- 2 Beyanname](https://bilirkisilik.adalet.gov.tr/Resimler/SayfaDokuman/1792020142430Komiserlik%20Ek-2%20Beyanname%2017.09.2020.docx)**
+[Ek- 2 Beyanname](https://bilirkisilik.adalet.gov.tr/Resimler/SayfaDokuman/1792020142430Komiserlik%20Ek-2%20Beyanname%2017.09.2020.docx)
 
