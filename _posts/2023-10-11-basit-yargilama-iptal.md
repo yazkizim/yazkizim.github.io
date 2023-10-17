@@ -6,7 +6,7 @@ categories: [Haber, '2023']
 tags: [adliyeci, Anayasa Mahkemesi, Basit Yargılama Usulü]
 keywords: Adalet Bakanlığı, adliye, adliyeci, cmk, cmk 251, cmk 252, basit yargılama
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png

@@ -6,7 +6,7 @@ categories: [Haber, '2023']
 tags: [adliyeci, Memur Maaş]
 keywords: Adalet Bakanlığı, adliye, adliyeci, bordro, memur maaş
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/edevlet.jpg
