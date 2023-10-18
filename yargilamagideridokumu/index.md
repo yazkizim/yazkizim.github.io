@@ -53,17 +53,12 @@ addcoments: true
             </div>
         {% endfor %}
         <h5>Diğer Giderler</h5>
-        <div class="alert alert-success" role="alert">
-        <p>Bu kısımda birden fazla olan harcamaları yazarken sisteme toplama yaptırabilirsiniz.</p>
-        <p>Örnek : 5.11 + 6.22 <code class="highlighter-rouge">yazdıktan sonra <b>ENTER</b> tuşuna bastığınızda toplamı getirecektir</code></p>
-        <small class="form-hint">* Çalışmaması halinde bir kez CTRL + F5 tuşlayınız.</small>
-        </div>
-        <div class="col-12">
-            <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="tebligatlarbir">
-                <label class="form-check-label" for="tebligatlarbir"> Tebligat/E-Tebligat Masrafları Ayrı Ayrı Gösterilsin mi? </label>
-            </div>
-        </div>    
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            <p>Bu kısımda birden fazla olan harcamaları yazarken sisteme toplama yaptırabilirsiniz.</p>
+            <p>Örnek : 5.11 + 6.22 <code class="highlighter-rouge">yazdıktan sonra <b>ENTER</b> tuşuna bastığınızda toplamı getirecektir</code></p>
+            <small class="form-hint">* Çalışmaması halinde bir kez CTRL + F5 tuşlayınız.</small>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Kapat"></button>
+        </div>        
         <div class="col-12">
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">Posta Gideri</label>
@@ -120,8 +115,15 @@ addcoments: true
                 </div>
             </div>
         </div>
+        <div class="col-12">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="tebligatlarbir">
+                <label class="form-check-label" for="tebligatlarbir"> Tebligat/E-Tebligat Masrafları Ayrı Ayrı Gösterilsin mi? </label>
+            </div>
+        </div>    
     </div>
     <div class="card-footer">
+        <div id="liveAlertPlaceholder"></div>
         <button type="button float-left" class="btn btn-outline-danger" id="gidertemizle">Temizle</button>
         <button type="button float-right" class="btn btn-outline-primary" id="giderhesapla">Hesapla</button>
     </div>
