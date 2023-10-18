@@ -124,6 +124,7 @@ addcoments: true
     </div>
     <div class="card-footer">
         <div id="liveAlertPlaceholder"></div>
+        <input type="hidden" id= "opencount" value="0">
         <button type="button float-left" class="btn btn-outline-danger" id="gidertemizle">Temizle</button>
         <button type="button float-right" class="btn btn-outline-primary" id="giderhesapla">Hesapla</button>
     </div>
