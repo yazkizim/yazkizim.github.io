@@ -59,10 +59,32 @@ addcoments: true
         <small class="form-hint">* Çalışmaması halinde bir kez CTRL + F5 tuşlayınız.</small>
         </div>
         <div class="col-12">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="tebligatlarbir">
+                <label class="form-check-label" for="tebligatlarbir"> Tebligat/E-Tebligat Masrafları Ayrı Ayrı Gösterilsin mi? </label>
+            </div>
+        </div>    
+        <div class="col-12">
             <div class="form-group row">
                 <label for="yargilamagideri" class="col-sm-4 col-form-label">Posta Gideri</label>
                 <div class="col-sm-6">
                     <input type="text" class="form-control" id="postagideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="ilangideri" class="col-sm-4 col-form-label">İlan Gideri</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="ilangideri" value="0" placeholder="0" step=".01">
+                </div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-group row">
+                <label for="yasagideri" class="col-sm-4 col-form-label">Yasa Yolu Gidiş Dönüş Gideri</label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="yasagideri" value="0" placeholder="0" step=".01">
                 </div>
             </div>
         </div>
