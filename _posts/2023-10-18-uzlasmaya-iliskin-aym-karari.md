@@ -6,7 +6,7 @@ categories: [Haber, '2023']
 tags: [adliyeci, Anayasa Mahkemesi, Uzlaşma]
 keywords: Adalet Bakanlığı, adliye, adliyeci, cmk, cmk 253, aym iptal, uzlaşma
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png
