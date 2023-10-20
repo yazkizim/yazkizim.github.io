@@ -22,7 +22,7 @@ Net Maaş olarak gösterilen rakam **%32,34'lık enflasyon farkı** beklentisi v
 Eylül ayında yüzde 4,42 olan Ekim ayı TÜFE artışı beklentisi, bu anket döneminde yüzde 4,30'a geriledi. Cari yıl sonu TÜFE'deki artış beklentisi de yüzde 68,01 oldu.
 TÜFE'de artış beklentileri 12 ay sonrası için yüzde 44,94'ten **45,28'e**, 24 ay sonrası için yüzde 23,87'den **25,82'ye** çıktı.
 
-Yıl sonu Amerikan Doları - TL beklentisi **%30,05**, 12 ay sonrası Amerikan Doları - TL beklentisi 37,26'dan **%38,64'e** yükseldi.
+Yıl sonu Amerikan Doları - TL beklentisi **30,05**, 12 ay sonrası Amerikan Doları - TL beklentisi 37,26'dan **38,64'e** yükseldi.
 
 <code class="highlighter-rouge">Maaş Robotunda</code> Ocak ayında oluşacak 14 günlük maaş farkı Hesaplama yöntemi değiştirilerek **hesaplanabilir**.
 
