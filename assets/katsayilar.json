@@ -2,11 +2,11 @@
     {
         "durum": "eski",
         "enflasyon": 1,
-        "aylik_katsayi": 0.772239,
-        "taban_ayligi_katsayi": 12.08702,
-        "yan_odeme_katsayi": 0.244902,
-        "gelir_vergisi_istisna": 3453,
-        "damga_vergisi_istisna": 152.18
+        "aylik_katsayi": 0.775910,
+        "taban_ayligi_katsayi": 12.144472,
+        "yan_odeme_katsayi": 0.246067,
+        "gelir_vergisi_istisna": 3470,
+        "damga_vergisi_istisna": 154.97
     },
     {
         "durum": "suan",
