@@ -6,7 +6,7 @@ categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/gyssonuc.jpg
