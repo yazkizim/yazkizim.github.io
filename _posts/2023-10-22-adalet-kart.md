@@ -1,5 +1,5 @@
 ---
-title: Adalet Kart Nedir, Kampanyaları nelerdir
+title: Adalet Kart Nedir Kampanyaları nelerdir
 author: gokhantasci
 date: 2023-10-23 10:35:00 +0300
 categories: [Duyuru, AdaletKart]
