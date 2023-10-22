@@ -1,7 +1,7 @@
 ---
 title: Adalet Kart Nedir Kampanyaları nelerdir
 author: gokhantasci
-date: 2023-10-23 10:35:00 +0300
+date: 2023-10-22 10:35:00 +0300
 categories: [Duyuru, AdaletKart]
 tags: [Adalet Bakanlığı, adliye, adliyeci, adalet kart]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, adalet kart, adalet kart nedir, adalet kart kampanyaları
