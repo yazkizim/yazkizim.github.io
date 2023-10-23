@@ -9,8 +9,9 @@ addcoments: true
 ---
 
 <div class="alert alert-success alert-dismissible fade show" role="alert">
-            <p>Bu PDF'de yer alan tüm soruları, tek tek [**Hatırlatma Kartları**](https://adliyeci.com.tr/hatirlatmakartlari/) olarak okuyabilirsiniz.</p>
-            <p>**Hatırlatma Kartları** UYAP Bilgisayarları ve Cep Telefonu ile uyumlu çalışmaktadır.</p>            
+            <p>Bu PDF'de yer alan tüm soruları, tek tek Sitemiz Üzerinden olarak okuyabilirsiniz.</p>
+            <p>Lütfen Ana Menü > Faydalı > Adalet Bakanlığı Mülakat Çalışma Kartları yolunu deneyiniz</p>
+            <p>Hatırlatma Kartları UYAP Bilgisayarları ve Cep Telefonu ile uyumlu çalışmaktadır.</p>            
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Kapat"></button>
 </div>  
 <div class="card-header">
