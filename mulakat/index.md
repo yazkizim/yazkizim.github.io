@@ -8,8 +8,14 @@ comments: true
 addcoments: true
 ---
 
+<div class="alert alert-success alert-dismissible fade show" role="alert">
+            <p>Bu PDF'de yer alan tüm soruları, tek tek [**Hatırlatma Kartları**](https://adliyeci.com.tr/hatirlatmakartlari/) olarak okuyabilirsiniz.</p>
+            <p>**Hatırlatma Kartları** UYAP Bilgisayarları ve Cep Telefonu ile uyumlu çalışmaktadır.</p>            
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Kapat"></button>
+</div>  
 <div class="card-header">
-  <h3 class="card-title">2018-2021 Adalet Bakanlığı Mülakat Soruları</h3>
+  <h3 class="card-title">2018-2021 Adalet Bakanlığı Mülakat Soruları</h3>  
+  <br>     
 </div>
 <div class="card-body">
   <div class="mb-3">    

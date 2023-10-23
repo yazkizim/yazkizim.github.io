@@ -1,5 +1,5 @@
 ---
-title: AYM nin Uzlaşma halinde Tazmiant Davası Açılamayacağına dair iptal kararı
+title: AYM nin Uzlaşma halinde Tazminat Davası Açılamayacağına dair iptal kararı
 author: gokhantasci
 date: 2023-10-18 01:19:00 +0300
 categories: [Haber, '2023']
