@@ -6,7 +6,7 @@ categories: [Duyuru, AdaletKart]
 tags: [Adalet Bakanlığı, adliye, adliyeci, adalet kart]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, adalet kart, adalet kart nedir, adalet kart kampanyaları
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/adaletkart.png
