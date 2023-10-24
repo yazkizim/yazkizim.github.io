@@ -6,7 +6,7 @@ categories: [Haber, '2023']
 tags: [adliyeci, Anayasa Mahkemesi, İstinaf İstemi]
 keywords: Adalet Bakanlığı, adliye, adliyeci, cmk, cmk 273, istinaf
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png
