@@ -4,9 +4,11 @@
 
 @mixin light-scheme {
   /* Framework color */
-  --main-bg: #f2f6fc;
+  --main-bg:  rgba(var(--bs-tertiary-bg-rgb),var(--bs-bg-opacity))!important;
   --mask-bg: #c1c3c5;
   --main-border-color: #f3f3f3;
+  --bs-bg-opacity: 1;
+  --bs-tertiary-bg-rgb: 248,249,250;
 
   /* Common color */
   --text-color: #34343c;
