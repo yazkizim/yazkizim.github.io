@@ -75,10 +75,10 @@ titleabout: Adalet Bakanlığı Tarifeleri
     <a href="/taniklikucret/" class="card post-preview flex-md-row-reverse">  
     <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-person-chalkboard fa-fw me-1 fa-3x align-middle" style="color : #e91e63"> </i></div>      
     <div class="card-body d-flex flex-column">
-        <h1 class="card-title my-2 mt-md-0">Tanıklık Ücret Tarifesi
+        <h1 class="card-title my-2 mt-md-0">CMK Tanıklık Ücret Tarifesi 
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Tüm yargı birimleri 2023 yılı Tanıklık Ücret Tarifesi
+          <p> Ceza Mahkemeleri 2023 yılı Tanıklık Ücret Tarifesi
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
@@ -91,7 +91,28 @@ titleabout: Adalet Bakanlığı Tarifeleri
         </div>
       </div>      
     </a>    
-  </article>   
+  </article>
+  <article class="card-wrapper"> 
+    <a href="/taniklikucrethmk/" class="card post-preview flex-md-row-reverse">  
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-person-chalkboard fa-fw me-1 fa-3x align-middle" style="color : green"> </i></div>      
+    <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">HMK Tanıklık Ücret Tarifesi 
+        </h1>
+        <div class="card-text content mt-0 mb-2">
+          <p> Hukuk Mahkemeleri Tanıklık Ücret Tarifesi
+          </p>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto"> 
+            <i class="far fa-calendar fa-fw me-1">
+            </i> 
+            <time>19/09/2023
+            </time>             
+          </div>          
+        </div>
+      </div>      
+    </a>    
+  </article>      
   <article class="card-wrapper">     
     <a href="/parasalsinirlar/" class="card post-preview flex-md-row-reverse">      
     <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-coins fa-fw me-1 fa-3x align-middle text-primary"> </i></div>
