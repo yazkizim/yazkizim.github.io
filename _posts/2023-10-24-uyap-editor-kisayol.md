@@ -6,7 +6,7 @@ categories: [UYAP, Döküman Editör]
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, udf
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/uyap.jpg

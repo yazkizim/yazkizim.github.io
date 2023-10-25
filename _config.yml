@@ -18,9 +18,9 @@ timezone: Europe/Istanbul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Adliyeci.com.tr | Adliye ve Mahkeme Hesaplamaları # the main title
+title: Adliyeci.com.tr : Adliyeci, Memur maaş, Yargılama, Islah, Dava, İstinaf, Temyiz, Harç, Mülakat # the main title
 
-tagline: Adliye Personelinin gündelik hesaplamaları # it will display as the sub-title
+tagline: Adliyeci Personelin gündelik hesaplamaları # it will display as the sub-title
 
 navbartitle: Adliyeci.com.tr # the navbar title
 description: >- # used by seo meta and the atom feed
