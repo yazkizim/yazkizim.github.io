@@ -9,8 +9,8 @@ render_with_liquid: false
 pin: true
 comments: true
 image:
-  path: /posts/birbilen.jpg
-  alt: UYAP Birbilen
+  path: /posts/biliyormuydunuz.jpg
+  alt: Arama Bölümü
 ---
 
 Meslek içerisinde sıklıkla yaptığımız yazışmalarda hangi adliyenin nereye bağlı olduğu konusunda sıkıntılar yaşanmaktadır. 

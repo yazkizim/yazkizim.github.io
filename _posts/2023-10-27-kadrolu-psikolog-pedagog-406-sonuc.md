@@ -9,8 +9,8 @@ render_with_liquid: false
 pin: false
 comments: true
 image:
-  path: /posts/birbilen.jpg
-  alt: UYAP Birbilen
+  path: /posts/psikolog.jpg
+  alt: Adalet Bakanlığı Psikolog
 ---
 
 30.11.2022 tarihinde ilan edilen 06.03.2023-31.03.2023 tarihleri arasında sözlü sınavı yapılan 132 psikolog, 52 pedagog ve 222 sosyal çalışmacı kadrosuna personel alımına ilişkin yerleştirme sonuçları ilan edilmiştir.
