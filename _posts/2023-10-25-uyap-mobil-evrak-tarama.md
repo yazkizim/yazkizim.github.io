@@ -6,7 +6,7 @@ categories: [UYAP, UYAP Mobil]
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, uyap mobil
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/uyapmobil.jpeg
