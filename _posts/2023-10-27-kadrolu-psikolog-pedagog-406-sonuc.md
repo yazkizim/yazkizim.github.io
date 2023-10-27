@@ -6,7 +6,7 @@ categories: [Sınav, '2023']
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, birbilen
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/birbilen.jpg
