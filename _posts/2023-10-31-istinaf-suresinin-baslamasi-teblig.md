@@ -1,5 +1,5 @@
 ---
-title: Yargıtay Kararı : Hüküm gerekçeleri ile birlikte açıklanmışsa süresinin tefhimden başlayacağı
+title: Yargıtay Kararı ; Hüküm gerekçeleri ile birlikte açıklanmamışsa istinaf süresi tebliğ ile başlar
 author: gokhantasci
 date: 2023-10-31 09:11:00 +0300
 categories: [Emsal Karar, Yargıtay]
