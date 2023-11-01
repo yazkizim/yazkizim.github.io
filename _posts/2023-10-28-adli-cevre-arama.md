@@ -6,7 +6,7 @@ categories: [Güncelleme, '2023']
 tags: [adliyeci, teşkilat şeması]
 keywords: Adalet Bakanlığı, adliye, adliyeci, teşkilat şeması
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/biliyormuydunuz.jpg

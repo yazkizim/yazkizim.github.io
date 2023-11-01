@@ -6,7 +6,7 @@ categories: [Emsal Karar, Yargıtay]
 tags: [adliyeci, yargıtay, emsal karar]
 keywords: Adalet Bakanlığı, adliye, adliyeci, emsal karar
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/yargitay.jpg
