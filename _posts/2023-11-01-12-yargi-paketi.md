@@ -6,7 +6,7 @@ categories: [Haber, '2023']
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, resmigazete
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png
