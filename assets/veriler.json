@@ -1,5 +1,10 @@
 [    
     {
+        "yolluk":{
+            "mudur" : 212,
+            "birden4dereceyekadar": 203,
+            "besvesonrasi" : 200
+        },
         "harclar":{
             "asliye":{
                 "maktu": 269.85,
