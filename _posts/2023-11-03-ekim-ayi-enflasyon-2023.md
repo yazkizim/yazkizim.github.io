@@ -3,7 +3,7 @@ title: Ekim Ayı Enflasyon Oranı Belli Oldu
 author: gokhantasci
 date: 2023-11-03 10:01:00 +0300
 categories: [Enflasyon, 2023 yılı]
-tags: [enflasyon farkı, Eylül, maaş, adliyeci]
+tags: [enflasyon farkı, Eylül, maaş, adliyeci, gardiyan maaşı]
 keywords: enflasyon, enflasyon farkı, Ekim, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
 pin: true
