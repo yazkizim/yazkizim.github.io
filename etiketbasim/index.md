@@ -7,11 +7,7 @@ comments: true
 addcoments: true
 ---
 
-<div class="card-header">
-    <h3 class="card-title">Etiket Yazdırma</h3>
-</div>
-<form id="etiketbasimform" data-gtm-form-interact-id="0">
-    <table style="width:573.8pt; margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse;">
+<table style="width:573.8pt; margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse;">
         <tbody>
             <tr style="height:104pt;">
                 <td style="width:58.7pt; border-bottom:0.75pt solid #000000; padding-right:5.4pt; padding-left:5.03pt; vertical-align:middle;">
@@ -32,6 +28,11 @@ addcoments: true
             </tr>            
         </tbody>
     </table> 
+    
+<div class="card-header">
+    <h3 class="card-title">Etiket Yazdırma</h3>
+</div>
+<form id="etiketbasimform" data-gtm-form-interact-id="0">    
     <div class="card-body">
     <div class="col-12">
             <div class="form-group row">
@@ -56,6 +57,7 @@ addcoments: true
                     <input type="text" class="form-control" id="etiketno" value="54" placeholder="0">
                 </div>
             </div>
+    </div>
     </div>
     <div class="card-footer">
         <div id="liveAlertPlaceholder"></div>
