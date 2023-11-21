@@ -6,7 +6,7 @@ categories: [Program, Sizden Gelen]
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, Nüfus Analiz Otomasyonu
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/sizdengelen.png

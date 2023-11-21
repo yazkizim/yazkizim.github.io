@@ -6,7 +6,7 @@ categories: [UYAP, Dosya Tarama]
 tags: [adliyeci, uyap, dosya tarama]
 keywords: Adalet Bakanlığı, adliye, adliyeci, dosya tarama
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/biliyormuydunuz.jpg

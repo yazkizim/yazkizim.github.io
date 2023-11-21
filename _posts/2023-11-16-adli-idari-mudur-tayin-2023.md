@@ -6,7 +6,7 @@ categories: [Tayin, '2023']
 tags: [Adalet Bakanlığı, Yazı İşleri Müdürü, yönetmelik, adliyeci]
 keywords: Adalet Bakanlığı, Yazı İşleri Müdürü, İl içi atama, nakil, yönetmelik, havuz tayin, adliyeci
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/bakanlik.jpg
