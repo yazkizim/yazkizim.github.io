@@ -6,7 +6,7 @@ categories: [Duyuru, UYAP]
 tags: [Adalet Bakanlığı, adliyeci, UYAP]
 keywords: Adalet Bakanlığı, UYAP, Ulusal Yargı Ağı Projesi, DYS, Döküman Yönetim Sistemi
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/uyap.jpg
