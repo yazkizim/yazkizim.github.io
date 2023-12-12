@@ -6637,5 +6637,277 @@
     {
         "soru": "Kongo Demokratik Cumhuriyeti'nin başkenti nedir?",
         "cevap": "Kinşasa"
-    }
+    },
+    {
+        "soru": "Hevsel Bahçeleri nedir? Nerededir?",
+        "cevap": "Güneydoğu Anadolu Bölgesi’nin en büyük kuş cenneti olan Hevsel Bahçeleri, Dicle Nehri kıyısında, Diyarbakır Kalesi ile nehir vadisi arasında yer almaktadır."
+      },
+      {
+        "soru": "Asya ve Avrupa’yı birbirinden ayıran dağlar hangileridir?",
+        "cevap": "Ural dağları."
+      },
+      {
+        "soru": "Amerika’da gemi kazasında ölen Türk güreşçi kimdir?",
+        "cevap": "Koca Yusuf (Yusuf İsmail)"
+      },
+      {
+        "soru": "İnfaz Koruma Memurluğunda boy kilo alım şartları nelerdir?",
+        "cevap": "Erkeklerde 170 cm, Kadınlarda 160 cm. boy uzunluğunun santimetre cinsinden son iki rakamı ile kilosu arasındaki fark 13’ten fazla, 17’den az olmamak gerekmektedir."
+      },
+      {
+        "soru": "Ölüme bağlı tasarruflarda hükümsüzlük iddiası ne kadar sürede ileri sürülür?",
+        "cevap": "Hükümsüzlük Defi yoluyla her zaman ileri sürülebilir."
+      },
+      {
+        "soru": "Ankarada’daki havalimanının adı nedir?",
+        "cevap": "Ankara Esenboğa Havalimanı"
+      },
+      {
+        "soru": "Danıştay üyelerini kim seçer?",
+        "cevap": "Üyelerinin 1/4 Cumhurbaşkanı, 3/4 Hâkimler ve Savcılar Kurulu (HSK) seçer. Başkanını ve Başsavcısını Danıştay Genel Kurulu Seçer."
+      },
+      {
+        "soru": "Yurtta Kalan birine tebligat nasıl yapılır?",
+        "cevap": "İçine serbestçe girilemeyen ve kolayca bulunması mümkün olmayan yerdeyse o yeri idare eden veya muhatabın bulunduğu kısmın amiri temin eder. Edemezse kendilerine yapılır."
+      },
+      {
+        "soru": "Tanzimat Fermanı Nedir?",
+        "cevap": "Yapılan ıslahatların kalıcı olması, devlet düzeninde meydana gelen bozulmaların önlenmesi ve devletin, yayılan milliyetçilik akımlarının yaratmış olduğu olumsuz etkilerden kurtarılmak istenmesi adına ilan edilmiş olan anayasal bir belgedir."
+      },
+      {
+        "soru": "Hasankeyf nerededir?",
+        "cevap": "Batman"
+      },
+      {
+        "soru": "Meclis araştırması nedir?",
+        "cevap": "Belli bir konuda Türkiye Büyük Millet Meclisi’nde bilgi edinmek için yapılan incelemedir."
+      },
+      {
+        "soru": "Meclisin bilgi ve denetim yolları nelerdir?",
+        "cevap": "Meclis araştırması, Genel görüşme, Yazılı soru, Meclis soruşturması"
+      },
+      {
+        "soru": "İdare mahkemelerinin arttırılıp azaltılması ne şekilde yapılır?",
+        "cevap": "Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri, Bölgelerin coğrafi durumları ve iş hacmi göz önünde tutularak Adalet Bakanlığınca kurulur ve yargı çevreleri tespit olunur. kuruluş ve yargı çevrelerinin tespitinde, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınır. Bu mahkemelerin kaldırılmasına veya yargı çevrelerinin değiştirilmesine, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınarak, Adalet Bakanlığının önerisi üzerine Hakimler ve Savcılar Yüksek Kurulunca karar verilir."
+      },
+      {
+        "soru": "Cumhurbaşkanı partiden bağımsızmıdır?",
+        "cevap": "Değildir. 2017 yılında yapılan halk oylaması ile Cumhurbaşkanı partili olabilir, şeklinde değişiklik yapıldı."
+      },
+      {
+        "soru": "İran’ın başkenti neresidir?",
+        "cevap": "Tahran"
+      },
+      {
+        "soru": "Eğitim Daire Başkanlığının görevleri nelerdir?",
+        "cevap": "Cik personeli hariç bakanlık taşra personelinin eğitim planını hazırlamak, yayınlamak, uygulanmasını takip etmek, hizmet içi/dışı eğitim programlarını düzenlemek, * Görevine giren yazılı-görsel -işitsel dökümanın basım ve yayınını yapmak, yaptırmak, arşiv dökümantasyon ve kütüphane hizmetlerini yürütmek, * yazılı olmayan hukuk kurallarını örf adetleri araştırmak yayımlamak, * Yayım danışma kurulu oluşturmak, Personel eğitim merkezleriyle ilgili işleri yürütmek."
+      },
+      {
+        "soru": "YSK üye sayısı kaçtır?",
+        "cevap": "11 üyeden oluşur. 7 asıl 4 Yedektir. 6 sı Yargıtaydan 5 i Danıştaydan.(Başkanı üyeler seçer) Görev süresi 6 yıldır."
+      },
+      {
+        "soru": "Hamidiye Kahramanı olarak bilinen kişi kimdir?",
+        "cevap": "Rauf Orbay"
+      },
+      {
+        "soru": "2. Meşrutiyetin ilanından sonra hangi devlet bağımsızlığını ilan etmiştir?",
+        "cevap": "Bulgaristan"
+      },
+      {
+        "soru": "Bozkırın Tezenesi ünvanı kime verilmiştir?",
+        "cevap": "Halkın temsilciliği görevini yüklenmesi ve halkın sesi olması sebebi ile Neşet Ertaş’a verilmiştir."
+      },
+      {
+        "soru": "Vekalet aylığı nedir?",
+        "cevap": "Bir göreve vekaleten atanan memurlara vekalet edilen görevin kadro derecesinin birinci"
+      },
+      {
+        "soru": "Disiplinde zamanaşımı süreleri nelerdir?",
+        "cevap": "Uyarma/Kınama/Aylıktan Kesme/Kademe İlerlemesinin durdurulmasında 1 ay içinde srş başlamazsa zamanaşımına uğrar. Devlet Memurluğundan çıkarma 6 ay içinde srş başlamaz ise zamanaşımına uğrar. Srş başladıysa 2 yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar."
+      },
+      {
+        "soru": "Aday memur adaylık süresi içerisinde devlet memurluğundan çıkarılırsa ne kadar süre içerisinde tekrar devlet memuru olamaz ?",
+        "cevap": "3 Yıl (1-2-3 Kuralı diye aklınızda tutun, adaylık süresi 1 yıldan az 2 yıldan çok olamaz.)"
+      },
+      {
+        "soru": "Tam yargı davalarında dava değeri belirtilmemişse bu eksiklik nasıl giderilir?",
+        "cevap": "Tam yargı davalarında dava dilekçesinde belirtilen miktar, süre veya diğer usul kuralları gözetilmeksizin nihai karar verilinceye kadar, harcı ödenmek suretiyle bir defaya mahsus olmak üzere artırılabilir ve miktarın artırılmasına ilişkin dilekçe otuz gün içinde cevap verilmek üzere karşı tarafa tebliğ edilir."
+      },
+      {
+        "soru": "Osmanlının ilk halifesi kimdir?",
+        "cevap": "Yavuz Sultan Selim"
+      },
+      {
+        "soru": "Adalet mülkün temelidir sözündeki mülkün anlamı nedir?",
+        "cevap": "Devlet, ülke, iktidar, düzen, egemenlik, saltanat"
+      },
+      {
+        "soru": "E tebligat yapılamayan durumda tebligat nasıl yapılır?",
+        "cevap": "Elektronik yolla tebligatın, zorunlu bir sebeple yapılamaması hâlinde Tebligat Kanununda belirtilen diğer usullerle tebligat yapılır."
+      },
+      {
+        "soru": "Kabine sistemine hangi olay ile geçildi?",
+        "cevap": "29 Ekim 1923 tarihinde Cumhuriyetin ilan edilmesiyle kabine sistemine geçiş yapıldı."
+      },
+      {
+        "soru": "Avrupa Konseyinin Merkezi Nerededir?",
+        "cevap": "Strazburg"
+      },
+      {
+        "soru": "Birleşmiş milletlerin Genel merkezi nerededir? Ne zaman kurulmuştur?",
+        "cevap": "New York- 29 Ekim 1945"
+      },
+      {
+        "soru": "Uluslararası adalet divanı hangi ülkededir, kaç yargıçtan oluşur?",
+        "cevap": "Hollanda'nın Lahey kentindedir. 15 yargıçtan oluşur. (Görev süreleri 9 yıldır)"
+      },
+      {
+        "soru": "Avrupa birliği Üyesi olup euro kullanmayan ülkeler nelerdir?",
+        "cevap": "Bulgaristan, Danimarka, Hırvatistan, İsveç, Romanya, Macaristan, Polonya,"
+      },
+      {
+        "soru": "Kanun Yararına temyiz işlemlerini hangi bakanlık yapar?",
+        "cevap": "Hukuk İşleri Genel Müdürlüğü"
+      },
+      {
+        "soru": "İlgi yoksa kaç satır boşluk bırakılmalı?",
+        "cevap": "İlgi yoksa muhatap ile arasına 2 satır boşluk bırakılır. İlgi varsa ilgi ile metin arasına 1 boşluk bırakılır."
+      },
+      {
+        "soru": "Batı Amerika kıtasından kalkan bir gemi İstanbula ulaşması için hangi boğazlardan geçer?",
+        "cevap": "Panama, Cebelitarık, Çanakkale ve İstanbul Boğazı"
+      },
+      {
+        "soru": "Velayet altındaki çocuklar hakkında açıklama yapınız.",
+        "cevap": "Ergin olmayan çocuk, ana ve babasının velayeti altındadır. Yasal sebep olmadıkça velayet, ana ve babadan alınamaz. Hakim vasi atanmasına gerek görmedikçe, kısıtlanan ergin çocuklar da ana ve babanın velayeti altında kalırlar."
+      },
+      {
+        "soru": "Memuriyete girişte Genel yaş şartı nedir?",
+        "cevap": "Genel Yaş 18'dir. Kazai rüşt kararı ile 15 yaşında da memur olabilir. (1-2-3 Kuralı diye aklınızda tutun, adaylık süresi 1 yıldan az 2 yıldan çok olamaz.)"
+      },
+      {
+        "soru": "Dünyanın en büyük yanardağı hangisidir?",
+        "cevap": "Hawaii'de bulunan Mauna Loa Yanardağıdır."
+      },
+      {
+        "soru": "Osmanlının ilk daimi büyükelçiliği nerede açılmıştır?",
+        "cevap": "Londra (1793 yılında 3. Selim döneminde)"
+      },
+      {
+        "soru": "Duruşma tutanağının başlık kısmındaki hususlar nelerdir?",
+        "cevap": "Mahkeme Adı, Oturum tarihleri, Hakim/CS/Z.K isimleri."
+      },
+      {
+        "soru": "Anadolu Selçuklu Devletinin başkentleri nerelerdir?",
+        "cevap": "İznik, Konya, Sivas"
+      },
+      {
+        "soru": "Devlet memurluğunda fiili tecavüzde bulunmanın cezası nedir?",
+        "cevap": "Devlet memurluğundan çıkarma"
+      },
+      {
+        "soru": "Hicri yıl başlangıcı?",
+        "cevap": "Hz. Ömer’in halifeliği döneminde hicretin gerçekleştiği gün, Hz. Ali’nin teklifiyle hicrî takvimin başlangıcı sayılmıştır. O günden itibaren de İslam âleminde 1 Muharrem hicrî takvimin başlangıcı olarak kabul görmüştür."
+      },
+      {
+        "soru": "İdari yargılamada temyiz süresi ne kadardır?",
+        "cevap": "Normal: 30, İvedi: 15"
+      },
+      {
+        "soru": "Yüksek disiplin kurulu boşandıkları eşlerinin disiplin kuruluna katılabilir mi?",
+        "cevap": "Hayır, (Kendilerine, Boşansa bile eşe, 3.derece dahil kan-kayın hısımlığı, muhakkik sıfatıyla disiplin srş yaptığı memurlara, mağduru yada tanığı bulundukları fiillere ilişkin kurul toplantılarına katılamaz)"
+      },
+      {
+        "soru": "Büyük Okyanusu atlas Okyanusuna bağlayan kanal hangisidir?",
+        "cevap": "Panama Kanalı"
+      },
+      {
+        "soru": "İstiklal Marşının bestecisi kimdir?",
+        "cevap": "Osman Zeki Üngör"
+      },
+      {
+        "soru": "Şüpheli ölüm halinde neler yapılır? Ölen kişi nasıl defnedilir?",
+        "cevap": "Bir ölümün doğal nedenlerden meydana gelmediği kuşkusunu doğuracak bir durumun varlığı veya ölünün kimliğinin belirlenememesi halinde; kolluk görevlisi, köy muhtarı ya da sağlık veya cenaze işleriyle görevli kişiler, durumu derhâl Cumhuriyet Başsavcılığına bildirmekle yükümlüdürler. Birinci fıkra kapsamına giren hallerde ölünün gömülmesi ancak Cumhuriyet savcısı tarafından verilecek yazılı izne bağlıdır."
+      },
+      {
+        "soru": "Türkiye Cumhuriyeti'nin ilk kadın pilotu kimdir?",
+        "cevap": "Sabiha Gökçen"
+      },
+      {
+        "soru": "Türk devletlerinin bayrak renkleri nedir?",
+        "cevap": "Türk devletlerinin bayrak renkleri genellikle kırmızı, mavi, beyaz gibi renkleri içermektedir."
+      },
+      {
+        "soru": "Dünya'daki en büyük 5 göl hangileridir?",
+        "cevap": "1. Hazar Gölü, 2. Güneyden Büyük Ayı Gölü, 3. Michigan Gölü, 4. Tanganyika Gölü, 5. Superior Gölü"
+      },
+      {
+        "soru": "Türkiye'nin en yüksek dağı hangisidir?",
+        "cevap": "Ağrı Dağı (veya Iğdır Dağı, Ararat Dağı)"
+      },
+      {
+        "soru": "Türkiye'nin en uzun nehirleri hangileridir?",
+        "cevap": "1. Kızılırmak Nehri, 2. Sakarya Nehri, 3. Yeşilırmak Nehri"
+      },
+      {
+        "soru": "Atatürk'ün doğduğu tarih nedir?",
+        "cevap": "Mustafa Kemal Atatürk, 1881 yılında Selanik şehrinde doğmuştur."
+      },
+      {
+        "soru": "Türkiye'deki en eski yerleşim yerlerinden biri hangisidir?",
+        "cevap": "Çatalhöyük"
+      },
+      {
+        "soru": "Osmanlı Devleti'nin kurucusu kimdir?",
+        "cevap": "Osman Gazi"
+      },
+      {
+        "soru": "Türkiye'nin en kalabalık şehri hangisidir?",
+        "cevap": "İstanbul"
+      },
+      {
+        "soru": "Türk mitolojisinde bilgelik tanrısı kimdir?",
+        "cevap": "Ogün (Ebis)"
+      },
+      {
+        "soru": "Türk devletleri arasında en büyük yüzölçümüne sahip olanı hangisidir?",
+        "cevap": "Kazakistan"
+      },
+      {
+        "soru": "Türk devletleri arasında başkenti Tashkent olan ülke hangisidir?",
+        "cevap": "Özbekistan"
+      },
+      {
+        "soru": "Türkiye'nin en büyük gölü hangisidir?",
+        "cevap": "Van Gölü"
+      },
+      {
+        "soru": "Türkiye'de UNESCO Dünya Mirası Listesi'nde yer alan antik kent hangisidir?",
+        "cevap": "Ephesus (Efes)"
+      },
+      {
+        "soru": "Osmanlı Devleti'nin son padişahı kimdir?",
+        "cevap": "VI. Mehmed (Vahdettin)"
+      },
+      {
+        "soru": "Türkiye'nin en yüksek tepesi neresidir?",
+        "cevap": "Ağrı Dağı (veya Iğdır Dağı, Ararat Dağı)"
+      },
+      {
+        "soru": "Yüksek disiplin kurulu boşandıkları eşlerinin disiplin kuruluna katılabilir mi?",
+        "cevap": "Hayır, (Kendilerine, Boşansa bile eşe, 3.derece dahil kan-kayın hısımlığı, muhakkik sıfatıyla disiplin srş yaptığı memurlara, mağduru yada tanığı bulundukları fiillere ilişkin kurul toplantılarına katılamaz)"
+      },
+      {
+        "soru": "Büyük Okyanusu atlas Okyanusuna bağlayan kanal hangisidir?",
+        "cevap": "Panama Kanalı"
+      },
+      {
+        "soru": "İstiklal Marşının bestecisi kimdir?",
+        "cevap": "Osman Zeki Üngör"
+      },
+      {
+        "soru": "Şüpheli ölüm halinde neler yapılır? Ölen kişi nasıl defnedilir?",
+        "cevap": "Bir ölümün doğal nedenlerden meydana gelmediği kuşkusunu doğuracak bir durumun varlığı veya ölünün kimliğinin belirlenememesi halinde; kolluk görevlisi, köy muhtarı ya da sağlık veya cenaze işleriyle görevli kişiler, durumu derhâl Cumhuriyet Başsavcılığına bildirmekle yükümlüdürler.Birinci fıkra kapsamına giren hallerde ölünün gömülmesi ancak Cumhuriyet savcısı tarafından verilecek yazılı izne bağlıdır."
+      }
 ]
