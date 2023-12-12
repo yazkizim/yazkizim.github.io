@@ -6909,5 +6909,29 @@
       {
         "soru": "Şüpheli ölüm halinde neler yapılır? Ölen kişi nasıl defnedilir?",
         "cevap": "Bir ölümün doğal nedenlerden meydana gelmediği kuşkusunu doğuracak bir durumun varlığı veya ölünün kimliğinin belirlenememesi halinde; kolluk görevlisi, köy muhtarı ya da sağlık veya cenaze işleriyle görevli kişiler, durumu derhâl Cumhuriyet Başsavcılığına bildirmekle yükümlüdürler.Birinci fıkra kapsamına giren hallerde ölünün gömülmesi ancak Cumhuriyet savcısı tarafından verilecek yazılı izne bağlıdır."
-      }
+      },
+      {
+        "soru": "Elbirliği mülkiyeti nedir?",
+        "cevap": "Gayrimenkul üzerinde birden fazla kişi hak sahibi olduğu, ancak payların belli olmadığı durumlar."
+      },
+      {
+            "soru": "DMK’ya göre hizmetli kadrosuna atanmak için aranan şart nedir?",
+            "cevap": "İlköğretim."
+        },
+        {
+            "soru": "TBMM başkanı kimdir?",
+            "cevap": "Numan Kurtulmuş."
+        },
+        {
+            "soru": "Peygamber efendimizin hayatını anlatan eserlere ne ad verilir?",
+            "cevap": "Siyer."
+        },
+        {
+            "soru": "Yeni adres bildirilmez ise tebligat nereye yapılır?",
+            "cevap": "Bilinen en son adresine, burada da tebliğ yapılamazsa Mernis adresine yapılır."
+        },
+        {
+            "soru": "İlk halife kimdir?",
+            "cevap": "Hz. Ebubekir."
+        }
 ]

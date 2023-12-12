@@ -172,6 +172,24 @@ Bilindiği üzere Görevde Yükselme Sınavı ve Ünvan Değişikliği Sınavlar
 **Şüpheli ölüm halinde neler yapılır? Ölen kişi nasıl defnedilir?**
 <br>Bir ölümün doğal nedenlerden meydana gelmediği kuşkusunu doğuracak bir durumun varlığı veya ölünün kimliğinin belirlenememesi halinde; kolluk görevlisi, köy muhtarı ya da sağlık veya cenaze işleriyle görevli kişiler, durumu derhâl Cumhuriyet Başsavcılığına bildirmekle yükümlüdürler.Birinci fıkra kapsamına giren hallerde ölünün gömülmesi ancak Cumhuriyet savcısı tarafından verilecek yazılı izne bağlıdır.
 
+**1289- Elbirliği mülkiyeti nedir ?**
+<br>Gayrimenkul üzerinde birden fazla kişi hak sahibi olduğu, ancak payların belli olmadığı durumlar
+
+**1290- DMK’ya göre hizmetli kadrosuna atanmak için aranan şart nedir?**
+<br>İlköğretim.
+
+**1291- TBMM başkanı kimdir?**
+<br>Numan Kurtulmuş
+
+**1292- peygamber efendimizin hayatını anlatan eserlere ne ad verilir?**
+<br>Siyer
+
+**1293-** **Yeni adres bildirilmez ise tebligat nereye yapılır?**
+<br>Bilinen en son adresine, burada da tebliğ yapılamazsa Mernis adresine yapılır.
+
+**1294- İlk halife kimdir?**
+<br>Hz. Ebubekir
+
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
 
