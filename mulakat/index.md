@@ -1,5 +1,5 @@
 ---
-title: 2018-2021 Adalet Bakanlığı Mülakat Soruları
+title: 2018-2021-2023 Adalet Bakanlığı Mülakat Soruları
 keywords: 2018 Mülakat Sorular, 2021 Mülakat Soruları, Yazı İşleri Mülakat Soruları, Adalet Mülakat Soruları, Adalet Bakanlığı Mülakat Soruları
 permalink: /mulakat/
 layout: gokhan
