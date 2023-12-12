@@ -20,7 +20,7 @@ addcoments: true
 </div>
 <div class="card-body">
   <div class="mb-3">    
-    <embed src="https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat" style="min-height: 600px;" class="w-100"
+    <embed src="https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat.pdf" style="min-height: 600px;" class="w-100"
  type="application/pdf">
   </div>
 </div>
