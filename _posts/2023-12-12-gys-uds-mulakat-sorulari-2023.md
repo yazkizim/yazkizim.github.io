@@ -14,7 +14,7 @@ image:
 ---
 
 Bilindiği üzere Görevde Yükselme Sınavı ve Ünvan Değişikliği Sınavlarının mülakatları yapılmaya başladı. Mülakat sonrası adayalar çeşitli gruplarda kendilerine sorulmuş soruları paylaşmaya başladı. 
-<br>Bu gruplarda bu soruları **Şeyma** adında bir meslektaşımız toplayarak PDF olarak paylaşmış, kendisinin izni ile bu soruları web sitemizde yayınlama kararı aldık. Bizlere ulaştıkça burada güncellemeye devam edeceğiz.
+<br>Bu gruplarda bu soruları **Şeyma** ve **Nisa** meslektaşlarımız toplayarak PDF olarak paylaşmış, kendisinin izni ile bu soruları web sitemizde yayınlama kararı aldık. Bizlere ulaştıkça burada güncellemeye devam edeceğiz.
 <br>
 <br>PDF Dosyalarının paylaşıldığı;
 <br>WhatsApp Grubu için [**tıklayınız**](https://chat.whatsapp.com/CY2cNlUuIg64clqTdcpF5s) 
