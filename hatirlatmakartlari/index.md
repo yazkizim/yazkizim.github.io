@@ -22,5 +22,5 @@ addcoments: false
   </div>
 </div>
 
-> Tüm çıkmış mülakat soruları sisteme eklenmiştir. Her defasında 10 tane soru getirmektedir. Başarılar dilerim.
+> 2023 yılı soruları sisteme eklenmektedir. Son güncelleme : 12/12/2023. Başarılar dilerim.
 {: .prompt-tip }
