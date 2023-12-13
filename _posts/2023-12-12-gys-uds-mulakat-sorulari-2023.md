@@ -2,6 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
+last_modified_at: 2023-12-13 20:30:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -189,6 +190,135 @@ Bilindiği üzere Görevde Yükselme Sınavı ve Ünvan Değişikliği Sınavlar
 
 **1294- İlk halife kimdir?**
 <br>Hz. Ebubekir
+
+<br>**13 Aralık Sorulmuş Sorular**
+<br>
+<br>
+**1295- Mona Lisa kimin eseridir?**
+<br>Leonardo da Vinci
+
+**1296- Meridyen Nedir?**
+<br>Ekvatoru dik olarak kestiği ve kuzey ve güney kutup noktalarından geçerek dünyayı çevrelediği varsayılan daire.
+
+**1297- Zilyetliğin korunması davası, öğrenilmeden itibaren ne kadar sürede açılmalıdır?**
+<br>Öğrenilmeden itibaren 2 ay ve her halükarda fiilden itibaren 1 yıl
+
+**1298- Adalet Komisyonları hangi kanuna göre kurulur?**
+<br>2802 sayılı Kanun
+
+**1299- M.Kemal Atatürk 1.TBMM ye hangi ilden aday olmuştur ?**
+<br>Ankara
+
+**1300- Devlet denetleme kurumunun yargıyı denetleme yetkisi var mı?**
+<br>Yetkisi yoktur
+
+**1301- Ekvador un başkenti neresidir?**
+<br>Kito
+
+**1302- Lüban’ın başkenti neresidir?**
+<br>Beyrut
+
+**1303- İdari yargılamada yanlış hasma dava açılırsa ne yapılır ?**
+<br>Dava dilekçesi tespit edilecek gerçek hasma tebliğine karar verilir.
+
+**1304- İstanbul fethedildiğinde ilk bayrağı diken kimdirr?**
+<br>Ulubatlı hasan
+
+**1305-MİRASIN REDDİ SÜRESİ?**
+<br>Miras bırakının ölümünden itibaren 3 aydır.
+
+**1306- TÜRK DEVLETLERİ TEŞKİLATINA ÜYE ülkeler ?**
+<br>Azerbaycan, Kazakistan, Kırgızistan, Ozbekistan ve Türkiye.
+En son üye Özbekistan
+
+**1307- Nato üye ülke sayısı kaçtır ?**
+<br>31 üyesi bulunmaktadır
+
+**1308- S400 MESELESİNİN AÇIKLAYIN**
+<br>Türkiyenin Rusyadan iki milyon dolar karşılığında 4 bataryadan oluşan 2 adet S400 sistemidir. En iyi savunma sistemlerinden biridir. Bu nedenle Türkiye üzerinde ciddi baskılar kurulmaya çalışılmış ve neredeyse yaptırımlara varan önlemlerle bu alımdan vazgeçirilmek istenmiştir.
+
+**1309- KARABAĞ SORUNU NEDİR?**
+<br>Azerbaycanın bölünmesi üzerine Rusların korumasında bulunan Ermenilerin Azarbaycanın batısına yönelik asılsız toprak iddialarında bulunmaları, Azerbaycan halkının topraklarından göç etmek zorunda bırakılmaları ve bölgeye Ermeni nüfusunun yerleştirilmeye çalışılması, demografik yapının değiştirilmeye çalışılmasıdır.
+
+**1310- CB HÜKÜMET SİSTEMİ HAKKINDA BİLGİ VERİN?**
+<br>CB hükümet sisteminin ve devletin başıdır. CB yardımcılarını, bakanları atar, görevden alır. Bakanlıkların kurulması kaldırılması görev ve yetkileri CB kararnamesi ile düzenlenir. Üst düzey yöneticilerin görevine son verir, bütçeyi hazırlar. Kanunları yayınlar, geri gönderir.
+
+**1311- UKRAYNA - RUSYA SAVAŞI NEDEN ÇIKMIŞTIR.?**
+<br>Rusyanın 2022 tarihinde uluslararası hukuka aykırı şeklide Ukraynaya saldırması sonucunda başlamıştır. Rusyanın yayılımcı politikası ve ukraynayı kendi arka bahçesi gibi görmesi.
+
+**1312- CENGİZHANIN TÜRK KOMUTANI KİMDİR?**
+<br>Subutay Bahadır (Yiğit Subay)
+
+**1313- ATATÜRK'ÜN EFENDİLİK YOKTUR, HAMİLİK VARDIR SÖZÜNÜ AÇIKLAYIN?**
+<br>Tamamen halkçılık ilkesinin anlatır. Halka efendilik yapılamaması, hizmet edilmesi gerektiğini anlatır.
+
+**1314- YAPAY ZEKA NEDİR?**
+<br>Bir görevi yerine getirmek için insan zekasını taklit eden makine ve sistemler
+
+**1315-EGEMENLİK KAYITSIZ ŞARTSIZ MİLLETİNDİR SÖZÜNÜ AÇIKLAYIN?**
+<br>Millet iradesidir. Toplumda hiç kimsenin, gurubun, zümrenin yada sınıfın doğrudan üstün emretme gücü yoktur. Bu gücün tek kaynağı millettir.
+
+**1316- SAVUNMA SANAYİSİNİN ÖNEMİ NEDİR?**
+<br>Askeri malzeme, teçhizat ve tesislerin araştırma ve geliştirme, mühendislik, üzerim ve servis hizmetlerinde yer alan ticari enstitü.
+
+**1317-KUT'ÜL AMARE NEDİR?**
+<br>Osmanlının İngilizlerle Bağdatın güneyinde bulunan kut bölgesindeki mücadelesi
+
+**1318- NAVTEX NEDİR?**
+<br>Gemilerde bulunan tehlike, emniyet, hava rapor ve uyarını otomatik ileten uluslararası haberleşme sistemi.
+
+**1319- NAMIK KEMAL KİMDİR?**
+<br>Genç Osmanlı hareketi mensubu, gazeteci, yazar, şair ve devlet adamı. Asıl adı Mehmet Kemaldir. Türk edebiyatının öncülerindedir. Eserleri ; Vatan yahut silistre ve intibah ....
+
+**1320-KANUNSUZ EMİR NEDİR?**
+<br>Kamu hizmetinde görevli bir kimse üstünden aldığı emrin Anayasaya aykırı olduğunu görürse verilen emri yerine getirmez ve bunu da o emri verine bildirir.
+
+**1321- TBMM'NİN GÖREVLERİ NELERDER?**
+<br>Kanun koymak, değiştirme veya kaldırmak. Bütçe kanunu ve kesin hesap kanunu hazırlanması ve görüşülmesi. Milletler arası antlaşmaları uygun bulmak. Savaş hali ve TSK kullanılmasına izin vermek. Genel ve özel af ilan etmek. Meclis iç tüzüğü hazırlamak.
+
+**1322- ANAYASADA CEZASI OLMAYAN BİR SUÇ İŞLENİRSE KİŞİ CEZA ALIR MI?**
+<br>Almaz.
+İşlendiği tarihte suç sayılmayan bir fiilden dolayı kimseye ceza verilemez, güvenlik tedbiri uygulanamaz.
+
+**1323- SELAHADDİN EYYUBİ KİMDİR?**
+<br>Eyyubiler devletinin kurucusu ve ilk hükümdarıdır.
+
+**1324- MALAZGİRTİN HARİTADAKİ YERİ NEREDEDİR?**
+<br>Muş'in en doğusunda yer alır konum olarak Van, Ağrı ve Erzurum illerinin ortasında bulunur.
+
+**1325- HAKLI BİR MAZERETİ NEDENİYLE SÜRESİ İÇİNDE BAŞVURAMAYANLAR MAZERETİN KALKTIĞI TARİHTEN İTİBAREN KAÇ GÜN İÇİNDE VE MAZERETLERİNİ BELİRLEYEN DELLİLER İLE BAŞVURUDA BULUNABİLİRLER?**
+<br>15 gün
+
+**1326- TÜRKSOY'A ÜYE ÜLKELER HANGİLERİDİR?**
+<br>Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkmenistan ve Türkiye
+
+**1327- İSLAM İŞBİRLİĞİ TEŞKİLATININ GENEL MERKEZİ NERDEDİR?**
+<br>Suudi Arabistan-Cidde
+
+**1328- NATONUN RESMİ DİLLERİ ?**
+<br>İngilizce ve Fransızca
+
+**1329- AVRUPA BİRLİĞİ ÜYE SAYISI KAÇTIR?**
+<br>27
+<br>(Hırvatistan'ın 2013 yılında üye olmasıyla, AB 28 üyeli bir Birlik haline gelmiştir. Bununla birlikte Birleşik Krallık'ın 31 Ocak 2020 tarihinde üyelikten resmen çekilmesiyle [Brexit ?] AB bugün, 27 üyesi olan bir Birlik durumundadır.)
+
+**1330- NATOYA ÜYE OLUPTA ORDUSU OLMAYAN ÜLKE HANGİSİDİR?**
+<br>İzlanda
+
+**1331- Can güvenliği mazereti nakli nasıl olur?** 
+<br>Memurun can güvenliği mazeretine dayanarak yer değiştirme talebinde bulunabilmesi için; kendisinin, eşinin veya bakmakla yükümlü olduğu çocuklarından birinin bulunduğu yerde kalmasının can güvenliğini tehdit altında bırakacağının adli veya mülki idare makamlarından alınacak belgeyle belgelendirmesi gerekir.
+
+**1332- CB forsunda kaç yıldız vardır ne anlama gelir. ?**
+<br>Cumhurbaşkanlığı Forsu, Türk Bayrağının sol üst köşesine tarihteki 16 büyük Türk imparatorluğunu ifade eden 16 yıldız ve ortasında Türkiye Cumhuriyetini simgeleyen güneşten oluşan Cumhurbaşkanlığı Armasının yerleştirilmesi ile oluşmaktadır.
+
+**1333- Yetkili olmayan memur gizli bilgi açıklayabilir mi ne zaman acıklar?**
+<br>Gizli bilgileri açıklama yasağı: Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.) Devlet memurlarının kamu hizmetleri ile ilgili gizli bilgileri görevlerinden ayrılmış bile olsalar, yetkili bakanın yazılı izni olmadıkça açıklamaları yasaktır.
+
+**1334- İdare mahkemesinde tam yargı davaları ile iptal davaları aynı anda açılır mı ?**
+<br>Bir idari işlem nedeniyle hakkı ihlal edilmiş olan kişiler doğrudan doğruya tam yargı davası açabileceği gibi iptal ve tam yargı davalarını aynı dilekçe ile birlikte de açabilir.
+
+**1335-İdari İşler Müdürlüğü ve Yazı İşleri Müdürlüğü görevde yükselme sınavına katılmak için kaç yıl çalışmak gerekir?**
+<br>6 yıl
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 

@@ -6933,5 +6933,169 @@
         {
             "soru": "İlk halife kimdir?",
             "cevap": "Hz. Ebubekir."
-        }
+        },
+        {
+            "soru": "Mona Lisa kimin eseridir?",
+            "cevap": "Leonardo da Vinci"
+          },
+          {
+            "soru": "Meridyen Nedir?",
+            "cevap": "Ekvatoru dik olarak kestiği ve kuzey ve güney kutup noktalarından geçerek dünyayı çevrelediği varsayılan daire."
+          },
+          {
+            "soru": "Zilyetliğin korunması davası, öğrenilmeden itibaren ne kadar sürede açılmalıdır?",
+            "cevap": "Öğrenilmeden itibaren 2 ay ve her halükarda fiilden itibaren 1 yıl"
+          },
+          {
+            "soru": "Adalet Komisyonları hangi kanuna göre kurulur?",
+            "cevap": "2802 sayılı Kanun"
+          },
+          {
+            "soru": "M.Kemal Atatürk 1.TBMM'ye hangi ilden aday olmuştur?",
+            "cevap": "Ankara"
+          },
+          {
+            "soru": "Devlet denetleme kurumunun yargıyı denetleme yetkisi var mı?",
+            "cevap": "Yetkisi yoktur"
+          },
+          {
+            "soru": "Ekvador'un başkenti neresidir?",
+            "cevap": "Kito"
+          },
+          {
+            "soru": "Lübnan'ın başkenti neresidir?",
+            "cevap": "Beyrut"
+          },
+          {
+            "soru": "İdari yargılamada yanlış hasma dava açılırsa ne yapılır?",
+            "cevap": "Dava dilekçesi tespit edilecek gerçek hasma tebliğine karar verilir."
+          },
+          {
+            "soru": "İstanbul fethedildiğinde ilk bayrağı diken kimdir?",
+            "cevap": "Ulubatlı Hasan"
+          },
+          {
+            "soru": "Mirasın reddi süresi nedir?",
+            "cevap": "Miras bırakının ölümünden itibaren 3 aydır."
+          },
+          {
+            "soru": "Türk Devletleri Teşkilatına Üye Ülkeler nelerdir?",
+            "cevap": "Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkiye (En son üye: Özbekistan)"
+          },
+          {
+            "soru": "NATO üye ülke sayısı nedir?",
+            "cevap": "31 üyesi bulunmaktadır."
+          },
+          {
+            "soru": "S-400 meselesi nedir?",
+            "cevap": "Türkiye'nin Rusya'dan iki milyon dolar karşılığında 4 bataryadan oluşan 2 adet S-400 sistemi alımını ifade eder. Türkiye'ye yönelik baskılarla bu alımdan vazgeçmeye çalışılmıştır."
+          },
+          {
+            "soru": "Karabağ sorunu nedir?",
+            "cevap": "Azerbaycan'ın bölünmesi üzerine Rusların korumasında bulunan Ermenilerin Azerbaycan'ın batısına yönelik asılsız toprak iddialarında bulunmaları, Azerbaycan halkının topraklarından göç etmek zorunda bırakılmaları ve bölgeye Ermeni nüfusunun yerleştirilmeye çalışılması, demografik yapının değiştirilmeye çalışılmasıdır."
+          },
+          {
+            "soru": "Cumhurbaşkanı Hükümet Sistemi hakkında bilgi verin.",
+            "cevap": "Cumhurbaşkanı, hükümet sisteminin ve devletin başıdır. Cumhurbaşkanı, yardımcılarını, bakanları atar ve görevden alır. Bakanlıkların kurulması ve kaldırılması, görev ve yetkileri Cumhurbaşkanı kararnamesi ile düzenlenir. Üst düzey yöneticilerin görevine son verir, bütçeyi hazırlar. Kanunları yayınlar ve geri gönderir."
+          },
+          {
+            "soru": "Ukrayna-Rusya savaşı neden çıkmıştır?",
+            "cevap": "Rusyanın 2022 tarihinde uluslararası hukuka aykırı şekilde Ukrayna'ya saldırması sonucunda başlamıştır. Rusyanın yayılmacı politikası ve Ukrayna'yı kendi arka bahçesi gibi görmesi etkili olmuştur."
+          },
+          {
+            "soru": "Cengizhan'ın Türk komutanı kimdir?",
+            "cevap": "Subutay Bahadır (Yiğit Subay)"
+          },
+          {
+            "soru": "Atatürk'ün 'Efendilik yoktur, hamlık vardır' sözünü açıklayın.",
+            "cevap": "Bu söz, tamamen halkçılık ilkesini ifade eder. Halka efendilik yapmak yerine hizmet etmenin önemini vurgular."
+          },
+          {
+            "soru": "Yapay zeka nedir?",
+            "cevap": "Bir görevi yerine getirmek için insan zekasını taklit eden makine ve sistemler"
+          },
+          {
+            "soru": "Egemenlik kayıtsız şartsız milletindir sözünü açıklayın.",
+            "cevap": "Millet iradesi demektir. Hiç kimsenin, gurubun, zümrenin veya sınıfın doğrudan üstün emretme gücü yoktur. Egemenlik, tek kaynağı millettir."
+          },
+          {
+            "soru": "Savunma sanayisinin önemi nedir?",
+            "cevap": "Askeri malzeme, teçhizat ve tesislerin araştırma, geliştirme, mühendislik, üretim ve servis hizmetlerinde yer alan ticari faaliyetlerin toplamıdır. Bir ülkenin güvenliği ve bağımsızlığı için stratejik öneme sahiptir."
+          },
+          {
+            "soru": "Kut'ül Amare nedir?",
+            "cevap": "Osmanlı'nın, I. Dünya Savaşı sırasında Bağdat'ın güneyinde bulunan Kut bölgesindeki İngilizlerle yaptığı mücadele"
+          },
+          {
+            "soru": "NAVTEX nedir?",
+            "cevap": "Gemilerde bulunan tehlike, emniyet, hava raporu ve uyarıları otomatik olarak ileten uluslararası haberleşme sistemi."
+          },
+          {
+            "soru": "Namık Kemal kimdir?",
+            "cevap": "Genç Osmanlı hareketi mensubu, gazeteci, yazar, şair ve devlet adamı. Asıl adı Mehmet Kemal'dir. Türk edebiyatının öncülerinden biridir. Eserleri arasında 'Vatan yahut Silistre' ve 'İntibah' bulunmaktadır."
+          },
+          {
+            "soru": "Kanunsuz emir nedir?",
+            "cevap": "Kamu hizmetinde görevli bir kişi, üstünden aldığı emrin Anayasaya aykırı olduğunu fark ederse, verilen emri yerine getirmez ve durumu emri verene bildirir."
+          },
+          {
+            "soru": "TBMM'nin görevleri nelerdir?",
+            "cevap": "Kanun koymak, değiştirmek veya kaldırmak; bütçe kanunu ve kesin hesap kanunu hazırlamak ve görüşmek; milletlerarası antlaşmaları onaylamak; savaş hali ve Türk Silahlı Kuvvetleri'nin kullanılmasına izin vermek; genel ve özel afları ilan etmek; Meclis iç tüzüğü hazırlamak."
+          },
+          {
+            "soru": "Anayasada cezası olmayan bir suç işlenirse kişi ceza alır mı?",
+            "cevap": "Almaz. İşlendiği tarihte suç sayılmayan bir fiilden dolayı kimseye ceza verilemez, güvenlik tedbiri uygulanamaz."
+          },
+          {
+            "soru": "Selahaddin Eyyubi kimdir?",
+            "cevap": "Eyyubiler devletinin kurucusu ve ilk hükümdarı."
+          },
+          {
+            "soru": "Malazgirt'in haritadaki yeri nerededir?",
+            "cevap": "Muş'un en doğusunda yer alır konum olarak Van, Ağrı ve Erzurum illerinin ortasında bulunur."
+          },
+          {
+            "soru": "Haklı bir mazereti nedeniyle süresi içinde başvuramayanlar mazeretin kalktığı tarihten itibaren kaç gün içinde ve mazeretlerini belirleyen deliller ile başvuruda bulunabilirler?",
+            "cevap": "15 gün"
+          },
+          {
+            "soru": "TÜRKSOY'a üye ülkeler hangileridir?",
+            "cevap": "Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkmenistan ve Türkiye"
+          },
+          {
+            "soru": "İslam İşbirliği Teşkilatı'nın genel merkezi nerededir?",
+            "cevap": "Suudi Arabistan - Cidde"
+          },
+          {
+            "soru": "NATO'nun resmi dilleri nelerdir?",
+            "cevap": "İngilizce ve Fransızca"
+          },
+          {
+            "soru": "Avrupa Birliği üye sayısı kaçtır?",
+            "cevap": "27 (Hırvatistan'ın 2013 yılında üye olmasıyla, AB 28 üyeli bir Birlik haline gelmiştir. Bununla birlikte Birleşik Krallık'ın 31 Ocak 2020 tarihinde üyelikten resmen çekilmesiyle [Brexit ?] AB bugün, 27 üyesi olan bir Birlik durumundadır.)"
+          },
+          {
+            "soru": "NATO'ya üye olup da ordusu olmayan ülke hangisidir?",
+            "cevap": "İzlanda"
+          },
+          {
+            "soru": "Can güvenliği mazereti nakli nasıl olur?",
+            "cevap": "Memurun can güvenliği mazeretine dayanarak yer değiştirme talebinde bulunabilmesi için; kendisinin, eşinin veya bakmakla yükümlü olduğu çocuklarından birinin bulunduğu yerde kalmasının can güvenliğini tehdit altında bırakacağının adli veya mülki idare makamlarından alınacak belgeyle belgelendirmesi gerekir."
+          },
+          {
+            "soru": "CB forsunun kaç yıldızı vardır ve ne anlama gelir?",
+            "cevap": "Cumhurbaşkanlığı Forsu, Türk Bayrağının sol üst köşesine tarihteki 16 büyük Türk imparatorluğunu ifade eden 16 yıldız ve ortasında Türkiye Cumhuriyetini simgeleyen güneşten oluşan Cumhurbaşkanlığı Armasının yerleştirilmesi ile oluşmaktadır."
+          },
+          {
+            "soru": "Yetkili olmayan memur gizli bilgi açıklayabilir mi, ne zaman açıklar?",
+            "cevap": "Gizli bilgileri açıklama yasağı: Madde 31 – (Değişik: 12/5/1982 - 2670/11 md.) Devlet memurlarının kamu hizmetleri ile ilgili gizli bilgileri görevlerinden ayrılmış bile olsalar, yetkili bakanın yazılı izni olmadıkça açıklamaları yasaktır."
+          },
+          {
+            "soru": "İdare mahkemesinde tam yargı davaları ile iptal davaları aynı anda açılır mı?",
+            "cevap": "Bir idari işlem nedeniyle hakkı ihlal edilmiş olan kişiler doğrudan doğruya tam yargı davası açabileceği gibi iptal ve tam yargı davalarını aynı dilekçe ile birlikte de açabilir."
+          },
+          {
+            "soru": "İdari İşler Müdürlüğü ve Yazı İşleri Müdürlüğü görevde yükselme sınavına katılmak için kaç yıl çalışmak gerekir?",
+            "cevap": "6 yıl"
+          }
 ]
