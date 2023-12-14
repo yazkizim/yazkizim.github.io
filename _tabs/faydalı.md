@@ -53,7 +53,7 @@ titleabout: Bakanlık personelini için faydalı sair uygulamalar
     </a>
   </article>  
   <article class="card-wrapper"> 
-    <a href="/mulakat" class="card post-preview flex-md-row-reverse">
+    <a href="/mulakat/" class="card post-preview flex-md-row-reverse">
     <span class="badge badge-secondary bg-transparent text-danger"></span>
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">2018-2021-2023 Adalet GYS / ÜDS Çıkmış Mülakat Soruları 
@@ -75,7 +75,7 @@ titleabout: Bakanlık personelini için faydalı sair uygulamalar
     </a>
   </article>
   <article class="card-wrapper"> 
-    <a href="/hatirlatmakartlari" class="card post-preview flex-md-row-reverse">
+    <a href="/hatirlatmakartlari/" class="card post-preview flex-md-row-reverse">
     <span class="badge badge-secondary bg-transparent text-danger">Yeni *</span>
       <div class="card-body d-flex flex-column">
         <h1 class="card-title my-2 mt-md-0">Adalet Bakanlığı Mülakat Çalışma Kartları
