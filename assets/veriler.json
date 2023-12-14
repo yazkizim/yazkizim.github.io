@@ -1,9 +1,17 @@
 [    
     {
         "yolluk":{
-            "mudur" : 212,
-            "birden4dereceyekadar": 203,
-            "besvesonrasi" : 200
+            "2023" : {
+                "mudur" : 212,
+                "birden4dereceyekadar": 203,
+                "besvesonrasi" : 200
+            },
+            "2024" : {
+                "mudur" : 420,
+                "birden4dereceyekadar": 405,
+                "besvesonrasi" : 400
+            }
+            
         },
         "harclar":{
             "asliye":{
