@@ -15,12 +15,13 @@ addcoments: true
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Kapat"></button>
 </div>  
 <div class="card-header">
-  <h3 class="card-title">2018-2021 Adalet Bakanlığı Mülakat Soruları</h3>  
+  <h3 class="card-title">2018-2021-2023 Adalet Bakanlığı Mülakat Soruları</h3>  
   <br>     
 </div>
 <div class="card-body">
-  <div class="mb-3">    
-    <embed src="https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat-2.pdf" style="min-height: 600px;" class="w-100"
+  <div class="mb-3">
+    PDF'i indirmek için [**tıklayınız**](https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat-3.pdf)     
+    <embed src="https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat-3.pdf" style="min-height: 600px;" class="w-100"
  type="application/pdf">
   </div>
 </div>

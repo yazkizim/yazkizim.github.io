@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-13 20:30:00 +0300
+last_modified_at: 2023-12-18 20:58:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -319,6 +319,155 @@ En son üye Özbekistan
 
 **1335-İdari İşler Müdürlüğü ve Yazı İşleri Müdürlüğü görevde yükselme sınavına katılmak için kaç yıl çalışmak gerekir?**
 <br>6 yıl
+
+**1336-** **Mal bildiriminde bulunmamanın cezası nedir?**
+<br>Kademe ilerlemesinin durdurulması
+
+**1337- İnfaz koruma memurluğu alımlarında öncelikli kişiler kimlerdir?**
+<br>Hukuk fakültesi, adalet meslek yüksek okulu, yüksekokulların adalet programı ile adalet ön lisans programı mezunlarına öncelik tanınır.
+
+**1338- Olağan kanun yolları olağanüstü kanun yolları nelerdir?**
+<br>Kesinleşmemiş kararlara karşı gidilen kanun yolları itiraz, istinaf ve temyiz olup bunlar olağan kanun yollarıdır. Buna karşılık kesinleşmiş kararlara karşı olağanüstü kanun yolları ise, Yargıtay Cumhuriyet Başsavcısı'nın itirazı, kanun yararına bozma ve yargılamanın yenilenmesidir.
+
+**1339- Olimpiyatlarda ringe çıkan ilk Türk kadın boksör?**
+<br>Busenaz sürmeli
+
+**1340- Osmanlıdaki ilk gazete hangisidir?**
+<br>Takvim-i vakayi
+
+**1341- tbmm içtüzüğü denetimi?**
+<br>Anayasa mahkemesi
+
+**1342- Tema nın açılımı nedir?**
+<br>Türkiye Erozyonla Mücadele, Ağaçlandırma ve Doğal Varlıkları Koruma Vakfı
+
+**1343- Yasaklı bilgilerin açıklanması cezası?**
+<br>Kademe ilerlemesinin durd.
+
+**1344- Uyarı kınama kademe ilerlemesi durdurulması  alan memur üst düzey yonetici kadrolarına atanabilir mi ?**
+<br>Aylıktan kesme cezası alanlar 5 yıl , kademe ilerlemesinin durdurulması cezası alanlar 10 yıl daire başkanı kadrosu ve üstü kadrolara atanamaz
+
+**1345- Avukatlık stajını memuriyetten önce olursa kaç derece alır ?**
+<br>657 sayılı Devlet Memurları Kanununun 36/C-3 maddesinde, "Avukatlık hizmetleri sınıfına girenlerin memuriyete girmeden önce veya memurluktan ayrılarak avukatlıkla geçirdikleri sürelerin 3/4 ü memuriyette geçmiş sayılarak, bu sürelerin her yılı bir kademe ilerlemesine ve her üç yılı bir derece yükselmesine esas olacak şekilde değerlendirilir." hükmü yer almaktadır
+
+**1346- Yurt dışında birisi suç işlerse nereye başvurulmalı?**
+<br>Şüpheli veya sanığın Türkiye'de yerleşim yeri yoksa Türkiye'de en son adresinin bulunduğu yer mahkemesi yetkilidir.
+
+**1347- Nizam-ı Cedid ne anlama gelir?**
+<br>Osmanlı döneminde askeri alanda yeni düzene geçme.
+
+**1348- İdari yargılamada başvuru harcı yatırılmazsa ne olur?**
+<br>İYUK Madde 6/4; Herhangi bir sebeple harcı veya posta ücreti verilmeden veya eksik harç veya posta ücreti ile dava açılmış olması halinde, otuz gün içinde harcın ve posta ücretinin verilmesi ve tamamlanması hususu daire başkanı veya görevlendireceği tetkik hakimi, mahkeme başkanı veya hakim tarafından ilgiliye tebliğ olunur. Tebligata rağmen gereği yerine getirilmediği takdirde bildirim aynı şekilde bir daha tekrarlanır. Harç veya posta ücreti süresi içinde verilmez veya tamamlanmazsa davanın açılmamış sayılmasına karar verilir ve davacıya tebliğ olunur.
+
+**1349- Disiplin cezası alan memurun görevden uzaklaştırma süresi ne kadardır?**
+<br>3 ay
+
+**1350- Hak arama hürriyeti nedir?**
+<br>“Anayasa’nın “Hak Arama Hürriyeti” başlıklı 36. maddesinde, “Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı mercileri önünde davacı ve davalı olarak iddia ve savunma ile adil yargılanma hakkına sahiptir.”; “Temel hak ve hürriyetlerin korunması” başlıklı 40. maddesine 4709 sayılı Kanun’un 16. maddesiyle eklenen ikinci fıkrasında, “Devlet, işlemlerinde, ilgili kişilerin hangi kanun yolları ve mercilere başvuracağını ve sürelerini belirtmek zorundadır.” kuralı yer almış; 40. maddenin 2. fıkrasının gerekçesinde, bireylerin yargı ya da idari makamlar önünde sonuna kadar haklarını arayabilmelerine kolaylık ve imkân sağlanmasının amaçlandığı, son derece dağınık mevzuat karşısında kanun yolu, mercii ve sürelerin belirtilmesinin hak arama, hak ve hürriyetlerin korunması açısından zorunluluk hâline geldiği belirtilmiş; “Dilekçe, bilgi edinme ve kamu denetçisine başvurma hakkı” başlıklı 74. maddesinde ise “Vatandaşlar ve karşılıklılık esası gözetilmek kaydıyla Türkiye’de ikamet eden yabancılar kendileriyle veya kamu ile ilgili dilek ve şikâyetleri hakkında, yetkili makamlara ve Türkiye Büyük Millet Meclisine yazı ile başvurma hakkına sahiptir. Kendileriyle ilgili başvurmaların sonucu, gecikmeksizin dilekçe sahiplerine yazılı olarak bildirilir...Bu maddede sayılan hakların kullanılma biçimi, Kamu Denetçiliği Kurumunun kuruluşu, görevi, çalışması, inceleme sonucunda yapacağı işlemler ile Kamu Başdenetçisi ve kamu denetçilerinin nitelikleri, seçimi ve özlük haklarına ilişkin usul ve esaslar kanunla düzenlenir.” kuralına yer verilmiştir.
+
+**1351- Mehmet Akif Ersoy, İstiklal Marşı’nın kabulü sonrasında ne kadar ödül almıştır?**
+<br>Dönemin Milli Eğitim Bakanı, Hamdullah Suphi Bey'in ricası üzerine arkadaşı Hasan Basri Bey kendisini ulusal marş yarışmasına katılmaya ikna etti. İlk başlarda marşı kazanan şaire 500 liralık ödül verileceği haberini aldı ve devletin marşını para karşılığında yazmamak istedi.
+
+<br>Yazılan marşların hiçbiri kabul edilmiyordu. Devletin yüksek görevlerinde ki insanlar, bu marşın sadece Mehmet Akif Ersoy tarafından yazılacağını belirtti ve şair Akif baskılara daha fazla karşı gelemeyerek, Türkiye Devleti Ordusu için yazdığı İstiklal Marşı, 17 Şubat günü Sırat-ı Müstakim ve Hâkimiyet-i Milliye'de yayımlandı.
+
+<br>12 Mart 1921 Cumartesi günü saat 17.45'te ulusal marş olarak kabul edildi. Akif, ödül olarak verilen 500 lirayı Hilal-i Ahmer bünyesinde, kadın ve çocuklara iş öğreten ve cepheye elbise diken Dar’ül Mesai vakfına bağışladı.
+
+**1352- Islah kaç kere yapılır?**
+<br>Bir defa
+
+**1353- İslamiyet öncesi türk devletinde toplanan meclis adı nedir?**
+<br>Toy, kurultay
+
+**1353- Seo ne demektir?**
+<br>Arama motoru optimizasyonu, bir internet sitesine veya bir web sayfasına arama motorlarından gelen web trafiğinin kalitesini ve sayısını artırma sürecidir. SEO, doğrudan trafik veya ücretli trafik yerine ücretsiz trafik hedefler.
+
+**1354- son osmanlı mebusan meclisinin onayından geçmediği için hukuken geçersiz olan anlaşma nedir ?**
+<br>Sevr
+
+**1355- Bir ihbar valiliğe kaymakamlığa yapılırsa bu durumda ne yapılır ?**
+<br>CMK Madde 158
+
+(1) Suça ilişkin ihbar veya şikâyet, Cumhuriyet Başsavcılığına veya kolluk makamlarına yapılabilir.
+
+(2) Valilik veya kaymakamlığa ya da mahkemeye yapılan ihbar veya şikâyet, ilgili Cumhuriyet Başsavcılığına gönderilir.
+
+(3) Yurt dışında işlenip ülkede takibi gereken suçlar hakkında Türkiye’nin elçilik ve konsolosluklarına da ihbar veya şikâyette bulunulabilir.
+
+(4) Bir kamu görevinin yürütülmesiyle bağlantılı olarak işlendiği iddia edilen bir suç nedeniyle, ilgili kurum ve kuruluş idaresine yapılan ihbar veya şikâyet, gecikmeksizin ilgili Cumhuriyet Başsavcılığına gönderilir.
+
+(5) İhbar veya şikâyet yazılı veya tutanağa geçirilmek üzere sözlü olarak yapılabilir.
+
+(6) (Ek: 15/8/2017-KHK-694/145 md.; Aynen kabul: 1/2/2018-7078/140 md.) İhbar ve şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmasını gerektirmeksizin açıkça anlaşılması veya ihbar ve şikâyetin soyut ve genel nitelikte olması durumunda soruşturma yapılmasına yer olmadığına karar verilir. Bu durumda şikâyet edilen kişiye şüpheli sıfatı verilemez. Soruşturma yapılmasına yer olmadığına dair karar, varsa ihbarda bulunana veya şikâyetçiye bildirilir ve bu karara karşı 173 üncü maddedeki usule göre itiraz edilebilir. İtirazın kabulü hâlinde Cumhuriyet başsavcılığı soruşturma işlemlerini başlatır. Bu fıkra uyarınca yapılan işlemler ve verilen kararlar, bunlara mahsus bir sisteme kaydedilir. Bu kayıtlar, ancak Cumhuriyet savcısı, hâkim veya mahkeme tarafından görülebilir.
+
+(7) Yürütülen soruşturma sonucunda kovuşturma evresine geçildikten sonra suçu şikâyete bağlı olduğunun anlaşılması halinde; mağdur açıkça şikâyetten vazgeçmediği takdirde, yargılamaya devam olunur.
+
+**1356- Bekçiler ne mezunu olarak işe başlarlar?**
+<br>En az lise mezunu olarak
+
+**1357- maktu ve nispi harç acikla?**
+<br>Maktu harçlar konusu para ile değerlendirilemeyen hallerde alınan, miktar olarak belirlenmiş ve tarifede bu şekilde yer alan harçlardır. Nispi harçlar ise harca konu yararın para ile ölçülebildiği hallerde söz konusu olur
+
+**1358- 1. Meclisin yaptıgi inklap ve tarihi?**
+<br> Saltanatın kaldırılması veya padişahlığın kaldırılması, Türkiye Büyük Millet Meclisi'nin 1 Kasım 1922'de kabul ettiği 308 numaralı "Türkiye Büyük Millet Meclisi'nin, hukuku hâkimiyet ve hükümraninin mümessili hakikisi olduğuna dair" adlı kararnamesi ile gerçekleşmiştir.
+
+**1359- 657 Sayılı DMK ya göre Geçici Memur Çalıştırılabilir mi?**
+<br>Çalıştıramaz
+
+**1360- Peygamberimiz Hz.Muhammed Mustafa (S.A.V) doğum tarihi?**
+<br>Peygamberimiz Hz. Muhammed (s.a.s.), 571 yılı 20 Nisanına rastlayan 12 Rebîü’l-Evvel Pazartesi günü tan yeri ağarırken Mekke’de doğdu.
+Peygamberimizin babası Abdullah’tır. Abdullah’ın babası, Kureyş kabilesinden ve Mekke’nin ulu kişilerinden Haşim’in oğlu Abdulmuttalib’dir.
+
+**1361- Hizmet dışında Devlet memurunun itibar ve güven duygusunu sarsacak nitelikte davranışlarda bulunmak hangi cezayı gerektirir?**
+<br>Kınama
+
+**1362- Uzaya çıkan ilk hayvan?**
+<br>Layka (Rusça: Лайка, kelime anlamıyla "havlayan", y. 1954 - 3 Kasım 1957), Dünya yörüngesine çıkan ilk hayvan olan Sovyet uzay köpeğidir. Moskova sokaklarından toplanan melez bir köpek olan Layka, 3 Kasım 1957 tarihinde fırlatılan Sputnik 2 uzay aracının yolcusu olarak seçildi.
+
+**1363- Hukuk mahkemelerinde istinabe nedir?**
+<br>İstinabe, görülmekte olan bir davada, davaya bakmakla görevli ve yetkili mahkemenin kendi yargı çevresi dışında yapılması gereken bir işlem için yargı çevresi içinde o işlemin yapılacağı mahkemeden hukukî yardım istemesidir. İstinabe aynı ülke içerisinde farklı şehirlerarasında uygulanabileceği gibi ülkeler arasında da kullanılan bir yöntemdir.
+
+**1364- Verilen emre itiraz etmek hangi disiplin cezasını gerektirir ?**
+<br>Kınama
+
+**1365- Semerkant hangi ülkededir?**
+<br>Semerkant, **Özbekistan'ın** 12 ilinden biri olan Semerkant ilinin yönetim merkezi olan şehir. Zerefşan Nehri vadisinde, Taşkent'in 275 km güneybatısında yer alır. Nüfus açısından Özbekistan'ın en büyük ikinci şehri, tarihi ve sosyo-kültürel açıdan en önemli şehridir.
+
+**1366- Dünyanın en büyük gölü neresidir?**
+<br>Hazar Denizi
+
+**1367- Ceza muhakemelerinde gözlem kararını neresi verir?:**
+<br>Soruşturma aşamasında Sulh ceza hâkimliği, kovuşturma aşamasında mahkemenin kendisi
+
+**1368- Libya nın başkenti neresidir?**
+<br>Bir Kuzey Afrika ve Mağrip ülkesi olan Libya'nın başkenti, Trablus'tur. Başkent olmasının yanında ülkenin en büyük şehri de olan Trablus şehri Fenikeliler tarafından kurulmuş; 1951 tarihinde Libya'nın bağımsız olmasının ardından da ülkenin başkenti olarak ilan edilmiştir.
+
+**1369- Adalet bakanlığı mühendislik kadrolarına atanabilme şartları?**
+<br>Mühendis kadrolarına atanabilmek için, en az dört yıllık lisans eğitimi veren fakültelerin ilgili bölümlerinden mezun olmak; tekniker kadrolarına atanabilmek için en az meslek yüksek okullarının ilgili bölümlerinden mezun olmak; teknisyen ve teknik ressam kadrolarına atanabilmek için de en az meslek liseleri veya teknik liselerin ilgili bölümlerinden mezun olmak,
+
+**1370- pergamber efendimizi övmek için yazılan şiire ne dedir?**
+<br>Naat
+
+**1371- Hicaz demiryolunu kim yapmıştır?**
+<br>2. Abdulhamit
+
+**1372- Dinamiti icat eden kimdir ?**
+<br>Dinamit, nitrogliserinin diatomite soğurulmasıyla üretilen bir patlayıcı türüdür. İsveçli kimyager Alfred Nobel tarafından 1866'da keşfedilmiş ve 1867 yılında patenti alınmıştır. Genellikle 20 cm uzunluğunda ve 2,5 cm çapında çomaklar halinde satılır ancak başka boyları da mevcuttur
+
+**1373- Beyaz zambaklar ülkesinde kimin eseri?**
+<br>Grigory petrov
+
+**1374- Vakıfların organları nelerdir?**
+<br>Karar organı,Yönetim organı, Denetim organı
+
+**1375- 1982 anayasasında kimler oy kullanamaz ?**
+<br>Anayasa'nın 67. maddesinin beşinci fıkrasında; “Silah altında bulunan er ve erbaşlar ile askeri öğrenciler, taksirli suçlardan hüküm giyenler hariç ceza infaz kurumlarında bulunan hükümlüler oy kullanamazlar.
+
+**1376- Can güvenliği tayini açısından istenen 5 belge?**
+<br>Darp raporu, mahkeme kararı, koruyucu ve önleyici tedbir kararları, tehdit altında oldupuna dair soruşturma ve kovuşturma başlanıldığına ve dram ettiğine dair tutanaklar vs.
+
+**1377- Cannes film festivali Nuri bilge ceylan ödülü filmi nedir?**
+<br>Yönetmenliğini yaptığı Kış Uykusu, 2014 Cannes Film Festivali'nde Altın Palmiye'ye layık görüldü. Böylece Şerif Gören ve Yılmaz Güney'in Yol filminin ardından ikinci kez bir Türk filmi bu ödülü kazanmış oldu. 2018 yapımı Ahlat Ağacı filmi, yönetmenin en çok izlenen ikinci filmi oldu. Bu yıl 76'ncısı düzenlenen Cannes Film Festivali'nde Merve Dizdar, Nuri Bilge Ceylan'ın yönetmenliğini yaptığı "Kuru Otlar Üstüne" filmindeki rolüyle "En İyi Kadın Oyuncu" ödülünü aldı.
+
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
