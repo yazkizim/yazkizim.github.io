@@ -21,7 +21,7 @@ addcoments: true
 <div class="card-body">
   <div class="mb-3">
     
-    PDF'i indirmek için [**Tıklayınız**]({% link /mulakat/2018-2021-2023-adalet-bakanligi-mulakat-3.pdf %})  
+    PDF'i indirmek için [tıklayınız]({% link https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat-3.pdf %}) 
     <embed src="https://adliyeci.com.tr/mulakat/2018-2021-2023-adalet-bakanligi-mulakat-3.pdf" style="min-height: 600px;" class="w-100"
  type="application/pdf">
   </div>
