@@ -1,7 +1,7 @@
 ---
 title: 2024 Yılı Tüketici Hakem Heyetleri Sınırı
 author: gokhantasci
-date: 2023-12-20 09:00:00 +0300
+date: 2023-12-20 00:30:00 +0300
 categories: [Tarifeler, '2024']
 tags: [Adalet Bakanlığı, adliye, adliyeci, tüketici hakem heyeti]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, tüketici hakem heyeti, tüketici mahkemesi
