@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-18 20:58:00 +0300
+last_modified_at: 2023-12-19 20:38:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -467,6 +467,76 @@ Peygamberimizin babası Abdullah’tır. Abdullah’ın babası, Kureyş kabiles
 
 **1377- Cannes film festivali Nuri bilge ceylan ödülü filmi nedir?**
 <br>Yönetmenliğini yaptığı Kış Uykusu, 2014 Cannes Film Festivali'nde Altın Palmiye'ye layık görüldü. Böylece Şerif Gören ve Yılmaz Güney'in Yol filminin ardından ikinci kez bir Türk filmi bu ödülü kazanmış oldu. 2018 yapımı Ahlat Ağacı filmi, yönetmenin en çok izlenen ikinci filmi oldu. Bu yıl 76'ncısı düzenlenen Cannes Film Festivali'nde Merve Dizdar, Nuri Bilge Ceylan'ın yönetmenliğini yaptığı "Kuru Otlar Üstüne" filmindeki rolüyle "En İyi Kadın Oyuncu" ödülünü aldı.
+
+**1378- İmsak Nedir?**
+<br>Sözlükte “kendini tutmak, engellemek, el çekmek, geri durmak” anlamlarına gelen imsak, dinî bir kavram olarak, fecr-i sâdıktan, iftar vaktine kadar yemeden, içmeden, cinsel ilişki ve diğer orucu bozan şeylerden uzak durmak, el çekmek demektir. İmsakin zıttı iftardır.
+
+Halk arasında ise “imsak” oruç tutmaya başlanan fecr-i sâdığın oluştuğu vakit anlamında kullanılır. Bu manada imsak, oruca başlama vakti demektir.
+
+Oruca ne zaman başlanıp ne zaman bitirileceği Kur’ân-ı Kerîm’de şu şekilde açıklanmıştır: “(Ramazan gecelerinde) şafağın aydınlığını gecenin karanlığından ayırt edinceye (tan yeri ağarıncaya/fecr-i sâdığa) kadar yiyin, için. Sonra da akşama kadar (yiyip içmeden, cinsel ilişkide bulunmadan) orucu tamamlayın.” (el-Bakara, 2/187).
+
+Takvimlerde gösterilen “imsak”, oruca başlama vaktini ifade eder. İmsak vakti aynı zamanda gecenin sona erdiği, yatsı namazı vaktinin çıkıp sabah namazı vaktinin girdiği andır. Ramazan ayında ezân da imsak vaktinin başlaması ile okunmaktadır. Bu sebeple ezânın başlaması ile yemeyi içmeyi terk etmek gerekir. Ezân başladığı sırada ağızda bulunan lokmanın yutulmasında bir sakınca yoktur.
+
+**1379- Amire karşı küçük düşürücü, aşağılayıcı şekilde davranmak hangi disiplşn cezasını gerektirir?**
+<br>Kademe İlerlermesinin Durdurulması
+(Fiilin ağırlık derecesine göre memurun, bulunduğu kademede ilerlemesinin 1 - 3 yıl durdurulmasıdır.)
+
+**1380- Ordular İlk Hedefiniz Akdenizdir Sözü Hangi Savaşta Söylenmiştir?**
+<br>30 Ağustos 1922 tarihinde zaferle sonuçlanan Büyük Taarruz sonrası “Ordular ilk hedefiniz Akdeniz’dir, ileri!” diyen Mustafa Kemal bu sözü neden söylemişti? Muharebe sonrası 1 Eylül’de Dumlupınar’da, Batı Cephesi’ndeki tüm subay ve erlere okunmak üzere Mustafa Kemal tarafından bir bildiri yayımlandı. Bildirideki, “Ordular ilk hedefiniz Akdeniz’dir, ileri!” sözü, hafızalara kazındı. Bu emir ile İzmir’e kadar takip edilen, kaçarken geçtikleri yerleri ateşe verip yakıp yıkan Yunan orduları hezimeti yaşadı.
+
+**1381- Müdahilin müdahilligi kabul edildiğinde, müdahilligi kabulü tarafa bildirilir mi?**
+<br>7-) Fer’î müdahale talebi ve incelenmesi
+
+(1) Müdahale talebinde bulunan üçüncü kişi, yanında katılmak istediği tarafı, müdahale sebebini ve bunun dayanaklarını belirten bir dilekçeyle mahkemeye başvurur.
+
+(2) Müdahale dilekçesi, davanın taraflarına tebliğ edilir. Mahkeme, gerekirse taraflarla birlikte üçüncü kişiyi de dinlemek üzere davet eder, gelmeseler dahi müdahale talebi hakkında karar verir.
+
+8-) Fer’î müdahilin durumu
+
+(1) Müdahale talebinin kabulü hâlinde müdahil, davayı ancak bulunduğu noktadan itibaren takip edebilir. Müdahil, yanında katıldığı tarafın yararına olan iddia veya savunma vasıtalarını ileri sürebilir; onun işlem ve açıklamalarına aykırı olmayan her türlü usul işlemlerini yapabilir.
+
+(2) Mahkeme, katıldığı noktadan itibaren, taraflara bildirilen işlemleri müdahile de tebliğ eder.
+
+**1382-** **Siyasi parti grubu kaç üyeden oluşur?**
+<br>20 milletvekili bulunan siyasi partiler, Meclis’te grup kurabilir. Bu sayının altında vekil sayısına sahip olan partiler Meclis’te grup kuramazlar.
+
+**1383- 2. Balkan savaşı edirne mucahidi?**
+<br>Enver paşa
+
+**1384- Asliye ceza mahkemesindeki itiraz mercii?**
+<br>Ağır Ceza Mahkemesi
+
+**1385- Mahalli idareler nedir ve hangi kanuna tabi?** 
+<br>1982 Anayasasına göre; yerel yönetimler (mahalli İdareler); “il, belediye veya köy halkının mahallî müşterek ihtiyaçlarını karşılamak üzere kuruluş esasları kanunla belirtilen ve karar organları, gene kanunda gösterilen, seçmenler tarafından seçilerek oluşturulan kamu tüzelkişileridir.
+
+Yerel yönetimlerin kuruluş ve görevleri ile yetkileri, yerinden yönetim ilkesine uygun olarak; 1984 tarih ve 2972 sayılı Mahalli İdareler İle Mahalle Muhtarlıkları ve İhtiyar Heyetleri Seçimi Hakkında Kanun, 1981 tarih ve 2464 sayılı Belediye Gelirleri Kanunu,2005 tarih ve 5302 sayılı İl Özel İdaresi Kanunu, 2005 tarih ve 5393 sayılı Belediye Kanunu, 2004 tarih ve 5216 sayılı Büyükşehir Belediyesi Kanunu, 1924 tarih ve 442 sayılı Köy Kanunu ve 2005 tarih ve 5355 sayılı Mahalli İdare Birlikleri Kanunu ile düzenlenmiştir.
+
+**1386- Kimler Gen soru teklifinde kimler bulunabilir?**
+<br>Cumhurbaşkanlığı Hükümet Sistemiyle Gensoru kaldırılmıştır.
+
+**1387- İdari yargılamada adlı tatilden sonra süre kaç gün uzar?**
+<br>İdari Yargılama Usulü Kanunu'ndaki sürelerin son gününün adli tatile rastlaması halinde süre, adli tatilin sona erdiği günü izleyen günden itibaren **yedi gün** uzamaktadır.
+
+**1388- Suudi Arabistan'ın baskenti?**
+<br>Riyadh
+
+**1389- 1.Balkan savaşında bulunan devletler hangileridir?**
+<br>Bulgaristan Yunanistan sırbistan karadağ
+
+**1390- Disiplin soruşturmasını açmaya kim yetkilidir?**
+<br>Disiplin amiri
+
+**1391- Hababam sınıfında Güdük Necmi lakaplı sanatçımız kimdir?**
+<br>Halit Akçatepe
+
+**1392- Bütçe  yetişmezse ne yapılır?**
+<br>Ek bütçe istenir
+
+**1393- Lozanda yunanistandan savaş tazminatı olarak alınan yer ?**
+<br>Karaağaç
+
+**1394- Evlilik birliği içerisindeki mal rejiminin şekil şartı nedir?**
+<br>TMK m. 205 uyarınca noterde onaylama veya düzenleme şeklinde yerine getirilebilir.
 
 
 
