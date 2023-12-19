@@ -1,0 +1,104 @@
+---
+title: Geçici Görev Yolluğu Hesaplama
+keywords: Katip Geçici Görev Yolluğu, Mübaşir Geçici Görev Yolluğu, Yazı İşleri Müdürü Geçici Görev Yolluğu
+permalink: /gecicigorev/
+layout: gokhan
+subcat: maaş
+comments: true
+addcoments: true
+---
+
+
+<div class="card-header">
+	<h3 class="card-title">Geçici Görev Yolluğu Hesaplama İşlemleri</h3>
+</div>
+<div class="card-body">
+	<div class="mb-3">
+		<label class="form-label required">Yıl</label>
+		<div>
+		<select type="text" class="form-select" placeholder="Seçiniz" id="yil" value="">
+			<option value="2024">2024</option>	
+			<option value="2023">2023</option>				
+		</select>
+		</div>
+		<small class="form-hint">Hesaplanacak Yılı Seçiniz
+		</a></small>
+	</div>
+	<div class="mb-3">
+		<label class="form-label required">Ünvan</label>
+		<div>
+		<select type="text" class="form-select" placeholder="Seçiniz" id="unvan" value="">
+			<option value="0" disabled>Seçiniz</option>	
+			<option value="1" selected>3600 Ek Göstergeli Kadrolar (Müdürler)</option>
+			<option value="2">3600 Ek Göstergeden aşağı kadrolar</option>				
+		</select>
+		</div>
+		<small class="form-hint">				</a></small>
+	</div>
+	<div class="mb-3">
+		<label class="form-label required">Kadro Dereceniz</label>
+		<div>
+		<select type="text" class="form-select" placeholder="Seçiniz" id="kadroderece" value="">
+			<option selected="" value="203">1 den 4 dereceye kadar</option>
+			<option value="200">5 den 15 dereceye kadar</option>
+		</select>
+		</div>
+	</div>	
+	<div class="mb-3">
+		<label class="form-label required">Görev Süresi (Gidiş Dönüş Yol Dahil)</label>
+		<div>
+		<input type="number" class="form-control" data-type="currency" placeholder="Kabul edilen değeri giriniz" name="gorevmiktar">
+		<small class="form-hint">Örneğin : 3 gün eğitim 1 gün gidiş 1 gün geliş yol izni ise 5 yazınız
+		</a></small>
+		</div>
+	</div>
+	<div class="mb-3">
+		<label class="form-label required">Yol Gideri</label>
+		<div>
+		<input type="number" class="form-control" data-type="currency" placeholder="Kabul edilen değeri giriniz" name="biletmiktar">
+		<small class="form-hint">Gidiş Dönüş için Kabul Edilen Mutat Vasıta Gideri
+		</a></small>
+		</div>
+	</div>
+	<div class="mb-3">
+		<label class="form-label required">Konaklama Gideri</label>
+		<div>
+		<input type="number" class="form-control" data-type="currency" placeholder="Kabul edilen değeri giriniz" name="konaklamamiktar">
+		<small class="form-hint">** Eğitim Merkezinde kalındıysa 0 girilmeli
+		</a></small>
+		</div>
+	</div>
+	<div class="mb-3">
+		<div class="col-6 col-sm-4 col-md-2 col-xl py-3">
+			<a href="#" class="btn btn-green active w-100" id ="geciciyolhesapla" name="geciciyolhesapla">
+			Hesapla
+			</a>
+		</div>
+		<small class="form-hint"></small>
+	</div>
+</div>
+
+<div class="col-12">
+	<div class="row row-deck row-cards">
+		<div class="col-lg-12">
+			<div class="card">
+			<div class="card-stamp">
+				<div class="card-stamp-icon bg-pink">
+				<svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-road" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+					<path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+					<path d="M4 19l4 -14"></path>
+					<path d="M16 5l4 14"></path>
+					<path d="M12 8v-2"></path>
+					<path d="M12 13v-2"></path>
+					<path d="M12 18v-2"></path>
+				</svg>
+				</div>
+			</div>
+			<div class="card-body d-flex align-items-center justify-content-center h-100">
+				<label id="hesapsonuc" name="hesapsonuc" class="text-justify mh-25"><h1 class="m-0"></h1></label>
+			</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
