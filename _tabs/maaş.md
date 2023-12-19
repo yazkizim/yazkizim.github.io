@@ -153,5 +153,27 @@ titleabout: Memur ve Adliye Personeli Maaş ve yolluk Hesaplama işlemleri
         </div>
       </div>      
     </a>    
-  </article>  
+  </article>
+  <article class="card-wrapper">     
+    <a href="/gecicigorev/" class="card post-preview flex-md-row-reverse">  
+    <span class="badge badge-secondary bg-transparent text-danger">Yeni *</span>    
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-road fa-fw me-1 fa-3x align-middle" style="color : #e91e63"> </i></div>
+    <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">Geçici Görev Yolluğu Hesaplama
+        </h1>
+        <div class="card-text content mt-0 mb-2">
+          <p> 2023 yılı memur Geçici Görev Yolluğu Hesaplama
+          </p>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto"> 
+            <i class="far fa-calendar fa-fw me-1">
+            </i> 
+            <time>19/12/2023
+            </time>             
+          </div>          
+        </div>
+      </div>      
+    </a>    
+  </article>    
 </div>
