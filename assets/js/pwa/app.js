@@ -102,11 +102,25 @@ $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://ap
 }).fail(function() {
     $('#dovizbar').hide();
 });
-
-var siteadres = "https://counterapi.com/api/adliyeci.com.tr";
+/*
+//var siteadres = "https://counterapi.com/api/adliyeci.com.tr";
+var siteadres = "https://api.counterapi.dev/v1/adliyeci.com.tr";
 var adres = encodeURIComponent(window.location.pathname);
 
-$.getJSON(siteadres + "/view" + adres, function(response) {
+$.getJSON(siteadres + adres + "/up", function(response) {
+    sayfasayac = response.value;
+    $('#okuyan').html(response.value);
+});*/
+
+var siteadres = "https://api.counterapi.dev/v1/adliyeci.com.tr/";
+var adres = window.location.pathname;
+adres = adres.replaceAll("-", "");
+adres = adres.replaceAll("/", "");
+if (adres == '') { 
+    adres = 'anasayfa';
+}
+
+$.getJSON(siteadres + adres + "/up", function(response) {
     sayfasayac = response.value;
     $('#okuyan').html(response.value);
 });
