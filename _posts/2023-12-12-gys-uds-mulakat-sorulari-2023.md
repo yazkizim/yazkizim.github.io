@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-19 20:38:00 +0300
+last_modified_at: 2023-12-20 19:50:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -537,6 +537,33 @@ Yerel yönetimlerin kuruluş ve görevleri ile yetkileri, yerinden yönetim ilke
 
 **1394- Evlilik birliği içerisindeki mal rejiminin şekil şartı nedir?**
 <br>TMK m. 205 uyarınca noterde onaylama veya düzenleme şeklinde yerine getirilebilir.
+
+**1395- Moğolistan in başkenti?**
+<br>Ulanbator
+<br>Kuzey ve batıda dağlar ve güneyde Gobi Çölü bulunur. Ulan Batur, ülkenin başkentidir ve yaklaşık olarak ülke nüfusun %38'ine ev sahipliği yapar. Ayrıca dünyanın en soğuk başkentlerinden biridir. Moğolistan yarı başkanlık sistemi ile yönetilen cumhuriyettir.
+
+**1396- OSMANLIDA İLK BÜTÇEYİ KİM ve NE ZAMAN HAZIRLAMIŞTIR?**
+<br>Sadrazam Tarhuncu Ahmet Paşa
+<br>Ayrıca Osmanlı Devleti maliye sisteminde ilk kez olarak gelecek yıl için, yani 1652 yılında başlayan Hicri 1060 yılı için, Tarhuncu bütçesi adı verilen bir bütçe defteri hazırlandı. Bu bütçeye göre Hicri 1060 yılında bir yılda taşra eyaletlerinden gelen toplam cizye, avarız, mukataat bedelinden oluşan devlet gelirinin 5.329 yük olacağı hesaplanmıştı. Devlet harcamaları olarak yeniçeri ocağı, acemioğlan ocakları, bostancı ve baltacı ulufeleri ile saray, tersane, donanma, istabl-i amire, cebecihane, tophane vb giderleri 6.872 yük olacaktı. Devlet bütçe sorunlarının devamlı olarak çıktığı bilinmekteydi. "Tarhuncu Bütçesi"'ne göre Hicri 1060 yılı için devlet bütçesi açığının yaklaşık 1.600 yük olacağı hesaplandı.
+
+**1397- Elektronik tebligat nedir?**
+<br>Tebligat Kanunu ve Elektronik Tebligat Yönetmeliğine uygun olarak elektronik ortamda yapılan tebligatı,
+
+**1398- Uzlaştırma rapor süresi?**
+<br>MADDE 17 – (1) Uzlaştırmacı, uzlaştırma evrakını teslim aldıktan sonra **otuz gün** içinde uzlaştırma işlemlerini sonuçlandırır. Bu süre içerisinde sonuçlandıramazsa durumu açıklayan bir dilekçeyle büroya başvurması hâlinde bürodan sorumlu Cumhuriyet savcısının onayını almak koşuluyla uzlaştırma bürosu bu süreyi **en çok yirmi gün** daha uzatabilir.
+
+**1399- Fatih Sultan Mehmet in hocası?**
+<br>Akşemseddin (1389, Şam - 16 Şubat 1459, Göynük), asıl adı ile Mehmed Şemseddin, çok yönlü Türk âlim, tıp insanı ve Şemsîyye-î Bayramîyye isimli Türk Tasavvuf tarikatının kurucusu. Osmanlı Padişahı Fatih Sultan Mehmed'in hocası olarak bilinmektedir.
+
+**1400- 200₺ de kimin resmi vardır?**
+<br>Yunus Emre (1238-1320)
+<br>Medrese eğitimi gören Yunus Emre ayrıca; Arapça ve Farsça öğrenmiş, İran ve Yunan mitolojisiyle ilgilenmiş ve tasavvuf tarihini incelemiştir. Yanında yetiştiği Tapduk Emre'nin düşüncelerini halka anlatmak amacıyla Anadolu'da uzun süre seyahat ettiği bilinir.
+
+**1401- Hsk kararlarına karşı yargı yoluna basvurulabilirmi?**
+<br>Genel Kurulun veya dairelerin, meslekten çıkarma cezasına ilişkin kesinleşmiş kararlarına karşı yargı mercilerine başvurulabilir; diğer kararları yargı denetimi dışındadır.
+
+**1402- Fazilet eczanesi ve keşanlı ali destanı yazarı kimdir ?**
+<br>Haldun Taner (16 Mart 1915, İstanbul - 7 Mayıs 1986, İstanbul); Türk öykü, tiyatro ve kabare yazarı, öğretim üyesi ve gazetecidir. Cumhuriyet dönemi Türk edebiyatının önde gelen yazarlarından biridir. Türkiye'de epik tiyatro türü ve kabare tiyatrosunun öncüsüdür.
 
 
 
