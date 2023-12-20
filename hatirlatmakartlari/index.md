@@ -22,5 +22,12 @@ addcoments: false
   </div>
 </div>
 
+<div class="card-body">
+  <div class="mb-3">    
+    <div id="kartsayacak">
+    </div>    
+  </div>
+</div>
+
 > 2023 yılı soruları sisteme eklenmektedir. Son güncelleme : 20/12/2023. Başarılar dilerim.
 {: .prompt-tip }

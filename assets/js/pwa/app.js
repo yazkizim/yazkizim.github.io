@@ -121,7 +121,7 @@ if (adres == '') {
 }
 
 $.getJSON(siteadres + adres + "/up", function(response) {
-    sayfasayac = response.value;
-    $('#okuyan').html(response.value);
+    sayfasayac = response.count;
+    $('#okuyan').html(response.count);
 });
                   
