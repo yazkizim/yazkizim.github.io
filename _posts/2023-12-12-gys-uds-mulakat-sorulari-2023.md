@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-20 19:50:00 +0300
+last_modified_at: 2023-12-21 22:42:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -564,6 +564,39 @@ Yerel yönetimlerin kuruluş ve görevleri ile yetkileri, yerinden yönetim ilke
 
 **1402- Fazilet eczanesi ve keşanlı ali destanı yazarı kimdir ?**
 <br>Haldun Taner (16 Mart 1915, İstanbul - 7 Mayıs 1986, İstanbul); Türk öykü, tiyatro ve kabare yazarı, öğretim üyesi ve gazetecidir. Cumhuriyet dönemi Türk edebiyatının önde gelen yazarlarından biridir. Türkiye'de epik tiyatro türü ve kabare tiyatrosunun öncüsüdür.
+
+**1403- İdari yargı yönetmeliğine göre dosya incelemesi kimin denetiminde yapılır?**
+<br>Bölge İdare Mahkemeleri, İdare Mahkemeleri Ve Vergi Mahkemelerinin İdari İşler İle Yazı İşleri Hizmetlerinin  Yürütülmesi Usul Ve Esaslarına İlişkin Yönetmelik madde 6/7-e uyarınca **Zabıt Katibi**
+
+**1404- Tarihi malabadi köprüsü hangi ilçe ve il sınırı içindedir?**
+<br>Malabadi Köprüsü (Orta Çağ'daki Türkçe kaynaklarda adı: Akarman veya Karaman Köprüsü[1]), **Silvan'a** 23,2 km uzaklıkta olup Silvan ilçe sınırları içerisinde yer almaktadır. Silvan'dan rahatlıkla ulaşım imkânı vardır. **Diyarbakır** Tarihi Eserler Envanteri'ne kayıtlıdır. Malabadi Köprüsü 1989 yılında Silvan Belediyesi tarafından restore edilmiştir. Malabadi Köprüsü Silvan Belediyesi'nin logosunu oluşturan ana unsurdur. Malabadi Köprüsü Silvan ilçesine ait bir köprüdür.
+
+**1405- Londra Konferansı?**
+<br>Londra Konferansı, Türkiye Büyük Millet Meclisi Sevr Antlaşması'nı kabul etmemiş, İtilaf Devletleri'ni yurttan çıkarmak için harekete geçmişti. TBMM, Millî Mücadele sırasında güneyde Fransızlara karşı başarılı olmuş, Türk-Sovyet görüşmelerini başlatmış, Yunan ilerleyişini durdurmuştu. Birinci İnönü Muharebesi de kazanılınca İtilaf Devletleri, Sevr Antlaşmasında bazı değişiklikler yapmak üzere Yunanistan ve Türkiye'nin de katıldığı bir konferansın 21 Şubat 1921'de Londra'da yapılmasına karar verdiler.
+
+**1406- Gülü ile meşhur ilimiz?**
+<br>Isparta
+<br>(Siyah Gül Halfeti / Şanlıurfa)
+
+**1407- Divanı hikmet kimin eseri?**
+<br>Hoca Ahmed Yesevî'nin (1093, Sayram - 1166, Türkistan) söylediği "hikmet" adlı şiirleri bir araya getiren Türk tasavvuf edebiyatının bilinen en eski örneklerini içeren kitaptır.
+
+**1408- Genç Osman'ın başkenti değiştirmek istemesinin sebebi nedir?**
+<br>Genç (II.) Osman Devşirme geleneğine son verip Anadolu, Mısır ve Suriye askerlerinden oluşan yerli bir ordu kurmayı amaçlıyordu. Ayrıca başkenti de Anadolu'ya taşıma hedefi olduğu için Maanoğlu Fahreddin'in Lübnan'da çıkardığı isyanı fırsat bilerek yola koyulmak istedi.
+
+**1409- Meclis toplanma ve kabul sayıları?**
+<br>TBMM Toplantı Yeter Sayısı: Meclis Üye tamsayısının 1/3’dür. (200 kişi) TBMM Karar Yeter Sayısı: Toplantıya katılanların salt çoğunluğu ile karar alınır. Ancak alınan karar kesinlikle meclis üye tamsayısının 1/4’ünün 1 fazlasından az olamaz. Yani kesinlikle 151’den az olmamalıdır. Örneğin; Toplantıya 100 vekil geldi toplantı açılır mı? Hayır. Çünkü toplantı yeter sayısını sağlamıyor. Peki, toplantıya 200 vekil geldi açılır mı toplantı? Evet. Çünkü en az 200 vekil sayısını sağlamaktadır
+
+Peki, toplantıya 200 vekil geldi ve toplantı açıldı. 200 vekil arasından yapılan oylama ile 140 vekil evet dedi karar alınır mı? Hayır. Çünkü her ne kadar toplantıya katılanların salt çoğunluğunu (101 vekil) sağlamış olsa da, 151 vekil sayısının altından kaldığı için karar alınamaz. Ancak 160 vekil evet deseydi hem toplantıya katılanların salt çoğunluğu sağlanmış hem de 151 vekil barajı da aşılmış olurdu. Bu da karar alınması için yeterlidir.
+
+**1410-** **Milli mücadele dönemindeki ilk genelge?**
+<br>28 Mayıs 1919 tarihli **Havza Genelgesi**; Millî Mücadele döneminde yayınlanan ilk genelgedir. Bu genelge ile halkın işgallere karşı tepki göstermesi sağlanmış ve ulusal bilinç uyandırılmıştır.
+
+**1411- Teşkilatı Mahsusa**
+<br>Teşkîlât-ı Mahsûsa, İttihat ve Terakkî Cemiyeti bünyesinde Enver Paşa'ya bağlı olarak kurulan gizli teşkilattır. II. Meşrutiyet dönemi sonrası 1913-1918 yılları arasında etkinlik gösteren istihbarat ve propaganda aracı bir topluluktur.
+
+**1412- Eğitim Dairesi Başkanlığı ile işbirliği yaparak Bakanlığın merkez ve taşra teşkilatı ile bağlı kuruluşlarında bilgisayar kullanan personelin eğitimini sağlamak kimin görevidir?**
+<br>Bilgi İşlem Genel Müdürlüğü
 
 
 
