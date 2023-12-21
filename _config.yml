@@ -85,10 +85,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://www.adliyeci.com.tr/assets/"
+img_cdn: "https://adliyeci.com.tr/assets/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://www.adliyeci.com.tr/assets/img/logo.png"
+avatar: "https://adliyeci.com.tr/assets/img/logo.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
