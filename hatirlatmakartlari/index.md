@@ -29,5 +29,5 @@ addcoments: false
   </div>
 </div>
 
-> 2023 yılı soruları sisteme eklenmektedir. Son güncelleme : 20/12/2023. Başarılar dilerim.
+> 2023 yılı soruları sisteme eklenmektedir. Son güncelleme : 21/12/2023. Başarılar dilerim.
 {: .prompt-tip }
