@@ -7409,7 +7409,37 @@
           {
             "soru": "Eğitim Dairesi Başkanlığı ile işbirliği yaparak Bakanlığın merkez ve taşra teşkilatı ile bağlı kuruluşlarında bilgisayar kullanan personelin eğitimini sağlamak kimin görevidir?",
             "cevap": "Bilgi İşlem Genel Müdürlüğü"
-          }
-
-          
+          },
+          {
+            "soru": "Kamu Hizmeti nedir, özellikleri nelerdir?",
+            "cevap": "Kamu hizmeti, toplum için önem kazanmış olan ortak ve genel bir ihtiyacın tatminine yönelik olarak kamu tüzel kişileri veya onların denetimi altında özel kişilerce yürütülen bir faaliyettir. Özellikleri: Devamlılık, değişebilirlik ve uyarlanma, yararlanmada eşitlik ve tarafsızlık, kamu hizmetlerinin bedelsizliği. Çeşitleri: Emanet usulü, müşterek emanet usulü, iltizam usulü, imtiyaz usulü"
+          },
+          {
+            "soru": "Son Osmanlı Halifesi Kimdir?",
+            "cevap": "Abdülmecid Efendi"
+          },
+          {
+            "soru": "Suçun işlendiği yer belli değilse yetkili mahkeme nedir?",
+            "cevap": "Madde 13 – (1) Suçun işlendiği yer belli değilse, şüpheli veya sanığın yakalandığı yer, yakalanmamışsa yerleşim yeri mahkemesi yetkilidir. (2) Şüpheli veya sanığın Türkiye'de yerleşim yeri yoksa Türkiye'de en son adresinin bulunduğu yer mahkemesi yetkilidir."
+          },
+          {
+            "soru": "E duruşma sisteminin yazılımı güncellenir mi?",
+            "cevap": "Güncellenir."
+          },
+          {
+            "soru": "I. Meşrutiyet nedir?",
+            "cevap": "Birinci Meşrutiyet, Osmanlı İmparatorluğu'nda 23 Aralık 1876'da II. Abdülhamid tarafından ilan edilen, anayasal monarşi rejiminin ilk dönemi. Bu dönemin anayasası Kanun-ı Esasi, yürütme organı padişah II. Abdülhamid, yasama organı ise Meclis-i Umumi'dir."
+          },
+          {
+            "soru": "Dış ilişkiler ve Avrupa Birliği Genel Müdürlüğünün görevleri nelerdir?",
+            "cevap": "Dış İlişkiler ve Avrupa Birliği Genel Müdürlüğü‘nün görev ve yetkileri: (a) Bakanlığın görev alanına giren konularda uluslararası antlaşmalar ve belgelerle ilgili olarak görüş bildirmek, yapılan çalışmalara ve görüşmelere katılmak, bu antlaşma ve belgeleri Türkçeye çevirtmek, derlemek, arşivlemek, bunları ilgili kurum ve birimlere iletmek, (b) Yurtdışında işlenen ve Türk yargı yetkisine giren suçlar konusunda adli makamlara bilgi ve belge sağlanmasına yardımcı olmak, (c) Hukuki ve cezai konularda uluslararası adli yardımlaşma; tebligat, istinabe, suçluların iadesi, hükümlülerin transferi, kovuşturmaların aktarılması işlemlerini yapmak, (ç) Nafakalara dair uluslararası antlaşmalarla ilgili iş ve işlemleri yürütmek, (d) Bakanlığın uluslararası kuruluşlarla ilgili faaliyetlerini yürütmek, (e) Uluslararası hukuk konusundaki gelişmeleri izlemek, bu konulardaki çalışmalara katılmak, gelişmelerin iç hukuka yansıtılması için ilgili kurum ve kuruluşları bilgilendirmek, (f) Görev alanına giren konularda personelin yurt içi ve yurtdışı eğitimi ile ilgili işlemleri yürütmek, (g) İştirak olunan yurtdışı faaliyetlere ilişkin olarak düzenlenecek raporları Bakanlığın ilgili birimlerine ve diğer ilgili kuruluşlara iletmek, (ğ) Bakanlığın görev alanına giren Avrupa Birliği müktesebatına uyum ile ilgili konularda Bakanlık birimleri arasında koordinasyonu sağlamak, inceleme ve araştırmalar yapmak, Dışişleri Bakanlığı ve diğer kamu kurum ve kuruluşlarının koordinasyon çalışmalarına yardımcı olmak, bu alanda Cumhurbaşkanının genel politikasını uygulamaya yönelik tedbirler almak, uyum ve uygulama çalışmaları ile ilgili işleri yürütmek, (h) Bakan tarafından verilen diğer görevleri yapmak."
+          },
+          {
+            "soru": "Tebligat usulsüz yapılmışsa ne yapılır?",
+            "cevap": "Tebliğ işlemleri tekrarlanır."
+          },
+          {
+            "soru": "Vekil ile takip edilen dosyalarda tebligat kime yapılır?",
+            "cevap": "Madde 11 – (Değişik birinci fıkra : 6/6/1985 - 3220/5 md.) Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır. Vekil birden çok ise bunlardan birine tebligat yapılması yeterlidir. Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır. Ancak, Ceza Muhakemeleri Usulu Kanununun, kararların sanıklara tebliğ edilmelerine ilişkin hükümleri saklıdır."
+          }          
 ]
