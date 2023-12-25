@@ -64,7 +64,7 @@ addcoments: true
                               <div>
                                 <select type="text" class="form-select" placeholder="Seçiniz" id="unvan" value="">
                                   <option value="0" disabled>Seçiniz</option>
-                                  {% for tablo in  site.data.unvanlar.unvan | sort  %}
+                                  {% for tablo in  site.data.unvanlar.unvan | sort: 'adi'  %}
                                     <option value="{{ tablo.deger }}">{{ tablo.adi }}</option>
                                   {% endfor %}	                                    
                               </select>
