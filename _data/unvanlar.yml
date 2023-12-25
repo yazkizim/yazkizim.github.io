@@ -1,56 +1,38 @@
 ---
 unvan:
-    - 
-      adi: Zabıt Katibi
-      deger: 2
-    - 
-      adi: Mübaşir
-      deger: 3
-    - 
-      adi: Memur
-      deger: 18   
-    - 
-      adi: Yazı İşleri Müdürü
-      deger: 1  
-    - 
-      adi: İdari İşler Müdürü
-      deger: 12
-    - 
-      adi: İcra Katibi
-      deger: 6  
-    - 
-      adi: İcra Müdürü
-      deger: 4   
-    - 
-      adi: İcra Müdür Yardımcısı
-      deger: 5
-    - 
-      adi: Cezaevi Katibi
-      deger: 7  
-    - 
-      adi: Koruma ve Güvenlik (Silahsız)
-      deger: 8
-    - 
-      adi: Koruma ve Güvenlik (Silahlı)
-      deger: 9   
-    - 
-      adi: Cezaevi Müdürü
-      deger: 10 
-    - 
-      adi: Cezaevi Müdürü (Özel +13 P)
-      deger: 11   
-    - 
-      adi: İnfaz ve Koruma Memuru
-      deger: 13 
-    - 
-      adi: İnfaz ve Koruma Memuru (Özel +13 P)
-      deger: 14
-    - 
-      adi: İnfaz ve Koruma Başmemuru
-      deger: 15
-    - 
-      adi: İnfaz ve Koruma Başmemuru (Özel +13 P)
-      deger: 16
-    - 
-      adi: Avukat
-      deger: 17      
+  - adi: Avukat
+    deger: 17
+  - adi: Cezaevi Katibi
+    deger: 7    
+  - adi: Cezaevi Müdürü
+    deger: 10
+  - adi: Cezaevi Müdürü (Özel +13 P)
+    deger: 11
+  - adi: Yazı İşleri Müdürü
+    deger: 1
+  - adi: İcra Katibi
+    deger: 6
+  - adi: İcra Müdürü
+    deger: 4
+  - adi: İcra Müdür Yardımcısı
+    deger: 5
+  - adi: İdari İşler Müdürü
+    deger: 12    
+  - adi: İnfaz ve Koruma Başmemuru
+    deger: 15
+  - adi: İnfaz ve Koruma Başmemuru (Özel +13 P)
+    deger: 16    
+  - adi: İnfaz ve Koruma Memuru
+    deger: 13
+  - adi: İnfaz ve Koruma Memuru (Özel +13 P)
+    deger: 14
+  - adi: Koruma ve Güvenlik (Silahsız)
+    deger: 8
+  - adi: Koruma ve Güvenlik (Silahlı)
+    deger: 9
+  - adi: Memur
+    deger: 18        
+  - adi: Mübaşir
+    deger: 3
+  - adi: Zabıt Katibi
+    deger: 2
