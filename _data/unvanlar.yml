@@ -10,8 +10,6 @@ unvan:
     deger: 10
   - adi: Cezaevi Müdürü (Özel +13 P)
     deger: 11
-  - adi: Yazı İşleri Müdürü
-    deger: 1
   - adi: İcra Katibi
     deger: 6
   - adi: İcra Müdürü
@@ -37,6 +35,8 @@ unvan:
   - adi: Mübaşir
     deger: 3
   - adi: Şoför
-    deger: 20    
+    deger: 20
+  - adi: Yazı İşleri Müdürü
+    deger: 1        
   - adi: Zabıt Katibi
     deger: 2
