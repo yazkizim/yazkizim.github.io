@@ -76,12 +76,12 @@ addcoments: true
                                 <select type="text" class="form-select" placeholder="Seçiniz" id="unvan" value="">
                                   <option value="0" disabled>Seçiniz</option>
                                   {% for tablo in  site.data.unvanlar.unvan | sort: "adi"  %}
-                                    {% if tablo.deger == "1" %}
+                                    {% if tablo.deger == 1 %}
                                       <option value="{{ tablo.deger }}" selected>{{ tablo.adi }}</option>
                                     {% else %}
                                       <option value="{{ tablo.deger }}">{{ tablo.adi }}</option>
                                     {% endif %}                                    
-                                  {% endfor %}	                                    
+                                  {% endfor %}                                    
                                 </select>
                               </div>
                               <small class="form-hint"></a></small>
