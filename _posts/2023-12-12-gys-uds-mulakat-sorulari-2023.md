@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-22 19:42:00 +0300
+last_modified_at: 2023-12-25 21:22:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -645,6 +645,116 @@ Peki, toplantıya 200 vekil geldi ve toplantı açıldı. 200 vekil arasından y
 
 **1420- Vekil ile takip edilen dosyalarda tebligat kime yapılır?**
 <br>Madde 11 – (Değişik birinci fıkra : 6/6/1985 - 3220/5 md.) Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır. Vekil birden çok ise bunlardan birine tebligat yapılması yeterlidir. Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır. Ancak, Ceza Muhakemeleri Usulu Kanununun, kararların sanıklara tebliğ edilmelerine ilişkin hükümleri saklıdır.
+
+**1421- 1.Dünya Savaşının Başlama Nedeni?**
+<br>28 Haziran 1914'te Saraybosna'da Avusturya-Macaristan veliahtı Arşidük Franz Ferdinand ve eşi Arşidüşes Sophie'ye düzenlenen suikast, Ağustos 1914'te başlayan ve dört yıl boyunca birçok cephede devam eden savaşın fitilini ateşlemiştir.
+
+**1422- Hükümdar Sembolleri nelerdir?**
+<br>Taht, Taç. Sikke, Çetr, Nevbet, Bayrak, Tıraz, Hil'at, Gaşiye, Ok ve Yay, Yüzük/Mühür
+
+**1423- Hosting nedir?**
+<br>Hosting; web sayfanıza ait tüm dosyaların, yılın 365 günü bir bilgisayarda saklanması ve erişime açık tutulması hizmetidir. Bu bilgisayarlara ise “server” veya “web sunucusu” adı verilir.
+<br>Web sitenizin içindeki resimler, yazılı içerikler, fonksiyon dosyaları, kısacası sitenin yayınlanması için gerekli olan her şey hosting hesabınızda saklanır. Ziyaretçiler web tarayıcısına sitenizin adresini yazdığında, sitenize ait dosyaların barındırıldığı sunucuya yönlendirilir. Bir hosting hesabına sahip olmadan, sitenizi web üzerinde yayınlamanız mümkün değildir.
+
+**1424- Orojenez ve epirojenez nedir?**
+<br>Epirojenez, kıta oluşumu hareketleri olarak bilinmektedir. Yer kabuğunun geniş alanda yaylanma yapması sonucunda oluşmaktadır. Orojenez ise dağ oluşumu hareketleri olarak bilinmektedir.
+
+**1425- Tutuklu şüpheli ve sanığın kanun yoluna başvurusu nasıl olur?**
+<br>Tutuklu bulunan şüpheli veya sanık, zabıt kâtibine veya tutuklu bulunduğu ceza infaz kurumu ve tutukevi müdürüne beyanda bulunmak suretiyle veya bu hususta bir dilekçe vererek kanun yollarına başvurabilir (m.263/1).
+
+**1426- Mahkemelerde yetkisizlik iddiası ne zaman ileri surulur?**
+<br>Madde 18 - (1) Sanık, yetkisizlik iddiasını, ilk derece mahkemelerinde duruşmada sorgusundan, bölge adliye mahkemelerinde incelemenin başlamasından ve duruşmalı işlerde inceleme raporunun okunmasından önce bildirir.
+
+**1427- Resmi yazışma ile ilgili ay gün yılın yazımı. Ay büyük harfle yazılır mı?**
+<br>MADDE 12- (1) Tarih; sayı ile aynı satırda olmak üzere yazı alanının en sağında gün, ay, yıl olarak rakamla ve aralarına nokta işareti “.” konularak yazılır (Örnek 3). Gün ve ay iki haneli, yıl ise dört haneli olarak düzenlenir (Örnek: 01.09.2019). Ay adları, harfle de yazılabilir. Bu durumda gün, ay ve yıl arasına herhangi bir işaret konulmaz (Örnek: 10 Ekim 2019).
+
+**1428- Beraat kararı hangi hallerde verilir?**
+<br>(2) Beraat kararı;
+a) Yüklenen fiilin kanunda suç olarak tanımlanmamış olması,
+b) Yüklenen suçun sanık tarafından işlenmediğinin sabit olması,
+c) Yüklenen suç açısından failin kast veya taksirinin bulunmaması,
+d) Yüklenen suçun sanık tarafından işlenmesine rağmen, olayda bir hukuka uygunluk nedeninin bulunması,
+e) Yüklenen suçun sanık tarafından işlendiğinin sabit olmaması, hallerinde verilir.
+
+**1429- Türklerin Kullandığı Diller?**
+<br>Türk dilinin tarihi sürecinde ticari, kültürel, dinî vb. sebeplerle bu dilin yazımında Göktürk, Mani, Soğut (Sogd), Uygur, Brahmi, Tibet, Süryani, İbrani, Grek, Arap, Kiril, Latin asıllı alfabeler Türk diline çeşitli düzeyde uyarlanmış varyantlarıyla kullanılmıştır.
+
+**1430- Şişhaneye yağmur yağıyordu kimin eseridir?**
+<br>Şişhane'ye Yağmur Yağıyordu, Haldun Taner'in 1953 yılında yazdığı öyküsü ve aynı adlı kitabı. Kitaba adını veren hikâyede, Şişhane'de bir kazaya sebep olan belediyeye ait bir atın gözünden olay mahallinde bulunan ve kazaya karışan insanlar ve bu insanların hayatları anlatılır.
+
+**1431- Bugün bile adına yemini yapılan bilim insanı kimdir?**
+<br>Hipokrat, tıbbın babası olarak anılan İyon hekim. Prognoz ve klinik gözlemin kullanımı, hastalıkların sistemli sınıflandırılması veya hümoral teorinin formülasyonu gibi alana yaptığı kalıcı katkılardan dolayı geleneksel olarak "Tıbbın Babası" olarak anılır.
+
+**1432- Ölü canlar kitabının yazarı?**
+<br>Nikolay Vasilyeviç Gogol, Ukrayna asıllı Rus roman ve oyun yazarı. En çok tanınan eserleri Palto, Bir Delinin Hatıra Defteri ve Ölü Canlar’dır. Gogol orta hâlli toprak sahibi bir ailenin çocuğu olarak Ukrayna’da Soroçinski köyünde dünyaya gelir. Gogol’ün çocukluğu köy hayatı ile ve yoğun Kazak kültürü etkisinde geçer.
+
+**1433- Mondros ateşkes anlaşmasından sonra ilk işgal edilen yer?**
+<br>Musul
+
+**1434- peri bacaları  nasıl oluşmuştur?**
+<br>Peribacası, ince uzun, kurak havzalardan ve kırgıbayır yüzeylerinden çıkan, vadi yamaçlarından inen sel sularının yeri aşındırmasıyla oluşan bir kaya oluşumudur. Peri bacalarının gövdeleri genellikle yumuşak minerallerden ve tepesi sert, daha zor aşınan kayadan oluşur.
+
+**1435- Resmi yazışmalardaki kısaltmalar?**
+<br>Metin içinde kısaltma kullanılacak ise ifadenin ilk kullanıldığı yerde açık biçimi, sonra parantez içinde kısaltılmış biçimi yazılır (Örnek: Türkiye Büyük Millet Meclisi (TBMM), Kayıtlı Elektronik Posta (KEP)).
+
+**1436- 657ye göre izinsiz çekilen memur ne kadar süre memur olamaz?**
+<br>657 sayılı Kanunu m.97'ye göre; memuriyetten çekilmiş sayılan devlet memurunun görevi, çekilmiş sayıldığı gün itibarıyla sona erer ve bir yıl geçmeden tekrar devlet memurluğuna alınamaz.
+
+**1437- Başsavcı vekilinin yokluğunda komisyona kim iştirak eder?**
+<br>Kendisine vekalet eden Cumhuriyet Savcısı
+
+**1438- E-devlet sistemi ne zaman faaliyete geçmiştir ?**
+<br>e-Devlet Kapısı, 2008 yılında erişime açılmış ve günden güne gelişimini sürdürerek binlerce kamu hizmetinin sunulduğu, yüzlerce kamu kurumunun entegre olduğu bir yapıya dönüşmüştür.
+
+**1439- Verilen emirleri kasten yerine getirmemek hangi ceza?**
+<br>Verilen görev ve emirleri kasten yapmamak disiplin suçu 657 sayılı devlet memurları kanununda düzenlenmiş olup disiplin cezası bakımından **Kademe ilerlemesinin durdurulması** cezasını gerektiren fiillerdendir.
+
+**1440- Musul ve kerkuk hangi antlaşmayla İngilizlere (? IRAK ?) verilmiştir?**
+<br>5 Haziran 1926 tarihinde, Türkiye ve Irak arasındaki siyasi sınırları belirlemek ve komşuluk münasebetlerini düzenlemek amacıyla İngiltere ve Türkiye tarafından Ankara'da imzalanan anlaşma ile Musul ve Kerkük, Irak’a verilmiştir.
+
+**1441- Ankarada ilk büyükelçiliği hangi ülke açmıştır?**
+<br>4 Ekim 1920'de Sovyet diplomatik misyonu Ankara'ya gelmiş, 7 Ekim 1920'de ise bir yabancı ülkenin Ankara'daki ilk diplomatik temsilciliği olan Sovyet büyükelçiliğinin açılışı yapılmıştır. Bilindiği gibi, Batılı devletler diplomatik temsilciliklerinin İstanbul'dan Ankara'ya taşınmasına uzun süre karşı çıkmıştır.
+
+**1442- Noterlere elektronik tebligat yapılması zorunlu mudur?**
+<br>Zorunludur.
+
+<br>MADDE 7/a- Aşağıda belirtilen gerçek ve tüzel kişilere tebligatın elektronik yolla yapılması zorunludur.
+1.10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri ile bunlara bağlı döner sermayeli kuruluşlar. *(Kurum ve kuruluşlara ait cetveller aşağıdadır.)
+2.5018 sayılı Kanunda tanımlanan mahallî idareler.
+3.Özel kanunla kurulmuş diğer kamu kurum ve kuruluşları ile kanunla kurulan fonlar ve kefalet sandıkları.
+4.Kamu iktisadi teşebbüsleri ile bunların bağlı ortaklıkları, müessese ve işletmeleri.
+5.Sermayesinin yüzde ellisinden fazlası kamuya ait diğer ortaklıklar.
+6.Kamu kurumu niteliğindeki meslek kuruluşları ve üst kuruluşları.
+7.Kanunla kurulanlar da dahil olmak üzere tüm özel hukuk tüzel kişileri.
+8.**Noterler**.
+9.Baro levhasına yazılı avukatlar.
+10.Sicile kayıtlı arabulucular ve bilirkişiler.
+
+**1443- 6 gün savaşları nedir?**
+<br>Altı Gün Savaşı, diğer adlarıyla 1967 Arap-İsrail Savaşı, Üçüncü Arap-İsrail Savaşı, Altı Günün Savaşı veya Haziran Savaşı, 5 Haziran 1967 Pazartesi, İsrail ile Arap komşuları Mısır, Ürdün ve Suriye arasında başlayan ve 6 gün süren savaşa verilen addır.
+
+**1444- İntel in son işlemci soketi nedir?**
+<br>LGA 1851 soketi, Intel'in masaüstü işlemcileri için tasarlanmış yeni nesil bir soket platformudur. Bu soket, önceki nesil olan LGA 1700'e göre bazı önemli yenilikler ve sınırlamalar getiriyor. LGA 1851'in en dikkat çeken özelliği, sadece DDR5 belleklerle uyumlu olmasıdır.
+
+**1445- disiplin suç duyurusu hangi hallerde dikkate alınmaz?**
+<br>MADDE 22 – (1) Memur hakkında; a) Belli bir konuyu içermeyen veya somut delile dayanmayan, b) Başvuru sahibinin adı, soyadı, imzası, Türkiye Cumhuriyeti kimlik numarası ile adresi bulunmayan, c) Daha önceden şikâyet konusu yapılıp sonuçlanan hususlarda yeni delil içermeyen, ç) Kanun yollarına başvuru sebebi olarak ileri sürülebilecek hususları içeren, d) Akıl hastalığı sebebiyle vesayet altına alınanlar veya henüz vesayet altına alınmamış olmakla birlikte bu hastalığa duçar oldukları sağlık kurulu raporu ile belirlenenlerce verilmiş olan, ihbar ve şikâyetler işleme konulmaz. (2) Ancak, (b) bendinde yazılı şartları taşımayan ihbar ve şikâyetlerin somut delillere dayanması durumunda, konu hakkında disiplin soruşturmasına başlanır.
+
+**1446- Tutunamayanlar yazarı?**
+<br>Oğuz Atay'ın Tutunamayanlar (1971, 1972) adlı romanı, Türk edebiyatının en önemli romanlarından biri sayılmaktadır.
+
+**1447- İlk uçak hangi savaşta kullanılmıştır?**
+<br>Dünyanın ilk savaş uçağını İtalyanlar Osmanlı İmparatorluğu'na karşı Trablusgarp Savaşı'nda kaldırdı.
+
+**1448- Parma Manastırı kimin eseridir?**
+<br>Stendhal
+
+<br>Parma Manastırı, ilk baskısı 1839 yılında yapılan, Fransız yazar Stendhal'in romanı. Türkçeye birçok kez çevrilmiştir.
+
+**1449- 1993 Yılında Nobel barış ödülüne layık görülen Güney Afrikalı lider ?**
+<br>Nelson Mandela
+
+**1450- Meclis soruşturması nedir?**
+<br>Meclis soruşturması, başkanlık sisteminde başkanın cezai sorumluluğuna yol açabilecek bir yasama meclisi soruşturmasıdır.
 
 
 
