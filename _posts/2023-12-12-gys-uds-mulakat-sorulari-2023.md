@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-25 21:22:00 +0300
+last_modified_at: 2023-12-26 22:22:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -755,6 +755,269 @@ e) Yüklenen suçun sanık tarafından işlendiğinin sabit olmaması, hallerind
 
 **1450- Meclis soruşturması nedir?**
 <br>Meclis soruşturması, başkanlık sisteminde başkanın cezai sorumluluğuna yol açabilecek bir yasama meclisi soruşturmasıdır.
+
+**1451- İdare mahkemelerinin arttırılıp azaltılması ne şekilde yapılır?**
+<br>Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri, bölgelerin coğrafi durumları ve iş hacmi göz önünde tutularak Adalet Bakanlığınca kurulur ve yargı çevreleri tespit olunur. kuruluş ve yargı çevrelerinin tespitinde, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınır. Bu mahkemelerin kaldırılmasına veya yargı çevrelerinin değiştirilmesine, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınarak, Adalet Bakanlığının önerisi üzerine Hakimler ve Savcılar Yüksek Kurulunca karar verilir.
+
+**1452- Disiplinde zamanaşımı süreleri nelerdir?**
+<br>Uyarma/Kınama/Aylıktan Kesme/Kademe İlerlemesinin durdurulmasında 1 ay içinde srş başlamazsa zamanaşımına uğrar. Devlet Memurluğundan çıkarma 6 ay içinde srş başlamaz ise zamanaşımına uğrar. Srş başladıysa 2 yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar.
+
+**1453- E tebligat yapılamayan durumda tebligat nasıl yapılır?**
+<br>27.Cevap: Elektronik yolla tebligatın, zorunlu bir sebeple yapılamaması hâlinde Tebligat Kanununda belirtilen diğer usullerle tebligat yapılır.
+
+**1454- Avrupa birliği Üyesi olup euro kullanmayan ülkeler nelerdir?**
+<br>Bulgaristan, Danimarka, Hırvatistan, İsveç, Romanya, Macaristan, Polonya,
+
+**1455- İlgi yoksa kaç satır boşluk bırakılmalı?**
+<br>İlgi yoksa muhatap ile arasına 2 satır boşluk bırakılır. İlgi varsa ilgi ile metin arasına 1 boşluk bırakılır.
+
+**1456- Memuriyete girişte Genel yaş şartı nedir?**
+<br>Genel Yaş 18 dir. Kazai rüşt kararı ile 15 yaşında da memur olabilir.
+
+**1457- Büyük Okyanusu atlas Okyanusuna bağlayan kanal hangisidir?**
+<br>Panama Kanalı
+
+**1458- Devlet denetleme kurumunun yargıyı denetleme yetkisi varmıdır?**
+<br>Yargıyı denetleyemez. (Kamuya yararlı dernek ve vakıflar, işçi/işveren meslek kuruluşları, kamu kurumu niteliğinde olan meslek kuruluşları, sermayesinin %50 ve üstü kamu kuruluşları inceleme/araştırma/denetleme/idari soruşturma yapabilir)
+
+**1459- Mustafa Kemal Atatürk 1. TBMM’ye hangi ilden aday olmuştur?**
+<br>Ankara (Son Osmanlı mebusan meclisinde Erzurumdan aday oldu, 2. TBMM’de Gaziantep)
+
+**1460- Ceza verilmesine yer olmadığına kararı nedir ve hangi durumlarda verilir?**
+<br>aslında yapılan eylemin karşılığı suç teşkil ediyor ancak bazı özel durumlardan dolayı ceza verilmesin yer olmadığına kararı veriliyor. Yaş küçüklüğü/Akıl Hastalığı/Sağır-dilsiz nedenlerinin olması, Suç hukuka aykırı ancak emrin yerine getirilmsi ve zorunluluk hali il cbir veya tehditle işlenmesi, meşru savunmada korkuyla orantının aşılması, kusurluluğu ortadan kaldıran hataya düşülmesi. (etkin pişmanlık, Şahsi cezasızlık sebebi, karşılıklı hakaret, işlenen fiilin haksızlık içeriğinin azlığı)
+
+**1461- G7 ülkeleri hangileridir?**
+<br>ABD, Kanada, Almanya, İngiltere, Fransa, İtalya ve Japonya
+
+**1462- Cumhuriyetin nitelikleri**
+<br>T.C. Toplumun huzuru, milli dayanışma ve adalet anlayışı içinde insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan demokratik, laik ve sosyal bir hukuk devletidir.
+
+**1463- El birliği mülkiyeti nedir?**
+<br>Gayrimenkul üzerinde birden fazla kişi hak sahibi olduğu, ancak payların belli olmadığı durumlardır.
+
+**1464- Ukrayna Rusya savaşı neden çıktı?**
+<br>Kendi kültürel politikasında yetiştiği için iç politikası açısından tehlikeli görmüştür.
+
+**1465- İdari yargıda yanlış hasıma dava açılırsa ne olur?**
+<br>Doğru hasıma tebliğ olunur
+
+**1466- Kanun teklifini kim verir?**
+<br>Milletvekili
+
+**1467- Türk Devleti teşkilatına üye ülkeler?**
+<br>Türk Devletleri Teşkilatı (TDT) veya eski adıyla Türk Dili Konuşan Ülkeler İşbirliği Konseyi (Türk Konseyi), Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkiye'nin üye; Macaristan, Kuzey Kıbrıs Türk Cumhuriyeti ve Türkmenistan'ın gözlemci statüsünde yer alır.
+
+**1468- Kaynağını dışarıdan alıp Türkiye’ye dökülen akarsular hangileridir?**
+<br>Meriç (Bulgaristan’dan alıp Ege denizin dökülür)
+
+**1469- İdari makamların sükutu?**
+<br>İdare 30 gün içinde cvp vermezse red etmiş sayılır, bilgi amaçlı cvp verirse istemin reddi sayılarak dava açılabileceği gibi kesin cevabı 4 ay bekleyebilir, dava açılmama yada davanın reddi halinde 30 günlük süre bitmesinden sonra yetkili idari makamlarca cevap verilirse tebliğden itibaren 60 gün içinde dava açılabilir.
+
+**1470- Uyarı, Kınama, Kademe İlerlemesi durdurulması alan memur üst düzey yönetici kadrolarına atanabilir mi?**
+<br>Atanabilirler ancak Aylıktan kesme 5 Yıl Kademe İlerlemesinin durdurulması cezasında 10 yıl vali, büyükelçi, vb. atanamazlar.
+
+**1471- Nizamı Cedid nedir?**
+<br>Yeni düzen anlamını taşır. Osmanlı devletinin askeri olarak ıslahına ve yenileştirilmesine karşılık gelir, bu amaçla kurulan orduya da da Nizamı Cedid ordusu denir.
+
+**1472- Zabıt katipliği sınavında eksiksiz ve hatasız kaç dakikada kaç kelime yazılmalı?**
+<br>3 dakika 90 Kelime
+
+**1473- Peygamberimizi övmek için yazılan şiire ne ad verilir?**
+<br>Nat-ı Şerif
+
+**1474- CMK’da görevsizlik verilemeyecek hal?**
+<br>Duruşmada suçun hukukî niteliğinin değiştiğinden bahisle görevsizlik kararı verilerek dosya alt dereceli mahkemeye gönderilemez.
+
+**1475- tüzel kişilerin birden çok adresi olurmu?**
+<br>Ticari ve Sinai kuruluşların 1 den fazla yerleşim yeri olabilir.
+
+**1476- İttihat ve Terakkî Cemiyeti bünyesinde Enver Paşa'ya bağlı olarak kurulan gizli teşkilatın adı nedir?**
+<br>Teşkilat-ı Mahsusa
+
+**1477- Adli tatilde tebligat yapılır mı?**
+<br>Resmi ve adli tatil günlerinde tebligat yapılır.
+
+**1478- Semerkand hangi ülkenin başkentidir?**
+<br>Özbekistan
+
+**1479- Yeni doğum yapan memurun eşi doğumda ölürse memura ne kadar izin verilir?**
+<br>Doğumda veya doğum sonrasında analık izni kullanılırken annenin ölümü hâlinde, isteği üzerine memur olan babaya anne için öngörülen süre kadar izin verilir.
+
+**1480- Suçun işlendiği yer belli değil ise yetkili mahkeme hangisidir?**
+<br>*Yakalandığı yer,
+<br>*yakalanmadıysa yerleşim yeri,
+<br>* yoksa son adresinin bulunduğu yer,
+<br>* buda yoksa ilk usul işleminin yapıldığı yer
+
+**1481- Hicaz Demir yolunu kim yaptırmıştır?**
+<br>2. Abdülhamid tarafından 1900-1908 yılları arasında Şam-Medine arasında yapılmıştır.
+
+**1482- 200 TL’nin arkasında kim vardır?**
+<br>Yunus Emre. (100 TL Buhurizade Mustafa Efendi, 50 TL Fatma Aliye, 20 TL Mimar Ahmed Kemalettin, 10 TL Cahit arf, 5 TL Prof. Dr. Aydın Sayılı)
+
+**1483- Taraf ehliyeti nedir?**
+<br>Medeni haklardan yararlanma ehliyetidir (Hak ehliyeti gibi düşünebiliriz)
+
+**1484- hükümlülerin giydirilmesi, yemesi içmesi ile ilgilenen birim hangisidir?**
+<br>Ceza ve Tevfikevleri Genel Müdürlüğü
+
+**1485- Kırgızistan’ın başkenti neresidir?**
+<br>Bişkek
+
+**1486- Yıldırım Bayazıt’ın yangınları söndürmek için yapmış olduğu kulenin adı nedir?**
+<br>Beyazıt yangın kulesi
+
+**1487- Milletlerarası hukukun meşru saydığı hallerde savaş ilanına kim karar verir?**
+<br>TBMM
+
+**1488- Peygamber efendimizin Hırka-i Şerifi bugün nerede bulunuyor?**
+<br>Fatih’teki hırka-i Şerif camisinde
+
+**1489- Moğolistanın başkenti neresidir?**
+<br>Ulanbatur
+
+**1490- Norveç’in başkenti neresidir?**
+<br>Oslo
+
+**1491- Meclis soruşturması nedir?**
+<br>CB/CBY/Bakanların Yüce divana gönderilmesidir
+
+**1492- İnfaz koruma memurlarında öncelik durumu nedir?**
+<br>hukuk fakültesi, adalet meslek yüksek okulu, yüksekokulların adalet programı ile adalet ön lisans programı mezunlarına öncelik tanınır.
+
+**1493- Memura emanet edilen araç gereçleri teslim etmeden ölmesi halinde teslimle yükümlü kişiler kimlerdir?**
+<br>Mirasçıları
+
+**1494- 657 sy DMK’da sınıflandırma ilkesini açıklayınız**
+<br>Devlet kamu hizmetleri görevlerini ve bu görevlerde çalışan Devlet memurlarını görevlerin gerektirdiği niteliklere ve mesleklere göre sınıflara ayırmaktır.
+
+**1495- 657 DMK’ya göre izinsiz çekilen memur ne kadar süre memur olamaz?**
+<br>Usulüne uygun çekilenler 6 ay geçmedikçe memur olamaz, 10 gün işe gelmeyen memur çekilmiş sayılır 1 yıl memur olamaz, devir teslimle yükümlü olanlar yerine gelecek kişiyi beklemeden giderse 3 yıl memur olamaz, ohalde görevini terk eden bir daha memur olamaz
+
+**1496- Savaş zamanı TBMM ye karşı kim sorumludur?**
+<br>Cumhurbaşkanı
+
+**1497- Meclis Başkanlık divanı seçimleri ne zaman yapılır?**
+<br>Bir dönem 5 yıldır, 2 kez seçim yapılır, 2 yıl+ süre bitimi, 5 gün içinde gizli oyla
+
+**1498- Tüzel kişilerin tasfiyesi ne şekilde olur?**
+<br>genel kurul kararının tescili ve ilanı ile tamamlanacaktır. Ticaret sicilinden şirketin kaydının silinmesi ile şirketin tüzel kişiliği sona erecektir. Ancak, ticaret sicilinden kaydın silinmesi, şirketin vergi ve sosyal güvenlik sicil kayıtlarının da silinmesi işlemini gerçekleştirmemektedir.
+
+**1499- Askerlik vazifesini yerine getiren erkek memur tekrar göreve başlamak için ne kadar sürede kuruma başvurması gerekir?**
+<br>30 gün
+
+**1500- Turşu kavgası yapılan filmin adı nedir?**
+<br>Neşeli günler
+
+**1501- Gayrimenkul tahliyesi davalarında harç?**
+<br>Gayrimenkulün tahliyesi davasında yazılı mukavele olsun olmasın 1 yıllık kira bedeli üzerinden karar alınır.
+
+**1502- Yeni yapılan Türkiye’nin en büyük köprüsü?**
+<br>Siirt Pervari de ki Beğendik köprüsü
+
+**1503- Siyasi partiye girmek 657 de hangi disiplin cezasını gerektirir?**
+<br>Devlet memurluğundan çıkarma
+
+**1504- Barbaros Hayrettin Paşa kimdir?**
+<br>Hızır Reis veya bilinen adıyla Barbaros Hayreddin Paşa, Osmanlı İmparatorluğu'nun ilk kaptan paşası ve 25. kaptan-ı deryâsı olan denizci ve askerdir. 16. yüzyılın ilk yarısında gerçekleştirdiği askerî seferlerle Akdeniz'de Osmanlı egemenliğini pekiştirdi
+
+**1505- İdari yargıda elektronik işlem yapılamazsa ne yapılır?**
+<br>İşlem fiziki olarak yerine getirilir, daha sonra elektronik ortama aktarılır.
+
+**1506- Etik sözleşme imzalama süresi?**
+<br>1 ay içerisinde
+
+**1507- Memur eliyle tebligat yapılır mı?**
+<br>Evet. (Diğer kanunlarda özel hüküm bulunması halinde veya tehirinde zarar umulan işlerde veya aynı yerde bulunan 1 inci maddede yazılı daire ve müesseseler arasında veya bu daire ve müesseselerde bulunan şahıslara yapılacak tebligat, kendi memurları veya mahalli mülkiye amirinin emriyle zabıta vasıtasıyla yaptırılır.)
+
+**1508- Makedondayın başkenti neresidir?**
+<br>Üsküp
+
+**1509- Bam’ın görevleri nelerdir?**
+<br>Adlî yargı ilk derece mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak, Kanunlarla verilen diğer görevleri yapmak.
+
+**1510- Uluslararası çalışma örgütü nedir? Üyeliğimiz var mıdır?**
+<br>Uluslararası Çalışma Örgütü ya da ILO, ülkelerdeki çalışma yasalarında ve bu alana ilişkin uygulamalarda standartları geliştirmek ve ileriye götürmek gibi bir amaçla kurulan kuruluştur. Merkezi İsviçre'nin Cenevre kentinde bulunmaktadır, Türkiye ILO'ya 1932 yılında üye olmuştur.
+
+**1511- Zabıt katipliği alımında kimlere öncelik tanınır?**
+<br>Zabıt Kâtipliği ve cezaevi kâtibi kadroları için seçim yapılırken Hukuk Fakültesi, Adalet Meslek Yüksek Okulu, Adalet Yüksekokullarının Adalet Programı ile adalet önlisans programı mezunlarına öncelik tanınmaktadır.
+
+**1512- Kuranı Kerim’de kaç peygamber adı geçmektedir?**
+<br>25
+
+**1513- Bir yasama yılında meclis en fazla ne kadar tatil yapar?**
+<br>En çok 3 ay tatil yapar, ara verme 15 günü geçemez.
+
+**1514- Bam yazı işleri müdürünün 1. Ve 2. Sicil amirleri kimlerdir?**
+<br>1 daire başkanı, 2 Komisyon başkanı
+
+**1515- E imza tanımı nedir?**
+<br>Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veriyi ifade eder
+
+**1516- disiplin yönetmeliğinde hangi hallerde bir üst derece cezası verilir?**
+<br>Disiplin cezası verilmesine sebep olmuş bir fiil veya halin cezaların özlük dosyasından silinmesine ilişkin süre içinde tekerrüründe bir derece ağır ceza uygulanır. Aynı derecede cezayı gerektiren fakat ayrı fiil veya haller nedeniyle verilen disiplin cezalarının üçüncü uygulamasında bir derece ağır ceza verilir
+
+**1517- Sözleşmeli memura hamileliği durumunda gece nöbeti verilir mi?**
+<br>Tabip raporunda belirtilmesi hâlinde hamileliğin 24. hafftasından önce ve her hâlde hamileliğin 24. haftasından itibaren ve doğumdan sonraki iki yıl süreyle gece nöbeti ve gece vardiyası görevi verilemez.
+
+**1518- Kınama cezası alan memur ölürse ne karar verilir?**
+<br>Hakkında açılan disiplin soruşturması devam ettiği sırada, ölüm hâli hariç olmak üzere, herhangi bir sebeple memuriyeti sona erenlerin soruşturmaları tamamlanır.
+
+**1519- Duruşmada taraflardan duruşmaya gelmeyen olur ise celsenin ertelenmesine karar verildiğinde celse harcını kim öder?**
+<br>Hukuk ve ticaret mahkemelerinde celse harcı, muhakeme tarafların talep ve muvafakatleri üzerine talik edilmiş ise taraflardan ve evvelce yapılması mümkün olan bir işlemin yapılmamış olmasından dolayı talik edilmişse, talike sebebiyet veren taraftan alınır.Her iki halde talike vekiller sebebiyet vermişse celse harcı vekillere yüklenir.Vekil veya taraflara yüklenilen celse harcı mütaakıp iki celsede ödenmezse bir misli fazlasiyle alınır. Ödenmediği takdirde harcın bu miktar üzerinden tahsili için Maliyeye tezkere yazılmasına karar verilir.
+
+**1520- Tebligat kanununa göre kamu kurumlarında çalışan personele tebliğ işlemi nasıl yapılır? Memur yoksa çalıştığı iş yerinde kime yapılır?**
+<br>Diğer kanunlarda özel hüküm bulunması halinde veya tehirinde zarar umulan işlerde veya aynı yerde bulunan 1 inci maddede yazılı daire ve müesseseler arasında veya bu daire ve müesseselerde bulunan şahıslara yapılacak tebligat, kendi memurları veya mahalli mülkiye amirinin emriyle zabıta vasıtasıyla yaptırılır.
+
+**1521- Halide Edip Adıvar hakkında ne söylersiniz?**
+<br>Türk yazar, siyasetçi, akademisyen ve öğretmendir, Onbaşı olarak ta bilinir, 1919 yılında İstanbul halkını ülkenin işgaline karşı harekete geçirmek için yaptığı konuşmaları ile zihinlerde yer etmiş hatiptir
+
+**1522- Yararlı Cemiyetler hangi isim altında toplanmıştır?**
+<br>Anadolu ve Rumeli Müdafaa-i hukuk cemiyeti
+
+**1523- Mütercimler görev alabilmek için dil sınavından kaç puan almalı?**
+<br>Lisans KPSS P3 (En Az 75 Puan)
+
+**1524- Hangi hallerde yürütmenin durdurulması kararı verilir?**
+<br>Telafisi güç veya imkansız zararın doğması, idari işlemin açıkça hukuka aykırı olması (2 sinin aynı anda olması gerekir)
+
+**1525- Yüce Divan kararlarına itiraz olur mu?**
+<br>Yüce Divan kararlarına karşı yeniden inceleme başvurusu yapılabilir. Genel Kurulun yeniden inceleme sonucunda verdiği kararlar kesindir.
+
+**1526- Kurumlara engelli kadrosundan atanabilmek için engel durumunun yüzde kaç olması gerekir?**
+<br>%40
+
+**1527- Tutuklu sanığa tebligat nasıl yapılır?**
+<br>Bunların bulunduğu müessese müdür veya memuru temin eder, mutlaka kendisine yapılmalıdır, müdür yada memura yapılmaz, 1 yıldan fazla hüküm giyerse vasiye yapılır.
+
+**1528- Lozan barış anlaşmasında misakı milliye aykırı alınan kararlar nelerdir?**
+<br>Boğazlardan geçişlerde verilen tavizler
+<br>Yunanistan’a Batı Trakya’nın bırakılması
+<br>Osmanlı Borçları
+
+**1529- Türkiye milli futbol takımı hangi yıl Dünya 3. Sü oldu?**
+<br>2002
+
+**1530- Sözleşmeli memurun evlilik izni kaç gündür?**
+<br>7 gündür
+
+**1531- Diplomatik sığınma nedir?**
+<br>Diplomatik Sığınma; Bir sığınmacının suç işlediği ülke üzerindebulunan bir yabancı diplomasi temsilciliğine başvurması, ülke devletinin ülkesel egemenliğine bir aykırılık oluşturduğu kabul edilir. Bu nedenle, devletin diplomatik sığınma tanımama yükümü altında bulunduğu : kabul edilir. Bir devletin başka bir ülkedeki diplomasi temsilciliğine sığınan bir kişi, ülke devletine teslim etme yükümlülüğü de yoktur. Böyle bir yükümlülük ancak bu yöndeki andlaşma hükmünün ya da başka bir yolla kabulün varolması ile olanaklıdır
+
+**1532- Mevlananın ölümü nedeniyle düzenlenen törene verilen isim?**
+<br>Şeb-i Arûs
+
+**1533- Seçimin yenilenmesi için kaç oy gerekir?**
+<br>Türkiye Büyük Millet Meclisi, üye tamsayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir.
+
+**1534- Tbmm baskanlik divani secimleri kac yilda bir yapılır?**
+<br>Türkiye Büyük Millet Meclisinin başkanlık divanı için, bir yasama döneminde iki seçim yapılır. İlk seçilenlerin görev süresi iki, ikinci devre seçilenlerin görev süresi üç yıldır.
+
+**1535- İlk Askeri darbe?**
+<br>27 Mayıs 1960'ta yapılan ve Türkiye Cumhuriyeti tarihinde gerçekleşen ilk askerî darbedir. Dönemin Genelkurmay Başkanı da dâhil 200'den fazla general, Cumhurbaşkanı Celâl Bayar ve Başbakan Adnan Menderes ve diğer Demokrat Partililer, yönetime el koyan askerî grup tarafından tutuklanmıştır.
+
+**1536- Kırşehirin büyük ozanı kimdir?**
+<br>Neşet Ertaş
 
 
 
