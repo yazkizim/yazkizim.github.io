@@ -7565,5 +7565,349 @@
           {
             "soru": "Meclis soruşturması nedir?",
             "cevap": "Meclis soruşturması, başkanlık sisteminde başkanın cezai sorumluluğuna yol açabilecek bir yasama meclisi soruşturmasıdır."
+          },
+          {
+            "soru": "İdare mahkemelerinin arttırılıp azaltılması ne şekilde yapılır?",
+            "cevap": "Bölge idare mahkemeleri, idare mahkemeleri ve vergi mahkemeleri, bölgelerin coğrafi durumları ve iş hacmi göz önünde tutularak Adalet Bakanlığınca kurulur ve yargı çevreleri tespit olunur. kuruluş ve yargı çevrelerinin tespitinde, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınır. Bu mahkemelerin kaldırılmasına veya yargı çevrelerinin değiştirilmesine, İçişleri, Maliye Bakanlıkları ile Gümrük ve Tekel Bakanlığının görüşleri alınarak, Adalet Bakanlığının önerisi üzerine Hakimler ve Savcılar Yüksek Kurulunca karar verilir."
+          },
+          {
+            "soru": "Disiplinde zamanaşımı süreleri nelerdir?",
+            "cevap": "Uyarma/Kınama/Aylıktan Kesme/Kademe İlerlemesinin durdurulmasında 1 ay içinde srş başlamazsa zamanaşımına uğrar. Devlet Memurluğundan çıkarma 6 ay içinde srş başlamaz ise zamanaşımına uğrar. Srş başladıysa 2 yıl içinde disiplin cezası verilmediği takdirde ceza verme yetkisi zamanaşımına uğrar."
+          },
+          {
+            "soru": "E tebligat yapılamayan durumda tebligat nasıl yapılır?",
+            "cevap": "Elektronik yolla tebligatın, zorunlu bir sebeple yapılamaması hâlinde Tebligat Kanununda belirtilen diğer usullerle tebligat yapılır."
+          },
+          {
+            "soru": "Avrupa birliği Üyesi olup euro kullanmayan ülkeler nelerdir?",
+            "cevap": "Bulgaristan, Danimarka, Hırvatistan, İsveç, Romanya, Macaristan, Polonya,"
+          },
+          {
+            "soru": "İlgi yoksa kaç satır boşluk bırakılmalı?",
+            "cevap": "İlgi yoksa muhatap ile arasına 2 satır boşluk bırakılır. İlgi varsa ilgi ile metin arasına 1 boşluk bırakılır."
+          },
+          {
+            "soru": "Memuriyete girişte Genel yaş şartı nedir?",
+            "cevap": "Genel Yaş 18 dir. Kazai rüşt kararı ile 15 yaşında da memur olabilir."
+          },
+          {
+            "soru": "Büyük Okyanusu atlas Okyanusuna bağlayan kanal hangisidir?",
+            "cevap": "Panama Kanalı"
+          },
+          {
+            "soru": "Devlet denetleme kurumunun yargıyı denetleme yetkisi varmıdır?",
+            "cevap": "Yargıyı denetleyemez. (Kamuya yararlı dernek ve vakıflar, işçi/işveren meslek kuruluşları, kamu kurumu niteliğinde olan meslek kuruluşları, sermayesinin %50 ve üstü kamu kuruluşları inceleme/araştırma/denetleme/idari soruşturma yapabilir)"
+          },
+          {
+            "soru": "Mustafa Kemal Atatürk 1. TBMM’ye hangi ilden aday olmuştur?",
+            "cevap": "Ankara (Son Osmanlı mebusan meclisinde Erzurumdan aday oldu, 2. TBMM’de Gaziantep)"
+          },
+          {
+            "soru": "Ceza verilmesine yer olmadığına kararı nedir ve hangi durumlarda verilir?",
+            "cevap": "Aslında yapılan eylemin karşılığı suç teşkil ediyor ancak bazı özel durumlardan dolayı ceza verilmesin yer olmadığına kararı veriliyor. Yaş küçüklüğü/Akıl Hastalığı/Sağır-dilsiz nedenlerinin olması, Suç hukuka aykırı ancak emrin yerine getirilmsi ve zorunluluk hali il cbir veya tehditle işlenmesi, meşru savunmada korkuyla orantının aşılması, kusurluluğu ortadan kaldıran hataya düşülmesi. (etkin pişmanlık, Şahsi cezasızlık sebebi, karşılıklı hakaret, işlenen fiilin haksızlık içeriğinin azlığı)"
+          },
+          {
+            "soru": "G7 ülkeleri hangileridir?",
+            "cevap": "ABD, Kanada, Almanya, İngiltere, Fransa, İtalya ve Japonya"
+          },
+          {
+            "soru": "Cumhuriyetin nitelikleri",
+            "cevap": "T.C. Toplumun huzuru, milli dayanışma ve adalet anlayışı içinde insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan demokratik, laik ve sosyal bir hukuk devletidir."
+          },
+          {
+            "soru": "El birliği mülkiyeti nedir?",
+            "cevap": "Gayrimenkul üzerinde birden fazla kişi hak sahibi olduğu, ancak payların belli olmadığı durumlardır."
+          },
+          {
+            "soru": "Ukrayna Rusya savaşı neden çıktı?",
+            "cevap": "Kendi kültürel politikasında yetiştiği için iç politikası açısından tehlikeli görmüştür."
+          },
+          {
+            "soru": "İdari yargıda yanlış hasıma dava açılırsa ne olur?",
+            "cevap": "Doğru hasıma tebliğ olunur"
+          },
+          {
+            "soru": "Kanun teklifini kim verir?",
+            "cevap": "Milletvekili"
+          },
+          {
+            "soru": "Türk Devleti teşkilatına üye ülkeler?",
+            "cevap": "Türk Devletleri Teşkilatı (TDT) veya eski adıyla Türk Dili Konuşan Ülkeler İşbirliği Konseyi (Türk Konseyi), Azerbaycan, Kazakistan, Kırgızistan, Özbekistan, Türkiye'nin üye; Macaristan, Kuzey Kıbrıs Türk Cumhuriyeti ve Türkmenistan'ın gözlemci statüsünde yer alır."
+          },
+          {
+            "soru": "Kaynağını dışarıdan alıp Türkiye’ye dökülen akarsular hangileridir?",
+            "cevap": "Meriç (Bulgaristan’dan alıp Ege denizin dökülür)"
+          },
+          {
+            "soru": "İdari makamların sükutu?",
+            "cevap": "İdare 30 gün içinde cvp vermezse red etmiş sayılır, bilgi amaçlı cvp verirse istemin reddi sayılarak dava açılabileceği gibi kesin cevabı 4 ay bekleyebilir, dava açılmama yada davanın reddi halinde 30 günlük süre bitmesinden sonra yetkili idari makamlarca cevap verilirse tebliğden itibaren 60 gün içinde dava açılabilir."
+          },
+          {
+            "soru": "Uyarı, Kınama, Kademe İlerlemesi durdurulması alan memur üst düzey yönetici kadrolarına atanabilir mi?",
+            "cevap": "Atanabilirler ancak Aylıktan kesme 5 Yıl Kademe İlerlemesinin durdurulması cezasında 10 yıl vali, büyükelçi, vb. atanamazlar."
+          },
+          {
+            "soru": "Nizamı Cedid nedir?",
+            "cevap": "Yeni düzen anlamını taşır. Osmanlı devletinin askeri olarak ıslahına ve yenileştirilmesine karşılık gelir, bu amaçla kurulan orduya da da Nizamı Cedid ordusu denir."
+          },
+          {
+            "soru": "Zabıt katipliği sınavında eksiksiz ve hatasız kaç dakikada kaç kelime yazılmalı?",
+            "cevap": "3 dakika 90 Kelime"
+          },
+          {
+            "soru": "Peygamberimizi övmek için yazılan şiire ne ad verilir?",
+            "cevap": "Nat-ı Şerif"
+          },
+          {
+            "soru": "CMK’da görevsizlik verilemeyecek hal?",
+            "cevap": "Duruşmada suçun hukukî niteliğinin değiştiğinden bahisle görevsizlik kararı verilerek dosya alt dereceli mahkemeye gönderilemez."
+          },
+          {
+            "soru": "Tüzel kişilerin birden çok adresi olur mu?",
+            "cevap": "Ticari ve Sanayi kuruluşlarının 1'den fazla yerleşim yeri olabilir."
+          },
+          {
+            "soru": "İttihat ve Terakkî Cemiyeti bünyesinde Enver Paşa'ya bağlı olarak kurulan gizli teşkilatın adı nedir?",
+            "cevap": "Teşkilat-ı Mahsusa"
+          },
+          {
+            "soru": "Adli tatilde tebligat yapılır mı?",
+            "cevap": "Resmi ve adli tatil günlerinde tebligat yapılır."
+          },
+          {
+            "soru": "Semerkand hangi ülkenin başkentidir?",
+            "cevap": "Özbekistan"
+          },
+          {
+            "soru": "Yeni doğum yapan memurun eşi doğumda ölürse memura ne kadar izin verilir?",
+            "cevap": "Doğumda veya doğum sonrasında analık izni kullanılırken annenin ölümü hâlinde, isteği üzerine memur olan babaya anne için öngörülen süre kadar izin verilir."
+          },
+          {
+            "soru": "Suçun işlendiği yer belli değil ise yetkili mahkeme hangisidir?",
+            "cevap": "Yakalandığı yer, yakalanmadıysa yerleşim yeri, yoksa son adresinin bulunduğu yer, buda yoksa ilk usul işleminin yapıldığı yer."
+          },
+          {
+            "soru": "Hicaz Demir yolu kim tarafından yaptırılmıştır?",
+            "cevap": "2. Abdülhamid tarafından 1900-1908 yılları arasında Şam-Medine arasında yapılmıştır."
+          },
+          {
+            "soru": "200 TL’nin arkasında kim vardır?",
+            "cevap": "Yunus Emre (100 TL Buhurizade Mustafa Efendi, 50 TL Fatma Aliye, 20 TL Mimar Ahmed Kemalettin, 10 TL Cahit Arf, 5 TL Prof. Dr. Aydın Sayılı)"
+          },
+          {
+            "soru": "Taraf ehliyeti nedir?",
+            "cevap": "Medeni haklardan yararlanma ehliyetidir (Hak ehliyeti gibi düşünebiliriz)"
+          },
+          {
+            "soru": "Hükümlülerin giydirilmesi, yemesi içmesi ile ilgilenen birim hangisidir?",
+            "cevap": "Ceza ve Tevkifevleri Genel Müdürlüğü"
+          },
+          {
+            "soru": "Kırgızistan’ın başkenti neresidir?",
+            "cevap": "Bişkek"
+          },
+          {
+            "soru": "Yıldırım Bayazıt’ın yangınları söndürmek için yapmış olduğu kule adı nedir?",
+            "cevap": "Beyazıt Yangın Kulesi"
+          },
+          {
+            "soru": "Milletlerarası hukukun meşru saydığı hallerde savaş ilanına kim karar verir?",
+            "cevap": "TBMM"
+          },
+          {
+            "soru": "Peygamber efendimizin Hırka-i Şerifi bugün nerede bulunuyor?",
+            "cevap": "Fatih'teki Hırka-i Şerif Camisinde"
+          },
+          {
+            "soru": "Moğolistan'ın başkenti neresidir?",
+            "cevap": "Ulanbatur"
+          },
+          {
+            "soru": "Norveç’in başkenti neresidir?",
+            "cevap": "Oslo"
+          },
+          {
+            "soru": "Meclis soruşturması nedir?",
+            "cevap": "Cumhurbaşkanı, Cumhurbaşkanı Yardımcısı, Bakanların Yüce Divan'a gönderilmesidir."
+          },
+          {
+            "soru": "İnfaz koruma memurlarında öncelik durumu nedir?",
+            "cevap": "Hukuk fakültesi, adalet meslek yüksek okulu, yüksekokulların adalet programı ile adalet ön lisans programı mezunlarına öncelik tanınır."
+          },
+          {
+            "soru": "Memura emanet edilen araç gereçleri teslim etmeden ölmesi halinde teslimle yükümlü kişiler kimlerdir?",
+            "cevap": "Mirasçıları"
+          },
+          {
+            "soru": "657 sy DMK’da sınıflandırma ilkesini açıklayınız.",
+            "cevap": "Devlet kamu hizmetleri görevlerini ve bu görevlerde çalışan Devlet memurlarını görevlerin gerektirdiği niteliklere ve mesleklere göre sınıflara ayırmaktır."
+          },
+          {
+            "soru": "657 DMK’ya göre izinsiz çekilen memur ne kadar süre memur olamaz?",
+            "cevap": "Usulüne uygun çekilenler 6 ay geçmedikçe memur olamaz, 10 gün işe gelmeyen memur çekilmiş sayılır 1 yıl memur olamaz, devir teslimle yükümlü olanlar yerine gelecek kişiyi beklemeden giderse 3 yıl memur olamaz, ohalde görevini terk eden bir daha memur olamaz."
+          },
+          {
+            "soru": "Savaş zamanı TBMM'ye karşı kim sorumludur?",
+            "cevap": "Cumhurbaşkanı"
+          },
+          {
+            "soru": "Meclis Başkanlık divanı seçimleri ne zaman yapılır?",
+            "cevap": "Bir dönem 5 yıldır, 2 kez seçim yapılır, 2 yıl+ süre bitimi, 5 gün içinde gizli oyla."
+          },
+          {
+            "soru": "Tüzel kişilerin tasfiyesi ne şekilde olur?",
+            "cevap": "Genel kurul kararının tescili ve ilanı ile tamamlanacaktır. Ticaret sicilinden şirketin kaydının silinmesi ile şirketin tüzel kişiliği sona erecektir. Ancak, ticaret sicilinden kaydın silinmesi, şirketin vergi ve sosyal güvenlik sicil kayıtlarının da silinmesi işlemini gerçekleştirmemektedir."
+          },
+          {
+            "soru": "Askerlik vazifesini yerine getiren erkek memur tekrar göreve başlamak için ne kadar sürede kuruma başvurması gerekir?",
+            "cevap": "30 gün"
+          },
+          {
+            "soru": "Turşu kavgası yapılan filmin adı nedir?",
+            "cevap": "Neşeli Günler"
+          },
+          {
+            "soru": "Gayrimenkul tahliyesi davalarında harç?",
+            "cevap": "Gayrimenkulün tahliyesi davasında yazılı mukavele olsun olmasın 1 yıllık kira bedeli üzerinden karar alınır."
+          },
+          {
+            "soru": "Yeni yapılan Türkiye’nin en büyük köprüsü?",
+            "cevap": "Siirt Pervari'deki Beğendik Köprüsü"
+          },
+          {
+            "soru": "Siyasi partiye girmek 657'de hangi disiplin cezasını gerektirir?",
+            "cevap": "Devlet memurluğundan çıkarma"
+          },
+          {
+            "soru": "Barbaros Hayrettin Paşa kimdir?",
+            "cevap": "Hızır Reis veya bilinen adıyla Barbaros Hayreddin Paşa, Osmanlı İmparatorluğu'nun ilk kaptan paşası ve 25. kaptan-ı deryâsı olan denizci ve askerdir. 16. yüzyılın ilk yarısında gerçekleştirdiği askerî seferlerle Akdeniz'de Osmanlı egemenliğini pekiştirdi."
+          },
+          {
+            "soru": "İdari yargıda elektronik işlem yapılamazsa ne yapılır?",
+            "cevap": "İşlem fiziki olarak yerine getirilir, daha sonra elektronik ortama aktarılır."
+          },
+          {
+            "soru": "Etik sözleşme imzalama süresi?",
+            "cevap": "1 ay içerisinde"
+          },
+          {
+            "soru": "Memur eliyle tebligat yapılır mı?",
+            "cevap": "Evet. (Diğer kanunlarda özel hüküm bulunması halinde veya tehirinde zarar umulan işlerde veya aynı yerde bulunan 1 inci maddede yazılı daire ve müesseseler arasında veya bu daire ve müesseselerde bulunan şahıslara yapılacak tebligat, kendi memurları veya mahalli mülkiye amirinin emriyle zabıta vasıtasıyla yaptırılır.)"
+          },
+          {
+            "soru": "Makedonya'nın başkenti neresidir?",
+            "cevap": "Üsküp"
+          },
+          {
+            "soru": "Bam’ın görevleri nelerdir?",
+            "cevap": "Adlî yargı ilk derece mahkemelerince verilen ve kesin olmayan hüküm ve kararlara karşı yapılacak başvuruları inceleyip karara bağlamak, Kanunlarla verilen diğer görevleri yapmak."
+          },
+          {
+            "soru": "Uluslararası çalışma örgütü nedir? Üyeliğimiz var mıdır?",
+            "cevap": "Uluslararası Çalışma Örgütü ya da ILO, ülkelerdeki çalışma yasalarında ve bu alana ilişkin uygulamalarda standartları geliştirmek ve ileriye götürmek gibi bir amaçla kurulan kuruluştur. Merkezi İsviçre'nin Cenevre kentinde bulunmaktadır, Türkiye ILO'ya 1932 yılında üye olmuştur."
+          },
+          {
+            "soru": "Zabıt katipliği alımında kimlere öncelik tanınır?",
+            "cevap": "Zabıt Kâtipliği ve cezaevi kâtibi kadroları için seçim yapılırken Hukuk Fakültesi, Adalet Meslek Yüksek Okulu, Adalet Yüksekokullarının Adalet Programı ile adalet önlisans programı mezunlarına öncelik tanınmaktadır."
+          },
+          {
+            "soru": "Kuranı Kerim’de kaç peygamber adı geçmektedir?",
+            "cevap": "25"
+          },
+          {
+            "soru": "Bir yasama yılında meclis en fazla ne kadar tatil yapar?",
+            "cevap": "En çok 3 ay tatil yapar, ara verme 15 günü geçemez."
+          },
+          {
+            "soru": "Bam yazı işleri müdürünün 1. ve 2. Sicil amirleri kimlerdir?",
+            "cevap": "1 Daire Başkanı, 2 Komisyon Başkanı"
+          },
+          {
+            "soru": "E-imza tanımı nedir?",
+            "cevap": "Başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veriyi ifade eder."
+          },
+          {
+            "soru": "Disiplin yönetmeliğinde hangi hallerde bir üst derece cezası verilir?",
+            "cevap": "Disiplin cezası verilmesine sebep olmuş bir fiil veya halin cezaların özlük dosyasından silinmesine ilişkin süre içinde tekerrüründe bir derece ağır ceza uygulanır. Aynı derecede cezayı gerektiren fakat ayrı fiil veya haller nedeniyle verilen disiplin cezalarının üçüncü uygulamasında bir derece ağır ceza verilir."
+          },
+          {
+            "soru": "Sözleşmeli memura hamileliği durumunda gece nöbeti verilir mi?",
+            "cevap": "Tabip raporunda belirtilmesi hâlinde hamileliğin 24. haftasından önce ve her hâlde hamileliğin 24. haftasından itibaren ve doğumdan sonraki iki yıl süreyle gece nöbeti ve gece vardiyası görevi verilemez."
+          },
+          {
+            "soru": "Kınama cezası alan memur ölürse ne karar verilir?",
+            "cevap": "Hakkında açılan disiplin soruşturması devam ettiği sırada, ölüm hâli hariç olmak üzere, herhangi bir sebeple memuriyeti sona erenlerin soruşturmaları tamamlanır."
+          },
+          {
+            "soru": "Duruşmada taraflardan duruşmaya gelmeyen olur ise celsenin ertelenmesine karar verildiğinde celse harcını kim öder?",
+            "cevap": "Hukuk ve ticaret mahkemelerinde celse harcı, muhakeme tarafların talep ve muvafakatleri üzerine talik edilmiş ise taraflardan ve evvelce yapılması mümkün olan bir işlemin yapılmamış olmasından dolayı talik edilmişse, talike sebebiyet veren taraftan alınır. Her iki halde talike vekiller sebebiyet vermişse celse harcı vekillere yüklenir. Vekil veya taraflara yüklenilen celse harcı mütaakıp iki celsede ödenmezse bir misli fazlasıyla alınır. Ödenmediği takdirde harcın bu miktar üzerinden tahsili için Maliyeye tezkere yazılmasına karar verilir."
+          },
+          {
+            "soru": "Tebligat kanununa göre kamu kurumlarında çalışan personele tebliğ işlemi nasıl yapılır? Memur yoksa çalıştığı iş yerinde kime yapılır?",
+            "cevap": "Diğer kanunlarda özel hüküm bulunması halinde veya tehirinde zarar umulan işlerde veya aynı yerde bulunan 1 inci maddede yazılı daire ve müesseseler arasında veya bu daire ve müesseselerde bulunan şahıslara yapılacak tebligat, kendi memurları veya mahalli mülkiye amirinin emriyle zabıta vasıtasıyla yaptırılır."
+          },
+          {
+            "soru": "Halide Edip Adıvar hakkında ne söylersiniz?",
+            "cevap": "Türk yazar, siyasetçi, akademisyen ve öğretmendir. Onbaşı olarak da bilinir. 1919 yılında İstanbul halkını ülkenin işgaline karşı harekete geçirmek için yaptığı konuşmaları ile zihinlerde yer etmiş hatiptir."
+          },
+          {
+            "soru": "Yararlı Cemiyetler hangi isim altında toplanmıştır?",
+            "cevap": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti"
+          },
+          {
+            "soru": "Mütercimler görev alabilmek için dil sınavından kaç puan almalı?",
+            "cevap": "Lisans KPSS P3 (En Az 75 Puan)"
+          },
+          {
+            "soru": "Hangi hallerde yürütmenin durdurulması kararı verilir?",
+            "cevap": "Telafisi güç veya imkansız zararın doğması, idari işlemin açıkça hukuka aykırı olması (2 sinin aynı anda olması gerekir)"
+          },
+          {
+            "soru": "Yüce Divan kararlarına itiraz olur mu?",
+            "cevap": "Yüce Divan kararlarına karşı yeniden inceleme başvurusu yapılabilir. Genel Kurulun yeniden inceleme sonucunda verdiği kararlar kesindir."
+          },
+          {
+            "soru": "Kurumlara engelli kadrosundan atanabilmek için engel durumunun yüzde kaç olması gerekir?",
+            "cevap": "%40"
+          },
+          {
+            "soru": "Tutuklu sanığa tebligat nasıl yapılır?",
+            "cevap": "Bunların bulunduğu müessese müdür veya memuru temin eder, mutlaka kendisine yapılmalıdır. Müdür veya memura yapılmaz. 1 yıldan fazla hüküm giyerse vasiye yapılır."
+          },
+          {
+            "soru": "Lozan Barış Anlaşması'nda Misak-ı Milli'ye aykırı alınan kararlar nelerdir?",
+            "cevap": "Boğazlardan geçişlerde verilen tavizler, Yunanistan’a Batı Trakya’nın bırakılması, Osmanlı Borçları"
+          },
+          {
+            "soru": "Türkiye milli futbol takımı hangi yıl Dünya 3. Sü oldu?",
+            "cevap": "2002"
+          },
+          {
+            "soru": "Sözleşmeli memurun evlilik izni kaç gündür?",
+            "cevap": "7 gün"
+          },
+          {
+            "soru": "Diplomatik sığınma nedir?",
+            "cevap": "Diplomatik Sığınma; Bir sığınmacının  suç işlediği ülke üzerinde bulunan bir yabancı diplomasi temsilciliğine başvurması, ülke devletinin ülkesel egemenliğine bir aykırılık oluşturduğu kabul edilir. Bu nedenle, devletin diplomatik sığınma tanımama yükümü altında bulunduğu : kabul edilir. Bir devletin başka bir ülkedeki diplomasi temsilciliğine sığınan bir kişi, ülke devletine teslim etme yükümlülüğü de yoktur. Böyle bir yükümlülük ancak bu yöndeki andlaşma hükmünün ya da başka bir yolla kabulün varolması ile olanaklıdır."
+          },
+          {
+            "soru": "Mevlana'nın ölümü nedeniyle düzenlenen törene verilen isim nedir?",
+            "cevap": "Şeb-i Arûs"
+          },
+          {
+            "soru": "Seçimin yenilenmesi için kaç oy gerekir?",
+            "cevap": "Türkiye Büyük Millet Meclisi, üye tamsayısının beşte üç çoğunluğuyla seçimlerin yenilenmesine karar verebilir."
+          },
+          {
+            "soru": "TBMM Başkanlık Divanı seçimleri kaç yılda bir yapılır?",
+            "cevap": "Türkiye Büyük Millet Meclisinin başkanlık divanı için, bir yasama döneminde iki seçim yapılır. İlk seçilenlerin görev süresi iki, ikinci devre seçilenlerin görev süresi üç yıldır."
+          },
+          {
+            "soru": "İlk askeri darbe hangi tarihte gerçekleşmiştir?",
+            "cevap": "27 Mayıs 1960"
+          },
+          {
+            "soru": "Kırşehir'in büyük ozanı kimdir?",
+            "cevap": "Neşet Ertaş"
           }  
 ]
