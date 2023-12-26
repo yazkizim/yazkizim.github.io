@@ -83,12 +83,12 @@ $.getJSON('https://api.allorigins.win/get?url=' + encodeURIComponent('https://ap
     }
     if (veri.XU100.degisim > 0) {
         $('#bist').attr('class', 'text-success');
-        $('#bist').html(parseFloat(veri.XU100.satis).toFixed(2) + ' ₺');
+        $('#bist').html(veri.XU100.satis + ' ₺');
     } else if (veri.XU100.degisim < 0) {
         $('#bist').attr('class', 'text-danger');
-        $('#bist').html(parseFloat(veri.XU100.satis).toFixed(2) + ' ₺');
+        $('#bist').html(veri.XU100.satis + ' ₺');
     } else {
-        $('#bist').html(parseFloat(veri.XU100.satis).toFixed(2) + ' ₺');
+        $('#bist').html(veri.XU100.satis + ' ₺');
     }
     if (veri.BTC.d_oran > 0) {
         $('#btc').attr('class', 'text-success');
