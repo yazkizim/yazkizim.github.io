@@ -6,7 +6,7 @@ categories: [Tarifeler, '2024']
 tags: [Adalet Bakanlığı, adliye, adliyeci, tüketici hakem heyeti]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, tüketici hakem heyeti, tüketici mahkemesi
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png
