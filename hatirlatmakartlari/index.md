@@ -10,6 +10,13 @@ addcoments: false
 
 <div class="card-body">
   <div class="mb-3">    
+    <div id="kartadet">
+    </div>    
+  </div>
+</div>
+
+<div class="card-body">
+  <div class="mb-3">    
     <div id="hatirlatmacarousel" class="carousel slide border border-primary rounded" data-ride="carousel">
     <div class="carousel-inner" id="hatirlatmac">       
     </div>
@@ -29,5 +36,5 @@ addcoments: false
   </div>
 </div>
 
-> 2023 yılı soruları sisteme eklenmektedir. Son güncelleme : 27/12/2023. Başarılar dilerim.
+> 2023 yılı soruları sisteme eklenmektedir. Son güncelleme : 28/12/2023. Başarılar dilerim.
 {: .prompt-tip }
