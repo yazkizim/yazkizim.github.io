@@ -4,6 +4,8 @@ unvan:
     deger: 19
   - adi: Avukat
     deger: 17
+  - adi: Bilgisayar İşletmeni
+    deger: 22     
   - adi: Cezaevi Katibi
     deger: 7    
   - adi: Cezaevi Müdürü
@@ -36,6 +38,10 @@ unvan:
     deger: 3
   - adi: Şoför
     deger: 20
+  - adi: Veri Hazırlama ve Kontrol İşletmeni
+    deger: 21
+  - adi: Veznedar
+    deger: 23          
   - adi: Yazı İşleri Müdürü
     deger: 1        
   - adi: Zabıt Katibi
