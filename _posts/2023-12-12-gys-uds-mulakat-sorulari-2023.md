@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-27 20:32:00 +0300
+last_modified_at: 2023-12-28 00:22:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1099,6 +1099,36 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>Hz. Osman (Osman bin Affan, 644 – 656)
 <br>(II. Selim, 11. Osmanlı Padişahı, Osmanlı Dönemi 3.Halife, Sarı Selim)
 
+**1557- 657 sy. DMK’ya göre memurların çalışma saatlerini kim düzenler?**
+<br>Merkezde CB, İlde Vali düzenler
+
+**1558- Adlî sicil ve adi istatistik hizmetlerinin yerine getirilmesi için bilgi işlem sistemini kurmak ve geliştirmek, hangi birimin görevidir?**
+<br>Adli sicil ve İstatistik Genel Müdürlüğü
+
+**1559- Mal beyanında bulunmayan memura ne ceza verilir?**
+<br>Kademe ilerlemesinin durdurulması
+
+**1560- Adalet bakanlığı atama ve nakil yönetmenliğine göre yazı işleri ve idari işler müdürlerinin bölgelere göre görev süreleri nedir?**
+<br>Hizmet süreleri beşinci ve dördüncü bölgelerde en az iki, üçüncü bölgede en az üç, ikinci bölgede en az dört, birinci bölgede en az beş yıldır.
+
+**1561- Osmanlı ve İngilizler arasında yaşanıp 13.000 İngiliz askerin esir edildiği savaş hangi savaştır?**
+<br>Kutül amare
+
+**1562- Taşınmaz mülkiyetin edinme şartları nelerdir?**
+<br>Taşınmaz mülkiyetinin kazanılması, tescille olur.
+<br>Miras, mahkeme kararı, cebrî icra, işgal, kamulaştırma hâlleri ile kanunda öngörülen diğer hâllerde, mülkiyet tescilden önce kazanılır. Ancak, bu hâllerde malikin tasarruf işlemleri yapabilmesi, mülkiyetin tapu kütüğüne tescil edilmiş olmasına bağlıdır
+
+**1563- Kişilik hakkı ne zaman başlar?**
+<br>Sağ ve tam doğumla
+
+**1564- hakkında idari soruşturma yürütülen personel senelik izinde ise savunma süresi tebliğden sonra ne zaman başlar?**
+<br>Mucbir sebep hariç izin, rapor savunma süresini uzatmaz. Tebliğden itibaren 7 gün
+
+**1565- Adalet Bakanlığı atama yönetmeliği kimleri kapsamaz?**
+<br>Adlî ve idarî yargı hâkim ve Cumhuriyet savcıları, hâkim adayları, icra müdür ve yardımcıları, icra kâtipleri ve adalet uzmanları ile ceza infaz kurumları ve tutukevleri kontrolör ve stajyer kontrolörleri hariç olmak üzere Adalet Bakanlığı merkez ve taşra teşkilâtı ile bağlı kuruluşlarına ilk defa Devlet memuru olarak atanacakların sınavlarında, atanmalarında ve görevde bulunan memurların nakillerinde uygulanır.
+
+**1566- 2024 yılında geçerli olacak asgari ücret ne kadar oldu?**
+<br>17.002 TL
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
