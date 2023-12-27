@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-26 22:22:00 +0300
+last_modified_at: 2023-12-27 20:32:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1018,6 +1018,86 @@ e) Yüklenen suçun sanık tarafından işlendiğinin sabit olmaması, hallerind
 
 **1536- Kırşehirin büyük ozanı kimdir?**
 <br>Neşet Ertaş
+
+**1537- Soruşturma aşamasında mağdur ve şüphelinin hakları nelerdir?**
+<br>
+Mağdur ile şikâyetçinin hakları şunlardır:
+<br>a) Soruşturma evresinde;
+<br>Delillerin toplanmasını isteme,
+<br>Soruşturmanın gizlilik ve amacını bozmamak koşuluyla Cumhuriyet savcısından belge örneği isteme,
+<br>(Değişik: 24/7/2008-5793/40 md.) Vekili bulunmaması halinde, cinsel saldırı, çocukların cinsel istismarı veya ısrarlı takip suçları ile kadına karşı işlenen kasten yaralama, işkence veya eziyet suçlarında ve alt sınırı beş yıldan fazla hapis cezasını gerektiren suçlarda, baro tarafından kendisine avukat görevlendirilmesini isteme,
+<br>153 üncü maddeye uygun olmak koşuluyla vekili aracılığı ile soruşturma belgelerini ve elkonulan ve muhafazaya alınan eşyayı inceletme,
+<br>
+<br>Cumhuriyet savcısının, kovuşturmaya yer olmadığı yönündeki kararına kanunda yazılı usule göre itiraz hakkını kullanma.
+<br>(1) Şüphelinin veya sanığın ifadesinin alınmasında veya sorguya çekilmesinde aşağıdaki hususlara uyulur:
+<br>a) Şüpheli veya sanığın kimliği saptanır. Şüpheli veya sanık, kimliğine ilişkin soruları doğru olarak cevaplandırmakla yükümlüdür.
+<br>b) Kendisine yüklenen suç anlatılır.
+<br>c) Müdafi seçme hakkının bulunduğu ve onun hukukî yardımından yararlanabileceği, müdafiin ifade veya sorgusunda hazır bulunabileceği, kendisine bildirilir. Müdafi seçecek durumda olmadığı ve bir müdafi yardımından faydalanmak istediği takdirde, kendisine baro tarafından bir müdafi görevlendirilir.
+<br>d) 95 inci madde hükmü saklı kalmak üzere, yakalanan kişinin yakınlarından istediğine yakalandığı derhâl bildirilir.
+<br>e) Yüklenen suç hakkında açıklamada bulunmamasının kanunî hakkı olduğu söylenir.
+<br>f) Şüpheden kurtulması için somut delillerin toplanmasını isteyebileceği hatırlatılır ve kendisi aleyhine var olan şüphe nedenlerini ortadan kaldırmak ve lehine olan hususları ileri sürmek olanağı tanınır.
+
+**1538- Lubnanın başkenti**
+<br>Beyrut
+<br>Nüfusu yaklaşık 6 milyon, başkenti Beyrut, ulusal ve resmî dili Arapçadır. Lübnan Arapçası Fasih Arapça'nın yanı sıra kullanılmaktadır. Ayrıca Fransızca da resmî olarak tanınır. 10452 km2 (166.)
+
+**1539- Yabancı bir mahkeme tarafından verilen ilamların tenfizi için açılacak davalardan, bu ilamlarda hükmolunmuş şeyin değeri, nevi ve mahiyetine göre hangi tarife gereğince harç alınır?**
+<br>1 sayılı tarife
+
+**1540- Külliye nedir?**
+<br>Külliye, cami ile birlikte hamam, medrese, mektep, imaret, türbe, kütüphane, aşevi, darüşşifa, çarşı, tekke, zaviye binalarından oluşan yapılar topluluğu.
+
+**1541- Komisyon kararları kaç günde yazılır?**
+<br>(2) Kararlar en geç **yedi gün** içinde yazılır ve ilgilisine tebliğe çıkarılır.
+
+**1542- Kurtuluş savaşındaki cepheler ve bu cephelerde kimlerle savaşılmıştır?**
+<br>Doğu Cephesi, Batı Cephesi ve Güney Cephesi. Doğu Cephesi'nde Ruslar ve Ermeniler ile savaş yapılmıştır. Güney Cephesi'nde İtalya, Fransa ve İngiltere ile savaşılmıştır. Batı Cephesi'nde ise İtalya ve Yunanistan ile savaşılmıştır.
+
+**1543- 6100 de dava şartı noksanlığı ne zamana kadar ileri sürülür?**
+<br>her zaman ileri sürebilirler.
+
+**1544- Nemrut Krater gölü hangi il?**
+<br>Bitlis / Tatvan
+
+**1545- Osmanlı bankası kim tarafından ne zaman kurulmuştur?**
+<br>Osmanlı Bankası, 1856'da kurulan İngiliz sermayeli Bank-ı Osmani (Ottoman Bank) ile 1862 istikrazını üstlenen Fransız mali grubu Banque de Paris et des Pays-Bas ortaklığıyla, 1863'te İstanbul'da Bank-ı Osmanî-i Şahane adıyla kurulan bankadır. 2001 yılında Garanti Bankası'na katılmasıyla varlığı sona ermiştir.
+
+**1546- Doğum öncesi izin kullanılmazsa ne olur?**
+<br>Kadın memura; doğumdan önce sekiz, doğumdan sonra sekiz hafta olmak üzere toplam onaltı hafta süreyle analık izni verilir. Çoğul gebelik durumunda, doğum öncesi sekiz haftalık analık izni süresine iki hafta eklenir. Ancak beklenen doğum tarihinden sekiz hafta öncesine kadar sağlık durumunun çalışmaya uygun olduğunu tabip raporuyla belgeleyen kadın memur, isteği hâlinde doğumdan önceki üç haftaya kadar kurumunda çalışabilir. Bu durumda, doğum öncesinde bu rapora dayanarak fiilen çalıştığı süreler doğum sonrası analık izni süresine eklenir. Doğumun erken gerçekleşmesi sebebiyle, doğum öncesi analık izninin kullanılamayan bölümü de doğum sonrası analık izni süresine ilave edilir. Doğum öncesi analık izninin başlaması gereken tarihten önce gerçekleşen doğumlarda ise doğum tarihi ile analık izninin başlaması gereken tarih arasındaki süre doğum sonrası analık iznine ilave edilir. Doğumda veya doğum sonrasında analık izni kullanılırken annenin ölümü hâlinde, isteği üzerine memur olan babaya anne için öngörülen süre kadar izin verilir.
+
+**1547- Bosna hersek başkenti ?**
+<br>Saraybosna,
+<br>Başkent ve en büyük şehir olan Saraybosna, birçok yüksek dağla çevrelenmiştir. Ülkenin çoğunluğunu kaplayan Bosna bölgesinde karasal iklim görülür, bu bölgede yazları sıcak, kışları kar yağışlı ve soğuktur.
+
+**1548- Vali ve kaymakam a kim soruşturma açar?**
+<br>Hazırlık soruşturması genel hükümlere göre yetkili ve görevli Cumhuriyet Başsavcılığı tarafından yapılır. Ancak Cumhurbaşkanlığı İdari İşler Başkanı, Türkiye Büyük Millet Meclisi Genel Sekreteri, Bakan yardımcıları ve **valiler** ile ilgili olarak yapılacak olan hazırlık soruşturması Yargıtay Cumhuriyet Başsavcısı veya Başsavcıvekili, **kaymakamlar** ile ilgili hazırlık soruşturması ise il Cumhuriyet başsavcısı veya başsavcıvekili tarafından yapılır.(3)
+
+**1549- Neşeli günlerdeki Adile naşit ve Münir özkulun tartıştığı limonla mı sirke ile mi yapılan ürün nedir?**
+<br>Turşu
+
+**1550- bütçe kanunu meclise ne zaman sunulur?**
+<br>Cumhurbaşkanlığınca hazırlanan merkezi yönetim bütçe kanun teklifi Anayasanın 161 inci maddesi ve 5018 sayılı Kanunun 18 inci maddesi uyarınca mali yılbaşından en az yetmiş beş gün önce (17 Ekim) Cumhurbaşkanı tarafından TBMM'ye sunulmaktadır.
+
+**1551- Astsubaylar hariç olmak üzere erata yapılacak tebliğler nasıl yapılır?**
+<br>“Tebligat Kanununun “askeri şahıslara tebligat” başlıklı 14. maddesi uyarınca “Astsubaylar hariç olmak üzere erata yapılacak tebliğler, kıta kumandanı ve müessese amiri gibi en yakın üste yapılır.
+
+**1552- İran, Ermenistan ve Azerbaycan’a sınırı olan ilimiz hangisidir?**
+<br>Iğdır (En çok ülkeye sınırı bulunan il)
+
+**1553- Devlet memurunun ana, baba, eş, kardeşi ağır yaralanmalı kaza geçirirse kaç aya kadar ücretsiz izin verilir?**
+<br>Memurun, bakmakla yükümlü olduğu veya refakat etmediği takdirde hayatı tehlikeye girecek ana, baba, eş ve çocukları ile kardeşlerinden birine refakat edebilmesi için; 6 ay süre ile ücret ve özlük hakları korunarak (aylıklı), 18 aya kadar da aylıksız izin kullanabilmesi mümkündür.
+
+**1554- VPN Nedir?**
+<br>Sanal özel ağ (Virtual Private Network)
+<br>Sanal özel ağ ya da VPN, uzaktan erişim yoluyla farklı ağlara bağlanmayı sağlayan İnternet teknolojisi. VPN sanal bir ağ uzantısı oluşturduğu için, VPN kullanarak ağa bağlanan bir cihaz, fiziksel olarak bağlıymış gibi o ağ üzerinden veri alışverişinde bulunabilir.
+
+**1555- Miladi takvim hangi ay ile başlar?**
+<br>Ocak
+<br>(Miladi takvim ya da Gregoryen takvimi, Roma İmparatoru Jül Sezar tarafından kabul edilen Jülyen takviminin yerine, Papa XIII. Gregorius tarafından yaptırılan bir takvimdir.[1] İsa'nın doğduğu yılı milat olarak alan bu takvim, Dünya'nın Güneş etrafındaki dönüş süresi olan 365 gün, 6 saatlik zamanı "1 yıl" olarak kabul eder. Günümüzde dünyada en yaygın olarak kullanılan takvimdir.[2])
+
+**1556- Üçüncü Halife Kimdir?**
+<br>Hz. Osman (Osman bin Affan, 644 – 656)
+<br>(II. Selim, 11. Osmanlı Padişahı, Osmanlı Dönemi 3.Halife, Sarı Selim)
 
 
 
