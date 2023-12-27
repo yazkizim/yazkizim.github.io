@@ -1054,7 +1054,7 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>Doğu Cephesi, Batı Cephesi ve Güney Cephesi. Doğu Cephesi'nde Ruslar ve Ermeniler ile savaş yapılmıştır. Güney Cephesi'nde İtalya, Fransa ve İngiltere ile savaşılmıştır. Batı Cephesi'nde ise İtalya ve Yunanistan ile savaşılmıştır.
 
 **1543- 6100 de dava şartı noksanlığı ne zamana kadar ileri sürülür?**
-<br>her zaman ileri sürebilirler.
+<br>(Taralar da dava şartı noksanlığını her zaman ileri sürülebilir. mahkeme dava şartı noksanlığını tespit ederse davanın usulden reddine karar verir. Ancak dava şartı noksanlığının giderilmesi mümkün ise bunun tamamlanması için kesin süre verir.
 
 **1544- Nemrut Krater gölü hangi il?**
 <br>Bitlis / Tatvan
