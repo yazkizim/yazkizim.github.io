@@ -78,14 +78,14 @@ titleabout: Adalet Bakanlığı Tarifeleri
         <h1 class="card-title my-2 mt-md-0">CMK Tanıklık Ücret Tarifesi 
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Ceza Mahkemeleri 2023 yılı Tanıklık Ücret Tarifesi
+          <p> Ceza Mahkemeleri 2024 yılı Tanıklık Ücret Tarifesi
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
           <div class="me-auto"> 
             <i class="far fa-calendar fa-fw me-1">
             </i> 
-            <time>19/09/2023
+            <time>28/12/2023
             </time>             
           </div>          
         </div>
