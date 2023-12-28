@@ -1,5 +1,5 @@
 ---
-title: 2023 Yılı Tanıklık Ücret Tarifesi
+title: 2024 Yılı Tanıklık Ücret Tarifesi
 keywords: tanıklık ücret tarifesi, CMK, harçlar kanunu, tanık ücreti, tanıklık ücreti
 permalink: /taniklikucret/
 layout: gokhan
@@ -9,7 +9,8 @@ addcoments: true
 ---
 
 
-**2023 YILI TANIKLIK ÜCRET TARİFESİ**
+**Adalet Bakanlığından:
+2024 YILI TANIKLIK ÜCRET TARİFESİ**
 
 **Amaç**
 
@@ -25,11 +26,11 @@ addcoments: true
 
 **Tazminat**
 
-**MADDE 4-** (1) Tanığa, tanıklık nedeniyle kaybettiği zamanla orantılı olarak **günlük 40,00 ilâ 80,00 Türk Lirasına kadar** ücret ödenir.
+**MADDE 4-** (1) Tanığa, tanıklık nedeniyle kaybettiği zamanla orantılı olarak günlük **60,00 ilâ 100,00 Türk Lirasına** kadar ücret ödenir.
 
 **Giderler**
 
-**MADDE 5-** (1) Tanık hazır olabilmek için seyahat etmek zorunda kalmışsa yol giderleriyle tanıklığa çağrıldığı yerdeki **ikamet ve beslenme giderleri de** karşılanır.
+**MADDE 5-** (1) Tanık hazır olabilmek için seyahat etmek zorunda kalmışsa **yol giderleriyle** tanıklığa çağrıldığı yerdeki **ikamet ve beslenme** giderleri de **karşılanır**.
 
 **Muafiyet**
 
@@ -41,5 +42,5 @@ addcoments: true
 
 **Yürürlük**
 
-**MADDE 8-** (1) Bu Tarife  1/1/2023  tarihinde yürürlüğe girer.
+**MADDE 8-** (1) Bu Tarife  **1/1/2024**  tarihinde yürürlüğe girer.
  
