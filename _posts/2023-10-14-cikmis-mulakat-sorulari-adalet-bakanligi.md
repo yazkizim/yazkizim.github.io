@@ -7,7 +7,7 @@ categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, GYS Mülakat Soruları]
 keywords: Adalet, Adalet Bakanlığı, adliye, adliyeci, GYS Mülakat Soruları, Adalet GYS, Adalet Bakanlığı GYS, Adalet Bakanlığı Görevde Yükselme Sınavı, Adalet Bakanlığı ÜDS, Yazı İşleri Müdür, Zabıt Katibi, Mübaşir
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/soru.jpg
