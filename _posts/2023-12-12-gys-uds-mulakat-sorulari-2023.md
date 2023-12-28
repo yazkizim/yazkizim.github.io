@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-28 00:22:00 +0300
+last_modified_at: 2023-12-28 23:01:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1129,6 +1129,68 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 
 **1566- 2024 yılında geçerli olacak asgari ücret ne kadar oldu?**
 <br>17.002 TL
+
+**1567- Kaynağını dış ülkelerden alan ve ülkemize akan akarsular**
+<br>Asi ( Lübnan'da doğar ve Hatay üzerinden Akdeniz'e dökülür. ) ve Meriç ( Bulgaristan'da doğar ve Ege denizine dökülür. ) akarsularıdır.
+
+**1568- Devlet Memurluğunda kariyer ilkesi nedir?**
+<br>Kariyer:
+<br>B)  Devlet memurlarına, yaptıkları hizmetler için lüzumlu bilgilere ve yetişme şartlarına uygun şekilde, sınıfları içinde en yüksek derecelere kadar ilerleme imkanını sağlamaktır.
+
+**1569- Japonyanın başkenti neresidir?**
+<br>Tokyo
+
+**1570- Ilk kılcal damar ameliyatını kalp damar ameliyatı yapan Türk profesör kimdir?**
+<br>Prof.Dr.Opr.Siyami Ersek
+
+**1571- İLK GİZLİ OY AÇIK SAYIM UYGULANAN SEÇİMDE EN ÇOK OYU HANGİ PARTİ ALMIŞTIR?**
+<br>Demokrat Parti (Celal Bayar)
+
+**1572- Yönetmelikler nasıl düzenlenir?**
+<br>Yönetmelikler, kanun ve tüzüklerin uygulanmasını daha da kolaylaştırmak amacıyla çıkartılan hukuk kuralları olarak belirtilmektedir. Kanun ile ilgili olan bir alanda yönetmelik çıkartma yetkisi Cumhurbaşkanına, kamu tüzel kişiler ya da bakanlara ait olarak belirtilmektedir.
+
+**1573- Ampül’ü kim icat etti?**
+<br>Tarihimizde ilk kez çalışabilen ampulün icadı 1800’li yılına kadar gitmektedir. İtalyan mucit Alessandro Volta; çinko ve bakır diskler vasıtasıyla ilk ampulü üretmeyi başarmıştır. Fakat bunun üzerine gitmek yerine bugün batarya olarak kullandığımız aygıtları üretme yolunu seçmiştir.
+
+<br>İlk potansiyel ampulün icadında ise karşımıza çıkan isim İngiliz mucit Humprey Davy’dir. Volta’nın ürettiği bataryaları kullanarak bir ampul icat etmeyi başarmış olan Davy; ne yazık ki ticari bir başarı elde edememiştir. Fakat yine de kısa sürede sönen bu ampuller tasarım olarak 1800’lü yıllara damgasını vurmayı başarmıştır.
+
+<br>Pratiklik ve kolay kullanım hususunda yaşanan bu sorunları çözen kişi ise Joseph Swan isimli İngiliz kimyagerdir. Kendinden önce gelenlere göre ampulün ömrünü uzatmayı başaran Swan; kullandığı vakum pompalarının verimsiz olması nedeniyle pratik bir ampul üretmeyi başaramamıştır.
+
+<br>1874 yılında Kanadalı mucitler Henry Woodward ve Matthew Evans; tarihin ilk ticari ampullerini üretmeyi başarmışlar ve patente başvurmuşlar fakat seslerini duyuramamışlardır.
+
+<br>1879 yılında ampul üzerinde çalışmalar yürüten Thomas Edison ilk başlarda ampullerin içinde karbon filamentler daha sonra ise karbonize edilmiş bambu filamentler kullanarak ampullerdeki verim sorununu ortadan kaldırdı. Bu araştırmaları sırasında yaklaşık 6000 deneme yapan Thomas Edison 1879’un ilerleyen zamanlarında üretmiş olduğu bu ampulün patentini almayı başardı.
+
+**1574- Dünyanın en uzun destanı?**
+<br>Dünyanın en uzun ve hacimli destanına, Manas Destanı'na sahip olan Kırgızların sözlü kültür ürünlerini saklama ve aktarmada gösterdiği olağanüstü başarının da gözden kaçırılmaması gerektiği özellikle vurgulanması gereken bir konudur.
+
+**1575- Hukuk usulü muhakememe kanuna göre dava türleri nelerdir?**
+<br>Eda Davası, Tespit Davası, Belirsiz alacak ve tespit davası, İnşai Dava, Kısmi dava, Davaların yığılması, Terditli dava, Seçimlik Dava, Topluluk davası
+
+**1576- Sözleşmeli personel tek taraflı olarak hangi şartta sözleşmesini iptal edebilir?**
+<br>Personel; kendi isteği ile bir ay önceden haber vermek koşuluyla veya Ek 1 inci maddenin dördüncü fıkrasının (b) ve (c) bendi uyarınca sözleşmeyi tek taraflı feshedebilir.
+
+<br>b) (Değişik: 14/05/2018-2018/11809) Öğrenim durumu itibariyle ihraz edilen ve ekli 4 sayılı cetvelde yer alan unvanlara ilişkin pozisyonlara ek 4 üncü madde çerçevesinde atanmak suretiyle unvan değişikliği yapanlardan,
+
+<br>c) Eş veya sağlık durumu nedeniyle yer değişikliği talebinde bulunmakla beraber; geçiş yapacağı hizmet birimi bulunmaması, birim bulunmakla beraber o birimde aynı unvan ve niteliği haiz boş pozisyon bulunmaması veya en az bir yıllık fiili çalışma şartını karşılayamaması nedenlerinden herhangi birine bağlı olarak, Ek 3 üncü maddenin (b) veya (c) bendi hükmü kendilerine uygulanamayanlardan,
+
+**1577- Çocuk ile baba arasında soybağı nasıl kurulur?**
+<br>Çocuk ile baba arasında soybağı, ana ile evlilik, tanıma veya hâkim hükmüyle kurulur. Soybağı ayrıca evlât edinme yoluyla da kurulur (TMK m. 282). Evlilik dışında doğan çocuk, ana ve babasının birbiriyle evlenmesi hâlinde kendiliğinden evlilik içinde doğan çocuklara ilişkin hükümlere tâbi olur (TMK m. 292)
+
+**1578- Birinci dünya savaşın da ilk çekilen ve son çekilen devlet?**
+<br>İlk : Japonya
+<br>Son: Almanya
+
+**1579- Gün ay yıl ay adı yazı ile yazılırsa noktalama işareti konulur mu?**
+<br>Tarih; gün, ay ve yıl olarak rakamla yazılır. Ay ve gün iki haneli, yıl ise dört haneli olarak düzenlenir. Ay adları, harfle de yazılabilir. Bu durumda gün, ay ve yıl arasına **herhangi bir işaret konulmaz**.
+
+**1580- "BENİM NÂCİZ VÜCÛDUM ELBET BİR GÜN TOPRAK OLACAKTIR;FAKAT, TÜRKİYE CUMHURİYETİ İLELEBET PAYİDAR KALACAKTIR" ne demek, Mustafa Kemal Atatürk bu sözü nerede söylemiştir?**
+<br>Cumhur Reisi Gazi Mustafa Kemal (1881-1938), henüz Atatürk soyadını almamışken, kendisine karşı tertiplenen suikast planının önlenmesinden sonra böyle söylemiş. Sene, 1926’dır. İnsan için ölüm “elbet” kaçınılmazken, kurduğu Cumhuriyet’in “ilelebet payidar” olacağını (sonsuza dek yaşayacağını) vurgulamıştır.
+
+**1581- ANADOLU SELÇUKLU DEVLETİ NEREDE KURULMUŞTUR?**
+<br>Selçuklu Hanedanı'ndan olan Kutalmış oğlu Süleyman Şah, Marmara Bölgesi’ndeki askeri faaliyetleri sonunda İznik’i alarak 1075 yılında Anadolu Selçuklu Devleti’ni kurmuştur.
+
+**1582- Atatürk'ün İsmet İnönü ye siz orada sadece düşmadı değil kötü giden makus talihinide yendiniz sözünü hangi savaştan sonra söylemiştir?**
+<br>İkinci İnönü Zaferi
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
