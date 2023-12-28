@@ -1,7 +1,7 @@
 ---
 title: 2024 Yılı CMK Tanıklık Ücret Tarifesi Resmi Gazetede
 author: gokhantasci
-date: 2023-12-28 09:011:00 +0300
+date: 2023-12-28 09:01:00 +0300
 categories: [Tarifeler, Tanıklık Ücret Tarifesi]
 tags: [asgari ücret, '2024', tarife, adliyeci]
 keywords: tanıklık ücret tarifesi, 2024, maaş, adliyeci, Adalet Bakanlığı
