@@ -1,5 +1,105 @@
 [
     {
+        "yil": "2024",
+        "birim": "İcra ve İflas Dairei ve Satış Memurlukları",
+        "ucret": "1100"
+    },
+    {
+        "yil": "2024",
+        "birim": "Sulh Hukuk Mahkemesi",
+        "ucret": "1100"
+    },
+    {
+        "yil": "2024",
+        "birim": "Tüketici Mahkemesi",
+        "ucret": "1100"
+    },
+    {
+        "yil": "2024",
+        "birim": "İcra Hukuk - Ceza Mahkemesi",
+        "ucret": "1100"
+    },
+    {
+        "yil": "2024",
+        "birim": "Asliye Hukuk Mahkemesi",
+        "ucret": "1820"
+    },
+    {
+        "yil": "2024",
+        "birim": "Aile Mahkemesi",
+        "ucret": "1460"
+    },
+    {
+        "yil": "2024",
+        "birim": "İş Mahkemesi",
+        "ucret": "1460"
+    },
+    {
+        "yil": "2024",
+        "birim": "Kadastro Mahkemesi",
+        "ucret": "1460"
+    },
+    {
+        "yil": "2024",
+        "birim": "Asliye Ticaret Mahkemesi",
+        "ucret": "2200"
+    },
+    {
+        "yil": "2024",
+        "birim": "Fikri ve Sınai Haklar Mahkemesi",
+        "ucret": "2200"
+    },
+    {
+        "yil": "2024",
+        "birim": "İdare Mahkemesi",
+        "ucret": "1820"
+    },
+    {
+        "yil": "2024",
+        "birim": "Vergi Mahkemesi",
+        "ucret": "1820"
+    },
+    {
+        "yil": "2024",
+        "birim": "Cumhuriyet Başsavcılıkları",
+        "ucret": "1100"
+    },
+    {
+        "yil": "2024",
+        "birim": "Sulh Ceza Hakimlikleri",
+        "ucret": "1100"
+    },
+    {
+        "yil": "2024",
+        "birim": "Asliye Ceza Mahkemesi",
+        "ucret": "1820"
+    },
+    {
+        "yil": "2024",
+        "birim": "Ağır Ceza Mahkemesi",
+        "ucret": "2200"
+    },
+    {
+        "yil": "2024",
+        "birim": "Bölge Adliye Mahkemesi",
+        "ucret": "2320"
+    },
+    {
+        "yil": "2024",
+        "birim": "Bölge İdare Mahkemesi",
+        "ucret": "2320"
+    },
+    {
+        "yil": "2024",
+        "birim": "Yargıtay",
+        "ucret": "2930"
+    },
+    {
+        "yil": "2024",
+        "birim": "Danıştay",
+        "ucret": "2930"
+    },    
+    {
         "yil": "2023",
         "birim": "İcra ve İflas Dairei ve Satış Memurlukları",
         "ucret": "580"
