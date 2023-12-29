@@ -17,9 +17,9 @@ image:
 
 <table>
     <tr>
-        <td>yil</td>
-        <td>birim</td>
-        <td>ucret</td>
+        <td>Yıl</td>
+        <td>Birim</td>
+        <td>Ücret (₺)</td>
     </tr>
     <tr>
         <td>2024</td>
