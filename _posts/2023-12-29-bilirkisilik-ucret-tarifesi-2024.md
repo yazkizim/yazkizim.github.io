@@ -13,7 +13,7 @@ image:
   alt: 2024 Yılı Bilirkişilik Asgari Tarifesi
 ---
 
-28/12/2023 tarih ve 32414 sayılı Resmi Gazete'nin 2. Mükerrer sayısında 2024 Yılı Bilirkişilik Asgari Tarifesi yayınlanmıştır.
+29/12/2023 tarih ve 32414 sayılı Resmi Gazete'nin 2. Mükerrer sayısında 2024 Yılı Bilirkişilik Asgari Tarifesi yayınlanmıştır.
 
 <table>
     <tr>
