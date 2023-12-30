@@ -15,7 +15,7 @@ titleabout: Adalet Bakanlığı Tarifeleri
         <h1 class="card-title my-2 mt-md-0">Avukatlık Asgari Ücret Tarifesi
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Tüm yargı birimleri 2023 yılı Avukatlık Asgari Ücret Tarifesi
+          <p> Tüm yargı birimleri 2024 yılı Avukatlık Asgari Ücret Tarifesi
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
@@ -36,14 +36,14 @@ titleabout: Adalet Bakanlığı Tarifeleri
         <h1 class="card-title my-2 mt-md-0">Bilirkişi Ücret Tarifesi
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Tüm yargı birimleri 2023 yılı Bilirkişi Ücret Tarifesi
+          <p> Tüm yargı birimleri 2024 yılı Bilirkişi Ücret Tarifesi
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
           <div class="me-auto"> 
             <i class="far fa-calendar fa-fw me-1">
             </i> 
-            <time>18/09/2023
+            <time>29/12/2023
             </time>             
           </div>          
         </div>
@@ -57,14 +57,14 @@ titleabout: Adalet Bakanlığı Tarifeleri
         <h1 class="card-title my-2 mt-md-0">Uzlaştırmacı Ücret Tarifesi
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Tüm yargı birimleri 2023 yılı Uzlaştırmacı Ücret Tarifesi
+          <p> Tüm yargı birimleri 2024 yılı Uzlaştırmacı Ücret Tarifesi
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
           <div class="me-auto"> 
             <i class="far fa-calendar fa-fw me-1">
             </i> 
-            <time>18/09/2023
+            <time>31/12/2023
             </time>             
           </div>          
         </div>
@@ -120,7 +120,7 @@ titleabout: Adalet Bakanlığı Tarifeleri
         <h1 class="card-title my-2 mt-md-0">Parasal Sınırlar
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Tüm yargı birimleri 2023 yılı Parasal Sınırlar
+          <p> Tüm yargı birimleri 2024 yılı Parasal Sınırlar
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
@@ -141,7 +141,7 @@ titleabout: Adalet Bakanlığı Tarifeleri
         <h1 class="card-title my-2 mt-md-0">Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi
         </h1>
         <div class="card-text content mt-0 mb-2">
-          <p> Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi 2023 
+          <p> Tüketici Hakem Heyeti Bilirkişi Ücret Tarifesi 2023
           </p>
         </div>
         <div class="post-meta flex-grow-1 d-flex align-items-end">
