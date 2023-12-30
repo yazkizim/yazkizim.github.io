@@ -1,7 +1,7 @@
 ---
 title: 2024 Yılı Uzlaştırmacı Ücret Tarifesi
 author: gokhantasci
-date: 2023-12-31 00:20:00 +0800
+date: 2023-12-31 00:20:00 +0300
 categories: [Tarifeler, Uzlaştırmacı Ücret Tarifesi]
 tags: [Adalet Bakanlığı, uzlaştırmacı, adliyeci]
 keywords: uzlaştırmacı, uzlastirmaci, uzlaştırmacı ücret, ücret tarifesi
@@ -60,4 +60,4 @@ image:
 **MADDE 9-** (1) Bu Tarife yayımı tarihinde yürürlüğe girer.
 
 [**Resmi Gazete için tıklayınız**](https://www.resmigazete.gov.tr/eskiler/2023/12/20231231-3.htm)
-[**Uzlaştırmacı Asgari Ücret Tarifesi için tıklayınız**](https://adliyeci.com.tr/uzlastirmaciucret/)
+<br>[**Uzlaştırmacı Asgari Ücret Tarifesi için tıklayınız**](https://adliyeci.com.tr/uzlastirmaciucret/)
