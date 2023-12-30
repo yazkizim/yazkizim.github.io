@@ -9,7 +9,7 @@ render_with_liquid: false
 pin: true
 comments: true
 image:
-  path: /posts/bilirkisi.jpg
+  path: /posts/resmigazete.png
   alt: 2024 Yılı Harçlar Kanunu Tarifesi
 ---
 
