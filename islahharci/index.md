@@ -10,6 +10,17 @@ layout: gokhan
 </div>
 <div class="card-body">
   <div class="mb-3">
+      <label class="form-label required">Yıl</label>
+      <div>
+      <select type="text" class="form-select" placeholder="Seçiniz" id="yilislah" value="">
+        <option value="2024">2024</option>	
+        <option value="2023">2023</option>				
+      </select>
+      </div>
+      <small class="form-hint">Hesaplanacak Yılı Seçiniz
+      </a></small>
+  </div>
+  <div class="mb-3">
       <label class="form-label required">Islah Edilen Toplam Değer</label>
       <div>
         <input type="number" class="form-control" data-type="currency" placeholder="Islah edilen değeri giriniz" name="islahmiktar" value="0">
