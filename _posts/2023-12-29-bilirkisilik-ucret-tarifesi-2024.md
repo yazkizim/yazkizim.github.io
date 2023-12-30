@@ -6,7 +6,7 @@ categories: [Tarifeler, Bilirkişilik Asgari Ücret Tarifesi]
 tags: [Bilirkişilik Asgari ücret, '2024', tarife, adliyeci]
 keywords: Bilirkişilik Asgari ücret tarifesi, 2024, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/bilirkisi.jpg

@@ -14,26 +14,51 @@
             
         },
         "harclar":{
-            "asliye":{
-                "maktu": 269.85,
-                "nispi": 0.06831,
-                "asgarivekalet": 17900.00
+            "2023":{
+                "asliye":{
+                    "maktu": 269.85,
+                    "nispi": 0.06831,
+                    "asgarivekalet": 17900.00
+                },
+                "aile":{
+                    "maktu": 269.85,
+                    "nispi": 0.01138,
+                    "asgarivekalet": 17900.00
+                },
+                "sulhceza":{
+                    "maktu": 4000,
+                    "nispi": 0,
+                    "asgarivekalet": 8000
+                },
+                "agirceza":{
+                    "maktu": 17400,
+                    "nispi": 0,
+                    "asgarivekalet": 29800
+                }
             },
-            "aile":{
-                "maktu": 269.85,
-                "nispi": 0.01138,
-                "asgarivekalet": 17900.00
-            },
-            "sulhceza":{
-                "maktu": 4000,
-                "nispi": 0,
-                "asgarivekalet": 8000
-            },
-            "agirceza":{
-                "maktu": 17400,
-                "nispi": 0,
-                "asgarivekalet": 29800
+            "2024":{
+                "asliye":{
+                    "maktu": 427.60,
+                    "nispi": 0.06831,
+                    "asgarivekalet": 17900.00
+                },
+                "aile":{
+                    "maktu": 427.60,
+                    "nispi": 0.01138,
+                    "asgarivekalet": 17900.00
+                },
+                "sulhceza":{
+                    "maktu": 8000,
+                    "nispi": 0,
+                    "asgarivekalet": 8000
+                },
+                "agirceza":{
+                    "maktu": 29800,
+                    "nispi": 0,
+                    "asgarivekalet": 29800
+                }
             }
+           
         },
         "nispivekalet":{
             "basamak1":{
