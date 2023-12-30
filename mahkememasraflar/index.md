@@ -11,6 +11,16 @@ layout: gokhan
 <form id="harcvegider" data-gtm-form-interact-id="0">
     <div class="card-body">
         <div class="mb-3">
+            <label class="form-label required">Yıl</label>
+            <div>
+            <select type="text" class="form-select" placeholder="Seçiniz" id="yilmahkeme" value="">
+            <option value="2024">2024</option>	
+            <option value="2023">2023</option>				
+            </select>
+            </div>
+            <small class="form-hint">Hesaplanacak Yılı Seçiniz</small>
+        </div>
+        <div class="mb-3">
             <label class="form-label required"></label>
             <select type="text" class="form-select w-100" placeholder="Mahkeme Seçiniz" id="mahkeme" value="">
                     <option value="0" disabled>Seçiniz</option>

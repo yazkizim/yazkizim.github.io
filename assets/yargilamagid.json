@@ -1,64 +1,129 @@
 [    
     {
         "giderler":{
-            "basvuruharci": 269.85,
-            "dosyagideri": 13.95,
-            "kesifharci": 1912.35,
-            "hakimyolluk": 140.19,
-            "katipyolluk": 101.96,
-            "musabiryolluk": 76.47,
-            "tanik": 60,
-            "tebligat": 87,
-            "etebligat": 10,
-            "vekaletharc": 38.4,
-            "diger": 250        
+            "2023": {
+                "basvuruharci": 269.85,
+                "dosyagideri": 13.95,
+                "kesifharci": 1912.35,
+                "hakimyolluk": 140.19,
+                "katipyolluk": 101.96,
+                "musabiryolluk": 76.47,
+                "tanik": 60,
+                "tebligat": 87,
+                "etebligat": 10,
+                "vekaletharc": 40.3,
+                "diger": 250
+            },
+            "2024": {
+                "basvuruharci": 427.60,
+                "dosyagideri": 13.95,
+                "kesifharci": 3030.30,
+                "hakimyolluk": 140.19,
+                "katipyolluk": 101.96,
+                "musabiryolluk": 76.47,
+                "tanik": 60,
+                "tebligat": 87,
+                "etebligat": 10,
+                "vekaletharc": 60.8,
+                "diger": 250
+            }
+                
         },
         "mahkemeler":{
-            "sulh":{
-                "maktu": 123.60,
-                "nispi": 68.31,
-                "bilirkisi": 580
+            "2023": {
+                "sulh":{
+                    "maktu": 123.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 580
+                },
+                "icramah":{
+                    "maktu": 123.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 580
+                },
+                "asliye":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 960
+                },
+                "aile":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 0
+                },
+                "is":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 770
+                },
+                "kadastro":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 770
+                },
+                "tuketici":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 580
+                },
+                "fikri":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 1160
+                },
+                "ticaret":{
+                    "maktu": 269.85,
+                    "nispi": 68.31,
+                    "bilirkisi": 1160
+                }  
             },
-            "icramah":{
-                "maktu": 123.60,
-                "nispi": 68.31,
-                "bilirkisi": 580
-            },
-            "asliye":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 960
-            },
-            "aile":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 0
-            },
-            "is":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 770
-            },
-            "kadastro":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 770
-            },
-            "tuketici":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 580
-            },
-            "fikri":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 1160
-            },
-            "ticaret":{
-                "maktu": 269.85,
-                "nispi": 68.31,
-                "bilirkisi": 1160
-            }            
+            "2024": {
+                "sulh":{
+                    "maktu": 195.80,
+                    "nispi": 68.31,
+                    "bilirkisi": 1100
+                },
+                "icramah":{
+                    "maktu": 195.80,
+                    "nispi": 68.31,
+                    "bilirkisi": 1100
+                },
+                "asliye":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 1820
+                },
+                "aile":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 0
+                },
+                "is":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 1820
+                },
+                "kadastro":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 1820
+                },
+                "tuketici":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 1100
+                },
+                "fikri":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 2200
+                },
+                "ticaret":{
+                    "maktu": 427.60,
+                    "nispi": 68.31,
+                    "bilirkisi": 2200
+                }  
+            }                           
         }        
     }
 ]
