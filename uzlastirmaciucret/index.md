@@ -8,8 +8,8 @@ comments: true
 addcoments: true
 ---
 
-<br>2024 yılı
-<table>
+
+<table id="uzlastirma" class="display dataTable" style="width: 100%;" aria-describedby="uzlastirma_info">
     <thead>
         <tr>
             <th>Yıl</th>
@@ -73,21 +73,6 @@ addcoments: true
             <td>1.775 ₺</td>
             <td>2.070 ₺</td>
         </tr>
-    </tbody>
-</table>
-
-
-<br>2023 yılı
-<table>
-    <thead>
-        <tr>
-            <th>Yıl</th>
-            <th>Durum</th>
-            <th>Taban Ücret</th>
-            <th>Tavan Ücret</th>
-        </tr>
-    </thead>
-    <tbody>
         <tr>
             <td>2023</td>
             <td>Uzlaştırma sürecinin teklif aşamasında olumsuz sonuçlanması hâlinde</td>
@@ -144,4 +129,6 @@ addcoments: true
         </tr>
     </tbody>
 </table>
+
+
 
