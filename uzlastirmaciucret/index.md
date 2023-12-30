@@ -9,29 +9,139 @@ addcoments: true
 ---
 
 <br>2024 yılı
-| Yıl  | Durum                                                               | Taban Ücret | Tavan Ücret |
-|------|---------------------------------------------------------------------|-------------|-------------|
-| 2024 | Uzlaştırma sürecinin teklif aşamasında olumsuz sonuçlanması hâlinde | 590   ₺     | 885   ₺     |
-| 2024 | 2-3 Kişi Olumlu Sonuç                                               | 1.775 ₺     | 2.375 ₺     |
-| 2024 | 4-6 Kişi Olumlu Sonuç                                               | 2.375 ₺     | 2.965 ₺     |
-| 2024 | 7-9 Kişi Olumlu Sonuç                                               | 2.965 ₺     | 3.560 ₺     |
-| 2024 | 10 ve üstü Kişi Olumlu Sonuç                                        | 3.560 ₺     | 4.155 ₺     |
-| 2024 | 2-3 Kişi Olumsuz Sonuç                                              | 885   ₺     | 1.180 ₺     |
-| 2024 | 4-6 Kişi Olumsuz Sonuç                                              | 1.180 ₺     | 1.480 ₺     |
-| 2024 | 7-9 Kişi Olumsuz Sonuç                                              | 1.480 ₺     | 1.775 ₺     |
-| 2024 | 10 ve üstü Kişi Olumsuz Sonuç                                       | 1.775 ₺     | 2.070 ₺     |
+<table>
+    <thead>
+        <tr>
+            <th>Yıl</th>
+            <th>Durum</th>
+            <th>Taban Ücret</th>
+            <th>Tavan Ücret</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2024</td>
+            <td>Uzlaştırma sürecinin teklif aşamasında olumsuz sonuçlanması hâlinde</td>
+            <td>590   ₺</td>
+            <td>885   ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>2-3 Kişi Olumlu Sonuç</td>
+            <td>1.775 ₺</td>
+            <td>2.375 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>4-6 Kişi Olumlu Sonuç</td>
+            <td>2.375 ₺</td>
+            <td>2.965 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>7-9 Kişi Olumlu Sonuç</td>
+            <td>2.965 ₺</td>
+            <td>3.560 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>10 ve üstü Kişi Olumlu Sonuç</td>
+            <td>3.560 ₺</td>
+            <td>4.155 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>2-3 Kişi Olumsuz Sonuç</td>
+            <td>885   ₺</td>
+            <td>1.180 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>4-6 Kişi Olumsuz Sonuç</td>
+            <td>1.180 ₺</td>
+            <td>1.480 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>7-9 Kişi Olumsuz Sonuç</td>
+            <td>1.480 ₺</td>
+            <td>1.775 ₺</td>
+        </tr>
+        <tr>
+            <td>2024</td>
+            <td>10 ve üstü Kişi Olumsuz Sonuç</td>
+            <td>1.775 ₺</td>
+            <td>2.070 ₺</td>
+        </tr>
+    </tbody>
+</table>
 
 
 <br>2023 yılı
-| Yıl  | Durum                                                               | Taban Ücret | Tavan Ücret |
-|------|---------------------------------------------------------------------|-------------|-------------|
-| 2023 | Uzlaştırma sürecinin teklif aşamasında olumsuz sonuçlanması hâlinde | 400   ₺     | 600   ₺     |
-| 2023 | 2-3 Kişi Olumlu Sonuç                                               | 1202  ₺     | 1606  ₺     |
-| 2023 | 4-6 Kişi Olumlu Sonuç                                               | 1606  ₺     | 2006  ₺     |
-| 2023 | 7-9 Kişi Olumlu Sonuç                                               | 2006  ₺     | 2406  ₺     |
-| 2023 | 10 ve üstü Kişi Olumlu Sonuç                                        | 2406  ₺     | 2808  ₺     |
-| 2023 | 2-3 Kişi Olumsuz Sonuç                                              | 600   ₺     | 800   ₺     |
-| 2023 | 4-6 Kişi Olumsuz Sonuç                                              | 800   ₺     | 1000  ₺     |
-| 2023 | 7-9 Kişi Olumsuz Sonuç                                              | 1000  ₺     | 1202  ₺     |
-| 2023 | 10 ve üstü Kişi Olumsuz Sonuç                                       | 1202  ₺     | 1400  ₺     |
+<table>
+    <thead>
+        <tr>
+            <th>Yıl</th>
+            <th>Durum</th>
+            <th>Taban Ücret</th>
+            <th>Tavan Ücret</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2023</td>
+            <td>Uzlaştırma sürecinin teklif aşamasında olumsuz sonuçlanması hâlinde</td>
+            <td>400   ₺</td>
+            <td>600   ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>2-3 Kişi Olumlu Sonuç</td>
+            <td>1202  ₺</td>
+            <td>1606  ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>4-6 Kişi Olumlu Sonuç</td>
+            <td>1606  ₺</td>
+            <td>2006  ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>7-9 Kişi Olumlu Sonuç</td>
+            <td>2006  ₺</td>
+            <td>2406  ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>10 ve üstü Kişi Olumlu Sonuç</td>
+            <td>2406  ₺</td>
+            <td>2808  ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>2-3 Kişi Olumsuz Sonuç</td>
+            <td>600   ₺</td>
+            <td>800   ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>4-6 Kişi Olumsuz Sonuç</td>
+            <td>800   ₺</td>
+            <td>1000  ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>7-9 Kişi Olumsuz Sonuç</td>
+            <td>1000  ₺</td>
+            <td>1202  ₺</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>10 ve üstü Kişi Olumsuz Sonuç</td>
+            <td>1202  ₺</td>
+            <td>1400  ₺</td>
+        </tr>
+    </tbody>
+</table>
 
