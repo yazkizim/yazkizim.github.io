@@ -17,8 +17,7 @@ layout: gokhan
         <option value="2023">2023</option>				
       </select>
       </div>
-      <small class="form-hint">Hesaplanacak Yılı Seçiniz
-      </a></small>
+      <small class="form-hint">Hesaplanacak Yılı Seçiniz</small>
   </div>
   <div class="mb-3">
       <label class="form-label required">Islah Edilen Toplam Değer</label>

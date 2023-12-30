@@ -15,6 +15,16 @@ addcoments: true
   </div>
   <div class="card-body">
     <div class="mb-3">
+        <label class="form-label required">Yıl</label>
+        <div>
+        <select type="text" class="form-select" placeholder="Seçiniz" id="yilistinaf" value="">
+          <option value="2024">2024</option>	
+          <option value="2023">2023</option>				
+        </select>
+        </div>
+        <small class="form-hint">Hesaplanacak Yılı Seçiniz</small>
+    </div>
+    <div class="mb-3">
       <label class="form-label required">Hükmedilen Değer
       </label>
       <div>
