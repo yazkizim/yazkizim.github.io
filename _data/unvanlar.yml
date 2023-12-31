@@ -4,6 +4,10 @@ unvan:
     deger: 19
   - adi: Avukat
     deger: 17
+  - adi: Ayniyat Saymanı
+    deger: 23
+  - adi: Bekçi
+    deger: 24       
   - adi: Bilgisayar İşletmeni
     deger: 22     
   - adi: Cezaevi Katibi
@@ -12,6 +16,10 @@ unvan:
     deger: 10
   - adi: Cezaevi Müdürü (Özel +13 P)
     deger: 11
+  - adi: Daktilograf
+    deger: 25
+  - adi: Hizmetli
+    deger: 26          
   - adi: İcra Katibi
     deger: 6
   - adi: İcra Müdürü
@@ -28,14 +36,24 @@ unvan:
     deger: 13
   - adi: İnfaz ve Koruma Memuru (Özel +13 P)
     deger: 14
+  - adi: Kaloriferci
+    deger: 27      
   - adi: Koruma ve Güvenlik (Silahsız)
     deger: 8
   - adi: Koruma ve Güvenlik (Silahlı)
     deger: 9
   - adi: Memur
-    deger: 18        
+    deger: 18
+  - adi: Mutemet
+    deger: 28               
   - adi: Mübaşir
     deger: 3
+  - adi: Orman Muhafaza Memuru
+    deger: 29
+  - adi: Şef 
+    deger: 31     
+  - adi: Şef (VHKİ ve Bilgisayar İşletmeni)
+    deger: 30          
   - adi: Şoför
     deger: 20
   - adi: Veri Hazırlama ve Kontrol İşletmeni
