@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-28 23:01:00 +0300
+last_modified_at: 2023-12-31 14:01:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1191,6 +1191,74 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 
 **1582- Atatürk'ün İsmet İnönü ye siz orada sadece düşmadı değil kötü giden makus talihinide yendiniz sözünü hangi savaştan sonra söylemiştir?**
 <br>İkinci İnönü Zaferi
+
+**1583- Müslümanların İlk kıblesi neresidir?**
+<br>Mescid-i Aksa (Arapça: المسجد الأقصى), Müslümanlarca kutsal kabul edilen ve Müslümanların ilk kıblesi olduğuna inanılan 144 dönümlük alan.
+
+**1584- Adalet bakanlığı merkez ve taşra birimlerindeki kaptan veya gemi kaptanı gibi görevlere atanmak için hangi eğitim kurumlarından mezun olmak gerekir?**
+<br>Gemi Adamı (Sınırlı Kaptan) kadrosuna başvurabilmek için;
+<br>En az Sınırlı Kaptan ehliyetine sahip olmak,
+<br>En az GMDSS Tahditli Telsiz Operatörü (ROC) yeterlik belgesine sahip olmak,
+<br>En az temel STCW belgelerine sahip olmak,
+<br>En az lise veya dengi okul mezunu olmak,
+<br>Geçerli Gemi Adamı Sağlık Raporuna sahip olmak
+<br>
+<br>Gemi Adamı (Sınırlı Vardiya Zabiti) kadrosuna başvurabilmek için;
+<br>En az Sınırlı Vardiya Zabiti ehliyetine sahip olmak,
+<br>En az GMDSS Tahditli Telsiz Operatörü (ROC) yeterlik belgesine sahip olmak,
+<br>En az temel STCW belgelerine sahip olmak,
+<br>En az lise veya dengi okul mezunu olmak,
+<br>Geçerli Gemi Adamı Sağlık Raporuna sahip olmak
+<br>
+<br>Gemi Adamı (Usta Gemici) kadrosuna başvurabilmek için;
+<br>En az Usta Gemici ehliyetine sahip olmak,
+<br>En az temel STCW belgelerine sahip olmak,
+<br>En az lise veya dengi okul mezunu olmak,
+<br>Geçerli Gemi Adamı Sağlık Raporuna sahip olmak
+
+**1585- Kosova’nın başkenti neresidir?**
+<br>Priştine
+<br>Priştine veya Piriştina Kosova'nın başkenti ve en büyük şehri. De facto olarak Kosova’nın Priştine ilinde; de jure olarak Sırbistan’a bağlı Kosova ve Metohiya Özerk Bölgesi’nin Kosovski ilinde yer alır. Ayrıca de jure olarak Birleşmiş Milletler Kosova Geçici Yönetim Misyonu’nun Priştine Bölgesi’nde bulunur.
+
+**1586- Birden fazla vekile yapılan tebligatta hangisi tebliğ tarihi olarak kabul edilir?**
+<br>Vekil vasıtasıyla takip edilen işlerde tebligat vekile yapılır. Vekil birden çok ise bunlardan birine tebligat yapılması yeterlidir. Eğer tebligat birden fazla vekile yapılmış ise, bunlardan ilkine yapılan tebliğ tarihi asıl tebliğ tarihi sayılır. Ancak, Ceza Muhakemeleri Usulu Kanununun, kararların sanıklara tebliğ edilmelerine ilişkin hükümleri saklıdır.
+
+**1587- Schuman planı nedir?**
+<br>İkinci Dünya Savaşı sonrasında, Avrupalı devlet adamlarının Avrupa'da kalıcı bir barış oluşturma çabaları hız kazandı. Robert Schuman (Fransa Dışişleri Bakanı), Eski Milletler Cemiyeti Genel Sekreteri Jean Monnet'in tasarısına dayanarak, 9 Mayıs 1950 tarihinde, Avrupa Devletlerini, kömür ve çelik üretiminde alınan kararları bağımsız ve uluslarüstü bir kuruma devretmeye davet etti. Schuman Planına göre, Avrupa'da bir barışın kurulabilmesi için Fransa ve Almanya arasında yüzyıllardır süregelen çekişmenin son bulması gerekiyordu. Bunun yolu ise, söz konusu kurumun gözetiminde, ortak kömür ve çelik üretimini sağlamak ve bu örgütlenmeyi tüm Avrupa devletlerinin katılımına açık tutmaktı.
+<br>Schuman Deklarasyonunun bir sonucu olarak, 1951 yılında, Belçika, Federal Almanya, Lüksemburg, Fransa, İtalya ve Hollanda'dan oluşan 6 üye ile Avrupa Kömür ve Çelik Topluluğu (AKÇT) kuruldu. Söz konusu Topluluğun Yüksek Otoritesi'nin ilk başkanı ise, Schuman Deklarasyonu'na ilham veren bu fikrin sahibi Jean Monnet oldu. Böylece, savaşın ham maddeleri olan kömür ve çelik, barışın araçları oluyor; dünya tarihinde ilk defa devletler kendi iradeleri ile egemenliklerinin bir kısmını ulusüstü bir kuruma devrediyordu.
+
+**1588- Resmi yazışmalarda alıntılar nasıl yapılır?**
+<br>Metin içinde yer alan alıntılar tırnak içinde ve/veya eğik (italik) olarak yazılabilir
+
+**1589- Sanayi Devrimini açıklayınız.**
+<br>Sanayi Devrimi ya da Endüstri Devrimi; Avrupa'da 18. ve 19. yüzyıllarda yeni buluşların üretime olan etkisi ve buhar gücüyle çalışan makinelerin makineleşmiş endüstriyi ortaya çıkarmasıyla birlikte yaşanan gelişmelerin de Avrupa'daki sermaye birikimine katkı sağlamasına ve artırmasına denmektedir.
+
+**1590- Muris nedir?**
+<br>Muris, yani mirasbırakan; ölüm dolayısıyla, hak ve borçları hukuki olarak başkalarına aktarılan kişidir.
+
+**1591- Sözleşmeli memurun doğum sonrasi ücretsiz izin hakkı suresi?**
+<br>Doğum yapan memura, 104 üncü madde uyarınca verilen doğum sonrası analık izni süresinin veya aynı maddenin (F) fıkrası uyarınca verilen izin süresinin bitiminden; eşi doğum yapan memura ise, doğum tarihinden itibaren istekleri üzerine yirmidört aya kadar aylıksız izin verilir.
+
+**1592- Mimar Sinan'ın çıraklık eseri Şehzade Camii nerededir?**
+<br>Şehzade Camii (Şehzade Mehmet Camii ya da Şehzadebaşı Camii olarak da bilinir), İstanbul'un Fatih ilçesinde yer alan ve Mimar Sinan tarafından yapılan cami, I. Süleyman tarafından Saruhan Sancak Beyi iken 1543'te 22 yaşında ölen oğlu Mehmed adına yaptırılmıştır. Camiyi 1543-1548 yılları arasında Mimar Sinan'a yaptırttı. Mimar Sinan'ın "çıraklık eserimdir" dediği camidir.
+
+**1593- İlk Kadın Muhabir kimdir ?**
+<br>Semiha Es (12 Aralık 1912, İstanbul, Osmanlı İmparatorluğu - 11 Aralık 2012, İstanbul, Türkiye), ilk Türk kadın savaş muhabiri ve fotoğrafçıdır. Ünlü gazeteci Hikmet Feridun Es'in eşidir.
+
+**1594- Erzurum kongresindeki temsil heyeti hangi kongreyle tüm ulusa yayıldı?**
+<br>Heyet-i Temsiliye, İlk olarak Erzurum Kongresi delegeleri arasından doğu illerini temsil etmek ve kongrenin kararlarını uygulamak üzere seçilen 9 kişilik kurula Sivas Kongresi'nden sonra tüm yurdu temsil etmek görevini verilmiş ve üye sayısı 16 kişiye çıkarılmıştır.
+
+**1595- Boşanma sonrası hak ve alacaklar için açılacak davada zamanaşımı süresi nedir?**
+<br>Madde boşanma sebebiyle açılacak davaların, evliliğin boşanma nedeniyle son bulmasından itibaren bir yıllık zamanaşımı süresine tâbidir
+
+**1596- Kınama cezası hangi hallerde verilir?**
+<br>Memura, görevinde ve davranışlarında kusurlu olduğunun yazı ile bildirilmesidir. Görevle ilgili hususlarda kusurlu davranmak, görev sırasında amire saygısız davranmak, devlete ait resmi araç, gereç ve benzeri eşyayı özel işlerinde kullanmak hallerinde verilebilir.
+
+**1597- I.Dünya savaşı kimler arasında oldu?**
+<br>I. Dünya Savaşı'nda İngiltere, Fransa, Sırbistan ve Rusya İmparatorluğu'nun oluşturduğu (daha sonra İtalya, Yunanistan, Portekiz, Romanya ve ABD'nin katıldığı) İtilaf Devletleri, Almanya ve Avusturya-Macaristan'ın oluşturduğu (daha sonra Osmanlı İmparatorluğu ve Bulgaristan'ın katıldığı) İttifak Devletleri'yle savaştı.
+
+**1598- AYM’de kimler Yüce Divan Sıfatıyla yargılanır?**
+<br>Cumhurbaşkanını, Türkiye Büyük Millet Meclisi Başkanını, Cumhurbaşkanı yardımcılarını, bakanları, Anayasa Mahkemesi, Yargıtay, Danıştay başkan ve üyelerini,  başsavcılarını,  Cumhuriyet Başsavcıvekilini, Hâkimler ve Savcılar Kurulu ve Sayıştay başkan ve üyelerini, Genelkurmay Başkanı ile Kara, Deniz ve Hava Kuvvetleri komutanlarını görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılamak.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
