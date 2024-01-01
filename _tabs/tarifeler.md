@@ -27,6 +27,27 @@ titleabout: Adalet Bakanlığı Tarifeleri
           </div>          
         </div>
       </div>
+    </a>   
+  </article>
+  <article class="card-wrapper"> 
+    <a href="/cmkavukat/" class="card post-preview flex-md-row-reverse">   
+    <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa fa-briefcase fa-fw me-1 fa-3x align-middle text-primary"> </i></div> 
+    <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">CMK Avukatlık Asgari Ücret Tarifesi
+        </h1>
+        <div class="card-text content mt-0 mb-2">
+          <p> CMK 2023 yılı Avukatlık Asgari Ücret Tarifesi
+          </p>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto"> 
+            <i class="far fa-calendar fa-fw me-1">
+            </i> 
+            <time>18/09/2023
+            </time>             
+          </div>          
+        </div>
+      </div>
     </a>    
   </article>
   <article class="card-wrapper"> 
