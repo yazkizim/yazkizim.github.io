@@ -1326,6 +1326,36 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>HMK Madde 356 Gerekçesi
 <br>Bölge adliye mahkemesince, duruşma yapılmadan verilecek kararlara ilişkin 357 nci (yasada 353 üncü) maddede belirtilen hâller dışında, ilk derece mahkemesi kararının duruşmalı olarak inceleneceği esası getirilmiştir. Duruşma yapılmasına karar verilmesi hâlinde duruşma günü taraflara tebliğ edilerek tarafların duruşmaya katılmalarının sağlanacağı belirtilmektedir.
 
+**1614- Tanığa tebligat en geç ne kadar süreye kadar gönderilir?(CMK da süre yazmıyordu, HMK yı aldım)**
+<br> Tanık davetiye ile çağrılır. Ancak, davetiye gönderilmeden taraflarca hazır bulundurulan tanık da dinlenir. Şu kadar ki, tanık listesi için kesin süre verildiği ve dinlenme gününün belirlendiği hâllerde, liste verilmemiş olsa dahi taraf, o duruşmada hazır bulundurursa tanıklar dinlenir.(2) Davetiyenin duruşma gününden en az bir hafta önce tebliğ edilmiş olması gerekir. Acele hâllerde tanığın daha önce gelmesine karar verilebilir.(3) Tanığı davet, gerektiğinde telefon, faks, elektronik posta gibi araçlardan yararlanılmak suretiyle de yapılabilir. Ancak, davete rağmen gelmemeye bağlanan sonuçlar, bu durumda uygulanmaz.
+
+**1615- 657 DMK’da memur kaç defa çekilebilir?**
+<br>2 defa
+
+**1616- Toplanış şekli bakımından bölgesel, aldığı kararlar bakımından milli olan kongre hangisidir?**
+<br>Erzurum kongresi
+
+**1617- Aristo olarak bilinen İslam alimi kimdir?**
+<br>İbn-i Rüşd
+
+**1618- Sadece zilyetliğin korunmasına bakmakla görevli mahkeme hangisidir?**
+<br>Sulh hukuk Mahkemesi
+
+**1619- Memura verilen ölüm aylığı nedir?**
+<br>Devlet memurlarından: memur olmayan eşi ile(…) aile yardımı ödeneğine müstehak çocuğu ölenlere en yüksek Devlet memuru aylığı (ek gösterge dahil) tutarında, memurun ölümü halinde sağlığında bildiri ile gösterdiği kimseye, eğer bildiri vermemiş ise eşine ve çocuklarına, bunlar yoksa ana ve babasına, bunlar da yoksa kardeşlerine en yüksek Devlet memuru aylığının (ek gösterge dahil) iki katı tutarında, ölüm yardımı ödeneği verilir. Ölüm yardımı ödeneği, hiçbir vergi ve kesintiye tabi tutulmaksızın ve ödeme emri aranmaksızın saymanlarca derhal ödenir. Bu yardım borç için haczedilemez.
+
+**1620- Şüpheli veya sanık keşifte nasıl bulunur?**
+<br>Keşif yapılması sırasında şüpheli, sanık, mağdur ve bunların müdafii ve vekili hazır bulunabilirler. Mağdur, şüpheli veya sanığın huzuru, tanıklardan birinin gerçeğe uygun tanıklık etmesine engel olabilecekse, o işte şüpheli veya sanığın bulunmamasına karar verilebilir, Şüpheli veya sanık tutuklu ise, hâkim veya mahkeme tarafından ancak zorunlu sayılan hâllerde keşifte hazır bulundurulmasına karar verilebilir.
+
+**1621- Tanzimat Fermanının diğer adı nedir?**
+<br>Gülhane Hatt-ı Şerifi, Gülhane Hatt-ı Hümâyûnu veya Tanzimât-ı Hayriye
+
+**1622- Adalet Bakanlığına bağlı kuruluşlar nelerdir?**
+<br>Adli tıp Kurumu Başkanlığı, Ceza infaz kurumları ile tutukevleri işyurtları kurum başkanlığı
+
+**1623- Laborant alım şartları nelerdir?**
+<br>Bu unvanları veren yüksek okul veya meslek liselerinin ilgili bölümlerinden mezun olmak,
+
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
 
