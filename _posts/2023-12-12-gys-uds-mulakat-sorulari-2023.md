@@ -1356,6 +1356,9 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 **1623- Laborant alım şartları nelerdir?**
 <br>Bu unvanları veren yüksek okul veya meslek liselerinin ilgili bölümlerinden mezun olmak,
 
+**1624- Mevlana’nın akıl hocası kimdir?**
+<br>Kaynaklarda genellikle Burhâneddin Muhakkık-ı Tirmizî olarak anılan büyük mutasavvıf ve mücahede adamı 561/1166 veya 565/1169 yılında Seyyid Hasan Tirmizî'nin oğlu olarak Tirmiz'de dünyaya geldi.
+
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
 

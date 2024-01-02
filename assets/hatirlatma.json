@@ -8217,5 +8217,49 @@
           {
             "soru": "İstinafta talep halinde duruşma yapılması zorunlu mudur?",
             "cevap": "İstinaf Mahkemesinin Duruşmalı İnceleme Yapması: Duruşmalı inceleme için bir talep olmasına gerek yoktur. İstinaf mahkemesi, ceza davasının hızlı, kesin ve adil bir şekilde çözülmesi için duruşmalı inceleme yapılmasını zorunlu görüyorsa duruşma açarak karar verir."
+          },
+          {
+            "soru": "Tanığa tebligat en geç ne kadar süreye kadar gönderilir? (CMK da süre yazmıyordu, HMK yı aldım)",
+            "cevap": "Tanık davetiye ile çağrılır. Ancak, davetiye gönderilmeden taraflarca hazır bulundurulan tanık da dinlenir. Davetiyenin duruşma gününden en az bir hafta önce tebliğ edilmiş olması gerekir. Acele hâllerde tanığın daha önce gelmesine karar verilebilir. Tanığı davet, gerektiğinde telefon, faks, elektronik posta gibi araçlardan yararlanılmak suretiyle de yapılabilir. Ancak, davete rağmen gelmemeye bağlanan sonuçlar, bu durumda uygulanmaz."
+          },
+          {
+            "soru": "657 DMK’da memur kaç defa çekilebilir?",
+            "cevap": "2 defa"
+          },
+          {
+            "soru": "Toplanış şekli bakımından bölgesel, aldığı kararlar bakımından milli olan kongre hangisidir?",
+            "cevap": "Erzurum kongresi"
+          },
+          {
+            "soru": "Aristo olarak bilinen İslam alimi kimdir?",
+            "cevap": "İbn-i Rüşd"
+          },
+          {
+            "soru": "Sadece zilyetliğin korunmasına bakmakla görevli mahkeme hangisidir?",
+            "cevap": "Sulh Hukuk Mahkemesi"
+          },
+          {
+            "soru": "Memura verilen ölüm aylığı nedir?",
+            "cevap": "Devlet memurlarından: memur olmayan eşi ile(…) aile yardımı ödeneğine müstehak çocuğu ölenlere en yüksek Devlet memuru aylığı (ek gösterge dahil) tutarında, memurun ölümü halinde sağlığında bildiri ile gösterdiği kimseye, eğer bildiri vermemiş ise eşine ve çocuklarına, bunlar yoksa ana ve babasına, bunlar da yoksa kardeşlerine en yüksek Devlet memuru aylığının (ek gösterge dahil) iki katı tutarında, ölüm yardımı ödeneği verilir. Ölüm yardımı ödeneği, hiçbir vergi ve kesintiye tabi tutulmaksızın ve ödeme emri aranmaksızın saymanlarca derhal ödenir. Bu yardım borç için haczedilemez."
+          },
+          {
+            "soru": "Şüpheli veya sanık keşifte nasıl bulunur?",
+            "cevap": "Keşif yapılması sırasında şüpheli, sanık, mağdur ve bunların müdafii ve vekili hazır bulunabilirler. Mağdur, şüpheli veya sanığın huzuru, tanıklardan birinin gerçeğe uygun tanıklık etmesine engel olabilecekse, o işte şüpheli veya sanığın bulunmamasına karar verilebilir. Şüpheli veya sanık tutuklu ise, hâkim veya mahkeme tarafından ancak zorunlu sayılan hâllerde keşifte hazır bulundurulmasına karar verilebilir."
+          },
+          {
+            "soru": "Tanzimat Fermanının diğer adı nedir?",
+            "cevap": "Gülhane Hatt-ı Şerifi, Gülhane Hatt-ı Hümâyûnu veya Tanzimât-ı Hayriye"
+          },
+          {
+            "soru": "Adalet Bakanlığına bağlı kuruluşlar nelerdir?",
+            "cevap": "Adli Tıp Kurumu Başkanlığı, Ceza infaz kurumları ile tutukevleri işyurtları kurum başkanlığı"
+          },
+          {
+            "soru": "Laborant alım şartları nelerdir?",
+            "cevap": "Bu unvanları veren yüksek okul veya meslek liselerinin ilgili bölümlerinden mezun olmak,"
+          },
+          {
+            "soru": "Mevlana’nın akıl hocası kimdir?",
+            "cevap": "Kaynaklarda genellikle Burhâneddin Muhakkık-ı Tirmizî olarak anılan büyük mutasavvıf ve mücahede adamı 561/1166 veya 565/1169 yılında Seyyid Hasan Tirmizî'nin oğlu olarak Tirmiz'de dünyaya geldi."
           }
 ]
