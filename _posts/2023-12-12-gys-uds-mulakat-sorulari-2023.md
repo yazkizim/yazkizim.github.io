@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2023-12-31 14:01:00 +0300
+last_modified_at: 2024-01-02 22:01:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1301,6 +1301,12 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>i) Dosya incelenmesine nezaret etmek ve dosya inceleme tutanağını düzenlemek.
 <br>j) İşi biten dosyaları arşive kaldırtmak.
 <br>k) Mevzuattan kaynaklanan veya başkan, daire başkanı, üye, Cumhuriyet başsavcısı, Cumhuriyet başsavcıvekili, Cumhuriyet savcısı ya da müdürün vereceği diğer görevleri yerine getirmek.
+
+**1607- Şeftali ve ipek ile ünlü ilimiz?**
+<br>Bursa
+
+**1608- İstanbuldaki yeni yapılan havaalanı?**
+<br>İstanbul Havalimanı (IATA: IST, ICAO: LTFM), Türkiye'nin İstanbul şehrinde hizmet veren uluslararası havalimanıdır. Şehrin Avrupa Yakası'nda, Karadeniz kıyısındaki Tayakadın ile Akpınar köyleri arasında yer alan havalimanı 29 Ekim 2018'de açılmıştır.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
