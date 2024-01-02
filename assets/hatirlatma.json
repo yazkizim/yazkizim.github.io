@@ -8197,5 +8197,25 @@
           {
             "soru": "İstanbul'daki yeni yapılan havaalanı nedir?",
             "cevap": "İstanbul Havalimanı (IATA: IST, ICAO: LTFM)"
+          },
+          {
+            "soru": "Metaverse nedir?",
+            "cevap": "Metaverse veya Türkçe tabiriyle sanal evren, geleneksel kişisel bilgisayarların yanı sıra sanal ve artırılmış gerçeklik cihazları aracılığıyla kalıcı çevrimiçi 3 boyutlu sanal ortamları destekleyen, İnternet'in varsayımsal bir yinelemesidir."
+          },
+          {
+            "soru": "Osmanlı'da hukuk sistemini açıklayınız.",
+            "cevap": "Osmanlı Hukuku şer'î hukuk ve örfî hukuk olmak üzere iki kısımdan oluşmaktadır. Şer'î hukuk, kaynağı Kur'an, Sünnet, icma ve kıyas olan ve fıkıh kitaplarında yazılı halde bulunan normlar manzumesidir. Örfî hukuk ise, padişahın iradesine dayanarak ferman ve kanunnamelerle ortaya çıkan hukuktur."
+          },
+          {
+            "soru": "Hukuk sistemi ne işe yarar?",
+            "cevap": "Hukuk, diğer toplumu düzenleyici kurallar olan örf ve adetler, gelenekler ve dinlerden ayıran özellik devlet tarafından güvenceye alınmış ve cebrî yaptırımlara sahip olmasıdır. Hukuk kuralları insan davranışlarını düzenler ve bulunduğu toplumun değer yargılarını taşır."
+          },
+          {
+            "soru": "E-duruşma talebinde bulunan avukat talebi kimin ekranına düşer?",
+            "cevap": "E-duruşma talebi hakkında hâkim, duruşma gününden en az bir iş günü önce kabul veya ret hususunda karar verir. Bu karar kesindir."
+          },
+          {
+            "soru": "İstinafta talep halinde duruşma yapılması zorunlu mudur?",
+            "cevap": "İstinaf Mahkemesinin Duruşmalı İnceleme Yapması: Duruşmalı inceleme için bir talep olmasına gerek yoktur. İstinaf mahkemesi, ceza davasının hızlı, kesin ve adil bir şekilde çözülmesi için duruşmalı inceleme yapılmasını zorunlu görüyorsa duruşma açarak karar verir."
           }
 ]
