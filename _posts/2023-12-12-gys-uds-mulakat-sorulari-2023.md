@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-02 22:01:00 +0300
+last_modified_at: 2024-01-02 22:20:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1307,6 +1307,24 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 
 **1608- İstanbuldaki yeni yapılan havaalanı?**
 <br>İstanbul Havalimanı (IATA: IST, ICAO: LTFM), Türkiye'nin İstanbul şehrinde hizmet veren uluslararası havalimanıdır. Şehrin Avrupa Yakası'nda, Karadeniz kıyısındaki Tayakadın ile Akpınar köyleri arasında yer alan havalimanı 29 Ekim 2018'de açılmıştır.
+
+**1609- Metaverse nedir?**
+<br>Metaverse veya Türkçe tabiriyle sanal evren, geleneksel kişisel bilgisayarların yanı sıra sanal ve artırılmış gerçeklik cihazları aracılığıyla kalıcı çevrimiçi 3 boyutlu sanal ortamları destekleyen, İnternet'in varsayımsal bir yinelemesidir.
+
+**1610- Osmanlı'da hukuk sistemini açıklayınız**
+<br>Osmanlı Hukuku şer'î hukuk ve örfî hukuk olmak üzere iki kısımdan oluşmaktadır. Şer'î hukuk, kaynağı Kur'an, Sünnet, icma ve kıyas olan ve fıkıh kitaplarında yazılı halde bulunan normlar manzumesidir. Örfî hukuk ise, padişahın iradesine dayanarak ferman ve kanunnamelerle ortaya çıkan hukuktur.
+
+**1611- Hukuk sistemi ne işe yarar?**
+<br>Hukuku diğer toplumu düzenleyici kurallar olan örf ve adetler, gelenekler ve dinlerden ayıran özellik devlet tarafından güvenceye alınmış ve cebrî yaptırımlara sahip olmasıdır. Hukuk kuralları insan davranışlarını düzenler ve bulunduğu toplumun değer yargılarını taşır.
+
+**1612- E duruşma talebinde bulunan avukat talebi kimin ekranına düşer**
+<br>MADDE 9 – (1) e-Duruşma talebi hakkında hâkim, duruşma gününden en az bir iş günü önce kabul veya ret hususunda karar verir. Bu karar kesindir.
+
+**1613- İstinafta talep halinde durusma yapılması zorunlu mudur?**
+<br>İstinaf Mahkemesinin Duruşmalı İnceleme Yapması
+<br>Duruşmalı inceleme için bir talep olmasına gerek yoktur. İstinaf mahkemesi, ceza davasının hızlı, kesin ve adil bir şekilde çözülmesi için duruşmalı inceleme yapılmasını zorunlu görüyorsa duruşma açarak karar verir.
+<br>HMK Madde 356 Gerekçesi
+<br>Bölge adliye mahkemesince, duruşma yapılmadan verilecek kararlara ilişkin 357 nci (yasada 353 üncü) maddede belirtilen hâller dışında, ilk derece mahkemesi kararının duruşmalı olarak inceleneceği esası getirilmiştir. Duruşma yapılmasına karar verilmesi hâlinde duruşma günü taraflara tebliğ edilerek tarafların duruşmaya katılmalarının sağlanacağı belirtilmektedir.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
