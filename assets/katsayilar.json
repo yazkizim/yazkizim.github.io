@@ -45,7 +45,7 @@
         "durum": "farkkatsayilar",
         "enflasyon": 1.3,
         "aylik_katsayi": 0.076112,
-        "taban_ayligi_katsayi": 1.191293,
+        "taban_ayligi_katesayi": 1.191293,
         "yan_odeme_katsayi": 0.024138,
         "gelir_vergisi_istisna": 72.83,
         "damga_vergisi_istisna": 0
@@ -58,5 +58,14 @@
         "yan_odeme_katsayi": 0.083229,
         "gelir_vergisi_istisna": 110,
         "damga_vergisi_istisna": 0
-    }
+    },
+    {
+        "durum": "eneski",
+        "enflasyon": 1.3,
+        "aylik_katsayi": 0.509796,
+        "taban_ayligi_katsayi": 7.979285,
+        "yan_odeme_katsayi": 0.161673,
+        "gelir_vergisi_istisna": 2280.46,
+        "damga_vergisi_istisna": 101.82
+    },
 ]

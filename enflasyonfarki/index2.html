@@ -1,0 +1,121 @@
+---
+title: 2024 Enflasyon Farkı Hesaplama Yöntemi
+keywords: memur enflasyon farkı, toplu sözleşme, enflasyon nasıl hesaplanır, 6 aylık fark nasıl hesaplanır, enflasyon farkı nasıl
+permalink: /enflasyonfarki2/
+layout: gokhan
+subcat: maaş
+comments: true
+addcoments: true
+---
+<div class="card-header">
+    <h3 class="card-title">Enflasyon Farkı Hesaplama Yöntemi</h3>
+  </div>
+  <div class="card-body">
+      <div class="alert alert-warning" role="alert">
+          Enflasyon sütununa beklenen rakamları yazdığınızda oluşacak enflasyon farkını ve kümülatif artışı hesaplamaktadır. 
+          <br><br>Bu rakamların maaşlara etkisini görmek için <code class="highlighter-rouge">Maaş Menüsünü</code> kullanınız.
+      </div>
+    <form id="enffarkform" data-gtm-form-interact-id="0">
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Aralık 2023</label>
+            <div class="col-sm-3">
+                <input type="number" id="0ay2003" class="form-control" value="1351.59" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Toplu Sözleşme Zammı</label>
+            <div class="col-sm-3">
+                <input type="number" id="0aye" class="form-control" value="15" step=".01" disabled>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Ocak</label>
+            <div class="col-sm-3">
+                <input type="number" id="1ay2003" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Ocak Enflasyon </label>
+            <div class="col-sm-3">
+                <input type="number" id="1aye" class="form-control" value="0" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Şubat</label>
+            <div class="col-sm-3">
+                <input type="number" id="2ay2003" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Şubat Enflasyon </label>
+            <div class="col-sm-3">
+                <input type="number" id="2aye" class="form-control" value="0" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Mart</label>
+            <div class="col-sm-3">
+                <input type="number" id="3ay2003" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Mart Enflasyon</label>
+            <div class="col-sm-3">
+                <input type="number" id="3aye" class="form-control" value="0" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Nisan</label>
+            <div class="col-sm-3">
+                <input type="number" id="4ay2003" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Nisan Enflasyon</label>
+            <div class="col-sm-3">
+                <input type="number" id="4aye" class="form-control" value="0" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Mayıs</label>
+            <div class="col-sm-3">
+                <input type="number" id="5ay2003" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Mayıs Enflasyon</label>
+            <div class="col-sm-3">
+                <input type="number" id="5aye" class="form-control" value="0" step=".01">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">2003=100 Haziran</label>
+            <div class="col-sm-3">
+                <input type="number" id="6ay2003" class="form-control" value="0" step=".01" disabled>
+            </div>
+            <label for="yargilamagideri" class="col-sm-3 col-form-label">Haziran Enflasyon</label>
+            <div class="col-sm-3">
+                <input type="number" id="6aye" class="form-control" value="0" step=".01">
+            </div>
+        </div>      
+        <div class="form-group row">
+          <label for="yargilamagideri" class="col-sm-3 col-form-label"></label>
+          <label for="yargilamagideri" class="col-sm-3 col-form-label"></label>
+          <label for="yargilamagideri" class="col-sm-3 col-form-label">2024 Temmuz Toplu Sözleşme</label>
+          <div class="col-sm-3">
+              <input type="number" id="tszam" class="form-control" value="10" step=".01" disabled>
+          </div>
+      </div>
+  </div>
+  <div class="card-body d-flex align-items-center justify-content-center h-100">
+    <label id="hesapsonuc" name="hesapsonuc" class="text-justify mh-25">
+        <h1 class="m-0"></h1>
+    </label>
+  </div>
+  <div class="card-footer">
+    <a type="submit" class="btn btn-outline-danger w-100" id ="enffarktemizle" name="enffarktemizle">Temizle
+    </a>
+    <a type="submit" class="btn btn-outline-primary w-100" id ="enffarkhesapla" name="enffarkhesapla">Hesapla
+    </a>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-lg-12">
+        <div class="col-lg-12">
+            <div class="card border-primary mb-3">
+                <div class="card-header text-center font-weight-bold text-primary"> SONUÇ </div>
+                <div class="card-body">
+                    <p class="card-text text-justify" id="enffark"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+  </div>
+  </form>
