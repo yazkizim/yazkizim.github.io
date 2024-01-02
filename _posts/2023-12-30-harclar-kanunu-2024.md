@@ -6,7 +6,7 @@ categories: [Tarifeler, Harçlar Kanunu Tarifesi]
 tags: [Harçlar Kanunu ücret, '2024', tarife, adliyeci]
 keywords: Harçlar Kanunu ücret tarifesi, 2024, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png
