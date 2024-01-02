@@ -1,7 +1,7 @@
 ---
 title: Aralık Ayı Enflasyonu ve Yıllık Enflasyon Farkı 3 Ocakta Belli oluyor
 author: gokhantasci
-date: 2023-01-02 16:16:00 +0300
+date: 2024-01-02 16:16:00 +0300
 categories: [Enflasyon, 2023 yılı]
 tags: [enflasyon farkı, Aralık, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Kasım, maaş, adliyeci, Adalet Bakanlığı
