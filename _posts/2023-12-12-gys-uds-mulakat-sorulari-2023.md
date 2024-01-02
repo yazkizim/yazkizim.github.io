@@ -1260,6 +1260,48 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 **1598- AYM’de kimler Yüce Divan Sıfatıyla yargılanır?**
 <br>Cumhurbaşkanını, Türkiye Büyük Millet Meclisi Başkanını, Cumhurbaşkanı yardımcılarını, bakanları, Anayasa Mahkemesi, Yargıtay, Danıştay başkan ve üyelerini,  başsavcılarını,  Cumhuriyet Başsavcıvekilini, Hâkimler ve Savcılar Kurulu ve Sayıştay başkan ve üyelerini, Genelkurmay Başkanı ile Kara, Deniz ve Hava Kuvvetleri komutanlarını görevleriyle ilgili suçlardan dolayı Yüce Divan sıfatıyla yargılamak.
 
+**1599- İlk Türkçe yazılı eser nedir?**
+<br>İslamiyet'in Türklerce kabulünden sonraki bilinen ilk Türkçe yazılı eser, 11. yüzyılda Yusuf Has Hacib'in Doğu Karahanlı hükümdarı Tabgaç Uluğ Buğra Kara Han'a atfen Eski Türkçe olarak bilinen Karahanlı Türkçesi ile yazdığı ve takdim ettiği **Kutadgu Bilig'dir.**
+
+**1600- Polonya savaşı ile başlayan ve 2. Dünya savaşına dönüşen savaşta holokost katliamı olarak anılan katliamı gerçekleştiren kimdir?**
+<br>**Adolf Hitler** liderliğindeki Nazi Partisi'nin yönettiği Nazi Almanyası döneminde, işgal edilen sınırlar içerisindeki yaklaşık altı milyon Yahudinin sistemli bir şekilde öldürüldükleri katliama verilen isimdir. Yahudilerle birlikte çok sayıda Roman, eşçinsel ve engelli kişi de katledilmiştir.
+
+**1601- Mülkiyet hakkı nedir?**
+<br>Mülkiyet hakkı; taşınır ya da taşınmaz bir eşya üzerinde hakkı bulunan hak sahibine mülkü kullanma, yararlanma ve mülk üzerinde işlem gerçekleştirme yetkisi veren, hukuk düzeninin sınırları içinde kullanılabilecek ayni hak anlamına gelmektedir. Bu hak kapsamına asıl eşya (gayrimenkul) ile birlikte bütünleyici parça ve eklentileri de girmektedir.
+
+**1602- “Şehirlerin şahı” olarak bilinen yer neresidir?**
+<br>Semerkant, çok gözde bir merkezdir. Kısa dönemlerle başkentlik verilen bu stratejik şehir, daha sonraki zamanlarda büyük Timur'la gerçekleştirdiği çıkışına ve "şehirlerin şahı" unvanına yolculuğunu, bu 13.asırlarda başlatır.
+
+**1603- Şeyh edebalı kimdir?**
+<br>Şeyh Edebali, Osmanlı Devleti'nin kuruluş yıllarında yaşamış bir Ahi şeyhi. Şeyh Edebali; Ahi Teşkilatı'nın şeyhi, Osman Gazi'nin kayınbabası ve hocasıdır. Ayrıca Râbi'a Bala Hâtun'un babasıdır ve Osmanlı Devleti'nin de fikir babasıdır, aynı zamanda İslam bilginidir.
+
+**1604- Çaka bey kimdir?**
+<br>Çaka Bey veya Çağa Bey, Selçuklu komutanı ve denizcisidir. 1071'deki Malazgirt Meydan Muharebesi'nin ardından Selçukluların Anadolu coğrafyasına yayıldıkları dönemde Smirni merkezli bağımsız bir beylik kurmuştur. Türk tarihinin ilk donanmasını oluşturduğu için tarihteki ilk Türk amirali olarak kabul edilmektedir.
+
+**1605- Uluğ beyin astronomi alanındaki çalışmaları nelerdir?**
+<br>Rasathanede yapılan gözlem ve hesaplamalar, günümüz astronomi değerlerine oldukça yakındır. Uluğ Bey, bir yılın uzunluğunu 365 gün 6 saat 10 dakika 8 saniye olarak belirlemiştir. Modern ölçümlere göre de 365 gün 6 saat 9 dakika 9.6 saniyedir; aradaki fark 1 dakikadan azdır.
+
+**1606- peygamberleri ve din adamlarını öven kitaba ne denir?**
+<br>Şiir olana naat denir.
+<br>Peygamberleri övene hilye denir. Özellikle Muhammed aleyhisselami övene şemail denir
+
+**1606- Bam Zabıt Katibinin görevleri nelerdir?**
+<br>(12) Zabıt kâtibinin görev ve sorumlulukları şunlardır:
+<br>a) İş bölümüne göre kendisine verilen işleri biriktirmeden zamanında yapmak.
+<br>b) Dosyaları ve evrakı zamanında kaydetmek.
+<br>c) Yargılaması devam eden dosyaları eksiksiz ve düzenli bir şekilde muhafaza etmek.
+<br>ç) Başkan, daire başkanı, üye, Cumhuriyet başsavcısı, Cumhuriyet başsavcıvekili ve Cumhuriyet savcısının uygun göreceği evrakın havalesini yapmak.
+<br>d) Müzekkereleri yazarak, takip ve tekid işlemlerini yapmak.
+<br>e) Duruşma ve keşif işlemlerinde hazır bulunarak tutanağı yazmak ve imzalamak.
+<br>f) Cumhuriyet başsavcılığı işlemleri ile daire ara kararlarının gereğini yapmak.
+<br>g) Karar ve tutanakları başkan, daire başkanı, üye, Cumhuriyet başsavcısı, Cumhuriyet başsavcıvekili ve Cumhuriyet savcısının bildirdiği şekilde dikkat ve itina ile yazarak imzalamak.
+<br>ğ) Fizikî olarak bilirkişilere teslimi gereken dosyalarla ilgili işlemleri yapmak.
+<br>h) Her türlü tebligat evrakını hazırlamak.
+<br>ı) Dizi pusulası düzenlemek.
+<br>i) Dosya incelenmesine nezaret etmek ve dosya inceleme tutanağını düzenlemek.
+<br>j) İşi biten dosyaları arşive kaldırtmak.
+<br>k) Mevzuattan kaynaklanan veya başkan, daire başkanı, üye, Cumhuriyet başsavcısı, Cumhuriyet başsavcıvekili, Cumhuriyet savcısı ya da müdürün vereceği diğer görevleri yerine getirmek.
+
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
 
