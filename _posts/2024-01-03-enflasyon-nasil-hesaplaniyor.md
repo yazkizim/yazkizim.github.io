@@ -62,7 +62,7 @@ Olması gerekirken, site üzerinde yaptığım incelemede Taban aylık katsayıs
 <br>Taban aylık katsayısı 11,909880,
 <br>Memur aylık katsayısı 0,760922,
 <br>Yan Ödeme Katsayısı 0,241313,
-<br>Olmasını beklemekteyim. 
+<br>Olmasını beklemekteyim ve sitedeki bu katsayılara bağlı **tüm hesaplamalar bu katsayılar esas alınarak yapılmıştır**. 
 
 <br>Yıl sonunda oluşması beklenen enflasyon farkı dahil maaş robotu için [**tıklayınız**](https://adliyeci.com.tr/maasyeni/) 
 <br>Enflasyon farkını hesaplama yöntemi için [**tıklayınız**](https://adliyeci.com.tr/enflasyonfarki/) 
