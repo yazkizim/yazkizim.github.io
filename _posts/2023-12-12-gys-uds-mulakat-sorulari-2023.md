@@ -1359,6 +1359,50 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 **1624- Mevlana’nın akıl hocası kimdir?**
 <br>Kaynaklarda genellikle Burhâneddin Muhakkık-ı Tirmizî olarak anılan büyük mutasavvıf ve mücahede adamı 561/1166 veya 565/1169 yılında Seyyid Hasan Tirmizî'nin oğlu olarak Tirmiz'de dünyaya geldi.
 
+**1625- Hamlet’in yazarı kimdir?**
+<br>William Shakespeare, İngiliz şair, oyun yazarı ve oyuncu. Genellikle İngilizce dilinin en büyük yazarı ve dünyanın en iyi dram oyunu yazarı olarak anılır. İngiltere'nin ulusal şairi ve "Avon'un Ozanı" olarak da bilinir.
+
+**1626- Pakistanın başkenti?**
+<br>İslamabad
+
+**1627- Nutuk hangi yılları kapsar?**
+<br>Atatürk'ün Samsun'a çıktığı tarih olan 19 Mayıs 1919'dan, Cumhuriyet sonrası inkılap dönemine kadarki (1927) zaman diliminde olan olayları anlatmaktadır.
+
+**1628- Anayasa mahkemesine başvuru süresi kaç gün?**
+<br>Anayasa Mahkemesi İçtüzüğü'nün “Başvuru süresi ve mazeret” başlıklı 64. maddesi şöyledir: “Bireysel başvurunun, başvuru yollarının tüketildiği tarihten, başvuru yolu öngörülmemişse ihlalin öğrenildiği tarihten itibaren otuz gün içinde yapılması gerekir.
+
+**1629- Dalton kardeşlerin olduğu çizgi film kahramanı olan kovboyun adı nedir?**
+<br>Red-Kit
+<br>Red Kit'in sadık “silah arkadaşı” sevimli köpek Rin Tin Tin
+
+**1630- Kitleler psikolojisinin yazarı olan ünlü Fransız sosyolog kimdir.?**
+<br>Gustave Le Bon
+
+**1631- Peşin alınan harç fazla olursa fazla alınan harca nasıl bir işlem yapılır?**
+<br>Peşin alınan Karar ve İlam Harcı işin hitamında ödenmesi gerekenden fazla olduğu anlaşılırsa fazlalık istek üzerine geri verilir. Yargı işlemlerinden alınacak harçlar ödenmedikçe müteakip işlemler yapılmaz.
+
+**1632- Macaristan'ın başkenti?**
+<br>Budapeşte, Macaristan'ın başkenti ve en kalabalık şehridir. Şehir sınırları içindeki nüfusa göre Avrupa Birliği'nin dokuzuncu en büyük şehri ve Tuna nehri üzerindeki ikinci en büyük şehirdir; şehrin yaklaşık 525 kilometrekarelik bir alanda tahmini nüfusu 1.752.286'dır.
+
+**1633- Ahmet Hamdi Tanpınar a ait Beş şehir adlı romandaki şehirler hangisidir?**
+<br>İstanbul, Bursa, Ankara, Erzurum ve Konya
+
+**1634- Danıştaya dava dilekçesi idare mahkemesinden gönderilebilir mi?**
+<br>Verilebilir
+<br>_Danıştay Başkanlığı’na /Ankara İdare Mahkemesi Başkanlığı’na Gönderilmek Üzere Konya İdare mahkemesi Başkanlığına yazılmak suretiyle_
+
+**1635- Devlete ait resmi belge, araç, gereç ve benzerlerini özel menfaat sağlamak için kullanmak suçu cezası?**
+<br>Aylıktan kesme
+
+**1636- Birleşmiş milletler eğitim bilim ve kültür örgütü kısaltması nedir ?**
+<br>UNESCO
+
+**1637- Basra Körfezi nerededir?**
+<br>Basra Körfezi, (Farsça: خليج فارس, Halîc-î Fars; Arapça: خلیج فارسی - فارس, el-Halîc el-Arabî), Arap Yarımadası'nın kuzeyi ile İran'ın güneybatısı arasında kalan Hint Okyanusu'na bağlı körfez. Dünyanın en önemli petrol ve doğalgaz yatakları bu bölgede bulunmaktadır.
+
+**1638- Bam yazı işleri müdürlüğünde ki is bölümü kim tarafından düzenlenir?**
+<br>Yazı İşleri Müdürü
+
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
 
