@@ -29,7 +29,7 @@ image:
 <br>İnternet üzerinde yer alan haberlere göre İstanbul'un Aralık ayı enflasyonu **%3,52** olarak tahmin edilmekteydi. 
 <br>
 <br>
-<br>Web sitemizde yer alan  [**Maaş Robotu**](https://adliyeci.com.tr/maas/) hesaplamaları TCMB beklentisine göre düzenlenmiş olup, 3 Ocak 2024 günü yayınlanacak TÜFE verisine göre sitemizde ekli ünvanlar için yeni toplu sözleşmeye göre oluşacak maaşları hesaplamak mümkün olacaktır. 
+<br>Web sitemizde yer alan  [**Maaş Robotu**](https://adliyeci.com.tr/maasyeni/) hesaplamaları TCMB beklentisine göre düzenlenmiş olup, 3 Ocak 2024 günü yayınlanacak TÜFE verisine göre sitemizde ekli ünvanlar için yeni toplu sözleşmeye göre oluşacak maaşları hesaplamak mümkün olacaktır. 
 <br>
 <br>Kanunda belirtildiği şekilde "240.000 * memur aylık katsayı" formülüyle bedelli askerlik tutarı belirlenir. Yarın açıklanacak enflasyon sonucu oluşacak enflasyon farkından sonra aylık katsayıyı tespit etmek mümkün olacaktır.
 <br>Şuan için bu hesap **0,509796 x 240.000** sonucu 122.351 TL olarak uygulanmakta. Enflasyon farkının ve alınacak zam sonucu katsayının kümülatif olarak %49.26 artması halinde bu rakam **182.619 TL** ye çıkacaktır.
