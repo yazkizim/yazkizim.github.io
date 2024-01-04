@@ -2,6 +2,7 @@
 title: UYAP Döküman Editörü Kısayol Tuşları
 author: gokhantasci
 date: 2023-10-24 11:30:00 +0300
+last_modified_at: 2024-01-04 10:00:00 +0300
 categories: [UYAP, Döküman Editör]
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, udf

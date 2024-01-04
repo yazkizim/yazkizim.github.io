@@ -2,6 +2,7 @@
 title: UYAP Mobil ile Evrak Tarama
 author: gokhantasci
 date: 2023-10-25 13:30:00 +0300
+last_modified_at: 2024-01-03 10:00:00 +0300
 categories: [UYAP, UYAP Mobil]
 tags: [adliyeci, uyap]
 keywords: Adalet Bakanlığı, adliye, adliyeci, uyap, uyap mobil
