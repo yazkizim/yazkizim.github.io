@@ -41,6 +41,12 @@ image:
 <br>Kümülatif zam için ise %29,79 u yine alacağımız zam oranı (%15) ile çarpmak gerekecektir.
 <br>1,2979 * 1,15 = 1,492585 bu farkta da yukarıdaki işlemler gereği **%49,26 kümülatif zam** oluşacağı hesap edilmiştir.
 <br>
+### Tüm bu anlatımları bir excel tablosunda göstermek gerekirse
+
+![Desktop View](/posts/excel.png){: width="972" height="589" }
+_Örnek Excel Tablosu_
+### Bu excel tablosunu incelemek isterseniz **@tascigok** İnstagram hesabı üzerinden iletişim kurabilirsiniz.
+<br>
 <br>Yaptığım internet araştırmalarında çeşitli sitelerde haber mahiyetinde yazan rakamların hepsi sayın Memurlar.net editörü Edip Üzen'in twitter hesabında yaptığı hesaplamalar kaynak alınarak yapıldığını farkettim.
 <br>Ancak web sitesini hazırlarken ilham aldığım, hesaplamalarımın çoğunun sağlamasını yaptığım sitedeki maaş robotuna göre güncellenen rakamların bu sitenin kabul ettiği %49,25 kümülatif zam oranından farklılık göstermektedir, şöyle ki;
 <br>2023 Temmuz - Aralık ayları için;
