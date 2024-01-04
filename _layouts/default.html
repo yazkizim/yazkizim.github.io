@@ -22,7 +22,6 @@ layout: compress
 <!-- `site.alt_lang` can specify a language different from the UI -->
 <html lang="{{ site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
   {% include head.html %}
-
   <body>
     {% include sidebar.html lang=lang %}
 
@@ -100,13 +99,7 @@ layout: compress
                   <br>
                   <label id="btc" style="font-size: smaller;"></label>
                 </div>                
-              </div>
-              <div id="overlay">
-                <a href="#" class="btn-instagram">
-                  <i class="fab fa-instagram"></i>
-                  <span>@tascigok</span>
-                </a>    
-              </div>
+              </div>              
             {{ content }}
           </main>
 
