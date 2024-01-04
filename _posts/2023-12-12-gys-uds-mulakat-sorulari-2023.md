@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-03 22:22:00 +0300
+last_modified_at: 2024-01-04 20:42:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1402,6 +1402,92 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 
 **1638- Bam yazı işleri müdürlüğünde ki is bölümü kim tarafından düzenlenir?**
 <br>Yazı İşleri Müdürü
+
+**1639- Oliver Twist ve iki şehrin hikayesi kitaplarının yazarı?**
+<br>Charles Dickens
+
+**1640- Manda ve himaye ilk kez hangi kongrede görüşüldü?**
+<br>Sözlük anlamı yetki ve görev olarak ifade edilen Manda ve Himaye, ilk olarak 1. Dünya Savaşından sonra ortaya çıkmıştır. O zamanlar oluşan bu kavram, zayıf olan devletlerin güçlü devletler tarafından yönetilmesi anlamını taşımaktadır. Devletin bağımsızlığını ve istiklalini engellemesi ve sömürgeleşmelerin yaygınlaşması bu noktada büyük bir problem yaratmıştır. İşte bu sebeple Mustafa Kemal Atatürk, Manda ve Himayeyi kesinlikle reddetmiştir.
+<br>Kurtuluş savaşı yıllarında özellikle taviz verilmemesi gereken bir konu olan Manda ve Himaye, reddedilme düşüncesini de doğurmuştur. Manda ve Himaye ilk kez 1919 yılında Erzurum Kongresi'nde reddedilmiştir.
+
+**1641- Ceza ve hukuk mah kesinleşme süreleri?**
+<br>Ceza Mahkemeleri Temyize Tabi işlerde tebliğ/tefhimden itibaren 15 gün, İstinafa tabi işlerde tebliğ/tefhimden 7 gün.
+<br>Hukuk Mahkemelerinde 2 hafta
+
+**1642- İlk deniz donanması hangi Türk devleti zamanında kim tarafından kuruldu?**
+<br>Selçuklu harekatından ayrı olarak 1081-1097 yıllannda Ban Anadolu'da faaliyet gösteren Çaka (Çakan) Bey'in deniz devletidir. Çaka Bey o zamana kadar tarihe geçen ilk Türk denizcilerindendir.
+<br>İlk Türk donanması 40 parçadan ibaret üstü kapalı gemilerden teşekkül ediyordu2. Onun gemi çeşitleri hakkı nda ancak bu kadar bilgiye sahibiz. İzmir ve civarında tersanelerin bulunduğu muhakkaktır. Çaka Bey kısa sürede Foça ve Urla tarafların' hakimiyeti altına aldıktan sonra, donanması ile deniz seferlerine çıktı.
+
+**1643- dava dilekçesinin reddi halinde yargılama giderlerine hükmedilir mi?**
+<br>HMK Madde 331
+<br>(1) Davanın konusuz kalması sebebiyle davanın esası hakkında bir karar verilmesine gerek bulunmayan hâllerde, hâkim, davanın açıldığı tarihteki tarafların haklılık durumuna göre yargılama giderlerini takdir ve hükmeder.
+<br>(2) Görevsizlik veya yetkisizlik kararından sonra davaya bir başka mahkemede devam edilmesi hâlinde, yargılama giderlerine o mahkeme hükmeder. Görevsizlik veya yetkisizlik kararından sonra davaya bir başka mahkemede devam edilmemiş ise talep üzerine davanın açıldığı mahkeme dosya üzerinden bu durumu tespit ile davacıyı yargılama giderlerini ödemeye mahkûm eder.
+<br>(3) Davanın açılmamış sayılmasına karar verilen hâllerde yargılama giderleri davacıya yükletilir.
+
+**1644- TENEKELER KİTABININ YAZARI KİMDİR?**
+<br>Yaşar Kemal
+
+**1645- Boylam ile neyi bulabiliriz?**
+<br>Boylam, başlangıç meridyeninin doğusundaki veya batısındaki herhangi bir noktanın açısal mesafesi. Boylam anlamında tul derecesi, tul dairesi ve uzunluk dairesi sözleri de kayıtlıdır. Boylamlar, doğu ve batı boylamları olmak üzere ikiye ayrılır; derece, dakika ve saniye cinsinden ifade edilir.
+
+**1646- Meclisin 5'te 3 çoğunluğundan az sayıda oyla kabul edilen kanunu (Anayasanın değiştirilmesine dair) Cumhurbaşkanı tarafından onaylanmazsa ne olur?**
+<br>Eğer Cumhurbaşkanı böyle bir Anayasa değişikliği kanununu, Meclise bir kez daha görüşülmek üzere geri göndermiyorsa , Anayasa değişikliği kanununu zorunlu olarak halkoylamasına sunulmak üzere Resmî Gazetede yayımlar
+
+**1647- Anayasanın 1. Maddesi?**
+<br>**MADDE 1**- Türkiye Devleti bir Cumhuriyettir.
+<br>**MADDE 2**- Türkiye Cumhuriyeti, toplumun huzuru, millî dayanışma ve adalet anlayışı içinde, insan haklarına saygılı, Atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan, demokratik, lâik ve sosyal bir hukuk Devletidir.
+<br>**MADDE 3**- Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür. Dili Türkçedir.
+<br>Bayrağı, şekli kanununda belirtilen, beyaz ay yıldızlı al bayraktır.
+<br>Millî marşı “İstiklal Marşı”dır.
+<br>Başkenti Ankara’dır.
+<br>**MADDE 4**- Anayasanın 1 inci maddesindeki Devletin şeklinin Cumhuriyet olduğu hakkındaki hüküm ile, 2 nci maddesindeki Cumhuriyetin nitelikleri ve 3 üncü maddesi hükümleri değiştirilemez ve değiştirilmesi teklif edilemez.
+
+**1648- Sahnelenen ilk tiyatro eserimiz?**
+<br>Sahnelenen ilk tiyatro eseri: Namık Kemal'in "Vatan Yahut Silistre" adlı eseridir.
+<br>Batılı anlamda ilk Türkçe oyun, Şinasi'nin Şair Evlenmesi'dir (1860). Bu oyun Dolmabahçe Saray Tiyatrosu'nda oynanmak üzere yazıldığı bilinmektedir.
+
+**1649- Pakistanlı Fizik dalında nobel alan müslüman bilim adamı kimdir ?**
+<br>Muhammed Abdüsselam (Pencapça, Urduca: محمد عبد السلام; okunuşu [əbd̪ʊs səlɑm]; d. 29 Ocak 1926 - ö. 21 Kasım 1996), elektrozayıf etkileşim ile ilgili çalışmalara katkılarından dolayı 1979 yılında Nobel Fizik Ödülünü paylaşan kuramsal fizikçidir.
+
+**1650- Anayasa mahkemesine iptal davası açma hakkı olanlar?**
+<br>Anayasa'nın 150. Maddesine göre iptal davası açabilme yetkisi Cumhurbaşkanına, Türkiye Büyük Millet Meclisinde en fazla üyeye sahip iki siyasi parti grubuna ve Türkiye Büyük Millet Meclisi üye tamsayısının en az beşte biri tutarındaki üyelere aittir.
+
+**1651- Mondros ateşkes antlaşması ne zaman ve nerede yapıldı?**
+<br>Limni adasının Mondros Limanı'nda demirli Agamemnon zırhlısında 30 Ekim 1918 akşamı imzalanmıştır.
+
+**1652- Uzlaştırmacı nasıl seçilir?**
+<br>Madde 13 - (1) Şüpheli ile mağdur veya suçtan zarar görenin uzlaşma teklifini kabul etmesi hâlinde, Cumhuriyet savcısı uzlaştırmayı kendisi gerçekleştirebileceği gibi, bir avukatın uzlaştırmacı olarak görevlendirilmesini barodan isteyebilir ya da bu Yönetmelikte nitelikleri belirlenen hukuk öğrenimi görmüş bir kimseyi görevlendirebilir.
+<br>(2) Uzlaştırmacı görevlendirilmesinde tarafların üzerinde anlaştıkları bir avukat ya da hukuk öğrenimi görmüş bir kişi tercih edilebilir.
+<br>(3) Uzlaştırmacıların sayısı, uyuşmazlığın niteliği göz önünde bulundurularak Cumhuriyet savcısınca tespit edilir.
+
+**1653- İlk denk bütçe ne zaman kim tarafından yapılmıştır?**
+<br>Cumhuriyet Hükümeti 1924-1926 döneminde denk bir bütçeye ulaşmayı hedeflemiş ve 1926 yılında, 18 yıllık açık bütçe döneminin ardından ilk denk bütçeye ulaşılmıştır. Bu dönemde borçlanmaya istikrarlı olarak karşı çıkılmıştır.
+
+**1654- Anayasa mahkemesi hangi yasayla kuruldu?**
+<br>Anayasa Mahkemesinin kuruluşu, görev ve yetkileri, yargılama ve çalışma usulü ile kararlarının niteliği 1961 Anayasası'nın 145 ila 152. maddelerinde düzenlenmiş; buna bağlı olarak 44 sayılı Anayasa Mahkemesinin Kuruluşu ve Yargılama Usulleri Hakkında Kanun ise 22/4/1962 tarihinde kabul edilmiştir.
+
+**1655- BAM Cumhuriyet başsavcısının görevleri nelerdir**
+<br>1. Bölge adliye mahkemesi Cumhuriyet başsavcılığını temsil etmek,
+<br>2. Cumhuriyet başsavcılığının verimli, uyumlu ve düzenli bir şekilde çalışmasını sağlamak,
+<br>3. Bölge adliye mahkemesinin genel yönetim işlerini yürütmek,
+<br>4. Bölge adliye mahkemesine gelen ceza davalarına ilişkin hüküm ve kararlara ait dosyaların duruşmalarına katılmayı sağlamak,
+<br>5. Ceza dairelerinin kararlarına karşı gerektiğinde kanun yollarına başvurmak,
+<br>6. Dairelerin benzer olaylarda kesin olarak verdikleri kararlar arasındaki uyuşmazlığın giderilmesi için ceza daireleri başkanlar kuruluna veya hukuk daireleri başkanlar kuruluna başvurmak,
+<br>7. Bölge adliye mahkemesi Cumhuriyet savcılarının ilerleme belgelerini düzenlemek,
+<br>8. Bölge adliye mahkemesi Cumhuriyet savcıları üzerinde gözetim ve denetim yetkisini kullanmak,
+<br>9. Cumhuriyet başsavcılığı müdürlüklerini ve personelini denetlemek veya denetletmek,
+<br>10. Cumhuriyet başsavcılığında görevli personel hakkında ilgili kanunda belirtilen disiplin cezalarını uygulamak,
+<br>11. Kanunlarla verilen diğer görevleri yapmak. (Ek fıkra:17/6/2021-7328/3 md.) Cumhuriyet başsavcısı, Cumhuriyet savcılarının soruşturmayı sonlandıran kararları arasında oluşabilecek farklılıkların giderilmesi ile bu kararların kanuna uygunluğunun denetlenmesi hususlarında görevli ve yetkilidir.
+
+**1656- Devlet Memurları Kanununda eş durumu mazeretinde istenin belgelerden 5 tanesini sayınız?**
+<br>Es durumu tayin icin
+<br>Doğru şekilde doldurulmuş ve imzalanmış dilekçe.
+<br>Atama ve nakil talep formu.
+<br>E-Devlet nüfus kayıt örneği.
+<br>SGK dökümü
+<br>Görev belgesi.
+<br>Vergi levhası (*)
+<br>Ticaret odası faaliyet belgesi (*)
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
