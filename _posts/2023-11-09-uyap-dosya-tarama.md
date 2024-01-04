@@ -2,6 +2,7 @@
 title: UYAP Dosya Tarama
 author: gokhantasci
 date: 2023-11-09 16:20:00 +0300
+last_modified_at: 2024-01-01 11:00:00 +0300
 categories: [UYAP, Dosya Tarama]
 tags: [adliyeci, uyap, dosya tarama]
 keywords: Adalet Bakanlığı, adliye, adliyeci, dosya tarama

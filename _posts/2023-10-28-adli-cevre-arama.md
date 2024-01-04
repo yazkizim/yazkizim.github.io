@@ -2,6 +2,7 @@
 title: Hangi Adliye nereye bağlı araması Sitemizde Yapılabilir.
 author: gokhantasci
 date: 2023-10-28 09:01:00 +0300
+last_modified_at: 2024-01-04 22:22:00 +0300
 categories: [Güncelleme, '2023']
 tags: [adliyeci, teşkilat şeması]
 keywords: Adalet Bakanlığı, adliye, adliyeci, teşkilat şeması
