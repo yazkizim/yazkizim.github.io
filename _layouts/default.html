@@ -24,7 +24,10 @@ layout: compress
   {% include head.html %}
 
   <body>
-    {% include sidebar.html lang=lang %}    
+    <script type="text/javascript" src="https://smartarget.online/loader.js?u=be09d4fdbb9caa276154cf2285af7d32e376071d"></script>
+    {% include sidebar.html lang=lang %}
+
+    <div id="main-wrapper" class="d-flex justify-content-center">
       <div class="container px-xxl-5">
         {% include topbar.html lang=lang %}
 
@@ -33,7 +36,6 @@ layout: compress
             aria-label="Main Content"
             class="col-12 col-lg-11 col-xl-9 px-md-4{% unless has_tail %} pb-5{% endunless %}"
           >
-          <div id="main-wrapper" class="d-flex justify-content-center">           
               <div class="row justify-content-center" id="dovizbar">
                 <div class="col-2 text-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-currency-dollar" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
@@ -99,12 +101,6 @@ layout: compress
                   <br>
                   <label id="btc" style="font-size: smaller;"></label>
                 </div>                
-              </div>
-              <div id="overlay">
-                <a href="https://www.instagram.com/tascigok/" class="btn-instagram">
-                  <i class="fab fa-instagram"></i>
-                  <span>@tascigok</span>
-                </a>      
               </div>
             {{ content }}
           </main>
