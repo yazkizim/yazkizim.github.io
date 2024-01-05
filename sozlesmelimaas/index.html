@@ -15,7 +15,6 @@ addcoments: true
           <div class="col-12">
               <div class="row row-deck row-cards">
                   <div class="col-lg-12">
-                      <div class="card">
                         <div class="card-header">
                           <h3 class="card-title">Sözleşmeli Maaş Hesaplama İşlemleri</h3>
                         </div>
@@ -25,9 +24,13 @@ addcoments: true
                               <div>
                                 <select type="text" class="form-select" placeholder="Seçiniz" id="unvan" value="">
                                     <option value="0" disabled>Seçiniz</option>	
-                                    <option value="2" selected>Zabıt Katibi</option>
-                                    <option value="3">Mübaşir</option>
-                                     
+                                    {% for tablo in  site.data.sozlesmeliunvan.unvan | sort: "unvan"  %}
+                                      {% if tablo.id == 58 %}
+                                        <option value="{{ tablo.id }}" selected>{{ tablo.unvan }}</option>
+                                      {% else %}
+                                        <option value="{{ tablo.id }}">{{ tablo.unvan }}</option>
+                                      {% endif %}                                    
+                                    {% endfor %}                                       
                                 </select>
                               </div>
                               <small class="form-hint"></a></small>
@@ -139,18 +142,7 @@ addcoments: true
                                 <small class="form-hint">
                               </a></small>
                               </div>
-                          </div>
-                          <div class="mb-3">
-                              <label class="form-label required">Bu ay toplu sözleşme ikramiyesi alınacak mı? (Ocak, Nisan, Temmuz, Ekim) </label>
-                              <div>
-                                <select type="text" class="form-select" placeholder="Seçiniz" id="sendikaikramiye" value="">
-                                    <option selected="" value="1">Evet</option>
-                                    <option value="0">Hayır</option>
-                                  </select>  
-                                <small class="form-hint">
-                              </a></small>
-                              </div>
-                          </div>																							
+                          </div>                          																					
                           <div class="mb-3">
                               <div class="col-6 col-sm-4 col-md-2 col-xl py-3">
                                   <a href="#" class="btn btn-green active w-100" id ="sozmaashesapla" name="sozmaashesapla">
@@ -162,7 +154,6 @@ addcoments: true
                         </div>
                       </div>
                     </div>
-              </div>
               
           </div>
           <div class="col-12">
