@@ -1,5 +1,5 @@
 ---
-title: Enflasyon Farkı Hesaplama Yöntemi
+title: Sözleşmeli Maaş Hesaplama İşlemleri
 keywords: memur enflasyon farkı, toplu sözleşme, enflasyon nasıl hesaplanır, 6 aylık fark nasıl hesaplanır, enflasyon farkı nasıl
 permalink: /sozlesmelimaas/
 layout: gokhan
@@ -22,14 +22,10 @@ addcoments: true
                           <div class="mb-3">
                               <label class="form-label required">Ünvanınız</label>
                               <div>
-                                <select type="text" class="form-select" placeholder="Seçiniz" id="unvan" value="">
+                                <select type="text" class="form-select" placeholder="Seçiniz" id="sozlesmeliunvan" value="">
                                     <option value="0" disabled>Seçiniz</option>	
-                                    {% for tablo in  site.data.sozlesmeliunvan.unvan | sort: "unvan"  %}
-                                      {% if tablo.id == 58 %}
-                                        <option value="{{ tablo.id }}" selected>{{ tablo.unvan }}</option>
-                                      {% else %}
-                                        <option value="{{ tablo.id }}">{{ tablo.unvan }}</option>
-                                      {% endif %}                                    
+                                    {% for tablo in  site.data.sozlesmeliunvan.unvan | sort: "unvan"  %}                                      
+                                        <option value="{{ tablo.id }}">{{ tablo.unvan }}</option>                                                                         
                                     {% endfor %}                                       
                                 </select>
                               </div>
