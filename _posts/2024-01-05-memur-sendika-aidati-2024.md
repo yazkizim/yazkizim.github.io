@@ -9,7 +9,7 @@ render_with_liquid: false
 pin: true
 comments: true
 image:
-  path: /posts/para.jpg
+  path: /posts/sendika.jpg
   alt: 2024 Toplu Sözleşme İkramiyesi
 ---
 
