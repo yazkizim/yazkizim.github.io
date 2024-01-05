@@ -1,8 +1,7 @@
 ---
 title: Mali ve Sosyal Haklar Genelgesi yayınlandı, katsayılar %49.25 arttırıldı
 author: gokhantasci
-date: 2024-01-05 16:16:00 +0300
-last_modified_at: 2024-01-03 21:30:00 +0300
+date: 2024-01-05 21:16:00 +0300
 categories: [Enflasyon, 2024 yılı]
 tags: [enflasyon farkı, Aralık, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Kasım, maaş, adliyeci, Adalet Bakanlığı
