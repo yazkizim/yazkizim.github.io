@@ -2,6 +2,7 @@
 title: 2024 İcra Katibi Maaşları Ocak
 author: gokhantasci
 date: 2023-07-15 14:10:00 +0800
+last_modified_at: 2024-01-05 22:59:00 +0300
 categories: [Maaşlar, Katip (İcra) Maaşları]
 tags: [Adalet Bakanlığı, Maaşlar, 2024 Cezaevi Katibi Maaşı]
 keywords: Katip (İcra) Maaşı 2024, Adalet Bakanlığı, Zabıt Katibi Maaşı, en düşük Zabıt Katibi Maaşı, sözleşmeli Katip (İcra) maaşı, sözleşmeli Zabıt Katibi Maaşı, Yargıtay, Zabıt Katibi Alımı Ne Zaman, Katip (İcra) nedir?, Katip (İcra) nasıl olunur, Katip (İcra)lik şartları, Zabıt Katibi ne iş yapar?
@@ -78,8 +79,8 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Zabıt Katibi ma
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">33024.07 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">43078.81 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">32566.28 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">42473.14 ₺</span></td>
   </tr>
 </tbody>
 </table>

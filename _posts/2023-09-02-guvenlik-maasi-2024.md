@@ -2,6 +2,7 @@
 title:  Koruma ve Güvenlik Memuru Maaşları 2024 Ocak
 author: gokhantasci
 date: 2023-09-02 14:10:00 +0800
+last_modified_at: 2024-01-05 22:59:00 +0300
 categories: [Maaşlar, Koruma ve Güvenlik Memuru Maaşları]
 tags: [Adalet Bakanlığı, Maaşlar, Güvenlik Görevlisi]
 keywords: Koruma ve Güvenlik Memuru Maaşı 2024, Adalet Bakanlığı, Koruma ve Güvenlik Memuru Maaşı, en düşük Koruma ve Güvenlik Memuru Maaşı, sözleşmeli Koruma ve Güvenlik Memuru Maaşı, sözleşmeli Koruma ve Güvenlik Memuru Maaşı, Yargıtay, Koruma ve Güvenlik Memuru Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Koruma ve Güvenlik Memuru ne iş yapar?
@@ -76,8 +77,8 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Koruma ve Güven
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">33908.58 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">44014.47 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">33437.25 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">43395.10 ₺</span></td>
   </tr>
 </tbody>
 </table>

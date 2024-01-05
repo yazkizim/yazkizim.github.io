@@ -1,23 +1,20 @@
 ---
-title: 2024 İcra Müdürü Maaşları Ocak
+title: Ocak 2024 İdari İşler Müdürü Maaşları
 author: gokhantasci
-date: 2023-09-02 14:10:00 +0800
+date: 2023-07-15 14:10:00 +0800
 last_modified_at: 2024-01-05 22:59:00 +0300
-categories: [Maaşlar, İcra Müdürü Maaşları]
-tags: [Adalet Bakanlığı, 2024 İcra Müdürü Maaşları]
-keywords: İcra Müdürü Maaşı 2024, Adalet Bakanlığı, İcra Müdürü Maaşı, en düşük İcra Müdürü Maaşı, sözleşmeli İcra Müdürü maaşı, sözleşmeli İcra Müdürü Maaşı, Yargıtay, İcra Müdürü Alımı Ne Zaman, İcra Müdürü nedir?, İcra Müdürü nasıl olunur, İcra Müdürülik şartları, İcra Müdürü ne iş yapar?
+categories: [Maaşlar, İdari İşler Müdürü Maaşları]
+tags: [Adalet Bakanlığı, İdari İşler Müdürü Maaşları,  adliyeci]
+keywords: Yazı İşleri Müdürü Maaşı 2024, Adalet Bakanlığı, Yazı İşleri Müdürü Maaşı, en düşük Yazı İşleri Müdürü Maaşı, sözleşmeli Yazı İşleri Müdürü maaşı, sözleşmeli Yazı İşleri Müdürü Maaşı, Yargıtay, Yazı İşleri Müdürü Alımı Ne Zaman, Yazı İşleri Müdürü nedir?, Yazı İşleri Müdürü nasıl olunur, Yazı İşleri Müdürülik şartları, Yazı İşleri Müdürü ne iş yapar?
 render_with_liquid: false
 pin: false
 comments: false
 image:
   path: /posts/maas.jpg
-  alt: 2024 İcra Müdürü Maaşları
+  alt: 2024 İdari İşler Müdürü Maaşları Maaşları
 ---
 
-Adalet Bakanlığı Personel Genel Müdürlüğü tüm ülke genelinde zaman zaman alım için ilana çıkmaktadır.
-Bu ilanlar <a href="https://pgm.adalet.gov.tr/">adresinden</a> takip edilebilmektedir.
-Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek İcra Müdürü maaşları 2023 yılı için şu şekilde oluşmaktadır.
-
+Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024 yılı Haziran (dahil) ayına kadar maaşlar şu şekilde oluşmuştur.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
@@ -63,12 +60,11 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek İcra Müdürü 
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">43145.93 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">56070.93 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">45070.93 ₺</span></td>
   </tr>
 </tbody>
 </table>
 
 <span><br>
-
 
 [**Maaş Robotu İçin Tıklayınız**](https://adliyeci.com.tr/maasyeni/)

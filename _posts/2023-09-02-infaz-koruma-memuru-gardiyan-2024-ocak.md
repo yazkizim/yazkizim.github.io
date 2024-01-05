@@ -2,6 +2,7 @@
 title: Ocak 2024 İnfaz ve Koruma Memuru Maaşları
 author: gokhantasci
 date: 2023-07-15 14:10:00 +0800
+last_modified_at: 2024-01-05 22:59:00 +0300
 categories: [Maaşlar, İnfaz ve Koruma Memuru Maaşları]
 tags: [Adalet Bakanlığı, İnfaz ve Koruma Memuru Maaşları]
 keywords: İnfaz ve Koruma Memuru Maaşı 2024, Adalet Bakanlığı, İnfaz ve Koruma Memuru Maaşı, en düşük İnfaz ve Koruma Memuru Maaşı, sözleşmeli İnfaz ve Koruma Memuru Maaşı, sözleşmeli İnfaz ve Koruma Memuru Maaşı, Yargıtay, İnfaz ve Koruma Memuru Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, İnfaz ve Koruma Memuru ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023
@@ -78,8 +79,8 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek İnfaz ve Koruma
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">34052.06 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">	46580.38 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">33554.84 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">45899.56 ₺</span></td>
   </tr>
 </tbody>
 </table>

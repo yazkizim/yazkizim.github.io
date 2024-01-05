@@ -2,6 +2,7 @@
 title: Cezaevi Katibi Maaşı 2024 Ocak
 author: gokhantasci
 date: 2023-09-12 14:10:00 +0800
+last_modified_at: 2024-01-05 22:59:00 +0300
 categories: [Maaşlar, Cezaevi Katibi]
 tags: [adliyeci, Maaşlar, 2024 Cezaevi Katibi Maaşı]
 keywords: Cezaevi Katibi Maaşı 2023, Adalet Bakanlığı, Cezaevi Katibi Maaşı, en düşük Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, sözleşmeli Cezaevi Katibi Maaşı, Yargıtay, Cezaevi Katibi Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Cezaevi Katibi ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023
@@ -79,8 +80,8 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Cezaevi Katibi m
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">32699.54 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">	42668.46 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">32245.74 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">	42068.80 ₺</span></td>
   </tr>
 </tbody>
 </table>

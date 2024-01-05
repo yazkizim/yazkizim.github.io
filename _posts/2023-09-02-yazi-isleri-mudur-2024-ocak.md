@@ -2,6 +2,7 @@
 title: Ocak 2024 Yazı İşleri Müdürü Maaşları
 author: gokhantasci
 date: 2023-07-15 14:10:00 +0800
+last_modified_at: 2024-01-05 22:59:00 +0300
 categories: [Maaşlar, Yazı İşleri Müdürü Maaşları]
 tags: [Adalet Bakanlığı, Yazı İşleri Müdürü Maaşları  adliyeci]
 keywords: Yazı İşleri Müdürü Maaşı 2024, Adalet Bakanlığı, Yazı İşleri Müdürü Maaşı, en düşük Yazı İşleri Müdürü Maaşı, sözleşmeli Yazı İşleri Müdürü maaşı, sözleşmeli Yazı İşleri Müdürü Maaşı, Yargıtay, Yazı İşleri Müdürü Alımı Ne Zaman, Yazı İşleri Müdürü nedir?, Yazı İşleri Müdürü nasıl olunur, Yazı İşleri Müdürülik şartları, Yazı İşleri Müdürü ne iş yapar?
@@ -61,8 +62,8 @@ Yukarıdaki bilgilerden sonra gelelim en düşük ve en yüksek Yazı İşleri M
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">43785.72 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">56903.03 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">43145.93 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">45070.93 ₺</span></td>
   </tr>
 </tbody>
 </table>
