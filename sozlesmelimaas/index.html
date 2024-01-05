@@ -23,7 +23,7 @@ addcoments: true
                               <label class="form-label required">Ünvanınız</label>
                               <div>
                                 <select type="text" class="form-select" placeholder="Seçiniz" id="sozlesmeliunvan" value="">
-                                    <option value="0" disabled>Seçiniz</option>	
+                                    <option value="0" disabled selected>Seçiniz</option>	
                                     {% for tablo in  site.data.sozlesmeliunvan.unvan | sort: "unvan"  %}                                      
                                         <option value="{{ tablo.id }}">{{ tablo.unvan }}</option>                                                                         
                                     {% endfor %}                                       
