@@ -1,5 +1,5 @@
 ---
-title: Hukuk Sözlük - {{ page.kelime }} ne demek ?
+title: Hukuk Sözlük 
 layout: gokhan
 kelime: {{ page.kelime }}
 permalink: /sozluk
