@@ -53,7 +53,7 @@
     {%- unless page.layout == 'home' -%}
       {{ page.title | append: ' | ' }}
     {%- endunless -%}
-    {{ if page.permalink == "/sozluk" }}
+    {% if page.permalink == "/sozluk" %}
       <script>
         let urlParams = new URLSearchParams(queryString);
         queryString = urlParams.get('kelime');
