@@ -1,7 +1,7 @@
 ---
-title: Seyyanen Zam 8.077 TL den 12.055.92 TL ye yükseldi
+title: Toplu Sözleşme İkramiyesi (Sendika Ücreti) 537.97 ₺ oldu
 author: gokhantasci
-date: 2024-01-05 22:22:00 +0300
+date: 2024-01-05 22:26:00 +0300
 categories: [Enflasyon, 2024 yılı]
 tags: [enflasyon farkı, Aralık, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Kasım, maaş, adliyeci, Adalet Bakanlığı
@@ -10,7 +10,7 @@ pin: true
 comments: true
 image:
   path: /posts/para.jpg
-  alt: 2024 Seyyanen Zam
+  alt: 2024 Toplu Sözleşme İkramiyesi
 ---
 
 <br>2024 Ocak - Haziran ayları için;
@@ -18,7 +18,7 @@ image:
 <br>Memur aylık katsayısı 0,760871,
 <br>Yan Ödeme Katsayısı 0,241297,
 Olarak belirlenmiştir. 
-<br>375 sayılı Kanunun EK Madde 40'ı ile tüm memurlara **15.965** memur aylık katsayısı karşılığı olarak hesaplanmaktadır. Bundan hareketle evvelce 8.077 ₺ olarak verilen seyyanen zam 2024 yılı Ocak ayından itibaren  **"12.055,92 ₺"** olarak ödenecektir olacaktır.
+<br>7.Dönem Toplu Sözleşmesi memurlara Ocak, Nisan, Temmuz, Ekim'de ödenen Toplu Sözleşme İkramiyesi, Ocak ayından itibaren her ay 707 aylık katsayı karşılığı ödenecektir. Bundan hareketle 2024 yılı Ocak ayından itibaren 537.97 ₺ olarak Toplu Sözleşme İkramiyesi (Sendika Ücreti) maaşlara yansıtılacak, brüt gelirden üye olduğunuz sendikaya göre değişecek oranda (genellikle %0.5) Sendika Kesintisi yapılacaktır.
 
 
 <br>Yıl sonunda oluşması beklenen enflasyon farkı dahil maaş robotu için [**tıklayınız**](https://adliyeci.com.tr/maasyeni/) 
