@@ -7,7 +7,7 @@ categories: [Enflasyon, 2023 yılı]
 tags: [enflasyon farkı, Aralık, maaş, adliyeci]
 keywords: enflasyon, enflasyon farkı, Kasım, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/enflasyon.jpg
