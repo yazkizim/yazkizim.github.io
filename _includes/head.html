@@ -53,13 +53,7 @@
     {%- unless page.layout == 'home' -%}
       {{ page.title | append: ' | ' }}
     {%- endunless -%}
-    {% if page.permalink == "/sozluk" %}
-      <script>
-        let urlParams = new URLSearchParams(queryString);
-        queryString = urlParams.get('kelime');
-        let kelime = urlParams.get('kelime');
-        document.title = kelime + " ne demek ? - www.Adliyeci.com.tr";
-      </script> 
+    {% if page.permalink == "/sozluk" %}      
     {% else %}    
       {{ site.title }}
     {% endif %}    
