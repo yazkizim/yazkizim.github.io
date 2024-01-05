@@ -1,16 +1,16 @@
 ---
-title: Ocak 2024 İdari İşler Müdürü Maaşları
+title: Ocak 2024 Orman Muhafaza Memuru Maaşı
 author: gokhantasci
 date: 2024-01-05 14:10:00 +0300
-categories: [Maaşlar, İdari İşler Müdürü Maaşları]
-tags: [Adalet Bakanlığı, İdari İşler Müdürü Maaşları,  adliyeci]
-keywords: İdari İşler Müdürü Maaşı 2024, Adalet Bakanlığı, İdari İşler Müdürü Maaşı, en düşük İdari İşler Müdürü Maaşı, sözleşmeli İdari İşler Müdürü maaşı, sözleşmeli İdari İşler Müdürü Maaşı, Yargıtay, İdari İşler Müdürü Alımı Ne Zaman, İdari İşler Müdürü nedir?, İdari İşler Müdürü nasıl olunur, İdari İşler Müdürülik şartları, İdari İşler Müdürü ne iş yapar?
+categories: [Maaşlar, Orman Muhafaza Memuru]
+tags: [Adalet Bakanlığı, Orman Muhafaza Memuru,  adliyeci]
+keywords: Orman Muhafaza Memuru Maaşı 2024, Adalet Bakanlığı, Orman Muhafaza Memuru Maaşı, en düşük Orman Muhafaza Memuru Maaşı, sözleşmeli Orman Muhafaza Memuru maaşı, sözleşmeli Orman Muhafaza Memuru Maaşı, Yargıtay, Orman Muhafaza Memuru Alımı Ne Zaman, Orman Muhafaza Memuru nedir?, Orman Muhafaza Memuru nasıl olunur, Orman Muhafaza Memurulik şartları, Orman Muhafaza Memuru ne iş yapar?
 render_with_liquid: false
 pin: false
 comments: false
 image:
   path: /posts/maas.jpg
-  alt: 2024 İdari İşler Müdürü Maaşları Maaşları
+  alt: 2024 Orman Muhafaza Memuru Maaşları
 ---
 
 Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024 yılı Haziran (dahil) ayına kadar maaşlar şu şekilde oluşmuştur.
@@ -34,15 +34,15 @@ Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Lisans Mezunu</td>
+    <td class="tg-0pky">Lise Mezunu</td>
     <td class="tg-0pky">Lisans Mezunu</td>
   </tr>
   <tr>
-    <td class="tg-0pky">6 yıl görev süreli</td>
+    <td class="tg-0pky">1 yıl görev süreli</td>
     <td class="tg-0pky">30 yıl görev süreli</td>
   </tr>
   <tr>
-    <td class="tg-0pky">6/1 dereceli</td>
+    <td class="tg-0pky">13/3 dereceli</td>
     <td class="tg-0pky">1/4 dereceli</td>
   </tr>
   <tr>
@@ -58,8 +58,8 @@ Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">43145.93 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">45070.93 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">32108.29 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">41420.35 ₺</span></td>
   </tr>
 </tbody>
 </table>

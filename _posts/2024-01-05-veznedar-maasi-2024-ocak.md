@@ -1,16 +1,16 @@
 ---
-title: Ocak 2024 İdari İşler Müdürü Maaşları
+title: Ocak 2024 Veznedar Maaşı
 author: gokhantasci
 date: 2024-01-05 14:10:00 +0300
-categories: [Maaşlar, İdari İşler Müdürü Maaşları]
-tags: [Adalet Bakanlığı, İdari İşler Müdürü Maaşları,  adliyeci]
-keywords: İdari İşler Müdürü Maaşı 2024, Adalet Bakanlığı, İdari İşler Müdürü Maaşı, en düşük İdari İşler Müdürü Maaşı, sözleşmeli İdari İşler Müdürü maaşı, sözleşmeli İdari İşler Müdürü Maaşı, Yargıtay, İdari İşler Müdürü Alımı Ne Zaman, İdari İşler Müdürü nedir?, İdari İşler Müdürü nasıl olunur, İdari İşler Müdürülik şartları, İdari İşler Müdürü ne iş yapar?
+categories: [Maaşlar, Veznedar]
+tags: [Adalet Bakanlığı, Veznedar,  adliyeci]
+keywords: Veznedar Maaşı 2024, Adalet Bakanlığı, Veznedar Maaşı, en düşük Veznedar Maaşı, sözleşmeli Veznedar maaşı, sözleşmeli Veznedar Maaşı, Yargıtay, Veznedar Alımı Ne Zaman, Veznedar nedir?, Veznedar nasıl olunur, Veznedarlik şartları, Veznedar ne iş yapar?
 render_with_liquid: false
 pin: false
 comments: false
 image:
   path: /posts/maas.jpg
-  alt: 2024 İdari İşler Müdürü Maaşları Maaşları
+  alt: 2024 Veznedar Maaşları
 ---
 
 Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024 yılı Haziran (dahil) ayına kadar maaşlar şu şekilde oluşmuştur.
@@ -34,15 +34,15 @@ Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Lisans Mezunu</td>
+    <td class="tg-0pky">Lise Mezunu</td>
     <td class="tg-0pky">Lisans Mezunu</td>
   </tr>
   <tr>
-    <td class="tg-0pky">6 yıl görev süreli</td>
+    <td class="tg-0pky">1 yıl görev süreli</td>
     <td class="tg-0pky">30 yıl görev süreli</td>
   </tr>
   <tr>
-    <td class="tg-0pky">6/1 dereceli</td>
+    <td class="tg-0pky">13/3 dereceli</td>
     <td class="tg-0pky">1/4 dereceli</td>
   </tr>
   <tr>
@@ -58,8 +58,8 @@ Yeni açıklanan memur aylık katsayısına göre 2024 yılı Ocak ayından 2024
     <td class="tg-0pky">İstanbul / İzmir /Ankara'da oturan</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">43145.93 ₺</span></td>
-    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">45070.93 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#FE0000">32532.59 ₺</span></td>
+    <td class="tg-c3ow"><span style="font-weight:bold">Maaş : </span><span style="font-weight:bold;color:#32CB00">42021.45 ₺</span></td>
   </tr>
 </tbody>
 </table>
