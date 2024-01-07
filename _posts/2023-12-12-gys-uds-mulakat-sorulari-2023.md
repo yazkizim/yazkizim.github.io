@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-04 20:42:00 +0300
+last_modified_at: 2024-01-07 21:35:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1488,6 +1488,69 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>Görev belgesi.
 <br>Vergi levhası (*)
 <br>Ticaret odası faaliyet belgesi (*)
+
+**1657- Basmaci harekatı nedir?**
+<br>Basmacı Hareketi, Özbeklerin Sovyet yönetimine karşı Orta Asya'da 1917'de başlattığı ve aralıklı olarak 1934'e değin sürdürdükleri ayaklanma hareketi. Ruslar Basmak ve Baskın kelimesinden yola çıkarak ayaklanmaları Basmacı Ayaklanması olarak nitelendirdiler
+
+**1658- Manda ve himaye kesin olarak nerede reddedildi?**
+<br>Sivas Kongresi (kesin olarak red)
+<br>Erzurum Kongresi (ilk kez reddedildi)
+
+**1659- Eşlerden biri muhtar ise memur olan eş nereye atanır?**
+<br>Muhtar olan eşin mahalline
+
+**1660- Hukuki olay nedir?**
+<br>Hukuk düzeninin kendisine hukuki sonuç bağladığı olaydır.
+
+**1661- İletişimin kayda alınması tespiti hangi durumda olur?**
+<br>Bir suç dolayısıyla yapılan soruşturma ve kovuşturmada, suç işlendiğine ilişkin somut delillere dayanan kuvvetli şüphe sebeplerinin varlığı ve başka suretle delil elde edilmesi imkânının bulunmaması durumunda, hâkim veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararıyla şüpheli veya sanığın telekomünikasyon yoluyla iletişimi dinlenebilir, kayda alınabilir ve sinyal bilgileri değerlendirilebilir. Cumhuriyet savcısı kararını derhâl hâkimin onayına sunar ve hâkim, kararını en geç yirmi dört saat içinde verir.
+
+**1662- Hukuk mahkemelerinde eşlerden ikisi ayrı ayrı yerlerde dava açmak isterse neresi yetkilidir?**
+<br>Ortak son yerleşim yeri
+
+**1663- Yeryüzünün ne kadarı kara ne kadarı su ile kaplıdır?**
+<br>Dünya yüzeyinin yaklaşık %29'u, kıtalar ve adaların meydana getirdiği kara iken; suyla kaplı olan kalan %71'lik bölüm ise okyanuslar, göller, akarsular ve diğer tatlı suların oluşturduğu hidrosfer (suküre) olarak adlandırılır.
+
+**1664- AYDER YAYLASI HANGİ İLÇEMİZDEDİR?**
+<br>Rize/Çamlıhemşin
+
+**1665- Vefat eden memurun üzerinde kalan devlete ait eşyalar kimin sorumluluğuna geçer?**
+<br>Devletin.
+
+**1666- İslamiyet öncesi Türk destanlar nelerdir, hangi topluluğa aittir?**
+<br>Yaratılış, Saka(Alp Er Tunga, Şu), Hun-Oğuz (Oğuz Kağan, Attila),Göktürk (Bozkurt, Ergenekon), Uygur (Türeyiş, Göç)
+
+**1667- Tapu sicili neden tutulur?**
+<br>Taşınmazlar üzerindeki hakları göstermek amacıyla tutulur. Taşınmaz maliki ve taşınmaz üzerindeki diğer ayni hakların sahiplerinin bilinmesine olanak sağlar
+
+**1668- Usulune göre onaylanmis uluslararasi antlasmalari  yargisal denetimini kim yapar?**
+<br>Uluslararası hukukun temel kaynaklarından biri mahiyetindeki antlaşmaların, iç hukuka etkileri bağlamında kabul edilmiş tek bir uygulama yoktur. Türkiye Cumhuriyeti Anayasası’nın 90. maddesi’nde, uluslararası antlaşmaların kanun hükmünde olduğunun belirtilmesine rağmen, aynı madde, usulüne göre yürürlüğe konulmuş antlaşmalar aleyhine, anayasaya aykırılığı gerekçesiyle Anayasa Mahkemesi’ne başvurulamayacağını belirterek antlaşmalara ayrı bir önem atfetmiştir. Anayasanın bu emredici hükmünden dolayı, antlaşmaların anayasaya uygunluğunun yargısal denetimi doğrudan yapılamayıp, antlaşmaları uygun bulan yasalar üzerinden dolaylı bir denetim söz konusudur. Mahkeme’ye, uygun bulma kanunları aleyhine açılan davalara bakıldığında, Mahkeme’nin, söz konusu uygun bulma kanunlarını, Anayasa’nın kendisine verdiği yetkiler dâhilinde, şeklen inceleme yoluna gittiği, antlaşma metnine müdahale edecek bir tutumdan kaçındığı görülmektedir.
+
+**1669- Farabi Dünyada hangi isimle bilinir**
+<br>Fârâbî[a] (Farsça: الفارابي) ya da Batı′da bilinen adıyla **Alpharabius** (872,[2] Fârâb[3] - 950/951, Şam[3]), 8. ve 13. yüzyıllar arasındaki İslam'ın Altın Çağı'nda yaşamış ünlü filozof ve bilim insanıdır. Aynı zamanda gök bilimci, mantıkçı ve müzisyendir.
+
+**1670- Resmi yazışmalarda TC ibaresinin kullanılması zorunlu mudur?**
+<br>Resmî Yazışmalarda Uygulanacak Usul ve Esaslar
+<br>Madde 10: Başlık “İlk satıra “T.C.” kısaltması yazılır.”
+
+**1671- 2013 yılında Avrupa birliğine giren son ülke ?**
+<br>Altıncı Genişleme: (**Hırvatistan**- 2013)
+<br>Hırvatistan'ın 2013 yılında üye olmasıyla, AB 28 üyeli bir Birlik haline gelmiştir. Bununla birlikte Birleşik Krallık'ın 31 Ocak 2020 tarihinde üyelikten resmen çekilmesiyle AB bugün, 27 üyesi olan bir Birlik durumundadır.
+
+**1672- Evliya Çelebi'nin en ünlü eseri?**
+<br>Seyahatname, Evliya Çelebi tarafından 17. yüzyılda yazılmış olan çok ünlü bir gezi kitabıdır. 10 ciltten oluşur.
+
+**1673- 20 Ocak 2018'de Türk Silahlı Kuvvetlerinin (TSK) ve Suriye Millî Ordusunun (SMO) Suriye'nin Halep ilinin Afrin ilçesi ile Azez ilçesine bağlı Tel Rıf'ata yapılan harekatın adı?**
+<br>Zeytin Dalı Harekatı
+
+**1674- İhaleye fesat karıştırma ivedi yargilama usulüne tabi midir?**
+<br>İhale işlemlerinden doğan uyuşmazlıklar ve ihale sürecine ilişkin işlemlerin ivedi yargılama usulü kapsamında olduğu hakkında Danıştay Kararı D A N I Ş T A Y ONÜÇÜNCÜ DAİRE Esas No:2021/4276 Karar No:2021/3108
+
+**1675- 15.yy da bilardo ilk nerede oynandi?**
+<br>Fransa’da
+
+**1676- Hukuk davası takip edilmemesi durumunda ne karar verilir?**
+<br>(1) Usulüne uygun şekilde davet edilmiş olan taraflar, duruşmaya gelmedikleri veya gelip de davayı takip etmeyeceklerini bildirdikleri takdirde **dosyanın işlemden kaldırılmasına** karar verilir.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
