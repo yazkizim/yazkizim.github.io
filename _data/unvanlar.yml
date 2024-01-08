@@ -22,6 +22,8 @@ unvan:
     deger: 26          
   - adi: İcra Katibi
     deger: 6
+  - adi: İcra Başmüdürü
+    deger: 4    
   - adi: İcra Müdürü
     deger: 4
   - adi: İcra Müdür Yardımcısı
