@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-07 21:35:00 +0300
+last_modified_at: 2024-01-08 21:36:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1551,6 +1551,45 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 
 **1676- Hukuk davası takip edilmemesi durumunda ne karar verilir?**
 <br>(1) Usulüne uygun şekilde davet edilmiş olan taraflar, duruşmaya gelmedikleri veya gelip de davayı takip etmeyeceklerini bildirdikleri takdirde **dosyanın işlemden kaldırılmasına** karar verilir.
+
+**1677- Ahmet Tevfik Ozan’ın başlıca eserleri nelerdir?**
+<br>Dağlar Ardı Şiirleri (1990)
+<br>Kâinat Şiiristan (1986)
+<br>Şeyma Ceylan Yüreği (1991)
+<br>Şiirden Taşan Sözler (Denemeler, 1992).
+
+**1678- İttihat ve Terakki’ye karşı bir faaliyet şeklinde ortaya çıkan isyan?**
+<br>31 Mart Vakası (Kalkışması, İsyanı, Ayaklanması, Olayı yahut Hadisesi), II. Meşrutiyet'in ilanından sonra İstanbul'da yönetime karşı yapılmış büyük bir ayaklanma ve darbe teşebbüsüdür.
+
+**1679-Atatürk zamanında kurulan demir çelik fabrikası?**
+<br>Karabük
+
+**1680- I.Dünya Savaşında Rus ordularına karşı açılan cephe?**
+<br>Doğu Cephesi olarak bilinen Kafkas Cephesi, 1914 yılında kurulan bir cephe olarak bilinir. Rus ordularının saldırısı sonucu ile başında Enver Paşa'nın komutanlık ettiği ve Rusya'ya karşı açılan bir cephe olarak bilinmektedir.
+
+**1681- Para arzının artmasının tüketimi artırması sonucu ortaya çıkan enflasyon türü?**
+<br>Talep Enflasyonu
+
+**1682-Atatürk zamanında kurulan demir şeker fabrikası?**
+<br>Alpullu, Uşak, Eskişehir, Turhal
+
+**1683- mübaşir ataması için ne mezunu olmak gerekir?**
+<br>En az lise mezunu
+
+**1684- C#’da ekrana veri yazdırma ve okuma için hangi fonksiyon kullanılır?**
+<br>Console.ReadLine() - Okuma
+<br>Console.WriteLine() – Yazdırma
+
+**1685- TCK nereden esinlenmiştir?**
+<br>Türk Ceza Kanunu 1926 yılında, 1889 tarihli İtalyan Zanardelli Yasası esas alınarak hazırlanarak TBMM'de kabul edilen yeni ceza kanunudur. Türk Ceza Kanunu yürürlüğe girdiği tarihten itibaren çeşitli tarihlerde toplam 54 kez değişikliğe uğradı.
+
+**1686- idari yargılamada idarenin zımni red süresi?**
+<br>31541 sayılı Resmi Gazete'de yayımlanan değişiklikle 2577 sayılı İdari Yargılama Usulü Kanununda yer alan zımni ret süresi 60 günden 30 güne düşürülmüştür.
+
+**1687- Davanın başka şehirde tayin edilmesi neden olur?**
+<br>1) Yetkili hâkim veya mahkeme, hukukî veya fiilî sebeplerle görevini yerine getiremeyecek hâlde bulunursa; yüksek görevli mahkeme, davanın başka yerde bulunan aynı derecede bir mahkemeye nakline karar verir.
+<br>(2) Kovuşturmanın görevli ve yetkili olan mahkemenin bulunduğu yerde yapılması kamu güvenliği için tehlikeli olursa, davanın naklini Adalet Bakanı Yargıtaydan ister.
+<br>(3) (Ek: 24/11/2016-6763/21 md.) Mahkeme, fiili sebepler veya güvenlik gerekçesiyle duruşmanın il sınırları içinde başka bir yerde yapılmasına karar verebilir. Bu karara karşı itiraz yolu açıktır.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
