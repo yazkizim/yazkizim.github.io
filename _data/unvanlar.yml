@@ -27,7 +27,9 @@ unvan:
   - adi: Daktilograf
     deger: 25
   - adi: Garson
-    deger: 19       
+    deger: 19
+  - adi: Hayvan Kesicisi
+    deger: 19            
   - adi: Hizmetli
     deger: 26          
   - adi: İcra Katibi
@@ -48,6 +50,8 @@ unvan:
     deger: 13
   - adi: İnfaz ve Koruma Memuru (Özel +13 P)
     deger: 14
+  - adi: İtfaiye Eri
+    deger: 33      
   - adi: Kaloriferci
     deger: 27      
   - adi: Koruma ve Güvenlik (Silahsız)
