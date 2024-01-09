@@ -9,10 +9,9 @@ comments: true
 addcoments: true
 ---
 
-
-    <div class="card-header">
+<div class="card-header">
         <h3 class="card-title">Sosyal Medyaların Türkiye Temsilcilikleri</h3> <br>
-    </div>
+</div>
     <div>
         <div>
             <div class="card">
