@@ -6068,7 +6068,7 @@
       },
       {
         "soru": "ÖSYM Başkanı kimdir?",
-        "cevap": "ÖSYM Başkanı Prof.Dr. Halis Aygün'dür."
+        "cevap": "Prof. Dr. Bayram Ali Ersoy"
       },
       {
         "soru": "Yükseköğretim Kurulu (YÖK) Başkanı kimdir?",
@@ -9105,6 +9105,22 @@
           {
             "soru": "Davanın başka şehirde tayin edilmesi neden olur?",
             "cevap": "1) Yetkili hâkim veya mahkeme, hukukî veya fiilî sebeplerle görevini yerine getiremeyecek hâlde bulunursa; yüksek görevli mahkeme, davanın başka yerde bulunan aynı derecede bir mahkemeye nakline karar verir.\n\n(2) Kovuşturmanın görevli ve yetkili olan mahkemenin bulunduğu yerde yapılması kamu güvenliği için tehlikeli olursa, davanın naklini Adalet Bakanı Yargıtaydan ister.\n\n(3) (Ek: 24/11/2016-6763/21 md.) Mahkeme, fiili sebepler veya güvenlik gerekçesiyle duruşmanın il sınırları içinde başka bir yerde yapılmasına karar verebilir. Bu karara karşı itiraz yolu açıktır."
+          },
+          {
+            "soru": "Tebliğ yapılacak şahıs otel, hastane, tedavi veya istirahat evi, fabrika, mektep, talebe yurdu gibi içine serbestçe girilemiyen veya arananın kolayca bulunması mümkün olmıyan bir yerdeki şahsa tebliğ nasıl yapılır?",
+            "cevap": "tebliğin yapılmasını o yeri idare eden veya muhatabın bulunduğu kısmın amiri temin eder."
+          },
+          {
+            "soru": "CMK’ya göre gaibin tanımı nedir?",
+            "cevap": "CMK Madde 244\n(1) Bulunduğu yer bilinmeyen veya yurt dışında bulunup da yetkili mahkeme önüne getirilemeyen veya getirilmesi uygun bulunmayan sanık gaip sayılır.\n(2) Gaip hakkında duruşma açılmaz; mahkeme, delillerin ele geçirilmesi veya korunması amacıyla gerekli işlemleri yapar.\n(3) Bu işlemler naip hâkim veya istinabe olunan mahkeme aracılığıyla da yapılabilir.\n(4) Bu işlemler sırasında sanığın müdafii veya kanunî temsilcisi veya eşi hazır bulunabilir. Gerektiğinde, mahkemece barodan bir müdafi görevlendirilmesi istenir."
+          },
+          {
+            "soru": "Çanakkale’de Mustafa Kemal’in rütbesi neydi?",
+            "cevap": "Mustafa Kemal, Çanakkale Savaşları'na Yarbay rütbesi ile katılmış, 1 Haziran 1915’te Albaylığa terfi etmiştir."
+          },
+          {
+            "soru": "Eşi doğum yapan memura ne kadar süreyle izin verilir?",
+            "cevap": "Erkek memura karısının doğum yapması sebebiyle isteği üzerine ve doğum olayının belgelendirilmesi koşuluyla 10 gün izin verilir."
           }
           
 ]

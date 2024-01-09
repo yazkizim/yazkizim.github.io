@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-08 21:36:00 +0300
+last_modified_at: 2024-01-09 22:28:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1590,6 +1590,22 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>1) Yetkili hâkim veya mahkeme, hukukî veya fiilî sebeplerle görevini yerine getiremeyecek hâlde bulunursa; yüksek görevli mahkeme, davanın başka yerde bulunan aynı derecede bir mahkemeye nakline karar verir.
 <br>(2) Kovuşturmanın görevli ve yetkili olan mahkemenin bulunduğu yerde yapılması kamu güvenliği için tehlikeli olursa, davanın naklini Adalet Bakanı Yargıtaydan ister.
 <br>(3) (Ek: 24/11/2016-6763/21 md.) Mahkeme, fiili sebepler veya güvenlik gerekçesiyle duruşmanın il sınırları içinde başka bir yerde yapılmasına karar verebilir. Bu karara karşı itiraz yolu açıktır.
+
+**1688- Tebliğ yapılacak şahıs otel, hastane, tedavi veya istirahat evi, fabrika, mektep, talebe yurdu gibi içine serbestçe girilemiyen veya arananın kolayca bulunması mümkün olmıyan bir yerdeki şahsa tebliğ nasıl yapılır?**
+<br>tebliğin yapılmasını o yeri idare eden veya muhatabın bulunduğu kısmın amiri temin eder.
+
+**1689- CMK’ya göre gaibin tanımı nedir?**
+<br>CMK Madde 244
+<br>(1) Bulunduğu yer bilinmeyen veya yurt dışında bulunup da yetkili mahkeme önüne getirilemeyen veya getirilmesi uygun bulunmayan sanık gaip sayılır.
+<br>(2) Gaip hakkında duruşma açılmaz; mahkeme, delillerin ele geçirilmesi veya korunması amacıyla gerekli işlemleri yapar.
+<br>(3) Bu işlemler naip hâkim veya istinabe olunan mahkeme aracılığıyla da yapılabilir.
+<br>(4) Bu işlemler sırasında sanığın müdafii veya kanunî temsilcisi veya eşi hazır bulunabilir. Gerektiğinde, mahkemece barodan bir müdafi görevlendirilmesi istenir.
+
+**1690- Çanakkale’de Mustafa Kemal’in rütbesi neydi?**
+<br>Mustafa Kemal, yaklaşık 11 ay süre boyunca Çanakkale Cephesi’nde bulunmuştur. 20 Ocak 1915’te 19’uncu Tümen Komutanı olarak cephede göreve atanmış, 10 Aralık 1915’te cepheden ayrılmıştır. Çanakkale Savaşları’na **Yarbay** rütbesi ile katılmış, 1 Haziran 1915’te Albaylığa terfi etmiştir. Cephede 19’uncu Tümen Komutanı, Maydos Mıntıka Komutanı, Arıburnu Kuvvetleri Komutanı ve Anafartalar Grup Komutanı görevlerinde bulunmuştur. Yararlı hizmetlerinden dolayı 30 Nisan’da Gümüş İmtiyaz Harp Madalyası’na, 17 Mayıs’ta ise Altın Liyakat Madalyası’na layık görülmüştür.
+
+**1691- Eşi doğum yapan memura ne kadar süreyle izin verilir?**
+<br>Erkek memura karısının doğum yapması sebebiyle isteği üzerine ve doğum olayının belgelendirilmesi koşuluyla **10 gün** izin verilir.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
