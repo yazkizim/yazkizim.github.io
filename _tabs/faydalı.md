@@ -9,6 +9,28 @@ titleabout: Bakanlık personelini için faydalı sair uygulamalar
 
 <div id="post-list" class="flex-grow-1 pe-xl-2 w-100">
   <article class="card-wrapper"> 
+    <a href="/sosyalmedya/" class="card post-preview flex-md-row-reverse">
+    <span class="badge badge-secondary bg-transparent text-danger"></span>
+      <div class="card-body d-flex flex-column">
+        <h1 class="card-title my-2 mt-md-0">Sosyal Medyaların Türkiye Temsilcilikleri
+        </h1>
+        <div class="card-text content mt-0 mb-2">
+          <p> Facebook, Instagram, LinkedIn, TikTok Türkiye yazışma adresleri
+          </p>
+        </div>
+        <div class="post-meta flex-grow-1 d-flex align-items-end">
+          <div class="me-auto"> 
+            <i class="far fa-calendar fa-fw me-1">
+            </i> 
+            <time>09/01/2024
+            </time>             
+          </div>          
+        </div>
+      </div>
+      <div class="preview-img d-flex flex-row justify-content-center align-items-center"><i class="fa-brands fa-facebook-f fa-fw me-1 fa-3x align-middle" style="color: #316FF6"> </i></div>    
+    </a>
+  </article>
+  <article class="card-wrapper"> 
     <a href="/konsolosluklar/" class="card post-preview flex-md-row-reverse">
     <span class="badge badge-secondary bg-transparent text-danger"></span>
       <div class="card-body d-flex flex-column">
