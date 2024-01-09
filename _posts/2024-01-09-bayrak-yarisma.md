@@ -1,5 +1,5 @@
 ---
-title: Adalet Bakanlığı: Bakanlık Temalı Ödüllü Fotoğraf Yarışması
+title: Adalet Bakanlığı Bayrak Temalı Ödüllü Fotoğraf Yarışması
 author: gokhantasci
 date: 2024-01-09 11:59:00 +0300
 categories: [Güncelleme, '2024']
@@ -16,4 +16,4 @@ image:
 Bakanlığımızca Türkiye'nin 100.Yılında Türk Bayraklı Ödüllü Fotoğraf Yarışması Düzenlenmektedir.
 
 [Yarışma Sayfası için Tıklayınız](https://yarisma.adalet.gov.tr/)
-[**Bize Oy Vermek için Tıklayınız**](https://yarisma.adalet.gov.tr/?Gp=b1e68ec6-9d79-4c2f-ad47-b2d03fff1a10&type=custom_url&app_absent=0)
+<br>[**Bize Oy Vermek için Tıklayınız**](https://yarisma.adalet.gov.tr/?Gp=b1e68ec6-9d79-4c2f-ad47-b2d03fff1a10&type=custom_url&app_absent=0)
