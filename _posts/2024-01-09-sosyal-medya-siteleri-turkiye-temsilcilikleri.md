@@ -6,7 +6,7 @@ categories: [Güncelleme, '2024']
 tags: [Adalet Bakanlığı, facebook, tiktok, instagram, linkedin, meta, pinterest, V Kontakte]
 keywords: facebook, tiktok, instagram, linkedin, meta, pinterest, V Kontakte
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/ekler/tiktok.png
