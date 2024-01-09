@@ -9,7 +9,7 @@ render_with_liquid: false
 pin: true
 comments: true
 image:
-  path: /posts/ekler/kbs.jpg
+  path: /posts/kbs.jpg
   alt: KBS
 ---
 
