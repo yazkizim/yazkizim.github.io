@@ -7,7 +7,7 @@ tags: [Adalet Bakanlığı, facebook, tiktok, instagram, linkedin, meta, pintere
 keywords: facebook, tiktok, instagram, linkedin, meta, pinterest, V Kontakte
 render_with_liquid: false
 pin: true
-comments: false
+comments: true
 image:
   path: /posts/ekler/tiktok.png
   alt: Tiktok
