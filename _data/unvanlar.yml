@@ -37,7 +37,9 @@ unvan:
   - adi: Çocuk Bakıcısı
     deger: 19
   - adi: Çocuk Eğiticisi
-    deger: 35     
+    deger: 35
+  - adi: Çocuk Eğitimcisi
+    deger: 35          
   - adi: Dağıtıcı
     deger: 19            
   - adi: Daktilograf
