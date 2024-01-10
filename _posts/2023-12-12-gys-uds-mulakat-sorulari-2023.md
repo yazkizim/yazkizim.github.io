@@ -1607,6 +1607,106 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 **1691- Eşi doğum yapan memura ne kadar süreyle izin verilir?**
 <br>Erkek memura karısının doğum yapması sebebiyle isteği üzerine ve doğum olayının belgelendirilmesi koşuluyla **10 gün** izin verilir.
 
+**1692- İstanbul’un fefhi ile cumhuriyetin ilanı arasında kaç yıl fark vardır?**
+<br>470 yıl
+
+**1693- Adalet personelini ataması hangi yönetmeliğe göre yapılır?**
+<br>Adalet Bakanlığı Memur Sınav, Atama Ve Nakil Yönetmeliği
+
+**1694- İlk Türk ismini kullanan devlet?**
+<br>Göktürkler, tarihte Türk adı ile kurulmuş ilk devlettir. Hun İmparatorluğunun zayıflaması ve dağılmasından sonra 552 yılında Türk boyları arasında hakimiyet sağlanarak Göktürk Devleti kurulmuştur.
+
+**1695- Elektronik İmza nedir?**
+<br>Elektronik imza ya da sayısal imza, başka bir elektronik veriye eklenen veya elektronik veriyle mantıksal bağlantısı bulunan ve kimlik doğrulama amacıyla kullanılan elektronik veridir. E-imza olarak da bilinir. Elektronik ortamlarda imza yerine kullanılabilen yasal kimlik doğrulama sistemidir.
+
+**1696- avukatlar mobilden UYAP sisteme giriş yapabilir mi?**
+<br>Avukatlar “CELSE” uygulaması ile vekil oldukları;
+<br>-Duruşma bilgilerini takvim üzerinden görüntüleme işlemlerini yapabilmekte ve UYAP sistemindeki iletişim bilgilerini güncelleyebilmektedir. “CELSE” uygulaması geliştirmeye açık olup ilerleyen zamanlarda ihtiyaç duyulan yeni hizmetler de uygulamaya eklenecektir.
+
+**1697- İslamiyet öncesi Türk Devletlerinin savaş taktikleri nelerdir?**
+<br>Eski Türk savaş taktiği safhaları üçe ayrılıyordu. Bunlar: Yıldırma ve Yıpratma, Sahte Geri Çekilme ile Pusuya Düşürme ve İmha olarak gerçekleştiriliyordu. Savaş taktiğinde önce düşman yıldırıp, yıpratılmaya çalışılıyordu. Aynı zamanda düş- manın psikolojisi de bozulmaya çalışılıyordu.
+
+**1698- horozları ile ünlü ilimiz?**
+<br>Denizli
+
+**1699- vesayet organları**
+<br>Vesayet organları; vasi, vesayet makamı ve denetim makamıdır. Vesayet makamı kısıtlının ya da küçüğün yerleşim yeri sulh hukuk mahkemesi, denetim makamı ise yerleşim yeri asliye hukuk mahkemesidir.
+
+**1700- Amirine, maiyetindekilere, iş arkadaşları veya iş sahiplerine hakarette bulunmak veya bunları tehdit etmek suçun cezası?**
+<br>Kademe ilerlemesinin durdurulması : Fiilin ağırlık derecesine göre memurun, bulunduğu kademede ilerlemesinin 1 - 3 yıl durdurulmasıdır.
+
+**1701- Engelli çalıştırma oranı?**
+<br>Özel sektör işyerlerinde % 3 engelli, Kamu işyerlerinde ise % 4 engelli ile % 2 eski hükümlü veya terörle mücadelede malul sayılmayacak şekilde yaralanan işçiyi meslek, beden ve ruhi durumlarına uygun işlerde çalıştırmakla yükümlüdürler.
+
+**1702- Cendere Köprüsü nerededir?**
+<br>Cendere Köprüsü, Adıyaman'da Cendere çayı üzerinde yer alan ve dünyanın hâlen kullanılmakta olan en eski köprülerinden biri olarak anılan tarihi köprü. Adıyaman’a 55 km mesafede, bugün Eskikale olarak bilinen bir antik yerleşim bölgesinde bulunmaktadır. Kahta ve Sincik’i birbirine bağlar.
+
+**1703- Boşanma ve nafaka davalarında yetkili mahkeme?**
+<br>Anlaşmalı boşanma davasında yetkili ve görevli mahkeme, herhangi bir adliyenin aile mahkemesidir. Anlaşmalı olarak boşanmak isteyen taraflar, herhangi bir adliyenin aile mahkemesine başvurmak suretiyle boşanma davası açabilir.
+<br>Çekişmeli boşanma davasında yetkili ve görevli mahkeme, taraflardan birinin yerleşim yerindeki ya da davadan önce eşlerin beraber oturdukları yerdeki aile mahkemesidir. Şayet davanın açılacağı adliyede aile mahkemesi mevcut değilse asliye hukuk mahkemesinde çekişmeli boşanma davası ikam edilecektir.
+<br>Boşanmadan sonra açılacak nafaka davalarında, nafaka alacaklısının yerleşim yeri mahkemesi yetkilidir
+
+ 
+**1704- TBMM iç tüzüğünün denetimini kim yapar?** 
+<br>Anayasa Mahkemesinin görev ve yetkileri Anayasa'nın 148. maddesinin birinci fıkrasında düzenlenmiştir. Buna göre, “Anayasa Mahkemesi, kanunların, kanun hükmünde kararnamelerin ve Türkiye Büyük Millet Meclisi İçtüzüğünün Anayasaya şekil ve esas bakımlarından uygunluğunu denetler”.
+
+**1705- Eğitimin birleştirilmesi adına çıkartılan kanun?**
+<br>Tevhid-i Tedrisat” kanunu
+
+**1706- Ceza hukukunda keşif sırasında kimler bulunur?**
+<br>Keşif sırasında hazır bulunabilecekler CMK madde 84’te düzenlenmektedir.
+<br>(1) Keşif yapılması sırasında şüpheli, sanık, mağdur ve bunların müdafii ve vekili hazır bulunabilirler.
+<br>(2)Tanık veya bilirkişinin duruşma sırasında hazır bulunamayacağı veya oturduğu yerin uzaklığı nedeniyle bulunmasının güç olduğu anlaşılırsa, bu tanık veya bilirkişinin dinlenmesinde de birinci fıkra hükmü uygulanır.
+<br>(3) Mağdur, şüpheli veya sanığın huzuru, tanıklardan birinin gerçeğe uygun tanıklık etmesine engel olabilecekse, o işte şüpheli veya sanığın bulunmamasına karar verilebilir.
+<br>(4) Bu işlerde hazır bulunmaya hakkı olanlar, işin geri bırakılmasına neden olmamak koşuluyla, işlerin yapılması gününden önce haberdar edilirler.
+<br>(5) Şüpheli veya sanık tutuklu ise, hâkim veya mahkeme tarafından ancak zorunlu sayılan hâllerde keşifte hazır bulundurulmasına karar verilebilir.
+
+**1707- Sözleşmeli personel kurumlar arası geçiş yapabilir mi?**
+<br>Ek Madde 3 –Sözleşmeli personelin kurumlar arası yer değişikliği yapılamaz.
+
+**1708- Avustralya’nın başkenti?**
+<br>Canberra
+
+**1709- Kurtuluş savaşı ilk nerede kime karşı başlatıldı?**
+<br>Kurtuluş savaşımızda işgallere karşı ilk silahlı direniş Güneydoğu Anadolu’da Fransızlara karşı başlamışsa da, ilk Kuvayı Milliye hareketi Batı Anadolu’da Yunanlılara karşı oluşturulmuştur.
+
+**1710- Türkiye kupası'nı ilk kazanan takım?**
+<br>1962-1963:Türkiye Kupasını ilk kez düzenlediği 1962-1963 sezonunda İlk maçta Zonguldak Kömürspor'u eleyen Galatasaray finalde Fenerbahçe'yi her iki maçta da 2-1 yenerek kupayı kazanan taraf olmuştu.
+
+**1711- Katılan tanımı?**
+<br>Müşteki, başka bir ifadeyle şikayetçi; suçtan zarar gören veya suçun mağduru olup işlenen suçu adli makamlara taşıyarak şikâyet eden kişidir. Müşteki, yargılama evresinde davaya katılmak isterse müdahil (katılan) sıfatını alır.
+
+**1712- Bir de Türk edebiyatında ilk çeviri roman hangisidir?**
+<br>Romanın tür olarak Türk edebiyatında görülmesi, Telamak'ı Fransızcadan çeviren Tahtaví'nın, Arapça tercümesinden Yusuf Kamil Paşa'nın yaptığı, Fenelon'un Telemak adlı eserinin çevirisi Terceme-i Telemak ile olmuştur.
+
+**1713- Lozan antlaşması ile Türkiyenin hangi sınırı çizilmiştir?**
+<br>Günümüz Türkiye'nin sınırları (Musul ve Hatay hariç)
+
+**1714- Bilirkişi bölge kurulu nerelerde olur?**
+<br>MADDE 20 – (1) Her bölge adliye mahkemesinin kurulu bulunduğu yerde bir bilirkişilik bölge kurulu oluşturulur.
+
+**1715- Yugoslavya Sosyalist Federal Cumhuriyeti’nden ayrılan ülkeler?**
+<br>Sırbistan, Hırvatistan, Bosna-Herksek, Kuzey Makedonya, Karadağ, Slovenya, Kosova
+
+**1716- Üç başkenti olan ülke?**
+<br>Güney Afrika'da yürütme başkenti Pretoria, yasama başkenti Cape Town, yargı başkenti Bloemfontein olmak üzere üç başkent bulunmaktadır.
+
+**1717- Piri reisin cizdigi ilk dünya haritasi?**
+<br>Pîrî Reis, kendisini yetiştirmiş olan amcası Kemal Reis'in 1511'deki ölümünün ardından Gelibolu'ya çekilip orada bir dünya haritası, bir de Kitab-ı Bahriyesini hazırlamıştır. Dünya haritasını 1513'de tamamlayıp 1517 yılında, Mısır’ın fethinin hemen sonrasındaki günlerde Yavuz Sultan Selim’e takdim etmiştir. Pîrî Reis; bunun ardından Kaptan-ı Derya (Deniz Kuvvetleri Komutanı) rütbesine getirilir.
+
+**1718- Ayda yetiştirilen ilk bitki?**
+<br>Çin Ulusal Uzay İdaresi, Chang'e-4 uzay aracı tarafından Ay'a götürülen **pamuk tohumlarının filiz verdiğini** açıkladı. Bu, Ay'da ilk kez biyolojik bir maddenin büyümesi anlamına geliyor ve insanlığın uzay yolculuğu için büyük önem taşıyor.
+
+**1719- Orhun kitabeleri ile ilgili Türkiyede yapılan ilk çalışmayı kim yapmıştır?**
+<br>Türkiye'de Orhun Abideleri üzerine ilk akademik ve bilimsel çalışma, Şemsettin Sami'nin Thomsen'den yararlanarak yaptığı incelemedir.
+
+**1720- Dünyanın ilk tıp merkezi olarak kabul edilen merkezin adı?**
+<br>Dünyanın ilk hastane ve tıp medresesi olan **Gevher Nesibe Darüşşifası**, 1206 yılında 2. Gıyaseddin Keyhüsrev tarafından Kayseri'de inşa ettirilmiştir.
+
+**1721- Türk dünyasını gösteren ilk harita kim tarafından çizilmiştir?**
+<br>Kâşgarlı Mahmud'un Haritası
+<br>Bugünkü bilgilerimize göre bu, bir Türk'ün çizdiği ilk dünya haritasıdır.
+
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
 
