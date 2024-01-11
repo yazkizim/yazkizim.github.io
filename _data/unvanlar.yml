@@ -57,7 +57,11 @@ unvan:
   - adi: Gassal
     deger: 42
   - adi: Gemi Adamı
-    deger: 43          
+    deger: 43
+  - adi: Gişe Memuru
+    deger: 43
+  - adi: Hayvan Bakıcısı
+    deger: 44                    
   - adi: Hayvan Kesicisi
     deger: 19            
   - adi: Hizmetli
@@ -80,6 +84,8 @@ unvan:
     deger: 13
   - adi: İnfaz ve Koruma Memuru (Özel +13 P)
     deger: 14
+  - adi: İşaret Dili Tercümanı
+    deger: 18    
   - adi: İtfaiye Çavuş
     deger: 33      
   - adi: İtfaiye Eri
