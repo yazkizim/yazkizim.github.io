@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-10 21:20:00 +0300
+last_modified_at: 2024-01-11 21:32:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1706,6 +1706,69 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 **1721- Türk dünyasını gösteren ilk harita kim tarafından çizilmiştir?**
 <br>Kâşgarlı Mahmud'un Haritası
 <br>Bugünkü bilgilerimize göre bu, bir Türk'ün çizdiği ilk dünya haritasıdır.
+
+**1722- CMK’ya göre gözaltı süresi ne kadardır?**
+<br>Madde 91 – (1) Yukarıdaki maddeye göre yakalanan kişi, Cumhuriyet Savcılığınca bırakılmazsa, soruşturmanın tamamlanması için gözaltına alınmasına karar verilebilir. (Değişik ikinci cümle: 25/5/2005 – 5353/8 md.) Gözaltı süresi, yakalama yerine en yakın hâkim veya mahkemeye gönderilmesi için zorunlu süre hariç, yakalama anından itibaren yirmidört saati geçemez.(Ek cümle: 25/5/2005 – 5353/8 md.) Yakalama yerine en yakın hâkim veya mahkemeye gönderilme için zorunlu süre oniki saatten fazla olamaz.
+<br>(2) Gözaltına alma, bu tedbirin soruşturma yönünden zorunlu olmasına ve kişinin bir suçu işlediği şüphesini gösteren somut delillerin varlığına bağlıdır.[8]
+<br>(3) Toplu olarak işlenen suçlarda, delillerin toplanmasındaki güçlük veya şüpheli sayısının çokluğu nedeniyle; Cumhuriyet savcısı gözaltı süresinin, her defasında bir günü geçmemek üzere, üç gün süreyle uzatılmasına yazılı olarak emir verebilir. Gözaltı süresinin uzatılması emri gözaltına alınana derhâl tebliğ edilir.
+<br>(4) (Ek: 27/3/2015-6638/13 md.)[9] Suçüstü hâlleriyle sınırlı olmak kaydıyla; kişi hakkında aşağıdaki bentlerde belirtilen suçlarda mülki amirlerce belirlenecek kolluk amirleri tarafından yirmi dört saate kadar, şiddet olaylarının yaygınlaşarak kamu düzeninin ciddi şekilde bozulmasına yol açabilecek toplumsal olaylar sırasında ve toplu olarak işlenen suçlarda kırk sekiz saate kadar gözaltına alınma kararı verilebilir. Gözaltına alma nedeninin ortadan kalkması hâlinde veya işlemlerin tamamlanması üzerine derhâl ve her hâlde en geç yukarıda belirtilen sürelerin sonunda Cumhuriyet savcısına, yapılan işlemler hakkında bilgi verilerek talimatı doğrultusunda hareket edilir. Kişi serbest bırakılmazsa yukarıdaki fıkralara göre işlem yapılır. Ancak kişi en geç kırk sekiz saat, toplu olarak işlenen suçlarda dört gün içinde hâkim önüne çıkarılır. Bu fıkra kapsamında kolluk tarafından gözaltına alınan kişiler hakkında da gözaltına ilişkin hükümler uygulanır.
+
+**1723- 2015 Nobel kimya ödülü kime verilmiştir?**
+<br>Prof.Dr.Aziz Sancar
+
+**1724- Benelüks ülkeleri?**
+<br>Benelüks; Belçika, Hollanda ve Lüksemburg'un coğrafi olarak birlikteliğini anlatan, politik ve ekonomik iş birliği temeline oturan uluslararası bir birliktir. "Benelüks" adı, bu üç ülkenin kendi dillerindeki adlarının ilk hecelerinin birleştirilmesiyle (BELGIË, NEDERLAND, LUXEMBURG) oluşur.
+
+**1725- Mahkemelerde tutulan kartonlar nelerdir?**
+<br>(1) Mahkemece, aşağıda gösterilen karar ve işlem kartonlarının UYAP’ta tutulması zorunludur.
+<br>a) Karar kartonu: Kovuşturma evresi sonucunda verilen kararların saklandığı kartondur.
+<br>b) Değişik işler kartonu: Değişik işler kaydına kaydolunan işler hakkında verilen kararların saklandığı kartondur.
+<br>c) Adlî tebligat ve posta gönderileri kartonu: Görevli tarafından imza ve mühür ile teslim alınan tebligat ve posta evrakına ait sevk irsaliyelerinin bir örneği ile ödeme talimatının ve aylık posta gideri cetvelinin bir örneğinin konulduğu ve saklandığı kartondur. Temyiz ve istinaf kanun yoluna gönderilen dosyalar hakkında ayrı irsaliyeler düzenlenir ve bunlar ayrı kartonlarda muhafaza edilir
+<br>ç) İş cetvelleri kartonu: Mahkemece, Bakanlık ve Kurula gönderilen iş cetvellerinin saklandığı kartondur.
+<br>d) Teftiş tavsiyeler listesi kartonu: Teftiş sonucunda düzenlenen tavsiyeler listesinin saklandığı kartondur.
+<br>e) Zimmet kartonu: Mahkemece, UYAP üzerinden gönderilemeyen evrakın teslimine ilişkin belgenin konulduğu ve saklandığı kartondur. Elektronik ortamda tutulan kaydın çıktısı alınır, ilgili sütun imzalatıldıktan sonra taranarak UYAP’a aktarılır ve kartonda muhafaza edilir.
+<br>(2) Birinci fıkranın (c) ve (e) bentlerinde gösterilen kartonların fizikî olarak da tutulması gerekir.
+
+**1726- 2019 senesi Cumhurbaşkanlığı tarafından ne yılı olarak ilan edilmiştir.?**
+<br>Prof. Dr. Fuat Sezgin Yılı
+
+**1727- Türkiye'nin milletler cemiyetine 1932 yılına kadar uye olmamasının nedeni nedir?**
+<br>Musul Meselesi
+
+**1728- Mustafa kemal başarısından dolayı altin kılıç hangi cephede verildi?**
+<br>Kafkas Cephesi
+
+**1729- Mustafa Kemal Atatürk ile Fethi okyarın işgalde döneminde çıkardıkları gazaetenin adı?**
+<br>Minber
+
+**1730- teknik ortaokul bitirenlere kaç derece verilir?**
+<br>1 derece
+
+**1731- 1 nolu cumhurbaskanligi kararnamesine göre bakanlıkça  görevlendirilen  uzman kişilere ödenen ücret nedir?**
+<br>Huzur Ücreti (fiilen görev yapılan günle orantılı olarak ayda en fazla 18.000 gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak miktarı geçemez. Uhdesinde bir kamu görevi bulunmayanlarda ise 36.000 gösterge rakamı uygulanır.)
+
+**1732- sahipli bir malı bulan kimse kaç yıl sonra malik hakkı edinir?**
+<br>Taşınır : 5 yıl
+<br>Taşınmaz : 20 yıl
+
+**1733- Anadolu'da kurulan İlk Türk Beylikleri?**
+<br>Saltukoğulları: Erzurum.
+<br>Mengücekoğulları: Erzincan.
+<br>Çaka Beyliği: İzmir.
+<br>Danişmendliler: Tokat, Malatya, Sivas, Kayseri ve Amasya civarı
+<br>Artuklular: Güneydoğu Anadolu.
+<br>Dilmaçoğulları: Bitlis.
+<br>Çubukoğulları: Harput.
+<br>Yınaloğulları: Diyarbakır.
+
+**1734- Tarihi hattuşaş kalıntıları nerededir?**
+<br>Hattuşaş, 1986 yılında UNESCO Dünya Mirasları listesine dahil edilmiştir. Hattuşaş Çorum'un Sungurlu ilçesinin güneydoğusunda Boğazkale ilçesinin 4 km doğusundadır
+
+**1735- Kaç yıl hizmet etmiş memur aylıksız izin kullanabilir?**
+<br>Memura, yıllık izinde esas alınan süreler itibarıyla beş hizmet yılını tamamlamış olması ve isteği hâlinde memuriyeti boyunca ve en fazla iki defada kullanılmak üzere, toplam bir yıla kadar aylıksız izin verilebilir
+
+**1736- Ekran kartında TDP ne ifade eder?**
+<br>Ekran kartlarındaki TDP aslında işlemcilerin TDP derecelendirmesinden biraz farklı. CPU’larda TDP kısaltması Thermal Design Power (Termal Tasarım Gücü) anlamına gelirken, grafik kartlarında aslında Thermal Design Parameter (Termal Tasarım Parametresi) anlamına gelir. Bu, GPU’nun güç çekimini manuel olarak ölçmeden şu anda sahip olduğumuz gerçek GPU gücünün en yakın ölçüsüdür.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
