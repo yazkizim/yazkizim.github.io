@@ -93,32 +93,56 @@ unvan:
   - adi: İtfaiye Onbaşı
     deger: 33             
   - adi: Kaloriferci
-    deger: 27      
+    deger: 27
+  - adi: Kameraman
+    deger: 41             
   - adi: Koruma ve Güvenlik (Silahsız)
     deger: 8
   - adi: Koruma ve Güvenlik (Silahlı)
     deger: 9
   - adi: Memur
     deger: 18
+  - adi: Muayene Memuru
+    deger: 41
+  - adi: Muhabir
+    deger: 41          
   - adi: Mutemet
     deger: 28               
   - adi: Mübaşir
     deger: 3
+  - adi: Müze Memuru
+    deger: 41     
   - adi: Orman Muhafaza Memuru
     deger: 29
   - adi: Polis, Başpolis, Kıdemli Başpolis Memuru
     deger: 32
+  - adi: Redaktör
+    deger: 41
+  - adi: Santral Memuru
+    deger: 41
+  - adi: Satınalma Memuru
+    deger: 41
+  - adi: Satış Memuru
+    deger: 41
+  - adi: Sekreter
+    deger: 41                         
   - adi: Şef 
     deger: 31     
   - adi: Şef (VHKİ ve Bilgisayar İşletmeni)
     deger: 30          
   - adi: Şoför
     deger: 20
+  - adi: Terzi
+    deger: 26     
   - adi: Veri Hazırlama ve Kontrol İşletmeni
     deger: 21
   - adi: Veznedar
     deger: 23          
   - adi: Yazı İşleri Müdürü
-    deger: 1        
+    deger: 1
+  - adi: Yönetmen
+    deger: 41
+  - adi: Yüksekokul Sekreteri
+    deger: 40                 
   - adi: Zabıt Katibi
     deger: 2
