@@ -7,7 +7,7 @@ categories: [Toplu Sözleşme, '7.Dönem Toplu Sözleşmesi']
 tags: [Adalet Bakanlığı, toplu sözleşme]
 keywords: adliyeci, adalet bakanlığı, yazı işleri müdürü, icra müdürü, icra müdür yardımcısı
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/kbs.jpg
