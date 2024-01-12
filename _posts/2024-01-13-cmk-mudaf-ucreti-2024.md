@@ -15,6 +15,74 @@ image:
 
 13/01/2024 tarih ve 32428 sayılı Resmi Gaztede 2024 Yılı Tanıklık Ücret Tarifesi yayınlanmıştır.
 
+<table>
+    <tr>
+        <td>Yıl</td>
+        <td>Birim</td>
+        <td>Ücret (₺)</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Soruşturma evresinde takip edilen işler için</td>
+        <td>2.292 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Sulh Ceza Hakimlikleri</td>
+        <td>3.570 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Asliye Ceza Mahkemeleri Takip Edilen Dava</td>
+        <td>3.930 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Asliye ceza Mahkemeleri Seri Muhakeme</td>
+        <td>1.641 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Ağır Ceza Mahkemesi</td>
+        <td>7.050 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Çocuk Mahkemeleri Takip Edilen Dava</td>
+        <td>3.930 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Çocuk Ağır Ceza Mahkemeleri Takip Edilen Dava</td>
+        <td>7.050 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>İcra Ceza</td>
+        <td>3.930 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Fikri ve Sınai Haklar Ceza Mahkemesi</td>
+        <td>3.930 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>İnfaz Hakimlikleri</td>
+        <td>3.930 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>BAM Duruşmalı davalar</td>
+        <td>7.050 ₺</td>
+    </tr>
+    <tr>
+        <td>2024</td>
+        <td>Yargıtay Duruşmalı davalar</td>
+        <td>7.937 ₺</td>
+    </tr>
+</table>
+
 
 **CEZA MUHAKEMESİ KANUNU GEREĞİNCE GÖREVLENDİRİLEN MÜDAFİ VE VEKİLLERE YAPILACAK ÖDEMELERE  İLİŞKİN 2024 YILI TARİFESİ**
 <br>
