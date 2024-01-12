@@ -82,6 +82,242 @@ addcoments: true
                               </div>
                               <small class="form-hint"></a></small>
                           </div>
+                          <div class="mb-3" id="ogretmenalt" style="display: none;">
+                            <div class="row x_row_col_1">
+                              <div class="col-5">&nbsp;&nbsp;&nbsp;<label class="control-label" for="fname">&nbsp;Kariyer</label></div>
+                              <div class="col-7">
+                                <div class="row x_row_col_2">
+                                  <div class="col-auto">
+                                    <label class="control-label x_style_colon" for="fname">:</label>
+                                  </div>
+                                  <div class="col">
+                                    <select class="form-select form-select-sm x_form_select_sm_cstm" id="slcGorevUnvaniSecimi2" name="slcGorevUnvaniSecimi2">                                    
+                                      <option value="1" selected="">Öğretmen</option>                                    
+                                      <option value="2">Uzman Öğretmen</option>                                    
+                                      <option value="3">Başöğretmen</option>                        
+                                    </select>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div id="colOgretmenEkSecimleri" "="">
+                              <div class="row x_row_col_1">
+                                <div class="col-5">&nbsp;&nbsp;&nbsp;<label class="control-label" for="fname">&nbsp;Alt Görev Ünvanı</label></div>
+                                <div class="col-7">
+                                  <div class="row x_row_col_2">
+                                    <div class="col-auto">
+                                      <label class="control-label x_style_colon" for="fname">:</label>
+                                    </div>
+                                    <div class="col">
+                                      <select class="form-select form-select-sm x_form_select_sm_cstm" id="slcAltGorevUnvani" name="slcAltGorevUnvani" onchange="this.form.submit();">
+                                        <optgroup label="ÖĞRETMEN">
+                                          <option value="1" selected="">ÖĞ-Öğretmen&nbsp;(Bunların&nbsp;Dışında)</option>
+                                          <option value="2">ÖĞ-Cezaevlerinde&nbsp;Görevli&nbsp;Olan</option>
+                                          <option value="3">ÖĞ-Özel&nbsp;Eğt.&nbsp;Muh.&nbsp;Çoc.&nbsp;Mah.&nbsp;Okullar</option>
+                                          <option value="4">ÖĞ-Yatılı&nbsp;İlköğretim&nbsp;Bölge&nbsp;Okulları</option>
+                                          <option value="5">ÖĞ-Der.&nbsp;Yab.&nbsp;Dille&nbsp;Okutan&nbsp;(And.&nbsp;Lis.)</option>
+                                          <option value="6">ÖĞ-Der.&nbsp;Yab.&nbsp;Dille&nbsp;Okutan&nbsp;(And.&nbsp;M.&nbsp;L.)</option>
+                                          <option value="7">ÖĞ-Der.&nbsp;Yab.&nbsp;Dille&nbsp;Okutan&nbsp;(Polis&nbsp;Kol.)</option>
+                                          <option value="8">ÖĞ-Der.&nbsp;Yab.&nbsp;Dille&nbsp;Okutan&nbsp;(Askeri.&nbsp;Lis.)</option>
+                                          <option value="9">ÖĞ-Yabancı&nbsp;Dil&nbsp;Öğrt.&nbsp;(And.&nbsp;Lis.)</option>
+                                          <option value="10">ÖĞ-Yabancı&nbsp;Dil&nbsp;Öğrt.&nbsp;(And.&nbsp;Mes.&nbsp;L.)</option>
+                                          <option value="11">ÖĞ-Yabancı&nbsp;Dil&nbsp;Öğrt.&nbsp;(Polis&nbsp;Koleji)</option>
+                                          <option value="12">ÖĞ-Yabancı&nbsp;Dil&nbsp;Öğrt.&nbsp;(Askeri.&nbsp;Lis.)</option>
+                                          <option value="13">ÖĞ-Fen&nbsp;Grubu&nbsp;Öğretmeni&nbsp;(And.&nbsp;Lis.)</option>
+                                          <option value="14">ÖĞ-Fen&nbsp;Grubu&nbsp;Öğretmeni&nbsp;(And.&nbsp;M.&nbsp;L.)</option>
+                                          <option value="15">ÖĞ-Fen&nbsp;Grubu&nbsp;Öğretmeni&nbsp;(Polis&nbsp;Kol.)</option>
+                                          <option value="16">ÖĞ-Fen&nbsp;Grubu&nbsp;Öğretmeni&nbsp;(Askeri.&nbsp;Lis.)</option>
+                                          <option value="17">ÖĞ-Fen&nbsp;Grubu&nbsp;Öğretmeni&nbsp;(Fen&nbsp;Lis.)</option>
+                                        </optgroup>
+                                        <optgroup label="ŞEF (MESLEKİ TEKNİK OKULLAR)">
+                                          <option value="18">ŞF-Bölüm&nbsp;Şefi,&nbsp;Atölye&nbsp;Şefi,&nbsp;Lab.&nbsp;Şefi</option>
+                                        </optgroup>
+                                        <optgroup label="MÜDÜR YARDIMCISI">
+                                          <option value="19">MY-İlköğretim&nbsp;Okulları</option>
+                                          <option value="20">MY-Orta&nbsp;Dereceli&nbsp;Okullar</option>
+                                          <option value="21">MY-Mesleki&nbsp;ve&nbsp;Teknik&nbsp;Okullar</option>
+                                          <option value="22">MY-Azınlık&nbsp;Okulları</option>
+                                          <option value="23">MY-Mesleki Eğitim&nbsp;Merkezi</option>
+                                          <option value="24">MY-Rehberlik&nbsp;Merkezi</option>
+                                          <option value="25">MY-Halk&nbsp;Eğitim&nbsp;Merkezi</option>
+                                          <option value="26">MY-Hizmetiçi&nbsp;Eğitim&nbsp;Enstitüsü</option>
+                                          <option value="27">MY-Yüksekokullar</option>
+                                          <option value="28">MY-Özel&nbsp;Eğt.&nbsp;Muh.&nbsp;Çoc.&nbsp;Mah.&nbsp;Okullar</option>
+                                          <option value="29">MY-Yatılı&nbsp;İlköğretim&nbsp;Bölge&nbsp;Okulları</option>
+                                          <option value="30">MY-Anadolu&nbsp;Liseleri</option>
+                                          <option value="31">MY-Anadolu&nbsp;Meslek&nbsp;Liseleri</option>
+                                          <option value="32">MY-Polis&nbsp;Koleji</option>
+                                          <option value="33">MY-Askeri&nbsp;Liseler</option>
+                                          <option value="34">MY-Fen&nbsp;Liseleri</option>
+                                        </optgroup>
+                                        <optgroup label="MÜDÜR">
+                                          <option value="35">MD-İlköğretim&nbsp;Okulları</option>
+                                          <option value="36">MD-Orta&nbsp;Dereceli&nbsp;Okullar</option>
+                                          <option value="37">MD-Mesleki&nbsp;ve&nbsp;Teknik&nbsp;Okullar</option>
+                                          <option value="38">MD-Azınlık&nbsp;Okulları</option>
+                                          <option value="39">MD-Mesleki&nbsp;Eğitim&nbsp;Merkezi</option>
+                                          <option value="40">MD-Rehberlik&nbsp;Merkezi</option>
+                                          <option value="41">MD-Halk&nbsp;Eğitim&nbsp;Merkezi</option>
+                                          <option value="42">MD-Hizmetiçi&nbsp;Eğitim&nbsp;Enstitüsü</option>
+                                          <option value="43">MD-Yüksekokullar</option>
+                                          <option value="44">MD-Özel&nbsp;Eğt.&nbsp;Muh.&nbsp;Çoc.&nbsp;Mah.&nbsp;Okullar</option>
+                                          <option value="45">MD-Yatılı&nbsp;İlköğretim&nbsp;Bölge&nbsp;Okulları</option>
+                                          <option value="46">MD-Anadolu&nbsp;Liseleri</option>
+                                          <option value="47">MD-Anadolu&nbsp;Meslek&nbsp;Liseleri</option>
+                                          <option value="48">MD-Polis&nbsp;Koleji</option>
+                                          <option value="49">MD-Askeri&nbsp;Liseler</option>
+                                          <option value="50">MD-Fen&nbsp;Liseleri</option>
+                                        </optgroup>
+                                      </select>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="row x_row_col_1">
+                                <div class="col-5">&nbsp;&nbsp;&nbsp;<label class="control-label" for="fname">&nbsp;Alan (Eğitim Yılı)</label></div>
+                                <div class="col-7">
+                                  <div class="row x_row_col_2">
+                                    <div class="col-auto">
+                                      <label class="control-label x_style_colon" for="fname">:</label>
+                                    </div>
+                                    <div class="col">
+                                      <select class="form-select form-select-sm x_form_select_sm_cstm" id="slcAlan" name="slcAlan">
+                                        <option value="0" selected="">Hiçbiri</option>
+                                        <optgroup label="4 YILLIK">
+                                          <option value="1">Adalet (4)</option>
+                                          <option value="2">Aile ve Tüketici Hizmetleri (4)</option>
+                                          <option value="3">Ayakkabı ve Saraciye Teknolojisi (4)</option>
+                                          <option value="4">Bahçecilik (4)</option>
+                                          <option value="5">Bilişim Teknolojileri (4)</option>
+                                          <option value="6">Biyomedikal Cihaz Teknolojileri (4)</option>
+                                          <option value="7">Büro Yönetimi (4)</option>
+                                          <option value="8">Çocuk Gelişimi ve Eğitimi (4)</option>
+                                          <option value="9">Denizcilik (4)</option>
+                                          <option value="10">Eğlence Hizmetleri (4)</option>
+                                          <option value="11">El Sanatları Teknolojisi (4)</option>
+                                          <option value="12">Elektrik-Elektronik Teknolojisi (4)</option>
+                                          <option value="13">Endüstriyel Otomasyon Tekn. (4)</option>
+                                          <option value="14">Gazetecilik (4)</option>
+                                          <option value="15">Gemi Yapımı (4)</option>
+                                          <option value="16">Gıda Teknolojisi (4)</option>
+                                          <option value="17">Giyim Üretim Teknolojisi (4)</option>
+                                          <option value="18">Grafik ve Fotoğraf (4)</option>
+                                          <option value="19">Güzellik ve Saç Bakım Hizmetleri (4)</option>
+                                          <option value="20">Halkla İlişkiler ve Org. Hiz. (4)</option>
+                                          <option value="21">Harita-Tapu-Kadastro (4)</option>
+                                          <option value="22">Hasta ve Yaşlı Hizmetleri (4)</option>
+                                          <option value="23">Hayvan Sağlığı (4)</option>
+                                          <option value="24">Hayvan Yetiştiriciliği (4)</option>
+                                          <option value="25">İnşaat Teknolojisi (4)</option>
+                                          <option value="26">İtfaiyecilik ve Yangın Güvenliği (4)</option>
+                                          <option value="27">Kimya/Kimya Teknolojisi (4)</option>
+                                          <option value="28">Konaklama ve Seyahat Hiz. (4)</option>
+                                          <option value="29">Kuyumculuk Teknolojisi (4)</option>
+                                          <option value="30">Laboratuvar Hizmetleri (4)</option>
+                                          <option value="31">Makine Teknolojisi (4)</option>
+                                          <option value="32">Matbaa (4)</option>
+                                          <option value="33">Metal Teknolojisi (4)</option>
+                                          <option value="34">Metalürji Teknolojisi (4)</option>
+                                          <option value="35">Meteoroloji (4)</option>
+                                          <option value="36">Mobilya ve İç Mekan Tasarımı (4)</option>
+                                          <option value="37">Motorlu Araçlar Teknolojisi (4)</option>
+                                          <option value="38">Muhasebe ve Finansman (4)</option>
+                                          <option value="39">Müzik Aletleri Yapımı</option>
+                                          <option value="40">Okulöncesi Öğr. (Uyg.Snf.V.) (4)</option>
+                                          <option value="41">Pazarlama ve Perakende (4)</option>
+                                          <option value="42">Plastik Teknolojisi (4)</option>
+                                          <option value="43">Radvo-Televizyon (4)</option>
+                                          <option value="44">Raylı Sistemler Teknolojisi (4)</option>
+                                          <option value="45">Sağlık (4)</option>
+                                          <option value="46">Sanat ve Tasarım (4)</option>
+                                          <option value="47">Seramik ve Cam Teknolojisi (4)</option>
+                                          <option value="48">Tarım Teknolojileri (4)</option>
+                                          <option value="49">Tasarım Teknolojileri (4)</option>
+                                          <option value="50">Tekstil Teknolojisi (4)</option>
+                                          <option value="51">Tesisat Tekn. ve İklimlendirme (4)</option>
+                                          <option value="52">Uçak Bakımı (4)</option>
+                                          <option value="53">Ulaştırma Hizmetleri (4)</option>
+                                          <option value="54">Yenilenebilir Enerji Teknolojileri (4)</option>
+                                          <option value="55">Yiyecek İçecek Hizmetleri (4)</option>
+                                        </optgroup>
+                                        <optgroup label="2 YILLIK">
+                                          <option value="56">Adalet (2)</option>
+                                          <option value="57">Aile ve Tüketici Hizmetleri (2)</option>
+                                          <option value="58">Ayakkabı ve Saraciye Teknolojisi (2)</option>
+                                          <option value="59">Bahçecilik (2)</option>
+                                          <option value="60">Bilişim Teknolojileri (2)</option>
+                                          <option value="61">Biyomedikal Cihaz Teknolojileri (2)</option>
+                                          <option value="62">Büro Yönetimi (2)</option>
+                                          <option value="63">Çocuk Gelişimi ve Eğitimi (2)</option>
+                                          <option value="64">Denizcilik (2)</option>
+                                          <option value="65">Eğlence Hizmetleri (2)</option>
+                                          <option value="66">El Sanatları Teknolojisi (2)</option>
+                                          <option value="67">Elektrik-Elektronik Teknolojisi (2)</option>
+                                          <option value="68">Endüstriyel Otomasyon Tekn. (2)</option>
+                                          <option value="69">Gazetecilik (2)</option>
+                                          <option value="70">Gemi Yapımı (2)</option>
+                                          <option value="71">Gıda Teknolojisi (2)</option>
+                                          <option value="72">Giyim Üretim Teknolojisi (2)</option>
+                                          <option value="73">Grafik ve Fotoğraf (2)</option>
+                                          <option value="74">Güzellik ve Saç Bakım Hizmetleri (2)</option>
+                                          <option value="75">Halkla İlişkiler ve Org. Hiz. (2)</option>
+                                          <option value="76">Harita-Tapu-Kadastro (2)</option>
+                                          <option value="77">Hasta ve Yaşlı Hizmetleri (2)</option>
+                                          <option value="78">Hayvan Sağlığı (2)</option>
+                                          <option value="79">Hayvan Yetiştiriciliği (2)</option>
+                                          <option value="80">İnşaat Teknolojisi (2)</option>
+                                          <option value="81">İtfaiyecilik ve Yangın Güvenliği (2)</option>
+                                          <option value="82">Kimya/Kimya Teknolojisi (2)</option>
+                                          <option value="83">Konaklama ve Seyahat Hiz. (2)</option>
+                                          <option value="84">Kuyumculuk Teknolojisi (2)</option>
+                                          <option value="85">Laboratuvar Hizmetleri (2)</option>
+                                          <option value="86">Makine Teknolojisi (2)</option>
+                                          <option value="87">Matbaa (2)</option>
+                                          <option value="88">Metal Teknolojisi (2)</option>
+                                          <option value="89">Metalürji Teknolojisi (2)</option>
+                                          <option value="90">Meteoroloji (2)</option>
+                                          <option value="91">Mobilya ve İç Mekan Tasarımı (2)</option>
+                                          <option value="92">Motorlu Araçlar Teknolojisi (2)</option>
+                                          <option value="93">Muhasebe ve Finansman (2)</option>
+                                          <option value="94">Müzik Aletleri Yapımı (2)</option>
+                                          <option value="95">Okulöncesi Öğr. (Uyg.Snf.V.) (2)</option>
+                                          <option value="96">Pazarlama ve Perakende (2)</option>
+                                          <option value="97">Plastik Teknolojisi (2)</option>
+                                          <option value="98">Radvo-Televizyon (2)</option>
+                                          <option value="99">Raylı Sistemler Teknolojisi (2)</option>
+                                          <option value="100">Sağlık (2)</option>
+                                          <option value="101">Sanat ve Tasarım (2)</option>
+                                          <option value="102">Seramik ve Cam Teknolojisi (2)</option>
+                                          <option value="103">Tarım Teknolojileri (2)</option>
+                                          <option value="104">Tasarım Teknolojileri (2)</option>
+                                          <option value="105">Tekstil Teknolojisi (2)</option>
+                                          <option value="106">Tesisat Tekn. ve İklimlendirme (2)</option>
+                                          <option value="107">Uçak Bakımı (2)</option>
+                                          <option value="108">Ulaştırma Hizmetleri (2)</option>
+                                          <option value="109">Yenilenebilir Enerji Teknolojileri (2)</option>
+                                          <option value="110">Yiyecek İçecek Hizmetleri (2)</option>
+                                        </optgroup>
+                                      </select>
+                                    </div>
+                                    
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="row x_row_col_1">
+                                <div class="col-5">&nbsp;&nbsp;&nbsp;<label class="control-label" for="fname">&nbsp;Belleticilik Görevi</label></div>
+                                <div class="col-7">
+                                  <div class="row x_row_col_2">
+                                    <div class="col-auto">
+                                      <label class="control-label x_style_colon" for="fname">:</label>
+                                    </div>
+                                    <div class="col">
+                                     <input type="checkbox" name="chkBelleticilikGorevi" id="chkBelleticilikGorevi" data-toggle="toggle" data-on="Var" data-off="Yok" data-onstyle="success" data-offstyle="danger" data-size="sm">
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
                           <div class="mb-3">
                               <label class="form-label required">Tabi olduğu Kanun</label>
                               <div>
