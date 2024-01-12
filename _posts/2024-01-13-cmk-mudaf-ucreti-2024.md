@@ -18,14 +18,18 @@ image:
 
 **CEZA MUHAKEMESİ KANUNU GEREĞİNCE GÖREVLENDİRİLEN MÜDAFİ VE VEKİLLERE YAPILACAK ÖDEMELERE  İLİŞKİN 2024 YILI TARİFESİ**
 <br>
+<br>
 **Amaç**
 **MADDE 1-** (1) Bu Tarifenin amacı, 4/12/2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu gereğince soruşturma ve kovuşturma makamlarının talebi üzerine görevlendirilen müdafi veya vekillere ödenecek meblağları belirlemektir.
+<br>
 <br>
 **Kapsam**
 **MADDE 2-** (1) Bu Tarife, Ceza Muhakemesi Kanunu gereğince görevlendirilen müdafi veya vekillerin yapacakları hukuki yardımlar için uygulanır.
 <br>
+<br>
 **Dayanak**
 **MADDE 3-** (1) Bu Tarife, 23/3/2005 tarihli ve 5320 sayılı Ceza Muhakemesi Kanununun Yürürlük ve Uygulama Şekli Hakkında Kanunun 13 üncü maddesi gereğince hazırlanmıştır.
+<br>
 <br>
 **Tarife**
 **MADDE 4-** 
@@ -44,6 +48,7 @@ image:
 <br>1) **Bölge adliye mahkemeleri**nde görülen duruşmalı davalar için 7.050,00 TL,
 <br>2) **Yargıtay**da görülen duruşmalı davalar için 7.937,00 TL,
 <br>ödenir.
+<br>
 <br>
 **Yürürlük**
 **MADDE 5-** (1) Bu Tarife 1/1/2024 tarihinden geçerli olmak üzere yayımı tarihinde yürürlüğe girer.
