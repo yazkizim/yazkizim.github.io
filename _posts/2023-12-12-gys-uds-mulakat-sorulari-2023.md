@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-11 21:32:00 +0300
+last_modified_at: 2024-01-15 23:32:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1769,6 +1769,70 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 
 **1736- Ekran kartında TDP ne ifade eder?**
 <br>Ekran kartlarındaki TDP aslında işlemcilerin TDP derecelendirmesinden biraz farklı. CPU’larda TDP kısaltması Thermal Design Power (Termal Tasarım Gücü) anlamına gelirken, grafik kartlarında aslında Thermal Design Parameter (Termal Tasarım Parametresi) anlamına gelir. Bu, GPU’nun güç çekimini manuel olarak ölçmeden şu anda sahip olduğumuz gerçek GPU gücünün en yakın ölçüsüdür.
+
+**1737- TBMM Komisyonları kimlerden oluşur?**
+<br>Katip üyeler ve İdari Amirler
+
+**1738- İdari Yargıda Dilekler nerelere verilir?**
+<br>Danıştay veya ilgili Mahkeme Başkanlıklarına yada buralara gönderilmek üzere İdare ve Vergi Mahkemesi Başkanlıklarına, buylunmayan yerlerde asliye hukuk hakimliklerine, yabancı memleketlerde Türk Konsolosluklarına
+
+**1739- 2007 yılında Birleşmiş Milletler tarafından 15 Eylül günü ne olarak ilan edilmiştir?**
+<br>Uluslararası Demokrasi Günü
+
+**1740- Asliye Ceza Mahkemesinin görevleri nelerdir?**
+<br>5235 Sayılı Kanun 12. Maddesi çerçevesinde 10 yıl ya da daha az hapis cezası gerektiren dava ve işlere asliye ceza mahkemesi bakmakla görevlidir.
+<br>
+<br>Adli Yargı İlk Derece Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkındaki Kanun’un 11. Maddesinde “Kanunların ayrıca görevli kıldığı hâller saklı kalmak üzere, sulh ceza hâkimliği ve ağır ceza mahkemelerinin görevleri dışında kalan dava ve işlere asliye ceza mahkemelerince bakılır.” ifadesine yer verilmiştir.
+
+**1741- Ctrl Y tuşu ne işe yarar?**
+<br>İleri Al (Ctrl Z’nin tersi)
+
+**1742- Osmanlıda uygulanan kalebentlik cezası?**
+<br>suçluların surlarla çevrili kaleden dışarı çıkmamaları sebebiyle hem hapis hem de kendi memle ketlerinden uzak şehirlerin kalelerinde bulunmaları yönüyle de bir çeşit sürgün cezasıdır. Kalebendlik cezası, sürgün cezasına göre daha ağır bir ceza olarak kabul edilir.
+
+**1743- Endülüs emevi devletini fetheden komutan?**
+<br>Tarık Bin Ziyad, Vizigot kralı Rodrigo'yu yenilgiye uğratınca krallık yıkıldı ve İber Yarımadası'nın güney kısımları kısa bir süre içinde Müslümanların eline geçti.
+
+**1744- Sınırları içinde sıcak cöllerin bulunmadığı kıta hangisidir?**
+<br>Antartika
+
+**1745-Türkiye'de en son volkanik aktivitenin olduğu dağ?**
+<br>Hasan Dağı, Aksaray
+
+**1746- Yüzyilin Adamı olarak seçilen beyin cerrahi  Türk bilim adamı?**
+<br>Gazi Yaşargil, geçen yıllar içerisinde tüm dünyanın tanıdığı bir isim hâline gelmiştir. Yürüttüğü başarılı çalışmaları ile tıp dünyasında çığır açan Prof. Dr. Gazi Yaşargil, Amerika Birleşik Devletleri'nde Nöroşirürji alanında "Yüzyılın Adamı" seçilmiştir.
+
+**1747- Anıtkabir'in yapımındaki mimarlar?**
+<br>Emin Onat ile Orhan Arda
+
+**1748- Hakimin Çekinme nedenleri?**
+<br>Hakimin reddi, diğer bir deyişle reddi hakim; hakimin tarafsızlığını şüpheye düşürecek nedenlerin veya davaya bakamayacağı ve yargılamaya katılamayacağı hallerin varlığı halinde taraflarca reddedilmesidir (CMK m.24).
+<br>Hakimin çekinmesi; hakimin davaya bakamayacağı ve yargılamaya katılamayacağı haller (görev yasağı, yasaklılık hali) ile tarafsızlığını şüpheye düşürecek sebeplerin varlığı halinde kendiliğinden davaya bakmaktan çekinmesidir. (CMK m.30).
+
+**1749- Medeni kanuna göre kısıtlılık halleri?**
+<br>Kısıtlama sebepleri TMK m. 432'de sınırlı olarak sayılmış olup, bunlar akıl hastalığı, akıl zayıflığı, alkol veya uyuşturucu madde bağımlılığı, ağır ve tehlike arzeden bulaşıcı hastalık veya serseriliktir.
+
+**1750- Han duvarları şiirinin yazarı kimdir?**
+<br>Faruk Nafiz Çamlıbel
+
+**1751- DDK başkan ve üyelerini kim atar?**
+<br>Kurul Başkanı ve üyeleri, yükseköğrenimlerini bitirdikten sonra en az on iki yıl devlet hizmetinde başarıyla çalışmış ve temayüz etmiş olan kimseler arasından Cumhurbaşkanınca atanır.
+
+**1752- Sözleşmeli personelin tayini kaç yıl sonra olur?**
+<br>3+1 yılını doldurduktan sonra
+
+**1753- İdari davalarda tebligat duruşmadan kaç gün önce gönderilir?**
+<br>2577 sayılı İdari Yargılama Usulü Kanununun 17. maddesinin 5. bendinde, duruşma davetiyelerinin duruşma gününden en az otuz gün önce taraflara gönderilir
+
+**1754- bölge adliye mahkemelerindeki ceza ve hukuk dairelerinin ön büro personeli görevleri nedir?**
+<br>**a**) Cumhuriyet başsavcılığında bulunan dosyalarda; mağdur, şikâyetçi, suçtan zarar gören ve vekilleri ile sanık ve müdafiin talebi hâlinde dosya kapak bilgisi, belge ve karar örneğini kimlik tespiti yaparak vermek.
+<br>**b**) Cumhuriyet başsavcılığında bulunan dosyalarda; dosya kapak bilgisi, belge ve karar örneği talep eden kişinin dosyadaki sıfatı hususunda tereddüt oluşması hâlinde, talep konusunda karar vermek üzere Cumhuriyet savcısını bilgilendirerek talimatı doğrultusunda gereğini yapmak.
+<br>**c**) Cumhuriyet başsavcılığında bulunan dosyalara ibraz edilen dilekçe, belge ya da diğer evrakı kimlik tespiti yaparak teslim alıp, ikinci fıkranın (a), (b), (c) ve (ç) bentlerinde belirtilen işlemleri yapmak, ayrıca tutuklu dosyalarda derhâl ilgili Cumhuriyet savcısını bilgilendirmek.
+<br>**ç**) Başka yer Cumhuriyet başsavcılığı veya diğer mercilere gönderilmesi talebiyle verilen dilekçe, belge ya da diğer evrakı kimlik tespiti yaparak teslim alıp ikinci fıkranın (a), (b) ve (ç) bentlerinde belirtilen işlemleri yapmak ve muhabere bürosunun iş listesine yönlendirmek.
+<br>**d**) PTT ve kargo aracılığıyla gelen evrak hariç olmak üzere, Cumhuriyet başsavcılığına gelen evrakı teslim alarak ikinci fıkranın (a), (b), (c) ve (ç) bentlerinde belirtilen işlemleri yapmak.
+<br>**e**) Fezlekeli evrak hariç olmak üzere, adlî kolluktan gelen evrakı teslim alarak ikinci fıkranın (a), (c) ve (ç) bentlerinde belirtilen işlemleri yapmak.
+<br>**f**) Hakkında yakalama kararı veya infaz evrakı bulunan kişileri kolluk marifetiyle ilgili büroya yönlendirmek.
+<br>**g**) SMS aracılığıyla hakkındaki kovuşturma işlemlerinden bilgi almak isteyenleri UYAP SMS abonesi yapmak.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
