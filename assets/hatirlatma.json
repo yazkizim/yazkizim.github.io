@@ -3296,8 +3296,8 @@
         "cevap": "Memurdan daha üst veya memura eşit bir görevde bulunması zorunludur."
     },
     {
-        "soru": "FETHİ OKYAR’IN KURDUĞU PARTİ ADI NEDİR?",
-        "cevap": "Cumhuriyet Halk Partisi"
+        "soru": "FETHİ OKYAR’IN KURDUĞU (Atatürk’ün isteğiyle) PARTİ ADI NEDİR?",
+        "cevap": "Serbest Cumhuriyet Fırkası"
     },
     {
         "soru": "EBYS AÇILIMI NEDİR?",
@@ -4121,7 +4121,7 @@
     },
     {
         "soru": "SORUŞTURMA AŞAMASINDA EN ÇOK KAÇ MÜDAFİ BULUNABİLİR?",
-        "cevap": "Soruşturma veya kovuşturmanın her aşamasında şüpheli veya sanık, en fazla 3 avukat ile sınırlıdır."
+        "cevap": "Soruşturma veya kovuşturmanın her aşamasında şüpheli veya sanık bir veya birden fazla müdafinin hukuki yardımından yararlanabilir (CMK 149/1). Ancak, müdafi sayısı soruşturma evresindeki ifade alma sırasında en çok 3 avukat ile sınırlandırılmıştır. Kovuşturma evresi bakımından genel olarak bir kısıtlama yoktur."
     },
     {
         "soru": "ASPENDOS ANTİK TİYATROSU NEREDEDİR?",
@@ -5228,7 +5228,7 @@
       },
       {
         "soru": "NATO'ya en son hangi ülke katılmıştır?",
-        "cevap": "NATO'ya en son 27 Mart 2020'de Kuzey Makedonya katılmıştır."
+        "cevap": "4 Nisan 2023 - Finlandiya"
       },
       {
         "soru": "2022 AB Dönem Başkanları kimlerdir ve AB dönem başkanlıkları ne kadar sürer?",
