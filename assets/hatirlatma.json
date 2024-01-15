@@ -9349,7 +9349,78 @@
           {
             "soru": "Ekran kartında TDP ne ifade eder?",
             "cevap": "Ekran kartlarındaki TDP aslında işlemcilerin TDP derecelendirmesinden biraz farklı. CPU’larda TDP kısaltması Thermal Design Power (Termal Tasarım Gücü) anlamına gelirken, grafik kartlarında aslında Thermal Design Parameter (Termal Tasarım Parametresi) anlamına gelir. Bu, GPU’nun güç çekimini manuel olarak ölçmeden şu anda sahip olduğumuz gerçek GPU gücünün en yakın ölçüsüdür."
+          },
+          {
+            "soru": "TBMM Komisyonları kimlerden oluşur?",
+            "cevap": "Katip üyeler ve İdari Amirler"
+          },
+          {
+            "soru": "İdari Yargıda Dilekler nerelere verilir?",
+            "cevap": "Danıştay veya ilgili Mahkeme Başkanlıklarına yada buralara gönderilmek üzere İdare ve Vergi Mahkemesi Başkanlıklarına, buylunmayan yerlerde asliye hukuk hakimliklerine, yabancı memleketlerde Türk Konsolosluklarına"
+          },
+          {
+            "soru": "2007 yılında Birleşmiş Milletler tarafından 15 Eylül günü ne olarak ilan edilmiştir?",
+            "cevap": "Uluslararası Demokrasi Günü"
+          },
+          {
+            "soru": "Asliye Ceza Mahkemesinin görevleri nelerdir?",
+            "cevap": "5235 Sayılı Kanun 12. Maddesi çerçevesinde 10 yıl ya da daha az hapis cezası gerektiren dava ve işlere asliye ceza mahkemesi bakmakla görevlidir."
+          },
+          {
+            "soru": "Ctrl Y tuşu ne işe yarar?",
+            "cevap": "İleri Al (Ctrl Z’nin tersi)"
+          },
+          {
+            "soru": "Osmanlı'da uygulanan kalebentlik cezası nedir?",
+            "cevap": "Suçluların surlarla çevrili kaleden dışarı çıkmamaları sebebiyle hem hapis hem de kendi memleketlerinden uzak şehirlerin kalelerinde bulunmaları yönüyle bir çeşit sürgün cezasıdır."
+          },
+          {
+            "soru": "Endülüs emevi devletini fetheden komutan kimdir?",
+            "cevap": "Tarık Bin Ziyad"
+          },
+          {
+            "soru": "Sınırları içinde sıcak çöllerin bulunmadığı kıta hangisidir?",
+            "cevap": "Antartika"
+          },
+          {
+            "soru": "Türkiye'de en son volkanik aktivitenin olduğu dağ nedir?",
+            "cevap": "Hasan Dağı, Aksaray"
+          },
+          {
+            "soru": "Yüzyılın Adamı olarak seçilen beyin cerrahi Türk bilim adamı kimdir?",
+            "cevap": "Gazi Yaşargil"
+          },
+          {
+            "soru": "Anıtkabir'in yapımındaki mimarlar kimlerdir?",
+            "cevap": "Emin Onat ile Orhan Arda"
+          },
+          {
+            "soru": "Hakimin Çekinme nedenleri nelerdir?",
+            "cevap": "Hakimin tarafsızlığını şüpheye düşürecek nedenlerin veya davaya bakamayacağı ve yargılamaya katılamayacağı hallerin varlığı halinde taraflarca reddedilmesi (CMK m.24). Hakimin çekinmesi; hakimin davaya bakamayacağı ve yargılamaya katılamayacağı haller (görev yasağı, yasaklılık hali) ile tarafsızlığını şüpheye düşürecek sebeplerin varlığı halinde kendiliğinden davaya bakmaktan çekinmesidir (CMK m.30)."
+          },
+          {
+            "soru": "Medeni kanuna göre kısıtlılık halleri nelerdir?",
+            "cevap": "Akıl hastalığı, akıl zayıflığı, alkol veya uyuşturucu madde bağımlılığı, ağır ve tehlike arzeden bulaşıcı hastalık veya serserilik"
+          },
+          {
+            "soru": "Han duvarları şiirinin yazarı kimdir?",
+            "cevap": "Faruk Nafiz Çamlıbel"
+          },
+          {
+            "soru": "DDK başkan ve üyelerini kim atar?",
+            "cevap": "Cumhurbaşkanı"
+          },
+          {
+            "soru": "Sözleşmeli personelin tayini kaç yıl sonra olur?",
+            "cevap": "3+1 yılını doldurduktan sonra"
+          },
+          {
+            "soru": "İdari davalarda tebligat duruşmadan kaç gün önce gönderilir?",
+            "cevap": "Duruşma davetiyeleri duruşma gününden en az otuz gün önce taraflara gönderilir (2577 sayılı İdari Yargılama Usulü Kanunu 17. maddesi 5. bendi)."
+          },
+          {
+            "soru": "Bölge adliye mahkemelerindeki ceza ve hukuk dairelerinin ön büro personeli görevleri nelerdir?",
+            "cevap": "a) Dosya kapak bilgisi, belge ve karar örneği verme; b) Dosyadaki sıfatı hususunda tereddüt oluşması hâlinde karar verme; c) Dilekçe, belge veya diğer evrakı teslim alma ve ilgili işlemleri yapma; ç) İbraz edilen dilekçe, belge veya diğer evrakı teslim alma, işleme koyma ve muhabere bürosuna yönlendirme; d) PTT ve kargo ile gelen evrakı teslim alma ve işleme koyma; e) Adlî kolluktan gelen evrakı teslim alma ve işleme koyma; f) Hakkında yakalama kararı veya infaz evrakı bulunan kişileri kolluk marifetiyle ilgili büroya yönlendirme; g) SMS aracılığıyla kovuşturma işlemlerinden bilgi almak isteyenleri UYAP SMS abonesi yapma."
           }
-
           
 ]
