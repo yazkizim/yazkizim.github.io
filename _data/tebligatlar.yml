@@ -1,9 +1,14 @@
 ---
 tebligat:
   - 
+      adi: uteb19
+      adet: gteb19
+      label: 22/01/2024-halen
+      gider: 120
+  - 
       adi: uteb18
       adet: gteb18
-      label: 01/08/2023-halen
+      label: 01/08/2023-21/01/2024
       gider: 87
   - 
       adi: uteb17
@@ -15,6 +20,7 @@ tebligat:
       adet: gteb16
       label: 15/08/2022-31/01/2023
       gider: 42
+eskitebligat:
   - 
       adi: uteb15
       adet: gteb15
@@ -25,8 +31,6 @@ tebligat:
       adet: gteb14
       label: 01/10/2021-06/02/2022
       gider: 26
-
-eskitebligat:
   - 
       adi: uteb13
       adet: gteb13
