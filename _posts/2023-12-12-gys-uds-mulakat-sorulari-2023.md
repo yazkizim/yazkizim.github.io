@@ -2,7 +2,7 @@
 title: 2023 GYS & UDS Mülakat Soruları Güncel 
 author: gokhantasci
 date: 2023-12-11 09:00:00 +0300
-last_modified_at: 2024-01-15 23:32:00 +0300
+last_modified_at: 2024-01-17 23:01:00 +0300
 categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
@@ -1833,6 +1833,60 @@ Mağdur ile şikâyetçinin hakları şunlardır:
 <br>**e**) Fezlekeli evrak hariç olmak üzere, adlî kolluktan gelen evrakı teslim alarak ikinci fıkranın (a), (c) ve (ç) bentlerinde belirtilen işlemleri yapmak.
 <br>**f**) Hakkında yakalama kararı veya infaz evrakı bulunan kişileri kolluk marifetiyle ilgili büroya yönlendirmek.
 <br>**g**) SMS aracılığıyla hakkındaki kovuşturma işlemlerinden bilgi almak isteyenleri UYAP SMS abonesi yapmak.
+
+**1755- Mahkemeler arası görev uyuşmazlığında yetkili mahkemeyi kim belirler?**
+<br>Birkaç hakim veya mahkeme arasında olumlu veya olumsuz yetki uyuşmazlığı çıkarsa, ortak yüksek görevli mahkeme, yetkili hakim veya mahkemeyi belirler
+
+**1756- Enlem nedir ve kuzeyden güneye enlem etkisi nelerdir?**
+<br>Enlem, Ekvator'un kuzeyindeki veya güneyindeki herhangi bir noktanın Ekvator'a olan açısal mesafesi. Enlemler, kuzey ve güney enlemleri olmak üzere ikiye ayrılırlar; derece, dakika ve saniye cinsinden ifade edilirler.
+<br>Enlem etkisine bağlı olarak gündeyden(Hatay) kuzeye(Sinop) doğru:
+<br>Güneş ışınlarının geliş açısı küçülür: Enlem etkisine bağlı olarak ekvator çevresi güneş ışınlarını daha büyük bir açı ile alır. Kutuplara doğru gidildikçe geliş açısı küçülür. Türkiye'de ise Hatay'dan Sinop'a güneşin geliş açısı küçülür.
+<br>Sıcaklık değeri azalır: Güneş ışınları geliş açıs küçüldüğü için buna bağlı kutuplara doğru sıcaklıkta düşer.
+<br>Güneş ışınlarının tutulma oranı artar.
+<br>Buharlaşma azalır: Güneş ışınlarının geliş açısı azalacağı için sıcaklık düşmesine bağlı buharlaşma da daha az olur.
+<br>Denizlerin tuzluluk oranı azalır: Kuzeye doğru sıcaklık azalır. Karadeniz'de Akdeniz'e göre daha az buharlaşma olacağı için tuz oranı daha az olur.
+
+**1757- Takiyüddin Mehmet kimdir?**
+<br>Osmanlı biliminin öncülerinden olan Takîyüddîn (1521-1585) matematik, astronomi, fizik, optik, mekanik ve tıp konularında pek çok yapıt kaleme almış çok yönlü bir bilim insanıdır. Bilim tarihinde dikkat çeken diğer bir başarısı ise İstanbul Gözlemevi'ni kurmasıdır.
+
+**1758- Adıllar nedir kaça ayrılır?**
+<br>Adların, ad öbeklerinin, bazen de cümlelerin yerini tutan ve ad gibi kullanılan sözcüklere adıl ( zamir ) denir. Adıllar, yerlerini tuttukları varlıklara ve tutuş özelliklerine göre beşe ayrılır: Kişi adılları, işaret (im) adılları, belgisiz adıllar, soru adılları, ilgi adılları.
+
+**1759- İslam İşbirliği Örgütü nedir?**
+<br>İslam İşbirliği Teşkilatı, Eylül 1969 tarihinde Fas'ın başkenti Rabat'ta toplanıp İslam ülkelerini çatısı altında toplamak üzere kurulan 57 üyeye sahip, uluslararası hukuk tüzel kişiliğini haiz bir uluslararası teşkilattır.
+
+**1760- Fuzûlî'nin maaşını alanayınca yazdığı eseri?**
+<br>Şikâyetnâme
+
+**1761- avukatın vekalenamesi olmadan hangi hallerde dava açabilir?**
+<br>Vekâletnamesinin aslını veya onaylı örneğini vermeyen avukat, dava açamaz ve yargılamayla ilgili hiçbir işlem yapamaz. Şu kadar ki, gecikmesinde zarar doğabilecek hâllerde mahkeme, vereceği kesin süre içinde vekâletnamesini getirmek koşuluyla avukatın dava açmasına veya usul işlemlerini yapmasına izin verebilir.
+
+**1762- 01 ve 81 plakaları hangi illere aittir?**
+<br>Adana, Düzce
+
+**1763- İslam dunyasinda hiç savas kaybetmeyen komutan  kimdir?**
+<br>Halid Bin Velid (ra) - Allah'ın Kılıcı Hiç Savaş Kaybetmeyen Komutan
+
+**1764- kyoto protokolu nedir?**
+<br>Kyoto Protokolü, küresel ısınma ve iklim değişikliği konusunda mücadeleyi sağlamaya yönelik uluslararası tek çerçeve. Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi içinde imzalanmıştır.
+
+**1765- amerikan mandasını savunan cemiyet?**
+<br>Wilson Prensipleri Cemiyeti
+
+**1766- Sabahattin Ali hangi cezaevinde yatti?**
+<br>Sinop Cezaevi
+
+**1767- ikta sistemini ilk kullanan devlet?**
+<br>Askeri iktayı ilk düzenleyenin Büyük Selçuklu Devleti'nin ünlü veziri Nizam-ül Mülk olduğu kabul edilir.
+
+**1768- Tahkimat nedir?**
+<br>Tahkimat, Arapça kökenli bir sözcük olan tahkimin çoğul halidir. Bu kelime geçmiş yıllarda sadece askeri bir terim olarak kullanılmaktaydı. Günümüzde ise daha çok bir şeyi ya da bir yeri çok daha sağlam ve güvenli hale getirmek anlamında kullanılır.
+
+**1769- Endüstri 4.0 nedir?**
+<br>4. Endüstri Devrimi ya da 4. Sanayi Devrimi terimi ilk olarak 2011 yılında Almanya Hannover Fuarı'nda kullanıldı. Ekim 2012 yılında ise Robert Bosch GmbH ve Henning Kagermann çalışma grubu oluşturarak hazırladıkları 4. Sanayi Devrimi öneri dosyasını Alman Federal Hükûmeti'ne sunmuştur.
+
+**1770- İlk Osmanlı Banknot’u kim tarafında hangi isimle basılmıştır?**
+<br>Abdülmecit tarafından 1840 yılında " Kaime-ı Nakdiye-ı Mutebere " adıyla, bugünkü dille "Para Yerine Geçen Kâğıt", bir anlamda para olmaktan çok faiz getirili borç senedi veya hazine bonosu niteliğinde olmak üzere çıkarılmıştır.
 
 
 Mülakat sonrası size sorulan soruları aşağıda yorum olarak paylaşmanız halinde diğer adayların faydalanması için bir bütün olarak toplanıp, ayrıca paylaşılıp hatırlatma kartlarına eklenecektir. 
