@@ -6,7 +6,7 @@ categories: [Tarifeler, CMK Müdafi Ücret Tarifesi]
 tags: [asgari ücret, '2024', tarife, adliyeci]
 keywords: cmk ücret tarifesi, müdafi ücret tarifesi, 2024, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
-pin: true
+pin: false
 comments: true
 image:
   path: /posts/resmigazete.png
