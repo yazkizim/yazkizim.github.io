@@ -6,6 +6,7 @@ categories: [Hesaplamalar, Maaş Robotu]
 tags: [enflasyon farkı, Ağustos, adliyeci]
 keywords: enflasyon, enflasyon farkı, Ağustos, maaş, 2023, adliyeci
 render_with_liquid: false
+redirect_to:  https://657.com.tr/posts/katip-maasi/
 pin: false
 comments: false
 image:
