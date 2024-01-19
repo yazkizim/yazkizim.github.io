@@ -2,6 +2,7 @@
 title: İstinaf/Temyiz Harcı Hesaplama
 keywords: temyiz harcı hesaplama, istinaf harcı hesaplama, istinaf başvuru harcı hesaplama, temyiz başvuru harcı hesaplama, cismani zarar harç hesaplama, istinaf harcı hesaplama programı, temyiz harcı hesaplama programı, temyiz harci hesaplama, istinaf başvuru harcı, temyiz başvuru harcı
 permalink: /istinafharci/
+redirect_to:  https://657.com.tr/istinafharci/
 layout: gokhan
 comments: true
 addcoments: true
