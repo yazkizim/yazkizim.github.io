@@ -6,7 +6,7 @@ categories: [Haber, '2024']
 tags: [ptt tebligat, '2024', tarife, adliyeci]
 keywords:  2024, maaş, adliyeci, Adalet Bakanlığı
 render_with_liquid: false
-redirect:  https://657.com.tr/posts/ptt-tebligat-ucretleri/
+redirect_to:  https://657.com.tr/posts/ptt-tebligat-ucretleri/
 pin: true
 comments: true
 image:
