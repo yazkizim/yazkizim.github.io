@@ -6,6 +6,7 @@ categories: [Maaşlar, 2023 İnfaz ve Koruma Memuru Maaşları]
 tags: [Adalet Bakanlığı, İnfaz ve Koruma Memuru Maaşları, gardiyan maaşı]
 keywords: İnfaz ve Koruma Memuru Maaşı 2023, Adalet Bakanlığı, İnfaz ve Koruma Memuru Maaşı, en düşük İnfaz ve Koruma Memuru Maaşı, sözleşmeli İnfaz ve Koruma Memuru Maaşı, sözleşmeli İnfaz ve Koruma Memuru Maaşı, Yargıtay, İnfaz ve Koruma Memuru Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, İnfaz ve Koruma Memuru ne iş yapar?, gardiyan ne iş yapar, gardiyan maaşı 2023
 render_with_liquid: false
+redirect_to:  https://657.com.tr/posts/infaz-koruma-memuru-gardiyan-2024-ocak/
 pin: false
 comments: false
 image:
