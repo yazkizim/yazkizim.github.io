@@ -7,6 +7,7 @@ categories: [Sınav, '2023']
 tags: [Adalet Bakanlığı, adliye, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı]
 keywords: Adalet, Adalet Bakanlığı, adliyeci, görevde yükselme sınavı, ünvanda yükselme sınavı, itiraz, Yazı İşleri Müdürü, İdari İşler Müdürü
 render_with_liquid: false
+redirect_to:  https://657.com.tr/posts/gys-uds-mulakat-sorulari-2023/
 pin: true
 comments: true
 image:
