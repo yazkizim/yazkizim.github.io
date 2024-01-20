@@ -7,7 +7,6 @@ categories: [Maaşlar, Zabt Katibi Maaşları]
 tags: [Adalet Bakanlığı, adliyeci, 2024 Katip Maaşları]
 keywords: Katip Maaşı 2024, Adalet Bakanlığı, Zabıt Katibi Maaşı, en düşük Zabıt Katibi Maaşı, sözleşmeli katip maaşı, sözleşmeli Zabıt Katibi Maaşı, Yargıtay, Zabıt Katibi Alımı Ne Zaman, katip nedir?, katip nasıl olunur, katiplik şartları, Zabıt Katibi ne iş yapar?
 render_with_liquid: false
-redirect_to:  https://657.com.tr/posts/katip-maasi/
 pin: false
 comments: false
 image:
