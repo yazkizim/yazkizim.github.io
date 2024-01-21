@@ -27,7 +27,7 @@ description: >- # used by seo meta and the atom feed
  Küçük, hızlı, güncel, adliye personelinin gündelik rehberi, katip maaşı, harç hesabı, adliye personeli, adalet bakanlığı, adliyeci.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://yazkizim.github.io"
+url: "https://eski.657.com.tr"
 
 
 github:
@@ -87,10 +87,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://yazkizim.github.io/assets/"
+img_cdn: "https://eski.657.com.tr/assets/"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://yazkizim.github.io/assets/img/logo.png"
+avatar: "https://eski.657.com.tr/assets/img/logo.png"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
