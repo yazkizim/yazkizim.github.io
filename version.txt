@@ -1,1 +1,1 @@
-1005=http://yazkizim.github.io/YargilamaGideri.exe
+1005=https://yazkizim.github.io/YargilamaGideri.exe
